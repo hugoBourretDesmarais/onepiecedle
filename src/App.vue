@@ -127,6 +127,14 @@ function submitGuess(char) {
   if (isDaily) persistDaily()
 }
 
+// Opens a practice round for you, drawn from the same set the answer comes from.
+function randomStarter() {
+  const src = practicePool.value.length ? practicePool.value : pool.value
+  const candidates = src.filter(c => !guessedNames.value.has(c.name))
+  if (!candidates.length) return
+  submitGuess(candidates[randomIndex(candidates.length)])
+}
+
 function newPractice() {
   const src = practicePool.value.length ? practicePool.value : pool.value
   practice.answer = src[randomIndex(src.length)]
@@ -240,6 +248,12 @@ const base = import.meta.env.BASE_URL
         <GuessInput
           v-if="!game.won" :characters="pool" :guessed="guessedNames"
           @guess="submitGuess" />
+
+        <button
+          v-if="mode === 'practice' && !game.won && !game.guesses.length"
+          class="starter-btn" @click="randomStarter">
+          🎯 Random starting character
+        </button>
 
         <section v-if="game.guesses.length" class="grid-wrap">
           <div class="grid">
@@ -405,6 +419,18 @@ const base = import.meta.env.BASE_URL
   font-size: 13px;
   color: var(--brown);
 }
+
+.starter-btn {
+  border: 2px solid var(--tan);
+  background: var(--parchment);
+  color: var(--brown-dark);
+  font-weight: 700;
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 9px 16px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}
+.starter-btn:hover { background: var(--parchment-dark); }
 .pool-hint { opacity: .8; }
 
 .tool-on {
