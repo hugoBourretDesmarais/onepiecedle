@@ -1,5 +1,6 @@
 <script setup>
 import { displayName } from '../game/compare.js'
+import { fitMetrics, fontsReady } from '../game/textfit.js'
 
 const props = defineProps({
   guess: { type: Object, required: true },
@@ -15,12 +16,15 @@ function cellClass(key) {
   return [c.result, { animate: props.guess.animate }]
 }
 
-function textSize(text) {
-  const len = String(text ?? '').length
-  if (len <= 6) return 'lg'
-  if (len <= 12) return 'md'
-  if (len <= 20) return 'sm'
-  return 'xs'
+// Size each label so its longest word fits the tile on one line, and so the
+// stacked words still fit the tile's height.
+function fitStyle(text) {
+  void fontsReady.value // re-evaluate once the webfont's real metrics land
+  const { widest, lines } = fitMetrics(text)
+  return {
+    '--fit-w': widest.toFixed(3),
+    '--fit-l': (lines * 1.15).toFixed(3),
+  }
 }
 </script>
 
@@ -44,7 +48,7 @@ function textSize(text) {
       <template v-else>
         <span v-if="guess.cells[key].arrow === 'up'" class="arrow" aria-hidden="true">▲</span>
         <span v-if="guess.cells[key].arrow === 'down'" class="arrow" aria-hidden="true">▼</span>
-        <span class="txt" :class="textSize(guess.cells[key].text)">{{ guess.cells[key].text }}</span>
+        <span class="txt" :style="fitStyle(guess.cells[key].text)">{{ guess.cells[key].text }}</span>
       </template>
     </div>
   </div>
@@ -61,7 +65,7 @@ function textSize(text) {
   width: var(--tile-size);
   height: var(--tile-size);
   border-radius: 8px;
-  border: 2px solid rgba(0, 0, 0, 0.25);
+  border: var(--tile-border) solid rgba(0, 0, 0, 0.25);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -69,7 +73,7 @@ function textSize(text) {
   color: #fff;
   font-weight: 700;
   overflow: hidden;
-  padding: 3px;
+  padding: var(--tile-pad);
 }
 .tile.exact { background: var(--green); }
 .tile.partial { background: var(--yellow); }
@@ -95,15 +99,16 @@ function textSize(text) {
 .txt {
   position: relative;
   z-index: 1;
-  line-height: 1.08;
+  line-height: 1.1;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
-  overflow-wrap: anywhere;
-  hyphens: auto;
+  /* break-word only splits a word that cannot fit on a line of its own */
+  overflow-wrap: break-word;
+  font-size: max(6px, min(
+    calc(var(--tile-size) * 0.26),
+    calc((var(--tile-size) - var(--tile-inset)) / var(--fit-w, 3)),
+    calc((var(--tile-size) - var(--tile-inset)) / var(--fit-l, 1.15))
+  ));
 }
-.txt.lg { font-size: clamp(9px, calc(var(--tile-size) * 0.24), 19px); }
-.txt.md { font-size: clamp(8px, calc(var(--tile-size) * 0.19), 14px); }
-.txt.sm { font-size: clamp(7px, calc(var(--tile-size) * 0.16), 12px); }
-.txt.xs { font-size: clamp(6px, calc(var(--tile-size) * 0.14), 10px); }
 
 .arrow {
   position: absolute;

@@ -12,6 +12,10 @@
   --ink: #3c2f1d;
   --tile-size: 76px;
   --tile-gap: 6px;
+  --tile-border: 2px;
+  --tile-pad: 3px;
+  /* horizontal space a tile loses to its own border and padding */
+  --tile-inset: 10px;
 }
 
 * { box-sizing: border-box; }
@@ -117,6 +121,9 @@ button { font-family: inherit; cursor: pointer; }
   :root {
     --tile-gap: 3px;
     --tile-size: min(64px, calc((100vw - 50px) / 9));
+    --tile-border: 1px;
+    --tile-pad: 1px;
+    --tile-inset: 4px;
   }
   #app { padding: 12px 8px 48px; }
 }
