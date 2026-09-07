@@ -13,13 +13,16 @@ import WinPanel from './components/WinPanel.vue'
 import HelpModal from './components/HelpModal.vue'
 import StatsModal from './components/StatsModal.vue'
 import CluesPanel from './components/CluesPanel.vue'
+import GalleryPanel from './components/GalleryPanel.vue'
+import CharacterModal from './components/CharacterModal.vue'
 
 const arcOrder = arcs.map(a => a.name)
 const byName = new Map(characters.map(c => [c.name, c]))
 
-const mode = ref('daily') // 'daily' | 'practice'
+const mode = ref('daily') // 'daily' | 'practice' | 'gallery'
 const showHelp = ref(false)
 const showStats = ref(false)
+const galleryPick = ref(null)
 const streak = ref(currentStreak())
 
 const daily = reactive({
@@ -37,7 +40,7 @@ const practice = reactive({
 
 const yesterdayAnswer = characters[dailyIndex(characters.length, localDateString(-1))]
 
-const game = computed(() => (mode.value === 'daily' ? daily : practice))
+const game = computed(() => (mode.value === 'practice' ? practice : daily))
 const guessedNames = computed(() => new Set(game.value.guesses.map(g => g.char.name)))
 
 function restoreDaily() {
@@ -123,6 +126,10 @@ const base = import.meta.env.BASE_URL
           <span class="mode-ico">🎲</span>
           <span v-if="practice.won" class="mode-check">✔</span>
         </button>
+        <button class="mode-btn" :class="{ active: mode === 'gallery' }" title="Character gallery"
+          @click="mode = 'gallery'">
+          <span class="mode-ico">📖</span>
+        </button>
       </div>
 
       <div class="toolbar panel">
@@ -134,37 +141,50 @@ const base = import.meta.env.BASE_URL
     </header>
 
     <main class="game">
-      <section class="panel intro">
-        <h2 v-if="mode === 'daily'">GUESS TODAY'S ONE PIECE CHARACTER!</h2>
-        <h2 v-else>PRACTICE MODE — GUESS THE CHARACTER!</h2>
-        <CluesPanel :answer="game.answer" :tries="game.guesses.length" :won="game.won" />
-        <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
-          🎲 New character
-        </button>
-      </section>
+      <template v-if="mode === 'gallery'">
+        <section class="panel intro">
+          <h2>CHARACTER GALLERY</h2>
+          <p class="gallery-hint">
+            All {{ characters.length }} characters in the game. Search by name, crew, devil fruit,
+            haki or origin — then tap a card for the full details.
+          </p>
+        </section>
+        <GalleryPanel :characters="characters" @open="galleryPick = $event" />
+      </template>
 
-      <WinPanel
-        v-if="game.won" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
-        :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
-        @practice="mode = 'practice'"
-        @replay="newPractice" />
+      <template v-else>
+        <section class="panel intro">
+          <h2 v-if="mode === 'daily'">GUESS TODAY'S ONE PIECE CHARACTER!</h2>
+          <h2 v-else>PRACTICE MODE — GUESS THE CHARACTER!</h2>
+          <CluesPanel :answer="game.answer" :tries="game.guesses.length" :won="game.won" />
+          <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
+            🎲 New character
+          </button>
+        </section>
 
-      <GuessInput
-        v-if="!game.won" :characters="characters" :guessed="guessedNames"
-        @guess="submitGuess" />
+        <WinPanel
+          v-if="game.won" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
+          :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
+          @practice="mode = 'practice'"
+          @replay="newPractice" />
 
-      <section v-if="game.guesses.length" class="grid-wrap">
-        <div class="grid">
-          <div class="grid-head">
-            <div v-for="col in COLUMNS" :key="col.key" class="head-cell">{{ col.label }}</div>
+        <GuessInput
+          v-if="!game.won" :characters="characters" :guessed="guessedNames"
+          @guess="submitGuess" />
+
+        <section v-if="game.guesses.length" class="grid-wrap">
+          <div class="grid">
+            <div class="grid-head">
+              <div v-for="col in COLUMNS" :key="col.key" class="head-cell">{{ col.label }}</div>
+            </div>
+            <GuessRow v-for="g in game.guesses" :key="g.char.name" :guess="g" :base="base" />
           </div>
-          <GuessRow v-for="g in game.guesses" :key="g.char.name" :guess="g" :base="base" />
-        </div>
-      </section>
+        </section>
 
-      <p class="yesterday" v-if="mode === 'daily' && daily.number > 1">
-        Yesterday's character #{{ daily.number - 1 }} was <b>{{ yesterdayAnswer.name }}</b>
-      </p>
+        <p class="yesterday" v-if="mode === 'daily' && daily.number > 1">
+          Yesterday's character #{{ daily.number - 1 }} was <b>{{ yesterdayAnswer.name }}</b>
+        </p>
+      </template>
 
       <footer class="footer">
         Fan-made recreation of <a href="https://onepiecedle.net" target="_blank" rel="noreferrer">onepiecedle.net</a>
@@ -175,6 +195,7 @@ const base = import.meta.env.BASE_URL
 
     <HelpModal v-if="showHelp" @close="showHelp = false" />
     <StatsModal v-if="showStats" @close="showStats = false" />
+    <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />
   </div>
 </template>
 
@@ -300,6 +321,12 @@ const base = import.meta.env.BASE_URL
   font-size: 15px;
 }
 .reset-btn:hover { filter: brightness(.96); }
+
+.gallery-hint {
+  margin: 0;
+  font-size: 14px;
+  color: var(--brown);
+}
 
 .grid-wrap {
   width: 100%;

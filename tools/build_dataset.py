@@ -134,6 +134,7 @@ def main():
             "firstEpisode": pick("firstEpisode"),
             "firstArc": arc,
             "portrait": portraits[req],
+            "wikiPage": d["name"],
         })
 
     final.sort(key=lambda r: r["name"])

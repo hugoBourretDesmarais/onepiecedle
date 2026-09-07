@@ -18,7 +18,8 @@
   "firstChapter": 444,
   "firstEpisode": 339,
   "firstArc": "Thriller Bark",
-  "portrait": "absalom.png"
+  "portrait": "absalom.png",
+  "wikiPage": "Absalom"
  },
  {
   "name": "Aisa",
@@ -36,7 +37,8 @@
   "firstChapter": 249,
   "firstEpisode": 161,
   "firstArc": "Skypiea",
-  "portrait": "aisa.png"
+  "portrait": "aisa.png",
+  "wikiPage": "Aisa"
  },
  {
   "name": "Alvida",
@@ -57,7 +59,8 @@
   "firstChapter": 2,
   "firstEpisode": 1,
   "firstArc": "Romance Dawn",
-  "portrait": "alvida.png"
+  "portrait": "alvida.png",
+  "wikiPage": "Alvida"
  },
  {
   "name": "Aramaki",
@@ -81,7 +84,8 @@
   "firstChapter": 905,
   "firstEpisode": 882,
   "firstArc": "Levely",
-  "portrait": "aramaki.png"
+  "portrait": "aramaki.png",
+  "wikiPage": "Aramaki"
  },
  {
   "name": "Arlong",
@@ -100,7 +104,8 @@
   "firstChapter": 69,
   "firstEpisode": 31,
   "firstArc": "Arlong Park",
-  "portrait": "arlong.png"
+  "portrait": "arlong.png",
+  "wikiPage": "Arlong"
  },
  {
   "name": "Ashura Doji",
@@ -121,7 +126,8 @@
   "firstChapter": 920,
   "firstEpisode": 910,
   "firstArc": "Wano Country",
-  "portrait": "ashura-doji.png"
+  "portrait": "ashura-doji.png",
+  "wikiPage": "Ashura Doji"
  },
  {
   "name": "Atlas",
@@ -142,7 +148,8 @@
   "firstChapter": 1062,
   "firstEpisode": 1091,
   "firstArc": "Egghead",
-  "portrait": "atlas.png"
+  "portrait": "atlas.png",
+  "wikiPage": "Vegapunk/Atlas"
  },
  {
   "name": "Avalo Pizarro",
@@ -163,7 +170,8 @@
   "firstChapter": 575,
   "firstEpisode": 484,
   "firstArc": "Marineford",
-  "portrait": "avalo-pizarro.png"
+  "portrait": "avalo-pizarro.png",
+  "wikiPage": "Avalo Pizarro"
  },
  {
   "name": "Baby 5",
@@ -183,7 +191,8 @@
   "firstChapter": 682,
   "firstEpisode": 608,
   "firstArc": "Punk Hazard",
-  "portrait": "baby-5.png"
+  "portrait": "baby-5.png",
+  "wikiPage": "Baby 5"
  },
  {
   "name": "Bartholomew Kuma",
@@ -208,7 +217,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "bartholomew-kuma.png"
+  "portrait": "bartholomew-kuma.png",
+  "wikiPage": "Bartholomew Kuma"
  },
  {
   "name": "Bartolomeo",
@@ -229,7 +239,8 @@
   "firstChapter": 705,
   "firstEpisode": 633,
   "firstArc": "Dressrosa",
-  "portrait": "bartolomeo.png"
+  "portrait": "bartolomeo.png",
+  "wikiPage": "Bartolomeo"
  },
  {
   "name": "Basil Hawkins",
@@ -253,7 +264,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "basil-hawkins.png"
+  "portrait": "basil-hawkins.png",
+  "wikiPage": "Basil Hawkins"
  },
  {
   "name": "Bell-mère",
@@ -272,7 +284,8 @@
   "firstChapter": 77,
   "firstEpisode": 32,
   "firstArc": "Arlong Park",
-  "portrait": "bell-m-re.png"
+  "portrait": "bell-m-re.png",
+  "wikiPage": "Bell-mère"
  },
  {
   "name": "Bellamy",
@@ -296,7 +309,8 @@
   "firstChapter": 222,
   "firstEpisode": 146,
   "firstArc": "Jaya",
-  "portrait": "bellamy.png"
+  "portrait": "bellamy.png",
+  "wikiPage": "Bellamy"
  },
  {
   "name": "Belo Betty",
@@ -319,7 +333,8 @@
   "firstChapter": 904,
   "firstEpisode": 880,
   "firstArc": "Levely",
-  "portrait": "belo-betty.png"
+  "portrait": "belo-betty.png",
+  "wikiPage": "Belo Betty"
  },
  {
   "name": "Benn Beckman",
@@ -340,7 +355,8 @@
   "firstChapter": 1,
   "firstEpisode": 4,
   "firstArc": "Romance Dawn",
-  "portrait": "benn-beckman.png"
+  "portrait": "benn-beckman.png",
+  "wikiPage": "Benn Beckman"
  },
  {
   "name": "Bentham",
@@ -362,7 +378,8 @@
   "firstChapter": 129,
   "firstEpisode": 78,
   "firstArc": "Little Garden",
-  "portrait": "bentham.png"
+  "portrait": "bentham.png",
+  "wikiPage": "Bentham"
  },
  {
   "name": "Bepo",
@@ -378,7 +395,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "bepo.png"
+  "portrait": "bepo.png",
+  "wikiPage": "Bepo"
  },
  {
   "name": "Black Maria",
@@ -399,7 +417,8 @@
   "firstChapter": 977,
   "firstEpisode": 982,
   "firstArc": "Wano Country",
-  "portrait": "black-maria.png"
+  "portrait": "black-maria.png",
+  "wikiPage": "Black Maria"
  },
  {
   "name": "Blueno",
@@ -420,7 +439,8 @@
   "firstChapter": 325,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "blueno.png"
+  "portrait": "blueno.png",
+  "wikiPage": "Blueno"
  },
  {
   "name": "Boa Hancock",
@@ -446,7 +466,8 @@
   "firstChapter": 516,
   "firstEpisode": 409,
   "firstArc": "Amazon Lily",
-  "portrait": "boa-hancock.png"
+  "portrait": "boa-hancock.png",
+  "wikiPage": "Boa Hancock"
  },
  {
   "name": "Boa Marigold",
@@ -470,7 +491,8 @@
   "firstChapter": 516,
   "firstEpisode": 409,
   "firstArc": "Amazon Lily",
-  "portrait": "boa-marigold.png"
+  "portrait": "boa-marigold.png",
+  "wikiPage": "Boa Marigold"
  },
  {
   "name": "Boa Sandersonia",
@@ -494,7 +516,8 @@
   "firstChapter": 516,
   "firstEpisode": 409,
   "firstArc": "Amazon Lily",
-  "portrait": "boa-sandersonia.png"
+  "portrait": "boa-sandersonia.png",
+  "wikiPage": "Boa Sandersonia"
  },
  {
   "name": "Borsalino",
@@ -517,7 +540,8 @@
   "firstChapter": 504,
   "firstEpisode": 398,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "borsalino.png"
+  "portrait": "borsalino.png",
+  "wikiPage": "Borsalino"
  },
  {
   "name": "Brogy",
@@ -536,7 +560,8 @@
   "firstChapter": 115,
   "firstEpisode": 71,
   "firstArc": "Little Garden",
-  "portrait": "brogy.png"
+  "portrait": "brogy.png",
+  "wikiPage": "Brogy"
  },
  {
   "name": "Brook",
@@ -557,7 +582,8 @@
   "firstChapter": 442,
   "firstEpisode": 337,
   "firstArc": "Thriller Bark",
-  "portrait": "brook.png"
+  "portrait": "brook.png",
+  "wikiPage": "Brook"
  },
  {
   "name": "Buggy",
@@ -578,7 +604,8 @@
   "firstChapter": 9,
   "firstEpisode": 4,
   "firstArc": "Orange Town",
-  "portrait": "buggy.png"
+  "portrait": "buggy.png",
+  "wikiPage": "Buggy"
  },
  {
   "name": "Caesar Clown",
@@ -600,7 +627,8 @@
   "firstChapter": 658,
   "firstEpisode": 581,
   "firstArc": "Punk Hazard",
-  "portrait": "caesar-clown.png"
+  "portrait": "caesar-clown.png",
+  "wikiPage": "Caesar Clown"
  },
  {
   "name": "Camie",
@@ -618,7 +646,8 @@
   "firstChapter": 195,
   "firstEpisode": 385,
   "firstArc": "Alabasta",
-  "portrait": "camie.png"
+  "portrait": "camie.png",
+  "wikiPage": "Camie"
  },
  {
   "name": "Capone Bege",
@@ -639,7 +668,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "capone-bege.png"
+  "portrait": "capone-bege.png",
+  "wikiPage": "Capone Bege"
  },
  {
   "name": "Caribou",
@@ -659,7 +689,8 @@
   "firstChapter": 600,
   "firstEpisode": 519,
   "firstArc": "Return to Sabaody",
-  "portrait": "caribou.png"
+  "portrait": "caribou.png",
+  "wikiPage": "Caribou"
  },
  {
   "name": "Carrot",
@@ -675,7 +706,8 @@
   "firstChapter": 804,
   "firstEpisode": 753,
   "firstArc": "Zou",
-  "portrait": "carrot.png"
+  "portrait": "carrot.png",
+  "wikiPage": "Carrot"
  },
  {
   "name": "Catarina Devon",
@@ -696,7 +728,8 @@
   "firstChapter": 575,
   "firstEpisode": 484,
   "firstArc": "Marineford",
-  "portrait": "catarina-devon.png"
+  "portrait": "catarina-devon.png",
+  "wikiPage": "Catarina Devon"
  },
  {
   "name": "Cavendish",
@@ -719,7 +752,8 @@
   "firstChapter": 704,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "cavendish.png"
+  "portrait": "cavendish.png",
+  "wikiPage": "Cavendish"
  },
  {
   "name": "Chadros Higelyges",
@@ -737,7 +771,8 @@
   "firstChapter": 581,
   "firstEpisode": 490,
   "firstArc": "Post-War",
-  "portrait": "chadros-higelyges.png"
+  "portrait": "chadros-higelyges.png",
+  "wikiPage": "Chadros Higelyges"
  },
  {
   "name": "Chaka",
@@ -757,7 +792,8 @@
   "firstChapter": 155,
   "firstEpisode": 91,
   "firstArc": "Alabasta",
-  "portrait": "chaka.png"
+  "portrait": "chaka.png",
+  "wikiPage": "Chaka"
  },
  {
   "name": "Charlotte Brûlée",
@@ -778,7 +814,8 @@
   "firstChapter": 831,
   "firstEpisode": 791,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-br-l-e.png"
+  "portrait": "charlotte-br-l-e.png",
+  "wikiPage": "Charlotte Brûlée"
  },
  {
   "name": "Charlotte Chiffon",
@@ -796,7 +833,8 @@
   "firstChapter": 825,
   "firstEpisode": 783,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-chiffon.png"
+  "portrait": "charlotte-chiffon.png",
+  "wikiPage": "Charlotte Chiffon"
  },
  {
   "name": "Charlotte Cracker",
@@ -821,7 +859,8 @@
   "firstChapter": 835,
   "firstEpisode": 796,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-cracker.png"
+  "portrait": "charlotte-cracker.png",
+  "wikiPage": "Charlotte Cracker"
  },
  {
   "name": "Charlotte Daifuku",
@@ -844,7 +883,8 @@
   "firstChapter": 861,
   "firstEpisode": 826,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-daifuku.png"
+  "portrait": "charlotte-daifuku.png",
+  "wikiPage": "Charlotte Daifuku"
  },
  {
   "name": "Charlotte Katakuri",
@@ -869,7 +909,8 @@
   "firstChapter": 860,
   "firstEpisode": 825,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-katakuri.png"
+  "portrait": "charlotte-katakuri.png",
+  "wikiPage": "Charlotte Katakuri"
  },
  {
   "name": "Charlotte Linlin",
@@ -895,7 +936,8 @@
   "firstChapter": 651,
   "firstEpisode": 571,
   "firstArc": "Fish-Man Island",
-  "portrait": "charlotte-linlin.png"
+  "portrait": "charlotte-linlin.png",
+  "wikiPage": "Charlotte Linlin"
  },
  {
   "name": "Charlotte Lola",
@@ -914,7 +956,8 @@
   "firstChapter": 476,
   "firstEpisode": 370,
   "firstArc": "Thriller Bark",
-  "portrait": "charlotte-lola.png"
+  "portrait": "charlotte-lola.png",
+  "wikiPage": "Charlotte Lola"
  },
  {
   "name": "Charlotte Mont-d'Or",
@@ -935,7 +978,8 @@
   "firstChapter": 829,
   "firstEpisode": 789,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-mont-d-or.png"
+  "portrait": "charlotte-mont-d-or.png",
+  "wikiPage": "Charlotte Mont-d'Or"
  },
  {
   "name": "Charlotte Oven",
@@ -958,7 +1002,8 @@
   "firstChapter": 861,
   "firstEpisode": 827,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-oven.png"
+  "portrait": "charlotte-oven.png",
+  "wikiPage": "Charlotte Oven"
  },
  {
   "name": "Charlotte Perospero",
@@ -981,7 +1026,8 @@
   "firstChapter": 834,
   "firstEpisode": 795,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-perospero.png"
+  "portrait": "charlotte-perospero.png",
+  "wikiPage": "Charlotte Perospero"
  },
  {
   "name": "Charlotte Pudding",
@@ -1001,7 +1047,8 @@
   "firstChapter": 651,
   "firstEpisode": 571,
   "firstArc": "Fish-Man Island",
-  "portrait": "charlotte-pudding.png"
+  "portrait": "charlotte-pudding.png",
+  "wikiPage": "Charlotte Pudding"
  },
  {
   "name": "Charlotte Smoothie",
@@ -1024,7 +1071,8 @@
   "firstChapter": 846,
   "firstEpisode": 812,
   "firstArc": "Whole Cake Island",
-  "portrait": "charlotte-smoothie.png"
+  "portrait": "charlotte-smoothie.png",
+  "wikiPage": "Charlotte Smoothie"
  },
  {
   "name": "Chimney",
@@ -1040,7 +1088,8 @@
   "firstChapter": 322,
   "firstEpisode": 229,
   "firstArc": "Water 7",
-  "portrait": "chimney.png"
+  "portrait": "chimney.png",
+  "wikiPage": "Chimney"
  },
  {
   "name": "Chinjao",
@@ -1063,7 +1112,8 @@
   "firstChapter": 704,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "chinjao.png"
+  "portrait": "chinjao.png",
+  "wikiPage": "Chinjao"
  },
  {
   "name": "Conis",
@@ -1079,7 +1129,8 @@
   "firstChapter": 239,
   "firstEpisode": 154,
   "firstArc": "Skypiea",
-  "portrait": "conis.png"
+  "portrait": "conis.png",
+  "wikiPage": "Conis"
  },
  {
   "name": "Crocodile",
@@ -1104,7 +1155,8 @@
   "firstChapter": 126,
   "firstEpisode": 76,
   "firstArc": "Little Garden",
-  "portrait": "crocodile.png"
+  "portrait": "crocodile.png",
+  "wikiPage": "Crocodile"
  },
  {
   "name": "Crocus",
@@ -1122,7 +1174,8 @@
   "firstChapter": 102,
   "firstEpisode": 62,
   "firstArc": "Reverse Mountain",
-  "portrait": "crocus.png"
+  "portrait": "crocus.png",
+  "wikiPage": "Crocus"
  },
  {
   "name": "Curly Dadan",
@@ -1140,7 +1193,8 @@
   "firstChapter": 440,
   "firstEpisode": 324,
   "firstArc": "Post-Enies Lobby",
-  "portrait": "curly-dadan.png"
+  "portrait": "curly-dadan.png",
+  "wikiPage": "Curly Dadan"
  },
  {
   "name": "Dalton",
@@ -1158,7 +1212,8 @@
   "firstChapter": 132,
   "firstEpisode": 79,
   "firstArc": "Drum Island",
-  "portrait": "dalton.png"
+  "portrait": "dalton.png",
+  "wikiPage": "Dalton"
  },
  {
   "name": "Daz Bonez",
@@ -1180,7 +1235,8 @@
   "firstChapter": 160,
   "firstEpisode": 103,
   "firstArc": "Alabasta",
-  "portrait": "daz-bonez.png"
+  "portrait": "daz-bonez.png",
+  "wikiPage": "Daz Bonez"
  },
  {
   "name": "Denjiro",
@@ -1203,7 +1259,8 @@
   "firstChapter": 919,
   "firstEpisode": 909,
   "firstArc": "Wano Country",
-  "portrait": "denjiro.png"
+  "portrait": "denjiro.png",
+  "wikiPage": "Denjiro"
  },
  {
   "name": "Diamante",
@@ -1226,7 +1283,8 @@
   "firstChapter": 700,
   "firstEpisode": 629,
   "firstArc": "Dressrosa",
-  "portrait": "diamante.png"
+  "portrait": "diamante.png",
+  "wikiPage": "Diamante"
  },
  {
   "name": "Doc Q",
@@ -1247,7 +1305,8 @@
   "firstChapter": 223,
   "firstEpisode": 146,
   "firstArc": "Jaya",
-  "portrait": "doc-q.png"
+  "portrait": "doc-q.png",
+  "wikiPage": "Doc Q"
  },
  {
   "name": "Donquixote Doflamingo",
@@ -1274,7 +1333,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "donquixote-doflamingo.png"
+  "portrait": "donquixote-doflamingo.png",
+  "wikiPage": "Donquixote Doflamingo"
  },
  {
   "name": "Donquixote Rosinante",
@@ -1296,7 +1356,8 @@
   "firstChapter": 761,
   "firstEpisode": 686,
   "firstArc": "Dressrosa",
-  "portrait": "donquixote-rosinante.png"
+  "portrait": "donquixote-rosinante.png",
+  "wikiPage": "Donquixote Rosinante"
  },
  {
   "name": "Dorry",
@@ -1315,7 +1376,8 @@
   "firstChapter": 116,
   "firstEpisode": 71,
   "firstArc": "Little Garden",
-  "portrait": "dorry.png"
+  "portrait": "dorry.png",
+  "wikiPage": "Dorry"
  },
  {
   "name": "Dracule Mihawk",
@@ -1338,7 +1400,8 @@
   "firstChapter": 49,
   "firstEpisode": 23,
   "firstArc": "Baratie",
-  "portrait": "dracule-mihawk.png"
+  "portrait": "dracule-mihawk.png",
+  "wikiPage": "Dracule Mihawk"
  },
  {
   "name": "Drophy",
@@ -1359,7 +1422,8 @@
   "firstChapter": 160,
   "firstEpisode": 103,
   "firstArc": "Alabasta",
-  "portrait": "drophy.png"
+  "portrait": "drophy.png",
+  "wikiPage": "Drophy"
  },
  {
   "name": "Edison",
@@ -1380,7 +1444,8 @@
   "firstChapter": 1065,
   "firstEpisode": 1095,
   "firstArc": "Egghead",
-  "portrait": "edison.png"
+  "portrait": "edison.png",
+  "wikiPage": "Vegapunk/Edison"
  },
  {
   "name": "Edward Newgate",
@@ -1404,7 +1469,8 @@
   "firstChapter": 159,
   "firstEpisode": 95,
   "firstArc": "Alabasta",
-  "portrait": "edward-newgate.png"
+  "portrait": "edward-newgate.png",
+  "wikiPage": "Edward Newgate"
  },
  {
   "name": "Edward Weevil",
@@ -1426,7 +1492,8 @@
   "firstChapter": 802,
   "firstEpisode": 751,
   "firstArc": "Zou",
-  "portrait": "edward-weevil.png"
+  "portrait": "edward-weevil.png",
+  "wikiPage": "Edward Weevil"
  },
  {
   "name": "Emet",
@@ -1444,7 +1511,8 @@
   "firstChapter": 1065,
   "firstEpisode": 1095,
   "firstArc": "Egghead",
-  "portrait": "emet.png"
+  "portrait": "emet.png",
+  "wikiPage": "Emet"
  },
  {
   "name": "Emporio Ivankov",
@@ -1466,7 +1534,8 @@
   "firstChapter": 537,
   "firstEpisode": 438,
   "firstArc": "Impel Down",
-  "portrait": "emporio-ivankov.png"
+  "portrait": "emporio-ivankov.png",
+  "wikiPage": "Emporio Ivankov"
  },
  {
   "name": "Enel",
@@ -1489,7 +1558,8 @@
   "firstChapter": 254,
   "firstEpisode": 167,
   "firstArc": "Skypiea",
-  "portrait": "enel.png"
+  "portrait": "enel.png",
+  "wikiPage": "Enel"
  },
  {
   "name": "Ethanbaron V. Nusjuro",
@@ -1514,7 +1584,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "ethanbaron-v-nusjuro.png"
+  "portrait": "ethanbaron-v-nusjuro.png",
+  "wikiPage": "Ethanbaron V. Nusjuro"
  },
  {
   "name": "Eustass Kid",
@@ -1540,7 +1611,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "eustass-kid.png"
+  "portrait": "eustass-kid.png",
+  "wikiPage": "Eustass Kid"
  },
  {
   "name": "Figarland Garling",
@@ -1560,7 +1632,8 @@
   "firstChapter": 1086,
   "firstEpisode": 1120,
   "firstArc": "Egghead",
-  "portrait": "figarland-garling.png"
+  "portrait": "figarland-garling.png",
+  "wikiPage": "Figarland Garling"
  },
  {
   "name": "Figarland Shamrock",
@@ -1580,7 +1653,8 @@
   "firstChapter": 907,
   "firstEpisode": 887,
   "firstArc": "Levely",
-  "portrait": "figarland-shamrock.png"
+  "portrait": "figarland-shamrock.png",
+  "wikiPage": "Figarland Shamrock"
  },
  {
   "name": "Fisher Tiger",
@@ -1600,7 +1674,8 @@
   "firstChapter": 521,
   "firstEpisode": 415,
   "firstArc": "Amazon Lily",
-  "portrait": "fisher-tiger.png"
+  "portrait": "fisher-tiger.png",
+  "wikiPage": "Fisher Tiger"
  },
  {
   "name": "Foxy",
@@ -1620,7 +1695,8 @@
   "firstChapter": 305,
   "firstEpisode": 207,
   "firstArc": "Long Ring Long Land",
-  "portrait": "foxy.png"
+  "portrait": "foxy.png",
+  "wikiPage": "Foxy"
  },
  {
   "name": "Franky",
@@ -1641,7 +1717,8 @@
   "firstChapter": 329,
   "firstEpisode": 233,
   "firstArc": "Water 7",
-  "portrait": "franky.png"
+  "portrait": "franky.png",
+  "wikiPage": "Franky"
  },
  {
   "name": "Fukaboshi",
@@ -1657,7 +1734,8 @@
   "firstChapter": 609,
   "firstEpisode": 528,
   "firstArc": "Fish-Man Island",
-  "portrait": "fukaboshi.png"
+  "portrait": "fukaboshi.png",
+  "wikiPage": "Fukaboshi"
  },
  {
   "name": "Fukurou",
@@ -1679,7 +1757,8 @@
   "firstChapter": 375,
   "firstEpisode": 264,
   "firstArc": "Enies Lobby",
-  "portrait": "fukurou.png"
+  "portrait": "fukurou.png",
+  "wikiPage": "Fukurou"
  },
  {
   "name": "Gaimon",
@@ -1695,7 +1774,8 @@
   "firstChapter": 22,
   "firstEpisode": 18,
   "firstArc": "Syrup Village",
-  "portrait": "gaimon.png"
+  "portrait": "gaimon.png",
+  "wikiPage": "Gaimon"
  },
  {
   "name": "Galdino",
@@ -1716,7 +1796,8 @@
   "firstChapter": 117,
   "firstEpisode": 70,
   "firstArc": "Little Garden",
-  "portrait": "galdino.png"
+  "portrait": "galdino.png",
+  "wikiPage": "Galdino"
  },
  {
   "name": "Gan Fall",
@@ -1736,7 +1817,8 @@
   "firstChapter": 237,
   "firstEpisode": 153,
   "firstArc": "Skypiea",
-  "portrait": "gan-fall.png"
+  "portrait": "gan-fall.png",
+  "wikiPage": "Gan Fall"
  },
  {
   "name": "Gecko Moria",
@@ -1758,7 +1840,8 @@
   "firstChapter": 449,
   "firstEpisode": 343,
   "firstArc": "Thriller Bark",
-  "portrait": "gecko-moria.png"
+  "portrait": "gecko-moria.png",
+  "wikiPage": "Gecko Moria"
  },
  {
   "name": "Gem",
@@ -1779,7 +1862,8 @@
   "firstChapter": 110,
   "firstEpisode": 65,
   "firstArc": "Whisky Peak",
-  "portrait": "gem.png"
+  "portrait": "gem.png",
+  "wikiPage": "Gem"
  },
  {
   "name": "Genzo",
@@ -1795,7 +1879,8 @@
   "firstChapter": 71,
   "firstEpisode": 32,
   "firstArc": "Arlong Park",
-  "portrait": "genzo.png"
+  "portrait": "genzo.png",
+  "wikiPage": "Genzo"
  },
  {
   "name": "Gin",
@@ -1814,7 +1899,8 @@
   "firstChapter": 44,
   "firstEpisode": 21,
   "firstArc": "Baratie",
-  "portrait": "gin.png"
+  "portrait": "gin.png",
+  "wikiPage": "Gin"
  },
  {
   "name": "Gladius",
@@ -1832,7 +1918,8 @@
   "firstChapter": 682,
   "firstEpisode": 608,
   "firstArc": "Punk Hazard",
-  "portrait": "gladius.png"
+  "portrait": "gladius.png",
+  "wikiPage": "Gladius"
  },
  {
   "name": "Gol D. Roger",
@@ -1856,7 +1943,8 @@
   "firstChapter": 1,
   "firstEpisode": 48,
   "firstArc": "Romance Dawn",
-  "portrait": "gol-d-roger.png"
+  "portrait": "gol-d-roger.png",
+  "wikiPage": "Gol D. Roger"
  },
  {
   "name": "Gonbe",
@@ -1872,7 +1960,8 @@
   "firstChapter": 322,
   "firstEpisode": 229,
   "firstArc": "Water 7",
-  "portrait": "gonbe.png"
+  "portrait": "gonbe.png",
+  "wikiPage": "Gonbe"
  },
  {
   "name": "Gunko",
@@ -1896,7 +1985,8 @@
   "firstChapter": 1134,
   "firstEpisode": 1164,
   "firstArc": "Elbaf",
-  "portrait": "gunko.png"
+  "portrait": "gunko.png",
+  "wikiPage": "Manmayer Gunko"
  },
  {
   "name": "Hajrudin",
@@ -1912,7 +2002,8 @@
   "firstChapter": 706,
   "firstEpisode": 639,
   "firstArc": "Dressrosa",
-  "portrait": "hajrudin.png"
+  "portrait": "hajrudin.png",
+  "wikiPage": "Hajrudin"
  },
  {
   "name": "Harald",
@@ -1932,7 +2023,8 @@
   "firstChapter": 1136,
   "firstEpisode": 1166,
   "firstArc": "Elbaf",
-  "portrait": "harald.png"
+  "portrait": "harald.png",
+  "wikiPage": "Harald"
  },
  {
   "name": "Hatchan",
@@ -1951,7 +2043,8 @@
   "firstChapter": 69,
   "firstEpisode": 31,
   "firstArc": "Arlong Park",
-  "portrait": "hatchan.png"
+  "portrait": "hatchan.png",
+  "wikiPage": "Hatchan"
  },
  {
   "name": "Hattori",
@@ -1967,7 +2060,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "hattori.png"
+  "portrait": "hattori.png",
+  "wikiPage": "Hattori"
  },
  {
   "name": "Helmeppo",
@@ -1985,7 +2079,8 @@
   "firstChapter": 3,
   "firstEpisode": 2,
   "firstArc": "Romance Dawn",
-  "portrait": "helmeppo.png"
+  "portrait": "helmeppo.png",
+  "wikiPage": "Helmeppo"
  },
  {
   "name": "Hina",
@@ -2005,7 +2100,8 @@
   "firstChapter": 171,
   "firstEpisode": 127,
   "firstArc": "Alabasta",
-  "portrait": "hina.png"
+  "portrait": "hina.png",
+  "wikiPage": "Hina"
  },
  {
   "name": "Hiriluk",
@@ -2024,7 +2120,8 @@
   "firstChapter": 141,
   "firstEpisode": 85,
   "firstArc": "Drum Island",
-  "portrait": "hiriluk.png"
+  "portrait": "hiriluk.png",
+  "wikiPage": "Hiriluk"
  },
  {
   "name": "Hody Jones",
@@ -2043,7 +2140,8 @@
   "firstChapter": 608,
   "firstEpisode": 527,
   "firstArc": "Fish-Man Island",
-  "portrait": "hody-jones.png"
+  "portrait": "hody-jones.png",
+  "wikiPage": "Hody Jones"
  },
  {
   "name": "Hogback",
@@ -2062,7 +2160,8 @@
   "firstChapter": 446,
   "firstEpisode": 340,
   "firstArc": "Thriller Bark",
-  "portrait": "hogback.png"
+  "portrait": "hogback.png",
+  "wikiPage": "Hogback"
  },
  {
   "name": "Hyogoro",
@@ -2086,7 +2185,8 @@
   "firstChapter": 926,
   "firstEpisode": 919,
   "firstArc": "Wano Country",
-  "portrait": "hyogoro.png"
+  "portrait": "hyogoro.png",
+  "wikiPage": "Hyougoro"
  },
  {
   "name": "Iceburg",
@@ -2104,7 +2204,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "iceburg.png"
+  "portrait": "iceburg.png",
+  "wikiPage": "Iceburg"
  },
  {
   "name": "Igaram",
@@ -2123,7 +2224,8 @@
   "firstChapter": 106,
   "firstEpisode": 64,
   "firstArc": "Whisky Peak",
-  "portrait": "igaram.png"
+  "portrait": "igaram.png",
+  "wikiPage": "Igaram"
  },
  {
   "name": "Imu",
@@ -2149,7 +2251,8 @@
   "firstChapter": 906,
   "firstEpisode": 885,
   "firstArc": "Levely",
-  "portrait": "imu.png"
+  "portrait": "imu.png",
+  "wikiPage": "Nerona Imu"
  },
  {
   "name": "Inuarashi",
@@ -2173,7 +2276,8 @@
   "firstChapter": 808,
   "firstEpisode": 756,
   "firstArc": "Zou",
-  "portrait": "inuarashi.png"
+  "portrait": "inuarashi.png",
+  "wikiPage": "Inuarashi"
  },
  {
   "name": "Issho",
@@ -2196,7 +2300,8 @@
   "firstChapter": 701,
   "firstEpisode": 630,
   "firstArc": "Dressrosa",
-  "portrait": "issho.png"
+  "portrait": "issho.png",
+  "wikiPage": "Issho"
  },
  {
   "name": "Izou",
@@ -2217,7 +2322,8 @@
   "firstChapter": 553,
   "firstEpisode": 461,
   "firstArc": "Marineford",
-  "portrait": "izou.png"
+  "portrait": "izou.png",
+  "wikiPage": "Izou"
  },
  {
   "name": "Jabra",
@@ -2240,7 +2346,8 @@
   "firstChapter": 375,
   "firstEpisode": 264,
   "firstArc": "Enies Lobby",
-  "portrait": "jabra.png"
+  "portrait": "jabra.png",
+  "wikiPage": "Jabra"
  },
  {
   "name": "Jack",
@@ -2263,7 +2370,8 @@
   "firstChapter": 801,
   "firstEpisode": 746,
   "firstArc": "Dressrosa",
-  "portrait": "jack.png"
+  "portrait": "jack.png",
+  "wikiPage": "Jack"
  },
  {
   "name": "Jaguar D. Saul",
@@ -2284,7 +2392,8 @@
   "firstChapter": 392,
   "firstEpisode": 275,
   "firstArc": "Enies Lobby",
-  "portrait": "jaguar-d-saul.png"
+  "portrait": "jaguar-d-saul.png",
+  "wikiPage": "Jaguar D. Saul"
  },
  {
   "name": "Jango",
@@ -2304,7 +2413,8 @@
   "firstChapter": 25,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "jango.png"
+  "portrait": "jango.png",
+  "wikiPage": "Jango"
  },
  {
   "name": "Jaygarcia Saturn",
@@ -2328,7 +2438,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "jaygarcia-saturn.png"
+  "portrait": "jaygarcia-saturn.png",
+  "wikiPage": "Jaygarcia Saturn"
  },
  {
   "name": "Jesus Burgess",
@@ -2353,7 +2464,8 @@
   "firstChapter": 222,
   "firstEpisode": 146,
   "firstArc": "Jaya",
-  "portrait": "jesus-burgess.png"
+  "portrait": "jesus-burgess.png",
+  "wikiPage": "Jesus Burgess"
  },
  {
   "name": "Jewelry Bonney",
@@ -2377,7 +2489,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "jewelry-bonney.png"
+  "portrait": "jewelry-bonney.png",
+  "wikiPage": "Jewelry Bonney"
  },
  {
   "name": "Jinbe",
@@ -2400,7 +2513,8 @@
   "firstChapter": 528,
   "firstEpisode": 430,
   "firstArc": "Impel Down",
-  "portrait": "jinbe.png"
+  "portrait": "jinbe.png",
+  "wikiPage": "Jinbe"
  },
  {
   "name": "Johnny",
@@ -2418,7 +2532,8 @@
   "firstChapter": 42,
   "firstEpisode": 19,
   "firstArc": "Baratie",
-  "portrait": "johnny.png"
+  "portrait": "johnny.png",
+  "wikiPage": "Johnny"
  },
  {
   "name": "Jozu",
@@ -2441,7 +2556,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "jozu.png"
+  "portrait": "jozu.png",
+  "wikiPage": "Jozu"
  },
  {
   "name": "Kaidou",
@@ -2467,7 +2583,8 @@
   "firstChapter": 795,
   "firstEpisode": 736,
   "firstArc": "Dressrosa",
-  "portrait": "kaidou.png"
+  "portrait": "kaidou.png",
+  "wikiPage": "Kaidou"
  },
  {
   "name": "Kaku",
@@ -2490,7 +2607,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "kaku.png"
+  "portrait": "kaku.png",
+  "wikiPage": "Kaku"
  },
  {
   "name": "Kalgara",
@@ -2511,7 +2629,8 @@
   "firstChapter": 286,
   "firstEpisode": 187,
   "firstArc": "Skypiea",
-  "portrait": "kalgara.png"
+  "portrait": "kalgara.png",
+  "wikiPage": "Kalgara"
  },
  {
   "name": "Kalifa",
@@ -2532,7 +2651,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "kalifa.png"
+  "portrait": "kalifa.png",
+  "wikiPage": "Kalifa"
  },
  {
   "name": "Karasu",
@@ -2553,7 +2673,8 @@
   "firstChapter": 593,
   "firstEpisode": 510,
   "firstArc": "Post-War",
-  "portrait": "karasu.png"
+  "portrait": "karasu.png",
+  "wikiPage": "Karasu"
  },
  {
   "name": "Karoo",
@@ -2571,7 +2692,8 @@
   "firstChapter": 109,
   "firstEpisode": 65,
   "firstArc": "Whisky Peak",
-  "portrait": "karoo.png"
+  "portrait": "karoo.png",
+  "wikiPage": "Karoo"
  },
  {
   "name": "Kawamatsu",
@@ -2593,7 +2715,8 @@
   "firstChapter": 920,
   "firstEpisode": 910,
   "firstArc": "Wano Country",
-  "portrait": "kawamatsu.png"
+  "portrait": "kawamatsu.png",
+  "wikiPage": "Kawamatsu"
  },
  {
   "name": "Kaya",
@@ -2609,7 +2732,8 @@
   "firstChapter": 23,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "kaya.png"
+  "portrait": "kaya.png",
+  "wikiPage": "Kaya"
  },
  {
   "name": "Kikunojo",
@@ -2632,7 +2756,8 @@
   "firstChapter": 913,
   "firstEpisode": 899,
   "firstArc": "Wano Country",
-  "portrait": "kikunojo.png"
+  "portrait": "kikunojo.png",
+  "wikiPage": "Kikunojo"
  },
  {
   "name": "Killer",
@@ -2654,7 +2779,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "killer.png"
+  "portrait": "killer.png",
+  "wikiPage": "Killer"
  },
  {
   "name": "Killingham",
@@ -2676,7 +2802,8 @@
   "firstChapter": 1140,
   "firstEpisode": 1170,
   "firstArc": "Elbaf",
-  "portrait": "killingham.png"
+  "portrait": "killingham.png",
+  "wikiPage": "Rimoshifu Killingham"
  },
  {
   "name": "Kin'emon",
@@ -2701,7 +2828,8 @@
   "firstChapter": 656,
   "firstEpisode": 580,
   "firstArc": "Punk Hazard",
-  "portrait": "kin-emon.png"
+  "portrait": "kin-emon.png",
+  "wikiPage": "Kin'emon"
  },
  {
   "name": "King",
@@ -2726,7 +2854,8 @@
   "firstChapter": 920,
   "firstEpisode": 910,
   "firstArc": "Wano Country",
-  "portrait": "king.png"
+  "portrait": "king.png",
+  "wikiPage": "King"
  },
  {
   "name": "Koala",
@@ -2742,7 +2871,8 @@
   "firstChapter": 622,
   "firstEpisode": 541,
   "firstArc": "Fish-Man Island",
-  "portrait": "koala.png"
+  "portrait": "koala.png",
+  "wikiPage": "Koala"
  },
  {
   "name": "Koby",
@@ -2763,7 +2893,8 @@
   "firstChapter": 2,
   "firstEpisode": 1,
   "firstArc": "Romance Dawn",
-  "portrait": "koby.png"
+  "portrait": "koby.png",
+  "wikiPage": "Koby"
  },
  {
   "name": "Kokoro",
@@ -2781,7 +2912,8 @@
   "firstChapter": 322,
   "firstEpisode": 229,
   "firstArc": "Water 7",
-  "portrait": "kokoro.png"
+  "portrait": "kokoro.png",
+  "wikiPage": "Kokoro"
  },
  {
   "name": "Koza",
@@ -2799,7 +2931,8 @@
   "firstChapter": 163,
   "firstEpisode": 93,
   "firstArc": "Alabasta",
-  "portrait": "koza.png"
+  "portrait": "koza.png",
+  "wikiPage": "Koza"
  },
  {
   "name": "Kozuki Hiyori",
@@ -2819,7 +2952,8 @@
   "firstChapter": 909,
   "firstEpisode": 892,
   "firstArc": "Wano Country",
-  "portrait": "kozuki-hiyori.png"
+  "portrait": "kozuki-hiyori.png",
+  "wikiPage": "Kouzuki Hiyori"
  },
  {
   "name": "Kozuki Momonosuke",
@@ -2843,7 +2977,8 @@
   "firstChapter": 684,
   "firstEpisode": 609,
   "firstArc": "Punk Hazard",
-  "portrait": "kozuki-momonosuke.png"
+  "portrait": "kozuki-momonosuke.png",
+  "wikiPage": "Kouzuki Momonosuke"
  },
  {
   "name": "Kozuki Oden",
@@ -2866,7 +3001,8 @@
   "firstChapter": 920,
   "firstEpisode": 910,
   "firstArc": "Wano Country",
-  "portrait": "kozuki-oden.png"
+  "portrait": "kozuki-oden.png",
+  "wikiPage": "Kouzuki Oden"
  },
  {
   "name": "Kozuki Toki",
@@ -2888,7 +3024,8 @@
   "firstChapter": 919,
   "firstEpisode": 893,
   "firstArc": "Wano Country",
-  "portrait": "kozuki-toki.png"
+  "portrait": "kozuki-toki.png",
+  "wikiPage": "Kouzuki Toki"
  },
  {
   "name": "Krieg",
@@ -2907,7 +3044,8 @@
   "firstChapter": 45,
   "firstEpisode": 21,
   "firstArc": "Baratie",
-  "portrait": "krieg.png"
+  "portrait": "krieg.png",
+  "wikiPage": "Krieg"
  },
  {
   "name": "Kuina",
@@ -2925,7 +3063,8 @@
   "firstChapter": 5,
   "firstEpisode": 2,
   "firstArc": "Romance Dawn",
-  "portrait": "kuina.png"
+  "portrait": "kuina.png",
+  "wikiPage": "Shimotsuki Kuina"
  },
  {
   "name": "Kumadori",
@@ -2944,7 +3083,8 @@
   "firstChapter": 375,
   "firstEpisode": 264,
   "firstArc": "Enies Lobby",
-  "portrait": "kumadori.png"
+  "portrait": "kumadori.png",
+  "wikiPage": "Kumadori"
  },
  {
   "name": "Kureha",
@@ -2963,7 +3103,8 @@
   "firstChapter": 134,
   "firstEpisode": 80,
   "firstArc": "Drum Island",
-  "portrait": "kureha.png"
+  "portrait": "kureha.png",
+  "wikiPage": "Kureha"
  },
  {
   "name": "Kuro",
@@ -2983,7 +3124,8 @@
   "firstChapter": 23,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "kuro.png"
+  "portrait": "kuro.png",
+  "wikiPage": "Kuro"
  },
  {
   "name": "Kurozumi Kanjuro",
@@ -3007,7 +3149,8 @@
   "firstChapter": 700,
   "firstEpisode": 629,
   "firstArc": "Dressrosa",
-  "portrait": "kurozumi-kanjuro.png"
+  "portrait": "kurozumi-kanjuro.png",
+  "wikiPage": "Kurozumi Kanjuro"
  },
  {
   "name": "Kurozumi Orochi",
@@ -3028,7 +3171,8 @@
   "firstChapter": 927,
   "firstEpisode": 921,
   "firstArc": "Wano Country",
-  "portrait": "kurozumi-orochi.png"
+  "portrait": "kurozumi-orochi.png",
+  "wikiPage": "Kurozumi Orochi"
  },
  {
   "name": "Kurozumi Tama",
@@ -3050,7 +3194,8 @@
   "firstChapter": 911,
   "firstEpisode": 893,
   "firstArc": "Wano Country",
-  "portrait": "kurozumi-tama.png"
+  "portrait": "kurozumi-tama.png",
+  "wikiPage": "Kurozumi Tama"
  },
  {
   "name": "Kuzan",
@@ -3073,7 +3218,8 @@
   "firstChapter": 303,
   "firstEpisode": 225,
   "firstArc": "Long Ring Long Land",
-  "portrait": "kuzan.png"
+  "portrait": "kuzan.png",
+  "wikiPage": "Kuzan"
  },
  {
   "name": "Kyros",
@@ -3092,7 +3238,8 @@
   "firstChapter": 702,
   "firstEpisode": 631,
   "firstArc": "Dressrosa",
-  "portrait": "kyros.png"
+  "portrait": "kyros.png",
+  "wikiPage": "Kyros"
  },
  {
   "name": "Laffitte",
@@ -3111,7 +3258,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "laffitte.png"
+  "portrait": "laffitte.png",
+  "wikiPage": "Laffitte"
  },
  {
   "name": "Leo",
@@ -3129,7 +3277,8 @@
   "firstChapter": 710,
   "firstEpisode": 640,
   "firstArc": "Dressrosa",
-  "portrait": "leo.png"
+  "portrait": "leo.png",
+  "wikiPage": "Leo"
  },
  {
   "name": "Lilith",
@@ -3149,7 +3298,8 @@
   "firstChapter": 1061,
   "firstEpisode": 1090,
   "firstArc": "Egghead",
-  "portrait": "lilith.png"
+  "portrait": "lilith.png",
+  "wikiPage": "Vegapunk/Lilith"
  },
  {
   "name": "Loki",
@@ -3173,7 +3323,8 @@
   "firstChapter": 1130,
   "firstEpisode": 1160,
   "firstArc": "Elbaf",
-  "portrait": "loki.png"
+  "portrait": "loki.png",
+  "wikiPage": "Loki"
  },
  {
   "name": "Lucky Roux",
@@ -3193,7 +3344,8 @@
   "firstChapter": 1,
   "firstEpisode": 4,
   "firstArc": "Romance Dawn",
-  "portrait": "lucky-roux.png"
+  "portrait": "lucky-roux.png",
+  "wikiPage": "Lucky Roux"
  },
  {
   "name": "Magellan",
@@ -3211,7 +3363,8 @@
   "firstChapter": 528,
   "firstEpisode": 425,
   "firstArc": "Impel Down",
-  "portrait": "magellan.png"
+  "portrait": "magellan.png",
+  "wikiPage": "Magellan"
  },
  {
   "name": "Marco",
@@ -3236,7 +3389,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "marco.png"
+  "portrait": "marco.png",
+  "wikiPage": "Polo Marco"
  },
  {
   "name": "Marcus Mars",
@@ -3260,7 +3414,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "marcus-mars.png"
+  "portrait": "marcus-mars.png",
+  "wikiPage": "Marcus Mars"
  },
  {
   "name": "Marguerite",
@@ -3280,7 +3435,8 @@
   "firstChapter": 514,
   "firstEpisode": 408,
   "firstArc": "Amazon Lily",
-  "portrait": "marguerite.png"
+  "portrait": "marguerite.png",
+  "wikiPage": "Marguerite"
  },
  {
   "name": "Marshall D. Teach",
@@ -3305,7 +3461,8 @@
   "firstChapter": 223,
   "firstEpisode": 146,
   "firstArc": "Jaya",
-  "portrait": "marshall-d-teach.png"
+  "portrait": "marshall-d-teach.png",
+  "wikiPage": "Marshall D. Teach"
  },
  {
   "name": "Mikita",
@@ -3326,7 +3483,8 @@
   "firstChapter": 110,
   "firstEpisode": 65,
   "firstArc": "Whisky Peak",
-  "portrait": "mikita.png"
+  "portrait": "mikita.png",
+  "wikiPage": "Mikita"
  },
  {
   "name": "Monet",
@@ -3344,7 +3502,8 @@
   "firstChapter": 657,
   "firstEpisode": 581,
   "firstArc": "Punk Hazard",
-  "portrait": "monet.png"
+  "portrait": "monet.png",
+  "wikiPage": "Monet"
  },
  {
   "name": "Monkey D. Dragon",
@@ -3365,7 +3524,8 @@
   "firstChapter": 100,
   "firstEpisode": 52,
   "firstArc": "Loguetown",
-  "portrait": "monkey-d-dragon.png"
+  "portrait": "monkey-d-dragon.png",
+  "wikiPage": "Monkey D. Dragon"
  },
  {
   "name": "Monkey D. Garp",
@@ -3389,7 +3549,8 @@
   "firstChapter": 92,
   "firstEpisode": 68,
   "firstArc": "Arlong Park",
-  "portrait": "monkey-d-garp.png"
+  "portrait": "monkey-d-garp.png",
+  "wikiPage": "Monkey D. Garp"
  },
  {
   "name": "Monkey D. Luffy",
@@ -3417,7 +3578,8 @@
   "firstChapter": 1,
   "firstEpisode": 1,
   "firstArc": "Romance Dawn",
-  "portrait": "monkey-d-luffy.png"
+  "portrait": "monkey-d-luffy.png",
+  "wikiPage": "Monkey D. Luffy"
  },
  {
   "name": "Mont Blanc Cricket",
@@ -3436,7 +3598,8 @@
   "firstChapter": 227,
   "firstEpisode": 148,
   "firstArc": "Jaya",
-  "portrait": "mont-blanc-cricket.png"
+  "portrait": "mont-blanc-cricket.png",
+  "wikiPage": "Mont Blanc Cricket"
  },
  {
   "name": "Mont Blanc Noland",
@@ -3456,7 +3619,8 @@
   "firstChapter": 286,
   "firstEpisode": 187,
   "firstArc": "Skypiea",
-  "portrait": "mont-blanc-noland.png"
+  "portrait": "mont-blanc-noland.png",
+  "wikiPage": "Mont Blanc Noland"
  },
  {
   "name": "Morgan",
@@ -3475,7 +3639,8 @@
   "firstChapter": 4,
   "firstEpisode": 2,
   "firstArc": "Romance Dawn",
-  "portrait": "morgan.png"
+  "portrait": "morgan.png",
+  "wikiPage": "Morgan"
  },
  {
   "name": "Morgans",
@@ -3496,7 +3661,8 @@
   "firstChapter": 860,
   "firstEpisode": 828,
   "firstArc": "Whole Cake Island",
-  "portrait": "morgans.png"
+  "portrait": "morgans.png",
+  "wikiPage": "Morgans"
  },
  {
   "name": "Morley",
@@ -3517,7 +3683,8 @@
   "firstChapter": 904,
   "firstEpisode": 880,
   "firstArc": "Levely",
-  "portrait": "morley.png"
+  "portrait": "morley.png",
+  "wikiPage": "Morley"
  },
  {
   "name": "Mozu and Kiwi",
@@ -3537,7 +3704,8 @@
   "firstChapter": 329,
   "firstEpisode": 233,
   "firstArc": "Water 7",
-  "portrait": "mozu-and-kiwi.png"
+  "portrait": "mozu-and-kiwi.png",
+  "wikiPage": "Mozu and Kiwi"
  },
  {
   "name": "Nami",
@@ -3556,7 +3724,8 @@
   "firstChapter": 8,
   "firstEpisode": 1,
   "firstArc": "Orange Town",
-  "portrait": "nami.png"
+  "portrait": "nami.png",
+  "wikiPage": "Nami"
  },
  {
   "name": "Namur",
@@ -3574,7 +3743,8 @@
   "firstChapter": 552,
   "firstEpisode": 461,
   "firstArc": "Marineford",
-  "portrait": "namur.png"
+  "portrait": "namur.png",
+  "wikiPage": "Namur"
  },
  {
   "name": "Napoleon",
@@ -3593,7 +3763,8 @@
   "firstChapter": 651,
   "firstEpisode": 571,
   "firstArc": "Fish-Man Island",
-  "portrait": "napoleon.png"
+  "portrait": "napoleon.png",
+  "wikiPage": "Napoleon"
  },
  {
   "name": "Nefertari Cobra",
@@ -3612,7 +3783,8 @@
   "firstChapter": 142,
   "firstEpisode": 91,
   "firstArc": "Drum Island",
-  "portrait": "nefertari-cobra.png"
+  "portrait": "nefertari-cobra.png",
+  "wikiPage": "Nefertari Cobra"
  },
  {
   "name": "Nefertari Vivi",
@@ -3631,7 +3803,8 @@
   "firstChapter": 103,
   "firstEpisode": 62,
   "firstArc": "Reverse Mountain",
-  "portrait": "nefertari-vivi.png"
+  "portrait": "nefertari-vivi.png",
+  "wikiPage": "Nefertari Vivi"
  },
  {
   "name": "Nekomamushi",
@@ -3654,7 +3827,8 @@
   "firstChapter": 809,
   "firstEpisode": 756,
   "firstArc": "Zou",
-  "portrait": "nekomamushi.png"
+  "portrait": "nekomamushi.png",
+  "wikiPage": "Nekomamushi"
  },
  {
   "name": "Neptune",
@@ -3674,7 +3848,8 @@
   "firstChapter": 611,
   "firstEpisode": 530,
   "firstArc": "Fish-Man Island",
-  "portrait": "neptune.png"
+  "portrait": "neptune.png",
+  "wikiPage": "Neptune"
  },
  {
   "name": "Nico Robin",
@@ -3697,7 +3872,8 @@
   "firstChapter": 114,
   "firstEpisode": 67,
   "firstArc": "Whisky Peak",
-  "portrait": "nico-robin.png"
+  "portrait": "nico-robin.png",
+  "wikiPage": "Nico Robin"
  },
  {
   "name": "Ninjin",
@@ -3713,7 +3889,8 @@
   "firstChapter": 23,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "ninjin.png"
+  "portrait": "ninjin.png",
+  "wikiPage": "Ninjin"
  },
  {
   "name": "Nojiko",
@@ -3729,7 +3906,8 @@
   "firstChapter": 70,
   "firstEpisode": 31,
   "firstArc": "Arlong Park",
-  "portrait": "nojiko.png"
+  "portrait": "nojiko.png",
+  "wikiPage": "Nojiko"
  },
  {
   "name": "Nola",
@@ -3748,7 +3926,8 @@
   "firstChapter": 255,
   "firstEpisode": 168,
   "firstArc": "Skypiea",
-  "portrait": "nola.png"
+  "portrait": "nola.png",
+  "wikiPage": "Nola"
  },
  {
   "name": "Oars",
@@ -3767,7 +3946,8 @@
   "firstChapter": 456,
   "firstEpisode": 350,
   "firstArc": "Thriller Bark",
-  "portrait": "oars.png"
+  "portrait": "oars.png",
+  "wikiPage": "Oars"
  },
  {
   "name": "Orlumbus",
@@ -3786,7 +3966,8 @@
   "firstChapter": 704,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "orlumbus.png"
+  "portrait": "orlumbus.png",
+  "wikiPage": "Orlumbus"
  },
  {
   "name": "Otohime",
@@ -3806,7 +3987,8 @@
   "firstChapter": 621,
   "firstEpisode": 539,
   "firstArc": "Fish-Man Island",
-  "portrait": "otohime.png"
+  "portrait": "otohime.png",
+  "wikiPage": "Otohime"
  },
  {
   "name": "Page One",
@@ -3829,7 +4011,8 @@
   "firstChapter": 929,
   "firstEpisode": 923,
   "firstArc": "Wano Country",
-  "portrait": "page-one.png"
+  "portrait": "page-one.png",
+  "wikiPage": "Page One"
  },
  {
   "name": "Pappag",
@@ -3847,7 +4030,8 @@
   "firstChapter": 195,
   "firstEpisode": 385,
   "firstArc": "Alabasta",
-  "portrait": "pappag.png"
+  "portrait": "pappag.png",
+  "wikiPage": "Pappag"
  },
  {
   "name": "Patty",
@@ -3863,7 +4047,8 @@
   "firstChapter": 44,
   "firstEpisode": 21,
   "firstArc": "Baratie",
-  "portrait": "patty.png"
+  "portrait": "patty.png",
+  "wikiPage": "Patty"
  },
  {
   "name": "Paulie",
@@ -3881,7 +4066,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "paulie.png"
+  "portrait": "paulie.png",
+  "wikiPage": "Paulie"
  },
  {
   "name": "Pedro",
@@ -3903,7 +4089,8 @@
   "firstChapter": 805,
   "firstEpisode": 754,
   "firstArc": "Zou",
-  "portrait": "pedro.png"
+  "portrait": "pedro.png",
+  "wikiPage": "Pedro"
  },
  {
   "name": "Peepley Lulu",
@@ -3921,7 +4108,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "peepley-lulu.png"
+  "portrait": "peepley-lulu.png",
+  "wikiPage": "Peepley Lulu"
  },
  {
   "name": "Pekoms",
@@ -3944,7 +4132,8 @@
   "firstChapter": 651,
   "firstEpisode": 570,
   "firstArc": "Fish-Man Island",
-  "portrait": "pekoms.png"
+  "portrait": "pekoms.png",
+  "wikiPage": "Pekoms"
  },
  {
   "name": "Pell",
@@ -3964,7 +4153,8 @@
   "firstChapter": 155,
   "firstEpisode": 91,
   "firstArc": "Alabasta",
-  "portrait": "pell.png"
+  "portrait": "pell.png",
+  "wikiPage": "Pell"
  },
  {
   "name": "Perona",
@@ -3984,7 +4174,8 @@
   "firstChapter": 443,
   "firstEpisode": 338,
   "firstArc": "Thriller Bark",
-  "portrait": "perona.png"
+  "portrait": "perona.png",
+  "wikiPage": "Perona"
  },
  {
   "name": "Pica",
@@ -4005,7 +4196,8 @@
   "firstChapter": 700,
   "firstEpisode": 629,
   "firstArc": "Dressrosa",
-  "portrait": "pica.png"
+  "portrait": "pica.png",
+  "wikiPage": "Pica"
  },
  {
   "name": "Pierre",
@@ -4023,7 +4215,8 @@
   "firstChapter": 237,
   "firstEpisode": 153,
   "firstArc": "Skypiea",
-  "portrait": "pierre.png"
+  "portrait": "pierre.png",
+  "wikiPage": "Pierre"
  },
  {
   "name": "Piiman",
@@ -4041,7 +4234,8 @@
   "firstChapter": 23,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "piiman.png"
+  "portrait": "piiman.png",
+  "wikiPage": "Piiman"
  },
  {
   "name": "Portgas D. Ace",
@@ -4068,7 +4262,8 @@
   "firstChapter": 154,
   "firstEpisode": 91,
   "firstArc": "Drum Island",
-  "portrait": "portgas-d-ace.png"
+  "portrait": "portgas-d-ace.png",
+  "wikiPage": "Portgas D. Ace"
  },
  {
   "name": "Pythagoras",
@@ -4089,7 +4284,8 @@
   "firstChapter": 1065,
   "firstEpisode": 1095,
   "firstArc": "Egghead",
-  "portrait": "pythagoras.png"
+  "portrait": "pythagoras.png",
+  "wikiPage": "Vegapunk/Pythagoras"
  },
  {
   "name": "Queen",
@@ -4113,7 +4309,8 @@
   "firstChapter": 920,
   "firstEpisode": 910,
   "firstArc": "Wano Country",
-  "portrait": "queen.png"
+  "portrait": "queen.png",
+  "wikiPage": "Queen"
  },
  {
   "name": "Raizo",
@@ -4136,7 +4333,8 @@
   "firstChapter": 817,
   "firstEpisode": 768,
   "firstArc": "Zou",
-  "portrait": "raizo.png"
+  "portrait": "raizo.png",
+  "wikiPage": "Raizo"
  },
  {
   "name": "Rebecca",
@@ -4157,7 +4355,8 @@
   "firstChapter": 704,
   "firstEpisode": 633,
   "firstArc": "Dressrosa",
-  "portrait": "rebecca.png"
+  "portrait": "rebecca.png",
+  "wikiPage": "Rebecca"
  },
  {
   "name": "Riku Doldo III",
@@ -4177,7 +4376,8 @@
   "firstChapter": 706,
   "firstEpisode": 636,
   "firstArc": "Dressrosa",
-  "portrait": "riku-doldo-iii.png"
+  "portrait": "riku-doldo-iii.png",
+  "wikiPage": "Riku Doldo III"
  },
  {
   "name": "Rob Lucci",
@@ -4201,7 +4401,8 @@
   "firstChapter": 323,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "rob-lucci.png"
+  "portrait": "rob-lucci.png",
+  "wikiPage": "Rob Lucci"
  },
  {
   "name": "Rocks D. Xebec",
@@ -4224,7 +4425,8 @@
   "firstChapter": 957,
   "firstEpisode": 958,
   "firstArc": "Wano Country",
-  "portrait": "rocks-d-xebec.png"
+  "portrait": "rocks-d-xebec.png",
+  "wikiPage": "Rocks D. Xebec"
  },
  {
   "name": "Rockstar",
@@ -4240,7 +4442,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "rockstar.png"
+  "portrait": "rockstar.png",
+  "wikiPage": "Rockstar"
  },
  {
   "name": "Roronoa Zoro",
@@ -4265,7 +4468,8 @@
   "firstChapter": 3,
   "firstEpisode": 1,
   "firstArc": "Romance Dawn",
-  "portrait": "roronoa-zoro.png"
+  "portrait": "roronoa-zoro.png",
+  "wikiPage": "Roronoa Zoro"
  },
  {
   "name": "Sabo",
@@ -4289,7 +4493,8 @@
   "firstChapter": 583,
   "firstEpisode": 494,
   "firstArc": "Post-War",
-  "portrait": "sabo.png"
+  "portrait": "sabo.png",
+  "wikiPage": "Sabo"
  },
  {
   "name": "Sai",
@@ -4310,7 +4515,8 @@
   "firstChapter": 704,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "sai.png"
+  "portrait": "sai.png",
+  "wikiPage": "Sai"
  },
  {
   "name": "Sakazuki",
@@ -4334,7 +4540,8 @@
   "firstChapter": 397,
   "firstEpisode": 278,
   "firstArc": "Enies Lobby",
-  "portrait": "sakazuki.png"
+  "portrait": "sakazuki.png",
+  "wikiPage": "Sakazuki"
  },
  {
   "name": "Sanji",
@@ -4357,7 +4564,8 @@
   "firstChapter": 43,
   "firstEpisode": 20,
   "firstArc": "Baratie",
-  "portrait": "sanji.png"
+  "portrait": "sanji.png",
+  "wikiPage": "Sanji"
  },
  {
   "name": "Sanjuan Wolf",
@@ -4378,7 +4586,8 @@
   "firstChapter": 575,
   "firstEpisode": 484,
   "firstArc": "Marineford",
-  "portrait": "sanjuan-wolf.png"
+  "portrait": "sanjuan-wolf.png",
+  "wikiPage": "Sanjuan Wolf"
  },
  {
   "name": "Sasaki",
@@ -4399,7 +4608,8 @@
   "firstChapter": 977,
   "firstEpisode": 954,
   "firstArc": "Wano Country",
-  "portrait": "sasaki.png"
+  "portrait": "sasaki.png",
+  "wikiPage": "Sasaki"
  },
  {
   "name": "Scopper Gaban",
@@ -4422,7 +4632,8 @@
   "firstChapter": 19,
   "firstEpisode": 0,
   "firstArc": "Orange Town",
-  "portrait": "scopper-gaban.png"
+  "portrait": "scopper-gaban.png",
+  "wikiPage": "Scopper Gaban"
  },
  {
   "name": "Scratchmen Apoo",
@@ -4446,7 +4657,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "scratchmen-apoo.png"
+  "portrait": "scratchmen-apoo.png",
+  "wikiPage": "Scratchmen Apoo"
  },
  {
   "name": "Sengoku",
@@ -4471,7 +4683,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "sengoku.png"
+  "portrait": "sengoku.png",
+  "wikiPage": "Sengoku"
  },
  {
   "name": "Senor Pink",
@@ -4491,7 +4704,8 @@
   "firstChapter": 702,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "senor-pink.png"
+  "portrait": "senor-pink.png",
+  "wikiPage": "Senor Pink"
  },
  {
   "name": "Sentomaru",
@@ -4510,7 +4724,8 @@
   "firstChapter": 497,
   "firstEpisode": 401,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "sentomaru.png"
+  "portrait": "sentomaru.png",
+  "wikiPage": "Sentomaru"
  },
  {
   "name": "Shaka",
@@ -4531,7 +4746,8 @@
   "firstChapter": 1062,
   "firstEpisode": 1091,
   "firstArc": "Egghead",
-  "portrait": "shaka.png"
+  "portrait": "shaka.png",
+  "wikiPage": "Vegapunk/Shaka"
  },
  {
   "name": "Shakuyaku",
@@ -4551,7 +4767,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "shakuyaku.png"
+  "portrait": "shakuyaku.png",
+  "wikiPage": "Shakuyaku"
  },
  {
   "name": "Shanks",
@@ -4574,7 +4791,8 @@
   "firstChapter": 1,
   "firstEpisode": 4,
   "firstArc": "Romance Dawn",
-  "portrait": "shanks.png"
+  "portrait": "shanks.png",
+  "wikiPage": "Shanks"
  },
  {
   "name": "Shepherd Ju Peter",
@@ -4598,7 +4816,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "shepherd-ju-peter.png"
+  "portrait": "shepherd-ju-peter.png",
+  "wikiPage": "Shepherd Ju Peter"
  },
  {
   "name": "Shimotsuki Ryuma",
@@ -4619,7 +4838,8 @@
   "firstChapter": 1023,
   "firstEpisode": 1046,
   "firstArc": "Wano Country",
-  "portrait": "shimotsuki-ryuma.png"
+  "portrait": "shimotsuki-ryuma.png",
+  "wikiPage": "Shimotsuki Ryuma"
  },
  {
   "name": "Shinobu",
@@ -4637,7 +4857,8 @@
   "firstChapter": 921,
   "firstEpisode": 911,
   "firstArc": "Wano Country",
-  "portrait": "shinobu.png"
+  "portrait": "shinobu.png",
+  "wikiPage": "Shinobu"
  },
  {
   "name": "Shirahoshi",
@@ -4658,7 +4879,8 @@
   "firstChapter": 612,
   "firstEpisode": 531,
   "firstArc": "Fish-Man Island",
-  "portrait": "shirahoshi.png"
+  "portrait": "shirahoshi.png",
+  "wikiPage": "Shirahoshi"
  },
  {
   "name": "Shiryu",
@@ -4681,7 +4903,8 @@
   "firstChapter": 538,
   "firstEpisode": 440,
   "firstArc": "Impel Down",
-  "portrait": "shiryu.png"
+  "portrait": "shiryu.png",
+  "wikiPage": "Shiryu"
  },
  {
   "name": "Silvers Rayleigh",
@@ -4704,7 +4927,8 @@
   "firstChapter": 19,
   "firstEpisode": 8,
   "firstArc": "Orange Town",
-  "portrait": "silvers-rayleigh.png"
+  "portrait": "silvers-rayleigh.png",
+  "wikiPage": "Silvers Rayleigh"
  },
  {
   "name": "Smoker",
@@ -4728,7 +4952,8 @@
   "firstChapter": 97,
   "firstEpisode": 48,
   "firstArc": "Loguetown",
-  "portrait": "smoker.png"
+  "portrait": "smoker.png",
+  "wikiPage": "Smoker"
  },
  {
   "name": "Sommers",
@@ -4751,7 +4976,8 @@
   "firstChapter": 1140,
   "firstEpisode": 1170,
   "firstArc": "Elbaf",
-  "portrait": "sommers.png"
+  "portrait": "sommers.png",
+  "wikiPage": "Shepherd Sommers"
  },
  {
   "name": "Spandam",
@@ -4767,7 +4993,8 @@
   "firstChapter": 355,
   "firstEpisode": 249,
   "firstArc": "Water 7",
-  "portrait": "spandam.png"
+  "portrait": "spandam.png",
+  "wikiPage": "Spandam"
  },
  {
   "name": "Stussy",
@@ -4790,7 +5017,8 @@
   "firstChapter": 860,
   "firstEpisode": 828,
   "firstArc": "Whole Cake Island",
-  "portrait": "stussy.png"
+  "portrait": "stussy.png",
+  "wikiPage": "Stussy"
  },
  {
   "name": "Sugar",
@@ -4808,7 +5036,8 @@
   "firstChapter": 682,
   "firstEpisode": 608,
   "firstArc": "Punk Hazard",
-  "portrait": "sugar.png"
+  "portrait": "sugar.png",
+  "wikiPage": "Sugar"
  },
  {
   "name": "Tamanegi",
@@ -4826,7 +5055,8 @@
   "firstChapter": 23,
   "firstEpisode": 9,
   "firstArc": "Syrup Village",
-  "portrait": "tamanegi.png"
+  "portrait": "tamanegi.png",
+  "wikiPage": "Tamanegi"
  },
  {
   "name": "Tashigi",
@@ -4845,7 +5075,8 @@
   "firstChapter": 96,
   "firstEpisode": 48,
   "firstArc": "Loguetown",
-  "portrait": "tashigi.png"
+  "portrait": "tashigi.png",
+  "wikiPage": "Tashigi"
  },
  {
   "name": "Thatch",
@@ -4861,7 +5092,8 @@
   "firstChapter": 440,
   "firstEpisode": 325,
   "firstArc": "Post-Enies Lobby",
-  "portrait": "thatch.png"
+  "portrait": "thatch.png",
+  "wikiPage": "Thatch"
  },
  {
   "name": "Tom",
@@ -4877,7 +5109,8 @@
   "firstChapter": 352,
   "firstEpisode": 248,
   "firstArc": "Water 7",
-  "portrait": "tom.png"
+  "portrait": "tom.png",
+  "wikiPage": "Tom"
  },
  {
   "name": "Tony Tony Chopper",
@@ -4898,7 +5131,8 @@
   "firstChapter": 134,
   "firstEpisode": 81,
   "firstArc": "Drum Island",
-  "portrait": "tony-tony-chopper.png"
+  "portrait": "tony-tony-chopper.png",
+  "wikiPage": "Tony Tony Chopper"
  },
  {
   "name": "Topman Warcury",
@@ -4922,7 +5156,8 @@
   "firstChapter": 233,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "topman-warcury.png"
+  "portrait": "topman-warcury.png",
+  "wikiPage": "Topman Warcury"
  },
  {
   "name": "Trafalgar D. Water Law",
@@ -4947,7 +5182,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "trafalgar-d-water-law.png"
+  "portrait": "trafalgar-d-water-law.png",
+  "wikiPage": "Trafalgar D. Water Law"
  },
  {
   "name": "Trebol",
@@ -4968,7 +5204,8 @@
   "firstChapter": 700,
   "firstEpisode": 629,
   "firstArc": "Dressrosa",
-  "portrait": "trebol.png"
+  "portrait": "trebol.png",
+  "wikiPage": "Trebol"
  },
  {
   "name": "Tsuru",
@@ -4991,7 +5228,8 @@
   "firstChapter": 234,
   "firstEpisode": 151,
   "firstArc": "Jaya",
-  "portrait": "tsuru.png"
+  "portrait": "tsuru.png",
+  "wikiPage": "Tsuru"
  },
  {
   "name": "Ulti",
@@ -5012,7 +5250,8 @@
   "firstChapter": 977,
   "firstEpisode": 982,
   "firstArc": "Wano Country",
-  "portrait": "ulti.png"
+  "portrait": "ulti.png",
+  "wikiPage": "Ulti"
  },
  {
   "name": "Urouge",
@@ -5032,7 +5271,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "urouge.png"
+  "portrait": "urouge.png",
+  "wikiPage": "Urouge"
  },
  {
   "name": "Usopp",
@@ -5054,7 +5294,8 @@
   "firstChapter": 23,
   "firstEpisode": 8,
   "firstArc": "Syrup Village",
-  "portrait": "usopp.png"
+  "portrait": "usopp.png",
+  "wikiPage": "Usopp"
  },
  {
   "name": "Van Augur",
@@ -5075,7 +5316,8 @@
   "firstChapter": 222,
   "firstEpisode": 146,
   "firstArc": "Jaya",
-  "portrait": "van-augur.png"
+  "portrait": "van-augur.png",
+  "wikiPage": "Van Augur"
  },
  {
   "name": "Vander Decken IX",
@@ -5096,7 +5338,8 @@
   "firstChapter": 606,
   "firstEpisode": 525,
   "firstArc": "Fish-Man Island",
-  "portrait": "vander-decken-ix.png"
+  "portrait": "vander-decken-ix.png",
+  "wikiPage": "Vander Decken IX"
  },
  {
   "name": "Vasco Shot",
@@ -5116,7 +5359,8 @@
   "firstChapter": 575,
   "firstEpisode": 484,
   "firstArc": "Marineford",
-  "portrait": "vasco-shot.png"
+  "portrait": "vasco-shot.png",
+  "wikiPage": "Vasco Shot"
  },
  {
   "name": "Vegapunk",
@@ -5137,7 +5381,8 @@
   "firstChapter": 684,
   "firstEpisode": 610,
   "firstArc": "Punk Hazard",
-  "portrait": "vegapunk.png"
+  "portrait": "vegapunk.png",
+  "wikiPage": "Vegapunk"
  },
  {
   "name": "Vergo",
@@ -5159,7 +5404,8 @@
   "firstChapter": 671,
   "firstEpisode": 597,
   "firstArc": "Punk Hazard",
-  "portrait": "vergo.png"
+  "portrait": "vergo.png",
+  "wikiPage": "Vergo"
  },
  {
   "name": "Vinsmoke Ichiji",
@@ -5178,7 +5424,8 @@
   "firstChapter": 828,
   "firstEpisode": 787,
   "firstArc": "Whole Cake Island",
-  "portrait": "vinsmoke-ichiji.png"
+  "portrait": "vinsmoke-ichiji.png",
+  "wikiPage": "Vinsmoke Ichiji"
  },
  {
   "name": "Vinsmoke Judge",
@@ -5197,7 +5444,8 @@
   "firstChapter": 832,
   "firstEpisode": 793,
   "firstArc": "Whole Cake Island",
-  "portrait": "vinsmoke-judge.png"
+  "portrait": "vinsmoke-judge.png",
+  "wikiPage": "Vinsmoke Judge"
  },
  {
   "name": "Vinsmoke Niji",
@@ -5216,7 +5464,8 @@
   "firstChapter": 828,
   "firstEpisode": 787,
   "firstArc": "Whole Cake Island",
-  "portrait": "vinsmoke-niji.png"
+  "portrait": "vinsmoke-niji.png",
+  "wikiPage": "Vinsmoke Niji"
  },
  {
   "name": "Vinsmoke Reiju",
@@ -5235,7 +5484,8 @@
   "firstChapter": 826,
   "firstEpisode": 784,
   "firstArc": "Whole Cake Island",
-  "portrait": "vinsmoke-reiju.png"
+  "portrait": "vinsmoke-reiju.png",
+  "wikiPage": "Vinsmoke Reiju"
  },
  {
   "name": "Vinsmoke Yonji",
@@ -5254,7 +5504,8 @@
   "firstChapter": 825,
   "firstEpisode": 783,
   "firstArc": "Whole Cake Island",
-  "portrait": "vinsmoke-yonji.png"
+  "portrait": "vinsmoke-yonji.png",
+  "wikiPage": "Vinsmoke Yonji"
  },
  {
   "name": "Viola",
@@ -5274,7 +5525,8 @@
   "firstChapter": 703,
   "firstEpisode": 632,
   "firstArc": "Dressrosa",
-  "portrait": "viola.png"
+  "portrait": "viola.png",
+  "wikiPage": "Viola"
  },
  {
   "name": "Vista",
@@ -5296,7 +5548,8 @@
   "firstChapter": 552,
   "firstEpisode": 0,
   "firstArc": "Marineford",
-  "portrait": "vista.png"
+  "portrait": "vista.png",
+  "wikiPage": "Vista"
  },
  {
   "name": "Wanda",
@@ -5312,7 +5565,8 @@
   "firstChapter": 804,
   "firstEpisode": 753,
   "firstArc": "Zou",
-  "portrait": "wanda.png"
+  "portrait": "wanda.png",
+  "wikiPage": "Wanda"
  },
  {
   "name": "Wapol",
@@ -5332,7 +5586,8 @@
   "firstChapter": 131,
   "firstEpisode": 79,
   "firstArc": "Drum Island",
-  "portrait": "wapol.png"
+  "portrait": "wapol.png",
+  "wikiPage": "Wapol"
  },
  {
   "name": "Who's-Who",
@@ -5356,7 +5611,8 @@
   "firstChapter": 977,
   "firstEpisode": 954,
   "firstArc": "Wano Country",
-  "portrait": "who-s-who.png"
+  "portrait": "who-s-who.png",
+  "wikiPage": "Who's-Who"
  },
  {
   "name": "Woop Slap",
@@ -5372,7 +5628,8 @@
   "firstChapter": 1,
   "firstEpisode": 4,
   "firstArc": "Romance Dawn",
-  "portrait": "woop-slap.png"
+  "portrait": "woop-slap.png",
+  "wikiPage": "Woop Slap"
  },
  {
   "name": "Wyper",
@@ -5391,7 +5648,8 @@
   "firstChapter": 237,
   "firstEpisode": 153,
   "firstArc": "Skypiea",
-  "portrait": "wyper.png"
+  "portrait": "wyper.png",
+  "wikiPage": "Wyper"
  },
  {
   "name": "X Drake",
@@ -5416,7 +5674,8 @@
   "firstChapter": 498,
   "firstEpisode": 392,
   "firstArc": "Sabaody Archipelago",
-  "portrait": "x-drake.png"
+  "portrait": "x-drake.png",
+  "wikiPage": "X Drake"
  },
  {
   "name": "Yamato",
@@ -5442,7 +5701,8 @@
   "firstChapter": 971,
   "firstEpisode": 972,
   "firstArc": "Wano Country",
-  "portrait": "yamato.png"
+  "portrait": "yamato.png",
+  "wikiPage": "Yamato"
  },
  {
   "name": "Yasopp",
@@ -5462,7 +5722,8 @@
   "firstChapter": 1,
   "firstEpisode": 4,
   "firstArc": "Romance Dawn",
-  "portrait": "yasopp.png"
+  "portrait": "yasopp.png",
+  "wikiPage": "Yasopp"
  },
  {
   "name": "York",
@@ -5482,7 +5743,8 @@
   "firstChapter": 1065,
   "firstEpisode": 1095,
   "firstArc": "Egghead",
-  "portrait": "york.png"
+  "portrait": "york.png",
+  "wikiPage": "Vegapunk/York"
  },
  {
   "name": "Yosaku",
@@ -5500,7 +5762,8 @@
   "firstChapter": 42,
   "firstEpisode": 20,
   "firstArc": "Baratie",
-  "portrait": "yosaku.png"
+  "portrait": "yosaku.png",
+  "wikiPage": "Yosaku"
  },
  {
   "name": "Zala",
@@ -5522,7 +5785,8 @@
   "firstChapter": 155,
   "firstEpisode": 103,
   "firstArc": "Alabasta",
-  "portrait": "zala.png"
+  "portrait": "zala.png",
+  "wikiPage": "Zala"
  },
  {
   "name": "Zambai",
@@ -5538,7 +5802,8 @@
   "firstChapter": 324,
   "firstEpisode": 230,
   "firstArc": "Water 7",
-  "portrait": "zambai.png"
+  "portrait": "zambai.png",
+  "wikiPage": "Zambai"
  },
  {
   "name": "Zeff",
@@ -5557,6 +5822,7 @@
   "firstChapter": 43,
   "firstEpisode": 20,
   "firstArc": "Baratie",
-  "portrait": "zeff.png"
+  "portrait": "zeff.png",
+  "wikiPage": "Zeff"
  }
 ]

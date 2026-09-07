@@ -31,7 +31,16 @@ const emit = defineEmits(['close'])
 
       <h3>Clues</h3>
       <p>Stuck? After several guesses you unlock the <b>First Appearance</b> clue (chapter/episode) and the <b>Devil Fruit</b> clue (fruit name).</p>
-      <p class="note">A new character every day at midnight (your local time). Data from the One Piece Wiki — current story spoilers included!</p>
+      <h3>Modes</h3>
+      <table class="props">
+        <tbody>
+          <tr><td>☠️ Classic</td><td>One character per day, shared by everyone. Resets at your local midnight.</td></tr>
+          <tr><td>🎲 Practice</td><td>Unlimited random characters — hit <b>New character</b> any time to reroll.</td></tr>
+          <tr><td>📖 Gallery</td><td>Browse all characters and search by name, crew, devil fruit, haki or origin. Tap a card for full details.</td></tr>
+        </tbody>
+      </table>
+
+      <p class="note">Data from the One Piece Wiki — current story spoilers included!</p>
     </div>
   </div>
 </template>

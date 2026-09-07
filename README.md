@@ -13,6 +13,8 @@ Built with Vue 3 + Vite. Fully responsive — all nine columns fit on a phone sc
 - All property data is re-derived from the [One Piece Wiki](https://onepiece.fandom.com), so bounties
   and story facts are current rather than frozen at the original app's last update.
 - **Practice mode** (🎲) in addition to the daily character — replay as often as you like.
+- **Character gallery** (📖) — browse the whole roster, search across name, aliases, crew, devil fruit,
+  haki, origin and debut arc, and open any card for full details plus a link to its wiki page.
 - Unknown/unconfirmed Devil Fruit, Haki and Origin values are shown as `Unknown` / `?` rather than guessed.
 
 ⚠️ The data includes **current manga spoilers**.
