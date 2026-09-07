@@ -3,3 +3,7 @@ dist
 tools/cache
 tools/out/dossier
 .DS_Store
+api/.wrangler
+api/node_modules
+.env
+.env.local

@@ -14,6 +14,7 @@ import WinPanel from './components/WinPanel.vue'
 import HelpModal from './components/HelpModal.vue'
 import StatsModal from './components/StatsModal.vue'
 import CluesPanel from './components/CluesPanel.vue'
+import { apiEnabled, fetchCount, reportSolve } from './game/api.js'
 import GalleryPanel from './components/GalleryPanel.vue'
 import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
@@ -29,6 +30,13 @@ const galleryPick = ref(null)
 const streak = ref(currentStreak())
 const arcLimit = ref(loadArcLimit())
 const excluded = ref(loadExcluded())
+const solveCount = ref(null)
+
+async function refreshCount() {
+  if (!apiEnabled) return
+  const r = await fetchCount(localDateString(), arcLimit.value)
+  if (r) solveCount.value = r.count
+}
 
 // Everything the player can meet — answers, suggestions, gallery — comes from here.
 const pool = computed(() => {
@@ -102,6 +110,8 @@ function applyArcLimit(next) {
   restoreDaily()
   newPractice()
   galleryPick.value = null
+  solveCount.value = null
+  refreshCount()
 }
 
 function submitGuess(char) {
@@ -122,7 +132,12 @@ function submitGuess(char) {
     g.won = true
     if (isDaily) daily.triesAtWin = daily.guesses.length
     recordWin(statMode, g.guesses.length)
-    if (isDaily) streak.value = currentStreak()
+    if (isDaily) {
+      streak.value = currentStreak()
+      reportSolve(localDateString(), arcLimit.value, char.name).then(r => {
+        if (r) solveCount.value = r.count
+      })
+    }
   }
   if (isDaily) persistDaily()
 }
@@ -157,6 +172,7 @@ function tick() {
 onMounted(() => {
   restoreDaily()
   newPractice()
+  refreshCount()
   tick()
   timer = setInterval(tick, 1000)
   if (!localStorage.getItem('opdle:visited')) {
@@ -232,6 +248,10 @@ const base = import.meta.env.BASE_URL
           <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
             🎲 New character
           </button>
+          <p v-if="mode === 'daily' && solveCount !== null" class="solve-count">
+            <b>{{ solveCount.toLocaleString() }}</b>
+            {{ solveCount === 1 ? 'person' : 'people' }} already found out!
+          </p>
           <p v-if="mode === 'practice' && excluded.size" class="practice-pool">
             Drawing from <b>{{ practicePool.length }}</b> of {{ pool.length }} characters
             <template v-if="!practicePool.length">— none selected, using all</template>
@@ -419,6 +439,13 @@ const base = import.meta.env.BASE_URL
   font-size: 13px;
   color: var(--brown);
 }
+
+.solve-count {
+  margin: 14px 0 0;
+  font-size: 15px;
+  color: var(--brown-dark);
+}
+.solve-count b { color: #c0392b; font-size: 17px; }
 
 .starter-btn {
   border: 2px solid var(--tan);

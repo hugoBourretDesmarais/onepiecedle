@@ -1,0 +1,12 @@
+name = "onepiecedle-api"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "onepiecedle"
+database_id = "29e7fcdf-816e-4c27-bf6a-3175c58f899d"
+
+[vars]
+ALLOWED_ORIGINS = "https://hugobourretdesmarais.github.io,http://localhost:5199,http://localhost:5173"
