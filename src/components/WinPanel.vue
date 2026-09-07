@@ -1,5 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
+import Icon from './Icon.vue'
 
 const props = defineProps({
   answer: { type: Object, required: true },
@@ -44,13 +45,13 @@ async function share() {
     <template v-if="mode === 'daily'">
       <p class="win-next">Next character in <b class="countdown">{{ countdown }}</b></p>
       <div class="win-actions">
-        <button class="win-btn" @click="share">{{ copied ? 'Copied!' : 'Share 📋' }}</button>
-        <button class="win-btn" @click="emit('practice')">Practice mode 🎲</button>
+        <button class="win-btn" @click="share"><Icon name='share' :size='16' /> {{ copied ? 'Copied!' : 'Share' }}</button>
+        <button class="win-btn" @click="emit('practice')">Practice mode</button>
       </div>
     </template>
     <template v-else>
       <div class="win-actions">
-        <button class="win-btn" @click="emit('replay')">Play again 🎲</button>
+        <button class="win-btn" @click="emit('replay')">Play again</button>
       </div>
     </template>
   </section>
@@ -63,6 +64,10 @@ async function share() {
   text-align: center;
   animation: pop .35s ease;
 }
+@keyframes portrait-pop {
+  from { transform: scale(.5) rotate(-8deg); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
 @keyframes pop {
   0% { transform: scale(.85); opacity: 0; }
   100% { transform: scale(1); opacity: 1; }
@@ -74,6 +79,7 @@ h2 {
   font-size: 30px;
 }
 .win-portrait {
+  animation: portrait-pop .45s cubic-bezier(.2, .9, .3, 1.5) both .05s;
   width: 110px;
   height: 110px;
   object-fit: cover;
@@ -103,6 +109,9 @@ h2 {
   margin-top: 14px;
 }
 .win-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   border: 2px solid var(--tan);
   background: var(--parchment-dark);
   color: var(--brown-dark);

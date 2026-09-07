@@ -18,6 +18,8 @@ import { apiEnabled, fetchCount, reportSolve, submitResult } from './game/api.js
 import GalleryPanel from './components/GalleryPanel.vue'
 import LeaderboardModal from './components/LeaderboardModal.vue'
 import Confetti from './components/Confetti.vue'
+import SeaBackground from './components/SeaBackground.vue'
+import Icon from './components/Icon.vue'
 import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
 
@@ -234,50 +236,62 @@ onUnmounted(() => {
   clearTimeout(revealTimer)
 })
 
+// Rotates the backdrop once a day so the page doesn't look static day to day.
+const bgSeed = computed(() => {
+  // ?bg=0..4 forces a palette, for previewing the other times of day
+  const forced = Number(new URLSearchParams(location.search).get('bg'))
+  if (Number.isInteger(forced)) return forced
+  const d = localDateString()
+  return (Number(d.slice(0, 4)) * 372 + Number(d.slice(5, 7)) * 31 + Number(d.slice(8, 10)))
+})
+
 const base = import.meta.env.BASE_URL
 </script>
 
 <template>
   <div class="page">
+    <SeaBackground :seed="bgSeed" />
     <header class="header">
       <h1 class="logo" aria-label="One Piece Dle">
-        <span v-for="(ch, i) in 'ONEPIECEDLE'" :key="i" :class="i % 2 ? 'lb' : 'lr'">{{ ch }}</span>
+        <span
+          v-for="(ch, i) in 'ONEPIECEDLE'" :key="i" :class="i % 2 ? 'lb' : 'lr'"
+          :style="{ animationDelay: i * 45 + 'ms' }">{{ ch }}</span>
       </h1>
 
       <div class="modes">
         <button class="mode-btn" :class="{ active: mode === 'daily' }" title="Classic (daily)"
           @click="mode = 'daily'">
-          <span class="mode-ico">☠️</span>
+          <Icon class="mode-ico" name="skull" :size="30" />
           <span v-if="daily.won" class="mode-check">✔</span>
         </button>
         <button class="mode-btn" :class="{ active: mode === 'practice' }" title="Practice (unlimited)"
           @click="mode = 'practice'">
-          <span class="mode-ico">🎲</span>
+          <Icon class="mode-ico" name="dice" :size="30" />
           <span v-if="practice.won" class="mode-check">✔</span>
         </button>
         <button class="mode-btn" :class="{ active: mode === 'gallery' }" title="Character gallery"
           @click="mode = 'gallery'">
-          <span class="mode-ico">📖</span>
+          <Icon class="mode-ico" name="book" :size="30" />
         </button>
       </div>
 
       <div class="toolbar panel">
-        <button class="tool" title="Statistics" @click="showStats = true">📊</button>
-        <span class="tool streak" title="Daily win streak">🔥<b>{{ streak }}</b></span>
+        <button class="tool" title="Statistics" @click="showStats = true"><Icon name="chart" :size="23" /></button>
+        <span class="tool streak" title="Daily win streak"><Icon name="flame" :size="22" /><b>{{ streak }}</b></span>
         <span class="tool daily-num" :title="`Daily character #${daily.number}`">#{{ daily.number }}</span>
         <button
           class="tool" :class="{ 'tool-on': arcLimit }"
           :title="arcLimit ? `Spoiler limit: up to ${arcLimit}` : 'Settings'"
-          @click="showSettings = true">⚙️</button>
+          @click="showSettings = true"><Icon name="wheel" :size="23" /></button>
         <button
           class="tool" :class="{ 'tool-on': account }"
           :title="account ? `Leaderboard — playing as ${account.name}` : 'Leaderboard'"
-          @click="showBoard = true">🏆</button>
-        <button class="tool" title="How to play" @click="showHelp = true">❓</button>
+          @click="showBoard = true"><Icon name="trophy" :size="23" /></button>
+        <button class="tool" title="How to play" @click="showHelp = true"><Icon name="help" :size="23" /></button>
       </div>
 
       <p v-if="arcLimit" class="arc-banner">
-        📖 Spoiler-safe up to <b>{{ arcLimit }}</b> — {{ pool.length }} of {{ characters.length }} characters
+        <Icon name="book" :size="15" /> Spoiler-safe up to <b>{{ arcLimit }}</b> — {{ pool.length }} of {{ characters.length }} characters
         <button class="arc-clear" @click="applyArcLimit(null)">clear</button>
       </p>
     </header>
@@ -302,7 +316,8 @@ const base = import.meta.env.BASE_URL
           <h2 v-else>PRACTICE MODE — GUESS THE CHARACTER!</h2>
           <CluesPanel :answer="game.answer" :tries="game.guesses.length" :won="game.won" />
           <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
-            🎲 New character
+            <Icon name="dice" :size="18" />
+            New character
           </button>
           <p v-if="mode === 'daily' && solveCount !== null" class="solve-count">
             <b>{{ solveCount.toLocaleString() }}</b>
@@ -311,7 +326,7 @@ const base = import.meta.env.BASE_URL
           <p v-if="mode === 'practice' && excluded.size" class="practice-pool">
             Drawing from <b>{{ practicePool.length }}</b> of {{ pool.length }} characters
             <template v-if="!practicePool.length">— none selected, using all</template>
-            <span class="pool-hint">· change this in the 📖 gallery</span>
+            <span class="pool-hint">· change this in the gallery</span>
           </p>
         </section>
 
@@ -392,11 +407,21 @@ const base = import.meta.env.BASE_URL
   user-select: none;
 }
 .logo span {
+  display: inline-block;
+  animation: logo-drop .5s cubic-bezier(.2, .8, .3, 1.4) both;
   -webkit-text-stroke: 2px #fff;
   paint-order: stroke fill;
   text-shadow: 2px 3px 0 rgba(0, 0, 0, 0.35);
 }
 .logo .lr { color: #d23f3f; }
+@keyframes logo-drop {
+  from { transform: translateY(-18px) rotate(-6deg); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@keyframes banner-in {
+  from { transform: translateY(-6px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
 .logo .lb { color: #3f6fd2; }
 
 .modes { display: flex; gap: 16px; }
@@ -414,9 +439,16 @@ const base = import.meta.env.BASE_URL
   filter: grayscale(.7) brightness(.85);
   transition: transform .12s, filter .12s;
 }
-.mode-btn.active { filter: none; transform: scale(1.08); border-color: #caa96b; }
-.mode-btn:hover { filter: none; }
-.mode-ico { pointer-events: none; }
+.mode-btn.active {
+  filter: none;
+  transform: scale(1.09);
+  border-color: #caa96b;
+  box-shadow: 0 0 0 3px rgba(202, 169, 107, .35), 0 6px 16px rgba(0, 0, 0, .35);
+}
+.mode-btn:hover { filter: none; transform: translateY(-2px) scale(1.05); }
+.mode-btn:active { transform: translateY(0) scale(.98); }
+.mode-ico { pointer-events: none; color: #f2e2bd; }
+.mode-btn.active .mode-ico { color: #ffe9a8; }
 .mode-check {
   position: absolute;
   bottom: -6px;
@@ -440,12 +472,18 @@ const base = import.meta.env.BASE_URL
   padding: 6px 12px;
 }
 .tool {
+  color: #6b4f27;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
   background: none;
   border: none;
   font-size: 20px;
-  padding: 4px 8px;
+  padding: 5px 8px;
+  border-radius: 10px;
   color: var(--brown-dark);
 }
+button.tool:hover { background: rgba(140, 105, 55, .14); }
 .streak b { font-size: 15px; margin-left: 2px; }
 .daily-num {
   font-weight: 700;
@@ -479,6 +517,9 @@ const base = import.meta.env.BASE_URL
 }
 
 .reset-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   margin-top: 14px;
   border: 2px solid var(--tan);
   background: var(--parchment-dark);
@@ -510,6 +551,9 @@ const base = import.meta.env.BASE_URL
 .solve-count b { color: #c0392b; font-size: 17px; }
 
 .starter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   border: 2px solid var(--tan);
   background: var(--parchment);
   color: var(--brown-dark);
@@ -529,6 +573,7 @@ const base = import.meta.env.BASE_URL
 
 .arc-banner {
   margin: 0;
+  animation: banner-in .3s ease both;
   padding: 6px 12px;
   border-radius: 14px;
   background: rgba(0, 0, 0, 0.28);

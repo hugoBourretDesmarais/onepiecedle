@@ -1,5 +1,6 @@
 <script setup>
 import { computed, ref, watch } from 'vue'
+import Icon from './Icon.vue'
 
 const props = defineProps({
   answer: { type: Object, required: true },
@@ -33,7 +34,7 @@ const fruitText = computed(() => {
   <div class="clues">
     <div class="clue">
       <button class="clue-btn" :disabled="!firstUnlocked" @click="showFirst = !showFirst">
-        <span class="clue-ico">📖</span>
+        <Icon class="clue-ico" name="scroll" :size="30" />
         <span class="clue-label">First Appearance Clue</span>
         <span v-if="!firstUnlocked" class="clue-lock">in {{ firstLeft }} {{ firstLeft === 1 ? 'try' : 'tries' }}</span>
       </button>
@@ -43,7 +44,7 @@ const fruitText = computed(() => {
     </div>
     <div class="clue">
       <button class="clue-btn" :disabled="!fruitUnlocked" @click="showFruit = !showFruit">
-        <span class="clue-ico">🍈</span>
+        <Icon class="clue-ico" name="fruit" :size="30" />
         <span class="clue-label">Devil Fruit Clue</span>
         <span v-if="!fruitUnlocked" class="clue-lock">in {{ fruitLeft }} {{ fruitLeft === 1 ? 'try' : 'tries' }}</span>
       </button>
@@ -78,9 +79,18 @@ const fruitText = computed(() => {
   gap: 6px;
   padding: 10px;
 }
-.clue-btn:not(:disabled):hover { background: var(--parchment-dark); }
+.clue-btn:not(:disabled):hover {
+  background: var(--parchment-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, .18);
+}
+.clue-value { animation: clue-in .25s ease both; }
+@keyframes clue-in {
+  from { transform: translateY(-4px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
 .clue-btn:disabled { opacity: .6; cursor: default; }
-.clue-ico { font-size: 26px; }
+.clue-ico { color: var(--brown); }
 .clue-label {
   font-weight: 700;
   text-transform: uppercase;

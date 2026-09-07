@@ -58,6 +58,21 @@ guesses per win, best game, the guesses-per-win distribution and your five most-
 Classic additionally tracks streaks; a streak counts **consecutive days** won, so missing a day resets
 it to zero, and winning a second daily on the same day (by changing the spoiler limit) doesn't inflate it.
 
+## Look and feel
+
+Everything visual is generated rather than copied — no third-party artwork is bundled:
+
+- **Backdrop** — an animated SVG seascape (`SeaBackground.vue`) with drifting cloud bands, rolling
+  swell, a ship on the horizon and wheeling birds. Five palettes (morning, noon, golden hour, dusk,
+  night, the last with a twinkling star field) rotate by date, so the page changes day to day.
+  Append `?bg=0`–`?bg=4` to preview a specific one.
+- **Paper** — panels use an inline SVG `feTurbulence` grain plus warm gradients and an inset
+  shadow, so parchment scales cleanly instead of tiling like a bitmap, at no extra request.
+- **Icons** — a hand-drawn SVG set (`Icon.vue`) replaces emoji, which render differently on every
+  platform and can't be recoloured or sized reliably.
+
+All motion is suppressed under `prefers-reduced-motion`.
+
 ## Data pipeline
 
 Character data is generated from the wiki, not hand-written. The scripts live in `tools/`:
