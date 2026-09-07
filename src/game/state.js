@@ -79,6 +79,17 @@ export function saveArcLimit(arcName) {
   save('arcLimit', arcName)
 }
 
+// { id, name, code } — the code is the only credential, so losing it means
+// losing the account; the UI makes the player save it before continuing.
+export function loadAccount() {
+  return load('account', null)
+}
+
+export function saveAccount(account) {
+  if (account) save('account', account)
+  else localStorage.removeItem(`${KEY}:account`)
+}
+
 // Stored as exclusions so characters added to the roster later default to in.
 export function loadExcluded() {
   return new Set(load('excluded', []))

@@ -70,10 +70,21 @@ python3 tools/build_dataset.py      # merge + validate -> src/data/characters.js
 overrides that `build_dataset.py` merges over the raw parse; `tools/out/final_report.txt` reports the
 resulting value vocabularies and anything that needed attention.
 
-## Backend (solve counter)
+## Backend (solve counter + leaderboard)
 
 `api/` is a Cloudflare Worker backed by a D1 database. It powers the
-“N people already found out!” counter under the daily puzzle.
+“N people already found out!” counter and the 🏆 leaderboard.
+
+Accounts are a pseudonym plus a server-generated recovery code — no email, no third-party
+auth. Only the code's salted hash is stored, so a database dump can't be replayed as a login.
+The code is the sole credential: losing it loses the account, which the UI states plainly
+before the player continues.
+
+Only unlimited classic games are ranked; a spoiler limit shrinks the roster enough to make
+those wins incomparable. Streaks are derived from the stored result days rather than
+incremented, so a result arriving out of order still lands correctly. Ranked averages need
+3+ wins. Local 📊 stats are per-device and deliberately separate from the ranked record —
+they can't be verified, so they're never backfilled into it.
 
 The worker recomputes the day's answer itself from a generated copy of the dataset, and only
 counts a solve whose submitted name matches — so the tally can't be inflated by anyone who

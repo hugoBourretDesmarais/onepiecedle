@@ -5,8 +5,8 @@ import arcs from './data/arcs.json'
 import { COLUMNS, compareGuess } from './game/compare.js'
 import {
   dailyIndex, dailyNumber, loadDailyState, loadArcLimit, loadExcluded, localDateString,
-  msUntilMidnight, randomIndex, recordGuess, recordPracticeStart, recordWin, saveArcLimit,
-  saveDailyState, saveExcluded, currentStreak,
+  loadAccount, msUntilMidnight, randomIndex, recordGuess, recordPracticeStart, recordWin,
+  saveAccount, saveArcLimit, saveDailyState, saveExcluded, currentStreak,
 } from './game/state.js'
 import GuessInput from './components/GuessInput.vue'
 import GuessRow from './components/GuessRow.vue'
@@ -14,8 +14,9 @@ import WinPanel from './components/WinPanel.vue'
 import HelpModal from './components/HelpModal.vue'
 import StatsModal from './components/StatsModal.vue'
 import CluesPanel from './components/CluesPanel.vue'
-import { apiEnabled, fetchCount, reportSolve } from './game/api.js'
+import { apiEnabled, fetchCount, reportSolve, submitResult } from './game/api.js'
 import GalleryPanel from './components/GalleryPanel.vue'
+import LeaderboardModal from './components/LeaderboardModal.vue'
 import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
 
@@ -27,6 +28,8 @@ const showHelp = ref(false)
 const showStats = ref(false)
 const showSettings = ref(false)
 const galleryPick = ref(null)
+const showBoard = ref(false)
+const account = ref(loadAccount())
 const streak = ref(currentStreak())
 const arcLimit = ref(loadArcLimit())
 const excluded = ref(loadExcluded())
@@ -104,6 +107,11 @@ function persistDaily() {
   })
 }
 
+function setAccount(next) {
+  account.value = next
+  saveAccount(next)
+}
+
 function applyArcLimit(next) {
   arcLimit.value = next
   saveArcLimit(next)
@@ -137,6 +145,7 @@ function submitGuess(char) {
       reportSolve(localDateString(), arcLimit.value, char.name).then(r => {
         if (r) solveCount.value = r.count
       })
+      submitResult(account.value, localDateString(), arcLimit.value, g.guesses.length, char.name)
     }
   }
   if (isDaily) persistDaily()
@@ -217,6 +226,10 @@ const base = import.meta.env.BASE_URL
           class="tool" :class="{ 'tool-on': arcLimit }"
           :title="arcLimit ? `Spoiler limit: up to ${arcLimit}` : 'Settings'"
           @click="showSettings = true">⚙️</button>
+        <button
+          class="tool" :class="{ 'tool-on': account }"
+          :title="account ? `Leaderboard — playing as ${account.name}` : 'Leaderboard'"
+          @click="showBoard = true">🏆</button>
         <button class="tool" title="How to play" @click="showHelp = true">❓</button>
       </div>
 
@@ -299,6 +312,9 @@ const base = import.meta.env.BASE_URL
     <HelpModal v-if="showHelp" @close="showHelp = false" />
     <StatsModal v-if="showStats" :characters="characters" @close="showStats = false" />
     <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />
+    <LeaderboardModal
+      v-if="showBoard" :account="account" :day="localDateString()"
+      @account="setAccount" @close="showBoard = false" />
     <SettingsModal
       v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"
       @update:arc-limit="applyArcLimit" @close="showSettings = false" />

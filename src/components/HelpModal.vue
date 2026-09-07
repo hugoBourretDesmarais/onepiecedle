@@ -40,6 +40,14 @@ const emit = defineEmits(['close'])
         </tbody>
       </table>
 
+      <h3>🏆 Leaderboard</h3>
+      <p>
+        Pick a pseudonym to join — no email required. You get a <b>recovery code</b>; save it, because
+        it's the only way to reach your record from another device or after clearing your browser.
+        Only classic games with <b>no spoiler limit</b> are ranked, since a limited roster is much
+        easier. Your local 📊 stats stay on this device and are separate from your ranked record.
+      </p>
+
       <h3>Avoiding spoilers</h3>
       <p>
         Not caught up? Open <b>⚙️ Settings</b> and set how far you've read. Only characters who have

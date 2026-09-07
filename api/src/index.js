@@ -55,6 +55,42 @@ function json(body, status, headers) {
   })
 }
 
+async function sha256Hex(s) {
+  const digest = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s))
+  return [...new Uint8Array(digest)].map(b => b.toString(16).padStart(2, '0')).join('')
+}
+
+// Ambiguous characters (0/O, 1/I) are excluded so a hand-copied code still works.
+const CODE_ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'
+
+function newCode() {
+  const bytes = crypto.getRandomValues(new Uint8Array(12))
+  const chars = [...bytes].map(b => CODE_ALPHABET[b % CODE_ALPHABET.length])
+  return `${chars.slice(0, 4).join('')}-${chars.slice(4, 8).join('')}-${chars.slice(8, 12).join('')}`
+}
+
+const NAME_RE = /^[A-Za-z0-9][A-Za-z0-9 _-]{1,19}$/
+
+function cleanName(raw) {
+  const name = String(raw || '').trim().replace(/\s+/g, ' ')
+  return NAME_RE.test(name) ? name : null
+}
+
+function previousDay(day) {
+  const t = Date.parse(day + 'T00:00:00Z')
+  return new Date(t - 86400000).toISOString().slice(0, 10)
+}
+
+async function authenticate(env, id, code) {
+  if (!id || !code) return null
+  const row = await env.DB.prepare(
+    'SELECT id, name, code_hash FROM players WHERE id = ?'
+  ).bind(String(id)).first()
+  if (!row) return null
+  const hash = await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`)
+  return hash === row.code_hash ? row : null
+}
+
 async function ipHash(request, env) {
   const ip = request.headers.get('CF-Connecting-IP') || '0.0.0.0'
   const data = new TextEncoder().encode(`${env.IP_SALT || 'opdle'}:${ip}`)
@@ -112,6 +148,177 @@ export default {
         'SELECT count FROM solves WHERE day = ? AND arc_limit = ?'
       ).bind(day, arcLimit).first()
       return json({ day, arcLimit, count: row?.count ?? 0, counted: isNew }, 200, headers)
+    }
+
+    // POST /register { name } -> claims a pseudonym, returns the recovery code once
+    if (request.method === 'POST' && url.pathname === '/register') {
+      let body
+      try {
+        body = await request.json()
+      } catch {
+        return json({ error: 'bad json' }, 400, headers)
+      }
+      const name = cleanName(body.name)
+      if (!name) {
+        return json({ error: 'Names are 2–20 characters: letters, digits, spaces, - and _.' }, 400, headers)
+      }
+      const nameKey = name.toLowerCase()
+      const taken = await env.DB.prepare('SELECT 1 FROM players WHERE name_key = ?')
+        .bind(nameKey).first()
+      if (taken) return json({ error: 'That name is already taken.' }, 409, headers)
+
+      const code = newCode()
+      const id = crypto.randomUUID()
+      const now = new Date().toISOString()
+      try {
+        await env.DB.batch([
+          env.DB.prepare(
+            `INSERT INTO players (id, name, name_key, code_hash, created_at, last_seen)
+             VALUES (?, ?, ?, ?, ?, ?)`
+          ).bind(id, name, nameKey, await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`), now, now),
+          env.DB.prepare('INSERT INTO standings (player_id) VALUES (?)').bind(id),
+        ])
+      } catch {
+        return json({ error: 'That name is already taken.' }, 409, headers)
+      }
+      return json({ id, name, code }, 200, headers)
+    }
+
+    // POST /login { name, code } -> restores an account on another device
+    if (request.method === 'POST' && url.pathname === '/login') {
+      let body
+      try {
+        body = await request.json()
+      } catch {
+        return json({ error: 'bad json' }, 400, headers)
+      }
+      const nameKey = String(body.name || '').trim().replace(/\s+/g, ' ').toLowerCase()
+      const code = String(body.code || '').trim().toUpperCase()
+      const row = await env.DB.prepare(
+        'SELECT id, name, code_hash FROM players WHERE name_key = ?'
+      ).bind(nameKey).first()
+      const hash = await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`)
+      if (!row || hash !== row.code_hash) {
+        return json({ error: 'Name and recovery code do not match.' }, 401, headers)
+      }
+      await env.DB.prepare('UPDATE players SET last_seen = ? WHERE id = ?')
+        .bind(new Date().toISOString(), row.id).run()
+      return json({ id: row.id, name: row.name }, 200, headers)
+    }
+
+    // POST /result { id, code, day, arcLimit, guesses, name } -> records a solve
+    if (request.method === 'POST' && url.pathname === '/result') {
+      let body
+      try {
+        body = await request.json()
+      } catch {
+        return json({ error: 'bad json' }, 400, headers)
+      }
+      const player = await authenticate(env, body.id, body.code)
+      if (!player) return json({ error: 'not signed in' }, 401, headers)
+
+      const day = String(body.day || '')
+      const arcLimit = String(body.arcLimit || '')
+      const guesses = Number(body.guesses)
+      const name = String(body.name || '')
+      if (!dayIsPlausible(day)) return json({ error: 'bad day' }, 400, headers)
+      if (!Number.isInteger(guesses) || guesses < 1 || guesses > 500) {
+        return json({ error: 'bad guesses' }, 400, headers)
+      }
+      if (name !== answerFor(day, arcLimit)) return json({ error: 'wrong answer' }, 403, headers)
+
+      // A spoiler limit shrinks the roster, so those wins are far easier and
+      // are deliberately kept out of the standings.
+      if (arcLimit) {
+        return json({ ranked: false, reason: 'spoiler-limited games are not ranked' }, 200, headers)
+      }
+
+      const existing = await env.DB.prepare(
+        'SELECT day FROM results WHERE player_id = ? AND day = ?'
+      ).bind(player.id, day).first()
+      if (existing) return json({ ranked: false, reason: 'already recorded for that day' }, 200, headers)
+
+      const st = await env.DB.prepare(
+        'SELECT wins, total_guesses, max_streak FROM standings WHERE player_id = ?'
+      ).bind(player.id).first() || { wins: 0, total_guesses: 0, max_streak: 0 }
+
+      await env.DB.prepare(
+        `INSERT INTO results (player_id, day, arc_limit, guesses, solved_at)
+         VALUES (?, ?, '', ?, ?)`
+      ).bind(player.id, day, guesses, new Date().toISOString()).run()
+
+      // Derive the streak from the stored days rather than incrementing a
+      // counter, so a result that arrives out of order still lands correctly.
+      const recent = await env.DB.prepare(
+        'SELECT day FROM results WHERE player_id = ? ORDER BY day DESC LIMIT 90'
+      ).bind(player.id).all()
+      const days = (recent.results || []).map(r => r.day)
+      const latest = days[0]
+      let streak = 0
+      let cursor = latest
+      for (const d of days) {
+        if (d !== cursor) break
+        streak++
+        cursor = previousDay(cursor)
+      }
+      const maxStreak = Math.max(st.max_streak || 0, streak)
+
+      await env.DB.prepare(
+        `UPDATE standings SET wins = wins + 1, total_guesses = total_guesses + ?,
+           streak = ?, max_streak = ?, last_win_day = ?
+         WHERE player_id = ?`
+      ).bind(guesses, streak, maxStreak, latest, player.id).run()
+      return json({ ranked: true, wins: (st.wins || 0) + 1, streak, maxStreak }, 200, headers)
+    }
+
+    // GET /leaderboard?sort=streak|wins|avg&day=YYYY-MM-DD
+    if (request.method === 'GET' && url.pathname === '/leaderboard') {
+      const sort = url.searchParams.get('sort') || 'streak'
+      const day = url.searchParams.get('day') || ''
+      const order = {
+        streak: 'st.max_streak DESC, st.wins DESC',
+        wins: 'st.wins DESC, st.max_streak DESC',
+        avg: '(CAST(st.total_guesses AS REAL) / st.wins) ASC, st.wins DESC',
+      }[sort]
+      if (!order) return json({ error: 'bad sort' }, 400, headers)
+      // Averages need a floor of games to be meaningful.
+      const having = sort === 'avg' ? 'AND st.wins >= 3' : ''
+      const rows = await env.DB.prepare(
+        `SELECT p.name, st.wins, st.total_guesses, st.streak, st.max_streak, st.last_win_day
+         FROM standings st JOIN players p ON p.id = st.player_id
+         WHERE st.wins > 0 ${having}
+         ORDER BY ${order} LIMIT 50`
+      ).all()
+      const today = DAY_RE.test(day) ? day : null
+      const yesterday = today ? previousDay(today) : null
+      const entries = (rows.results || []).map((r, i) => ({
+        rank: i + 1,
+        name: r.name,
+        wins: r.wins,
+        avg: r.wins ? +(r.total_guesses / r.wins).toFixed(2) : null,
+        maxStreak: r.max_streak,
+        // A stored streak is only live if the last win was today or yesterday.
+        streak: today && (r.last_win_day === today || r.last_win_day === yesterday) ? r.streak : 0,
+      }))
+      return json({ sort, entries }, 200, headers)
+    }
+
+    // GET /me?id=&code= -> that player's own standing
+    if (request.method === 'GET' && url.pathname === '/me') {
+      const player = await authenticate(env, url.searchParams.get('id'), url.searchParams.get('code'))
+      if (!player) return json({ error: 'not signed in' }, 401, headers)
+      const st = await env.DB.prepare(
+        'SELECT wins, total_guesses, streak, max_streak, last_win_day FROM standings WHERE player_id = ?'
+      ).bind(player.id).first()
+      return json({
+        id: player.id,
+        name: player.name,
+        wins: st?.wins ?? 0,
+        avg: st?.wins ? +(st.total_guesses / st.wins).toFixed(2) : null,
+        streak: st?.streak ?? 0,
+        maxStreak: st?.max_streak ?? 0,
+        lastWinDay: st?.last_win_day ?? null,
+      }, 200, headers)
     }
 
     if (url.pathname === '/health') return json({ ok: true }, 200, headers)
