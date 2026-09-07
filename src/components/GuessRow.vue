@@ -6,6 +6,7 @@ const props = defineProps({
   guess: { type: Object, required: true },
   base: { type: String, required: true },
 })
+const emit = defineEmits(['revealed'])
 
 const HAKI_ICONS = { Conqueror: '👑', Armament: '💪', Observation: '👀' }
 
@@ -32,7 +33,8 @@ function fitStyle(text) {
   <div class="row">
     <div
       v-for="(key, i) in order" :key="key"
-      class="tile" :class="cellClass(key)" :style="{ '--d': i * 0.28 + 's' }">
+      class="tile" :class="cellClass(key)" :style="{ '--d': i * 0.28 + 's' }"
+      @animationend="i === order.length - 1 && emit('revealed')">
       <template v-if="key === 'portrait'">
         <img
           class="portrait" :src="base + 'portraits/' + guess.char.portrait"
@@ -87,6 +89,10 @@ function fitStyle(text) {
 @keyframes flip {
   0% { transform: rotateY(90deg); opacity: .2; }
   100% { transform: rotateY(0); opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tile.animate { animation: none; }
 }
 
 .portrait {

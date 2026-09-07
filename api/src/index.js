@@ -60,15 +60,6 @@ async function sha256Hex(s) {
   return [...new Uint8Array(digest)].map(b => b.toString(16).padStart(2, '0')).join('')
 }
 
-// Ambiguous characters (0/O, 1/I) are excluded so a hand-copied code still works.
-const CODE_ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'
-
-function newCode() {
-  const bytes = crypto.getRandomValues(new Uint8Array(12))
-  const chars = [...bytes].map(b => CODE_ALPHABET[b % CODE_ALPHABET.length])
-  return `${chars.slice(0, 4).join('')}-${chars.slice(4, 8).join('')}-${chars.slice(8, 12).join('')}`
-}
-
 const NAME_RE = /^[A-Za-z0-9][A-Za-z0-9 _-]{1,19}$/
 
 function cleanName(raw) {
@@ -81,14 +72,30 @@ function previousDay(day) {
   return new Date(t - 86400000).toISOString().slice(0, 10)
 }
 
-async function authenticate(env, id, code) {
-  if (!id || !code) return null
+function randomHex(bytes) {
+  return [...crypto.getRandomValues(new Uint8Array(bytes))]
+    .map(b => b.toString(16).padStart(2, '0')).join('')
+}
+
+// The client sends a PBKDF2-derived key, never the password. Hashing it again
+// with a per-user salt keeps a leaked row from being replayed as a login.
+const hashKey = (salt, key) => sha256Hex(`${salt}:${key}`)
+
+async function newSession(env, playerId) {
+  const token = randomHex(32)
+  await env.DB.prepare(
+    'INSERT INTO sessions (token_hash, player_id, created_at) VALUES (?, ?, ?)'
+  ).bind(await sha256Hex(token), playerId, new Date().toISOString()).run()
+  return token
+}
+
+async function authenticate(env, token) {
+  if (!token) return null
   const row = await env.DB.prepare(
-    'SELECT id, name, code_hash FROM players WHERE id = ?'
-  ).bind(String(id)).first()
-  if (!row) return null
-  const hash = await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`)
-  return hash === row.code_hash ? row : null
+    `SELECT p.id, p.name FROM sessions s JOIN players p ON p.id = s.player_id
+     WHERE s.token_hash = ?`
+  ).bind(await sha256Hex(String(token))).first()
+  return row || null
 }
 
 async function ipHash(request, env) {
@@ -150,7 +157,7 @@ export default {
       return json({ day, arcLimit, count: row?.count ?? 0, counted: isNew }, 200, headers)
     }
 
-    // POST /register { name } -> claims a pseudonym, returns the recovery code once
+    // POST /register { name, key } -> claims a pseudonym, returns a session token
     if (request.method === 'POST' && url.pathname === '/register') {
       let body
       try {
@@ -160,31 +167,34 @@ export default {
       }
       const name = cleanName(body.name)
       if (!name) {
-        return json({ error: 'Names are 2–20 characters: letters, digits, spaces, - and _.' }, 400, headers)
+        return json({ error: 'Names are 2\u201320 characters: letters, digits, spaces, - and _.' }, 400, headers)
       }
+      const key = String(body.key || '')
+      if (!/^[a-f0-9]{64}$/.test(key)) return json({ error: 'bad key' }, 400, headers)
+
       const nameKey = name.toLowerCase()
       const taken = await env.DB.prepare('SELECT 1 FROM players WHERE name_key = ?')
         .bind(nameKey).first()
       if (taken) return json({ error: 'That name is already taken.' }, 409, headers)
 
-      const code = newCode()
       const id = crypto.randomUUID()
+      const salt = randomHex(16)
       const now = new Date().toISOString()
       try {
         await env.DB.batch([
           env.DB.prepare(
-            `INSERT INTO players (id, name, name_key, code_hash, created_at, last_seen)
-             VALUES (?, ?, ?, ?, ?, ?)`
-          ).bind(id, name, nameKey, await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`), now, now),
+            `INSERT INTO players (id, name, name_key, password_salt, password_hash, created_at, last_seen)
+             VALUES (?, ?, ?, ?, ?, ?, ?)`
+          ).bind(id, name, nameKey, salt, await hashKey(salt, key), now, now),
           env.DB.prepare('INSERT INTO standings (player_id) VALUES (?)').bind(id),
         ])
       } catch {
         return json({ error: 'That name is already taken.' }, 409, headers)
       }
-      return json({ id, name, code }, 200, headers)
+      return json({ id, name, token: await newSession(env, id) }, 200, headers)
     }
 
-    // POST /login { name, code } -> restores an account on another device
+    // POST /login { name, key } -> signs in on any device
     if (request.method === 'POST' && url.pathname === '/login') {
       let body
       try {
@@ -193,20 +203,36 @@ export default {
         return json({ error: 'bad json' }, 400, headers)
       }
       const nameKey = String(body.name || '').trim().replace(/\s+/g, ' ').toLowerCase()
-      const code = String(body.code || '').trim().toUpperCase()
+      const key = String(body.key || '')
       const row = await env.DB.prepare(
-        'SELECT id, name, code_hash FROM players WHERE name_key = ?'
+        'SELECT id, name, password_salt, password_hash FROM players WHERE name_key = ?'
       ).bind(nameKey).first()
-      const hash = await sha256Hex(`${env.IP_SALT || 'opdle'}:${code}`)
-      if (!row || hash !== row.code_hash) {
-        return json({ error: 'Name and recovery code do not match.' }, 401, headers)
-      }
+      // Same message either way, so the endpoint doesn't confirm which names exist.
+      const bad = json({ error: 'Wrong name or password.' }, 401, headers)
+      if (!row || !/^[a-f0-9]{64}$/.test(key)) return bad
+      if (await hashKey(row.password_salt, key) !== row.password_hash) return bad
+
       await env.DB.prepare('UPDATE players SET last_seen = ? WHERE id = ?')
         .bind(new Date().toISOString(), row.id).run()
-      return json({ id: row.id, name: row.name }, 200, headers)
+      return json({ id: row.id, name: row.name, token: await newSession(env, row.id) }, 200, headers)
     }
 
-    // POST /result { id, code, day, arcLimit, guesses, name } -> records a solve
+    // POST /logout { token }
+    if (request.method === 'POST' && url.pathname === '/logout') {
+      let body
+      try {
+        body = await request.json()
+      } catch {
+        return json({ error: 'bad json' }, 400, headers)
+      }
+      if (body.token) {
+        await env.DB.prepare('DELETE FROM sessions WHERE token_hash = ?')
+          .bind(await sha256Hex(String(body.token))).run()
+      }
+      return json({ ok: true }, 200, headers)
+    }
+
+    // POST /result { token, day, arcLimit, guesses, name } -> records a solve
     if (request.method === 'POST' && url.pathname === '/result') {
       let body
       try {
@@ -214,7 +240,7 @@ export default {
       } catch {
         return json({ error: 'bad json' }, 400, headers)
       }
-      const player = await authenticate(env, body.id, body.code)
+      const player = await authenticate(env, body.token)
       if (!player) return json({ error: 'not signed in' }, 401, headers)
 
       const day = String(body.day || '')
@@ -303,9 +329,9 @@ export default {
       return json({ sort, entries }, 200, headers)
     }
 
-    // GET /me?id=&code= -> that player's own standing
+    // GET /me?token= -> that player's own standing
     if (request.method === 'GET' && url.pathname === '/me') {
-      const player = await authenticate(env, url.searchParams.get('id'), url.searchParams.get('code'))
+      const player = await authenticate(env, url.searchParams.get('token'))
       if (!player) return json({ error: 'not signed in' }, 401, headers)
       const st = await env.DB.prepare(
         'SELECT wins, total_guesses, streak, max_streak, last_win_day FROM standings WHERE player_id = ?'

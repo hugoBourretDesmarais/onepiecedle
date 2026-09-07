@@ -17,6 +17,7 @@ import CluesPanel from './components/CluesPanel.vue'
 import { apiEnabled, fetchCount, reportSolve, submitResult } from './game/api.js'
 import GalleryPanel from './components/GalleryPanel.vue'
 import LeaderboardModal from './components/LeaderboardModal.vue'
+import Confetti from './components/Confetti.vue'
 import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
 
@@ -34,6 +35,39 @@ const streak = ref(currentStreak())
 const arcLimit = ref(loadArcLimit())
 const excluded = ref(loadExcluded())
 const solveCount = ref(null)
+
+// The winning row flips one tile at a time; hold the result back until the
+// last one has landed so the reveal isn't spoiled by the panel appearing.
+const TILE_STAGGER_MS = 280
+const TILE_FLIP_MS = 500
+const REVEAL_MS = COLUMNS.length * TILE_STAGGER_MS + TILE_FLIP_MS
+const revealing = ref(false)
+const celebrating = ref(false)
+let revealTimer = null
+
+function finishReveal() {
+  if (!revealing.value) return
+  clearTimeout(revealTimer)
+  revealing.value = false
+  celebrating.value = true
+  setTimeout(() => (celebrating.value = false), 3000)
+}
+
+function startCelebration() {
+  // Nothing to wait for when the flip is suppressed, so don't stall the panel.
+  if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) {
+    revealing.value = false
+    celebrating.value = false
+    return
+  }
+  revealing.value = true
+  celebrating.value = false
+  clearTimeout(revealTimer)
+  // A backgrounded tab pauses CSS animations, so animationend can't be the
+  // only trigger — the row's 'revealed' event just gets there first when the
+  // tab is actually painting.
+  revealTimer = setTimeout(finishReveal, REVEAL_MS)
+}
 
 async function refreshCount() {
   if (!apiEnabled) return
@@ -86,6 +120,8 @@ const game = computed(() => (mode.value === 'practice' ? practice : daily))
 const guessedNames = computed(() => new Set(game.value.guesses.map(g => g.char.name)))
 
 function restoreDaily() {
+  revealing.value = false
+  celebrating.value = false
   daily.answer = pool.value[dailyIndex(pool.value.length)]
   daily.guesses = []
   daily.won = false
@@ -138,6 +174,7 @@ function submitGuess(char) {
 
   if (char.name === g.answer.name) {
     g.won = true
+    startCelebration()
     if (isDaily) daily.triesAtWin = daily.guesses.length
     recordWin(statMode, g.guesses.length)
     if (isDaily) {
@@ -160,6 +197,9 @@ function randomStarter() {
 }
 
 function newPractice() {
+  revealing.value = false
+  celebrating.value = false
+  clearTimeout(revealTimer)
   const src = practicePool.value.length ? practicePool.value : pool.value
   practice.answer = src[randomIndex(src.length)]
   practice.guesses = []
@@ -189,7 +229,10 @@ onMounted(() => {
     localStorage.setItem('opdle:visited', '1')
   }
 })
-onUnmounted(() => clearInterval(timer))
+onUnmounted(() => {
+  clearInterval(timer)
+  clearTimeout(revealTimer)
+})
 
 const base = import.meta.env.BASE_URL
 </script>
@@ -273,7 +316,7 @@ const base = import.meta.env.BASE_URL
         </section>
 
         <WinPanel
-          v-if="game.won" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
+          v-if="game.won && !revealing" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
           :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
           @practice="mode = 'practice'"
           @replay="newPractice" />
@@ -293,7 +336,9 @@ const base = import.meta.env.BASE_URL
             <div class="grid-head">
               <div v-for="col in COLUMNS" :key="col.key" class="head-cell">{{ col.label }}</div>
             </div>
-            <GuessRow v-for="g in game.guesses" :key="g.char.name" :guess="g" :base="base" />
+            <GuessRow
+            v-for="g in game.guesses" :key="g.char.name" :guess="g" :base="base"
+            @revealed="finishReveal" />
           </div>
         </section>
 
@@ -309,6 +354,7 @@ const base = import.meta.env.BASE_URL
       </footer>
     </main>
 
+    <Confetti v-if="celebrating" />
     <HelpModal v-if="showHelp" @close="showHelp = false" />
     <StatsModal v-if="showStats" :characters="characters" @close="showStats = false" />
     <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />

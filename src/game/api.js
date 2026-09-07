@@ -56,12 +56,45 @@ async function postStrict(path, body) {
   }
 }
 
-export const registerPlayer = name => postStrict('/register', { name })
-export const loginPlayer = (name, code) => postStrict('/login', { name, code })
+// Workers Free caps CPU at 10ms per request, nowhere near enough for a real
+// password KDF, so the work factor lives here instead. The password never
+// leaves the browser — only this derived key does.
+const PBKDF2_ITERATIONS = 600_000
+
+async function deriveKey(name, password) {
+  const enc = new TextEncoder()
+  // The salt must be derivable before authenticating, so it comes from the
+  // (unique) name rather than being random per account.
+  const saltBits = await crypto.subtle.digest(
+    'SHA-256', enc.encode(`onepiecedle:${name.trim().toLowerCase()}`))
+  const material = await crypto.subtle.importKey(
+    'raw', enc.encode(password), 'PBKDF2', false, ['deriveBits'])
+  const bits = await crypto.subtle.deriveBits(
+    { name: 'PBKDF2', hash: 'SHA-256', salt: new Uint8Array(saltBits), iterations: PBKDF2_ITERATIONS },
+    material, 256)
+  return [...new Uint8Array(bits)].map(b => b.toString(16).padStart(2, '0')).join('')
+}
+
+export const MIN_PASSWORD = 8
+
+export async function registerPlayer(name, password) {
+  if (!crypto?.subtle) return { error: 'This browser cannot sign in securely (needs HTTPS).' }
+  return postStrict('/register', { name, key: await deriveKey(name, password) })
+}
+
+export async function loginPlayer(name, password) {
+  if (!crypto?.subtle) return { error: 'This browser cannot sign in securely (needs HTTPS).' }
+  return postStrict('/login', { name, key: await deriveKey(name, password) })
+}
+
+export function logoutPlayer(account) {
+  if (!account?.token) return Promise.resolve(null)
+  return post('/logout', { token: account.token })
+}
 
 export function submitResult(account, day, arcLimit, guesses, name) {
-  if (!account) return Promise.resolve(null)
-  return post('/result', { id: account.id, code: account.code, day, arcLimit: arcLimit || '', guesses, name })
+  if (!account?.token) return Promise.resolve(null)
+  return post('/result', { token: account.token, day, arcLimit: arcLimit || '', guesses, name })
 }
 
 export function fetchLeaderboard(sort, day) {
@@ -69,6 +102,6 @@ export function fetchLeaderboard(sort, day) {
 }
 
 export function fetchMe(account) {
-  if (!account) return Promise.resolve(null)
-  return call(`/me?${new URLSearchParams({ id: account.id, code: account.code })}`, { method: 'GET' })
+  if (!account?.token) return Promise.resolve(null)
+  return call(`/me?${new URLSearchParams({ token: account.token })}`, { method: 'GET' })
 }

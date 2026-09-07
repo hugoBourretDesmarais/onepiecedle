@@ -20,16 +20,30 @@ CREATE TABLE IF NOT EXISTS counted (
   PRIMARY KEY (day, arc_limit, ip_hash)
 );
 
--- Players claim a pseudonym and get a recovery code; the code's hash is what
--- we store, so a database leak cannot be replayed as a login.
+-- Workers Free allows 10ms CPU per request, far too little for a real
+-- password KDF, so the 600k-iteration PBKDF2 runs in the browser and the
+-- server stores a salted SHA-256 of the derived key. The server therefore
+-- never sees the password, and a database leak isn't directly replayable.
 CREATE TABLE IF NOT EXISTS players (
-  id          TEXT PRIMARY KEY,
-  name        TEXT NOT NULL,
-  name_key    TEXT NOT NULL UNIQUE,   -- lowercased, for case-insensitive uniqueness
-  code_hash   TEXT NOT NULL,
-  created_at  TEXT NOT NULL,
-  last_seen   TEXT NOT NULL
+  id            TEXT PRIMARY KEY,
+  name          TEXT NOT NULL,
+  name_key      TEXT NOT NULL UNIQUE, -- lowercased, for case-insensitive uniqueness
+  password_salt TEXT NOT NULL,
+  password_hash TEXT NOT NULL,
+  created_at    TEXT NOT NULL,
+  last_seen     TEXT NOT NULL
 );
+
+-- The browser stores a session token, never the password. Multiple rows per
+-- player so signing in on a second device doesn't evict the first.
+CREATE TABLE IF NOT EXISTS sessions (
+  token_hash  TEXT PRIMARY KEY,
+  player_id   TEXT NOT NULL,
+  created_at  TEXT NOT NULL,
+  FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_sessions_player ON sessions(player_id);
 
 -- One row per player per game day. Re-solving the same day (e.g. after
 -- changing the spoiler limit) updates in place rather than inserting, which

@@ -42,10 +42,13 @@ Type a character name and submit. Each guess reveals a row of tiles:
 | Colour | Meaning |
 | --- | --- |
 | 🟩 Green | exact match |
-| 🟧 Orange | partial match (some overlap — e.g. one shared Haki type, or a related Devil Fruit family) |
+| 🟨 Yellow | partial match (some overlap — e.g. one shared Haki type, or a related Devil Fruit family) |
 | 🟥 Red | no overlap |
 
 `Last Bounty`, `Height` and `First Arc` also show ▲/▼ arrows pointing toward the hidden character's value.
+
+On a win the row flips one tile at a time before the result panel appears, followed by confetti;
+both are skipped under `prefers-reduced-motion`.
 
 Clues unlock as you guess: **First Appearance** (chapter/episode) after 5 tries, **Devil Fruit** (fruit name)
 after 8. The daily character resets at local midnight; stats live in `localStorage`.
@@ -75,10 +78,11 @@ resulting value vocabularies and anything that needed attention.
 `api/` is a Cloudflare Worker backed by a D1 database. It powers the
 “N people already found out!” counter and the 🏆 leaderboard.
 
-Accounts are a pseudonym plus a server-generated recovery code — no email, no third-party
-auth. Only the code's salted hash is stored, so a database dump can't be replayed as a login.
-The code is the sole credential: losing it loses the account, which the UI states plainly
-before the player continues.
+Accounts are a pseudonym plus a password — no email, no third-party auth. Workers Free allows
+only 10ms CPU per request, far too little for a real KDF, so the 600k-iteration PBKDF2 runs in
+the browser and the server stores a salted SHA-256 of the derived key. The password therefore
+never leaves the device, and a database dump isn't directly replayable. The browser holds a
+session token, never the password. There is no password reset yet.
 
 Only unlimited classic games are ranked; a spoiler limit shrinks the roster enough to make
 those wins incomparable. Streaks are derived from the stored result days rather than

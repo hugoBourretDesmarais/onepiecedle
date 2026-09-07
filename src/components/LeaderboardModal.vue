@@ -1,6 +1,6 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue'
-import { fetchLeaderboard, fetchMe, loginPlayer, registerPlayer } from '../game/api.js'
+import { MIN_PASSWORD, fetchLeaderboard, fetchMe, loginPlayer, logoutPlayer, registerPlayer } from '../game/api.js'
 
 const props = defineProps({
   account: { type: Object, default: null },
@@ -15,10 +15,9 @@ const me = ref(null)
 
 const mode = ref('join') // 'join' | 'restore'
 const nameInput = ref('')
-const codeInput = ref('')
+const passwordInput = ref('')
 const busy = ref(false)
 const error = ref('')
-const freshCode = ref(null) // shown once, right after registering
 
 const SORTS = [
   { key: 'streak', label: 'Streak' },
@@ -43,48 +42,28 @@ const myRank = computed(() => {
   return hit?.rank ?? null
 })
 
-async function join() {
-  error.value = ''
-  busy.value = true
-  const r = await registerPlayer(nameInput.value)
-  busy.value = false
-  if (r?.error) {
-    error.value = r.error
-    return
-  }
-  freshCode.value = r.code
-  emit('account', { id: r.id, name: r.name, code: r.code })
-  load()
-}
+const canSubmit = computed(
+  () => nameInput.value.trim().length >= 2 && passwordInput.value.length >= MIN_PASSWORD)
 
-async function restore() {
+async function submit() {
   error.value = ''
   busy.value = true
-  const r = await loginPlayer(nameInput.value, codeInput.value)
+  const fn = mode.value === 'join' ? registerPlayer : loginPlayer
+  const r = await fn(nameInput.value, passwordInput.value)
   busy.value = false
   if (r?.error) {
     error.value = r.error
     return
   }
-  emit('account', { id: r.id, name: r.name, code: codeInput.value.trim().toUpperCase() })
+  passwordInput.value = ''
+  emit('account', { id: r.id, name: r.name, token: r.token })
   load()
 }
 
 function signOut() {
+  logoutPlayer(props.account)
   emit('account', null)
   me.value = null
-  freshCode.value = null
-}
-
-const copied = ref(false)
-async function copyCode() {
-  const code = freshCode.value || props.account?.code
-  if (!code) return
-  try {
-    await navigator.clipboard.writeText(code)
-    copied.value = true
-    setTimeout(() => (copied.value = false), 2000)
-  } catch { /* clipboard unavailable */ }
 }
 </script>
 
@@ -94,47 +73,38 @@ async function copyCode() {
       <button class="modal-close" @click="emit('close')">×</button>
       <h2>Leaderboard</h2>
 
-      <!-- Recovery code, shown once on registration -->
-      <div v-if="freshCode" class="code-box">
-        <p class="code-label">Save your recovery code</p>
-        <p class="code">{{ freshCode }}</p>
-        <p class="code-warn">
-          This is the only way back into <b>{{ account?.name }}</b> on another device or after
-          clearing your browser. It cannot be recovered — write it down now.
-        </p>
-        <div class="code-actions">
-          <button @click="copyCode">{{ copied ? 'Copied!' : 'Copy code 📋' }}</button>
-          <button @click="freshCode = null">I've saved it</button>
-        </div>
-      </div>
-
-      <!-- Signed out: join or restore -->
-      <div v-else-if="!account" class="join">
+      <!-- Signed out: create an account or sign in -->
+      <div v-if="!account" class="join">
         <div class="tabs">
-          <button :class="{ on: mode === 'join' }" @click="mode = 'join'; error = ''">New player</button>
-          <button :class="{ on: mode === 'restore' }" @click="mode = 'restore'; error = ''">I have a code</button>
+          <button :class="{ on: mode === 'join' }" @click="mode = 'join'; error = ''">Create account</button>
+          <button :class="{ on: mode === 'restore' }" @click="mode = 'restore'; error = ''">Sign in</button>
         </div>
         <p class="join-note">
-          Pick a pseudonym to appear on the board. No email needed — you'll get a recovery code
-          that carries your record to any device.
+          A pseudonym and a password — no email needed. Sign in with the same two on any device
+          and your record follows you.
         </p>
-        <input v-model="nameInput" placeholder="Pseudonym" maxlength="20" autocomplete="off" />
-        <input
-          v-if="mode === 'restore'" v-model="codeInput" placeholder="XXXX-XXXX-XXXX"
-          autocomplete="off" spellcheck="false" />
-        <p v-if="error" class="error">{{ error }}</p>
-        <button
-          class="primary" :disabled="busy || !nameInput.trim()"
-          @click="mode === 'join' ? join() : restore()">
-          {{ busy ? 'Working…' : mode === 'join' ? 'Join the leaderboard' : 'Restore my record' }}
-        </button>
+        <form @submit.prevent="canSubmit && submit()">
+          <input
+            v-model="nameInput" placeholder="Pseudonym" maxlength="20"
+            autocomplete="username" autocapitalize="off" />
+          <input
+            v-model="passwordInput" type="password" :placeholder="`Password (${MIN_PASSWORD}+ characters)`"
+            :autocomplete="mode === 'join' ? 'new-password' : 'current-password'" />
+          <p v-if="error" class="error">{{ error }}</p>
+          <button class="primary" type="submit" :disabled="busy || !canSubmit">
+            {{ busy ? 'Working\u2026' : mode === 'join' ? 'Create account' : 'Sign in' }}
+          </button>
+        </form>
+        <p v-if="mode === 'join'" class="warn">
+          There is no password reset yet \u2014 if you forget it the account can't be recovered.
+          Please don't reuse an important password.
+        </p>
       </div>
 
       <!-- Signed in -->
       <div v-else class="signed-in">
         <span class="who">Playing as <b>{{ account.name }}</b></span>
         <span class="who-actions">
-          <button @click="copyCode">{{ copied ? 'Copied!' : 'Copy code' }}</button>
           <button @click="signOut">Sign out</button>
         </span>
       </div>
@@ -224,25 +194,7 @@ h2 { margin-bottom: 12px; }
 .primary:disabled { opacity: .55; cursor: default; }
 .error { margin: 0; color: var(--red); font-size: 13px; font-weight: 700; }
 
-.code-box {
-  border: 2px solid var(--yellow);
-  background: var(--parchment-dark);
-  border-radius: 8px;
-  padding: 14px;
-  text-align: center;
-}
-.code-label { margin: 0 0 6px; font-weight: 700; color: var(--brown-dark); }
-.code {
-  margin: 0 0 8px;
-  font-family: ui-monospace, monospace;
-  font-size: 24px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  color: var(--brown-dark);
-}
-.code-warn { margin: 0 0 10px; font-size: 13px; color: var(--brown); line-height: 1.4; }
-.code-actions { display: flex; gap: 8px; justify-content: center; }
-.code-actions button, .who-actions button {
+.who-actions button {
   font-family: inherit;
   font-weight: 700;
   font-size: 12px;
@@ -251,6 +203,15 @@ h2 { margin-bottom: 12px; }
   border: 2px solid var(--tan);
   background: var(--parchment);
   color: var(--brown-dark);
+}
+
+.join form { display: flex; flex-direction: column; gap: 8px; }
+.warn {
+  margin: 0;
+  font-size: 12px;
+  color: var(--brown);
+  font-style: italic;
+  line-height: 1.4;
 }
 
 .signed-in {

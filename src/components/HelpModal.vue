@@ -42,8 +42,9 @@ const emit = defineEmits(['close'])
 
       <h3>🏆 Leaderboard</h3>
       <p>
-        Pick a pseudonym to join — no email required. You get a <b>recovery code</b>; save it, because
-        it's the only way to reach your record from another device or after clearing your browser.
+        Pick a pseudonym and a password to join — no email required. Sign in with the same two on
+        any device and your ranked record follows you. There's no password reset yet, so don't reuse
+        an important password.
         Only classic games with <b>no spoiler limit</b> are ranked, since a limited roster is much
         easier. Your local 📊 stats stay on this device and are separate from your ranked record.
       </p>
