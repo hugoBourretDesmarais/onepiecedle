@@ -65,8 +65,11 @@ it to zero, and winning a second daily on the same day (by changing the spoiler 
   `tools/download_backgrounds.py`: centre-cropped to 16:9, resized to 1920px, written as WebP
   with a JPEG fallback via CSS `image-set()`. A tint and vignette keep the UI readable over
   busy art. Append `?bg=0`–`?bg=5` to preview a specific one.
-- **Wordmark** — `GameLogo.vue` draws the crew's Jolly Roger as the leading O, with the
-  alternating red/blue outlined letters dropping in one by one.
+- **Wordmark** — `GameLogo.vue` is drawn entirely in SVG: the crew's Jolly Roger (gold-rimmed
+  disc, skull, crossed bones, straw hat with its red band) stands in for the leading O, and the
+  letters stack a dark keyline, a cream band and a per-letter vertical gradient, finished with a
+  gloss sweep and a turbulence grain masked to the glyphs. Stacked `text-shadow`s can't express
+  that; three `paint-order` stroke passes can.
 - **Streak flame** — `StreakFlame.vue` animates three nested tongues on offset cycles; it is
   greyed out at zero and lights up once a streak is running.
 - **Paper** — panels use an inline SVG `feTurbulence` grain plus warm gradients and an inset
