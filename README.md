@@ -17,7 +17,10 @@ Built with Vue 3 + Vite. Fully responsive — all nine columns fit on a phone sc
   haki, origin and debut arc, and open any card for full details plus a link to its wiki page.
 - Unknown/unconfirmed Devil Fruit, Haki and Origin values are shown as `Unknown` / `?` rather than guessed.
 
-⚠️ The data includes **current manga spoilers**.
+- **Spoiler limit** (⚙️) — tell it how far you've read and the roster is capped to characters who have
+  debuted by the end of that arc, across the daily answer, the guess suggestions and the gallery.
+
+⚠️ With no spoiler limit set, the data includes **current manga spoilers**.
 
 ## Play
 

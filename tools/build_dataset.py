@@ -140,7 +140,8 @@ def main():
     final.sort(key=lambda r: r["name"])
     (DATA / "characters.json").write_text(json.dumps(final, indent=1, ensure_ascii=False))
     (DATA / "arcs.json").write_text(json.dumps(
-        [{"name": a["name"]} for a in arcs], indent=1, ensure_ascii=False))
+        [{"name": a["name"], "endChapter": a["endChapter"]} for a in arcs],
+        indent=1, ensure_ascii=False))
 
     lines = [f"{len(final)} characters, {len(arc_names)} arcs", ""]
     lines.append("== affiliation vocabulary ==")

@@ -4,8 +4,8 @@ import characters from './data/characters.json'
 import arcs from './data/arcs.json'
 import { COLUMNS, compareGuess } from './game/compare.js'
 import {
-  dailyIndex, dailyNumber, loadDailyState, localDateString, msUntilMidnight,
-  randomIndex, recordWin, saveDailyState, currentStreak,
+  dailyIndex, dailyNumber, loadDailyState, loadArcLimit, localDateString, msUntilMidnight,
+  randomIndex, recordWin, saveArcLimit, saveDailyState, currentStreak,
 } from './game/state.js'
 import GuessInput from './components/GuessInput.vue'
 import GuessRow from './components/GuessRow.vue'
@@ -15,6 +15,7 @@ import StatsModal from './components/StatsModal.vue'
 import CluesPanel from './components/CluesPanel.vue'
 import GalleryPanel from './components/GalleryPanel.vue'
 import CharacterModal from './components/CharacterModal.vue'
+import SettingsModal from './components/SettingsModal.vue'
 
 const arcOrder = arcs.map(a => a.name)
 const byName = new Map(characters.map(c => [c.name, c]))
@@ -22,29 +23,39 @@ const byName = new Map(characters.map(c => [c.name, c]))
 const mode = ref('daily') // 'daily' | 'practice' | 'gallery'
 const showHelp = ref(false)
 const showStats = ref(false)
+const showSettings = ref(false)
 const galleryPick = ref(null)
 const streak = ref(currentStreak())
+const arcLimit = ref(loadArcLimit())
+
+// Everything the player can meet — answers, suggestions, gallery — comes from here.
+const pool = computed(() => {
+  if (!arcLimit.value) return characters
+  const arc = arcs.find(a => a.name === arcLimit.value)
+  if (!arc) return characters
+  return characters.filter(c => c.firstChapter <= arc.endChapter)
+})
 
 const daily = reactive({
   number: dailyNumber(),
-  answer: characters[dailyIndex(characters.length)],
+  answer: null,
   guesses: [], // {char, cells}
   won: false,
   triesAtWin: 0,
 })
-const practice = reactive({
-  answer: characters[randomIndex(characters.length, dailyIndex(characters.length))],
-  guesses: [],
-  won: false,
-})
+const practice = reactive({ answer: null, guesses: [], won: false })
 
-const yesterdayAnswer = characters[dailyIndex(characters.length, localDateString(-1))]
+const yesterdayAnswer = computed(
+  () => pool.value[dailyIndex(pool.value.length, localDateString(-1))])
 
 const game = computed(() => (mode.value === 'practice' ? practice : daily))
 const guessedNames = computed(() => new Set(game.value.guesses.map(g => g.char.name)))
 
 function restoreDaily() {
-  const s = loadDailyState()
+  daily.answer = pool.value[dailyIndex(pool.value.length)]
+  daily.guesses = []
+  daily.won = false
+  const s = loadDailyState(arcLimit.value)
   for (const name of s.guesses) {
     const char = byName.get(name)
     if (char) daily.guesses.unshift({ char, cells: compareGuess(char, daily.answer, arcOrder), animate: false })
@@ -56,9 +67,18 @@ function restoreDaily() {
 function persistDaily() {
   saveDailyState({
     date: localDateString(),
+    arcLimit: arcLimit.value,
     guesses: [...daily.guesses].reverse().map(g => g.char.name),
     won: daily.won,
   })
+}
+
+function applyArcLimit(next) {
+  arcLimit.value = next
+  saveArcLimit(next)
+  restoreDaily()
+  newPractice()
+  galleryPick.value = null
 }
 
 function submitGuess(char) {
@@ -78,7 +98,7 @@ function submitGuess(char) {
 }
 
 function newPractice() {
-  practice.answer = characters[randomIndex(characters.length)]
+  practice.answer = pool.value[randomIndex(pool.value.length)]
   practice.guesses = []
   practice.won = false
 }
@@ -96,6 +116,7 @@ function tick() {
 
 onMounted(() => {
   restoreDaily()
+  newPractice()
   tick()
   timer = setInterval(tick, 1000)
   if (!localStorage.getItem('opdle:visited')) {
@@ -136,8 +157,17 @@ const base = import.meta.env.BASE_URL
         <button class="tool" title="Statistics" @click="showStats = true">📊</button>
         <span class="tool streak" title="Daily win streak">🔥<b>{{ streak }}</b></span>
         <span class="tool daily-num" :title="`Daily character #${daily.number}`">#{{ daily.number }}</span>
+        <button
+          class="tool" :class="{ 'tool-on': arcLimit }"
+          :title="arcLimit ? `Spoiler limit: up to ${arcLimit}` : 'Settings'"
+          @click="showSettings = true">⚙️</button>
         <button class="tool" title="How to play" @click="showHelp = true">❓</button>
       </div>
+
+      <p v-if="arcLimit" class="arc-banner">
+        📖 Spoiler-safe up to <b>{{ arcLimit }}</b> — {{ pool.length }} of {{ characters.length }} characters
+        <button class="arc-clear" @click="applyArcLimit(null)">clear</button>
+      </p>
     </header>
 
     <main class="game">
@@ -145,11 +175,11 @@ const base = import.meta.env.BASE_URL
         <section class="panel intro">
           <h2>CHARACTER GALLERY</h2>
           <p class="gallery-hint">
-            All {{ characters.length }} characters in the game. Search by name, crew, devil fruit,
-            haki or origin — then tap a card for the full details.
+            {{ arcLimit ? `The ${pool.length} characters seen up to ${arcLimit}` : `All ${characters.length} characters in the game` }}.
+            Search by name, crew, devil fruit, haki or origin — then tap a card for the full details.
           </p>
         </section>
-        <GalleryPanel :characters="characters" @open="galleryPick = $event" />
+        <GalleryPanel :characters="pool" @open="galleryPick = $event" />
       </template>
 
       <template v-else>
@@ -169,7 +199,7 @@ const base = import.meta.env.BASE_URL
           @replay="newPractice" />
 
         <GuessInput
-          v-if="!game.won" :characters="characters" :guessed="guessedNames"
+          v-if="!game.won" :characters="pool" :guessed="guessedNames"
           @guess="submitGuess" />
 
         <section v-if="game.guesses.length" class="grid-wrap">
@@ -196,6 +226,9 @@ const base = import.meta.env.BASE_URL
     <HelpModal v-if="showHelp" @close="showHelp = false" />
     <StatsModal v-if="showStats" @close="showStats = false" />
     <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />
+    <SettingsModal
+      v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"
+      @update:arc-limit="applyArcLimit" @close="showSettings = false" />
   </div>
 </template>
 
@@ -327,6 +360,35 @@ const base = import.meta.env.BASE_URL
   font-size: 14px;
   color: var(--brown);
 }
+
+.tool-on {
+  background: var(--parchment-dark);
+  border-radius: 12px;
+}
+
+.arc-banner {
+  margin: 0;
+  padding: 6px 12px;
+  border-radius: 14px;
+  background: rgba(0, 0, 0, 0.28);
+  color: #fff;
+  font-size: 13px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.arc-clear {
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  color: #fff;
+  border-radius: 10px;
+  font-size: 11px;
+  padding: 2px 8px;
+}
+.arc-clear:hover { background: rgba(255, 255, 255, 0.15); }
 
 .grid-wrap {
   width: 100%;

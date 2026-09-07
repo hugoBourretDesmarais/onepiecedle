@@ -1,101 +1,134 @@
 [
  {
-  "name": "Romance Dawn"
+  "name": "Romance Dawn",
+  "endChapter": 7
  },
  {
-  "name": "Orange Town"
+  "name": "Orange Town",
+  "endChapter": 21
  },
  {
-  "name": "Syrup Village"
+  "name": "Syrup Village",
+  "endChapter": 41
  },
  {
-  "name": "Baratie"
+  "name": "Baratie",
+  "endChapter": 68
  },
  {
-  "name": "Arlong Park"
+  "name": "Arlong Park",
+  "endChapter": 95
  },
  {
-  "name": "Loguetown"
+  "name": "Loguetown",
+  "endChapter": 100
  },
  {
-  "name": "Reverse Mountain"
+  "name": "Reverse Mountain",
+  "endChapter": 105
  },
  {
-  "name": "Whisky Peak"
+  "name": "Whisky Peak",
+  "endChapter": 114
  },
  {
-  "name": "Little Garden"
+  "name": "Little Garden",
+  "endChapter": 129
  },
  {
-  "name": "Drum Island"
+  "name": "Drum Island",
+  "endChapter": 154
  },
  {
-  "name": "Alabasta"
+  "name": "Alabasta",
+  "endChapter": 217
  },
  {
-  "name": "Jaya"
+  "name": "Jaya",
+  "endChapter": 236
  },
  {
-  "name": "Skypiea"
+  "name": "Skypiea",
+  "endChapter": 302
  },
  {
-  "name": "Long Ring Long Land"
+  "name": "Long Ring Long Land",
+  "endChapter": 321
  },
  {
-  "name": "Water 7"
+  "name": "Water 7",
+  "endChapter": 374
  },
  {
-  "name": "Enies Lobby"
+  "name": "Enies Lobby",
+  "endChapter": 430
  },
  {
-  "name": "Post-Enies Lobby"
+  "name": "Post-Enies Lobby",
+  "endChapter": 441
  },
  {
-  "name": "Thriller Bark"
+  "name": "Thriller Bark",
+  "endChapter": 489
  },
  {
-  "name": "Sabaody Archipelago"
+  "name": "Sabaody Archipelago",
+  "endChapter": 513
  },
  {
-  "name": "Amazon Lily"
+  "name": "Amazon Lily",
+  "endChapter": 524
  },
  {
-  "name": "Impel Down"
+  "name": "Impel Down",
+  "endChapter": 549
  },
  {
-  "name": "Marineford"
+  "name": "Marineford",
+  "endChapter": 580
  },
  {
-  "name": "Post-War"
+  "name": "Post-War",
+  "endChapter": 597
  },
  {
-  "name": "Return to Sabaody"
+  "name": "Return to Sabaody",
+  "endChapter": 602
  },
  {
-  "name": "Fish-Man Island"
+  "name": "Fish-Man Island",
+  "endChapter": 653
  },
  {
-  "name": "Punk Hazard"
+  "name": "Punk Hazard",
+  "endChapter": 699
  },
  {
-  "name": "Dressrosa"
+  "name": "Dressrosa",
+  "endChapter": 801
  },
  {
-  "name": "Zou"
+  "name": "Zou",
+  "endChapter": 824
  },
  {
-  "name": "Whole Cake Island"
+  "name": "Whole Cake Island",
+  "endChapter": 902
  },
  {
-  "name": "Levely"
+  "name": "Levely",
+  "endChapter": 908
  },
  {
-  "name": "Wano Country"
+  "name": "Wano Country",
+  "endChapter": 1057
  },
  {
-  "name": "Egghead"
+  "name": "Egghead",
+  "endChapter": 1125
  },
  {
-  "name": "Elbaf"
+  "name": "Elbaf",
+  "endChapter": 9999
  }
 ]

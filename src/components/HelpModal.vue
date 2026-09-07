@@ -40,7 +40,15 @@ const emit = defineEmits(['close'])
         </tbody>
       </table>
 
-      <p class="note">Data from the One Piece Wiki — current story spoilers included!</p>
+      <h3>Avoiding spoilers</h3>
+      <p>
+        Not caught up? Open <b>⚙️ Settings</b> and set how far you've read. Only characters who have
+        appeared by the end of that arc will show up as the answer, in the guess suggestions, or in
+        the gallery. Note that character <i>properties</i> are always the latest known, so someone you
+        met early can still show a crew or bounty they only got later.
+      </p>
+
+      <p class="note">Data from the One Piece Wiki — with no spoiler limit set, current story spoilers are included!</p>
     </div>
   </div>
 </template>
