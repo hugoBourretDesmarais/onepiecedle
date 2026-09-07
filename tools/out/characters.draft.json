@@ -1,0 +1,4858 @@
+[
+ {
+  "name": "Absalom",
+  "requested": "Absalom",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195.0,
+  "origin": "West Blue",
+  "firstChapter": 444,
+  "firstEpisode": 339,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest?cb=20230101154942"
+ },
+ {
+  "name": "Aisa",
+  "requested": "Aisa",
+  "gender": "Female",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 140.0,
+  "origin": "Sky Island",
+  "firstChapter": 249,
+  "firstEpisode": 161,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162352"
+ },
+ {
+  "name": "Arlong",
+  "requested": "Arlong",
+  "gender": "Male",
+  "affiliation": "Arlong Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 20000000,
+  "heightCm": 263.0,
+  "origin": "Grand Line",
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/01/Arlong_Anime_Infobox.png/revision/latest?cb=20230403145629"
+ },
+ {
+  "name": "Ashura Doji",
+  "requested": "Ashura Doji",
+  "gender": "Male",
+  "affiliation": "Mt. Atama Thieves",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 544.0,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest?cb=20191201102956"
+ },
+ {
+  "name": "Baby 5",
+  "requested": "Baby 5",
+  "gender": "Female",
+  "affiliation": "Happo Navy",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arms-Arms Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181.0,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest?cb=20221011013323"
+ },
+ {
+  "name": "Bartholomew Kuma",
+  "requested": "Bartholomew Kuma",
+  "gender": "Male",
+  "affiliation": "Freedom Fighters",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Paw-Paw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 296000000,
+  "heightCm": 689.0,
+  "origin": "South Blue",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest?cb=20221012030835"
+ },
+ {
+  "name": "Bartolomeo",
+  "requested": "Bartolomeo",
+  "gender": "Male",
+  "affiliation": "Barto Club",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Barrier-Barrier Fruit (Bari-Bari Fruit (Funimation dub)",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 220.0,
+  "origin": "East Blue",
+  "firstChapter": 705,
+  "firstEpisode": 633,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest?cb=20221027202808"
+ },
+ {
+  "name": "Basil Hawkins",
+  "requested": "Basil Hawkins",
+  "gender": "Male",
+  "affiliation": "Hawkins Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Straw-Straw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 320000000,
+  "heightCm": 210.0,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230906163534"
+ },
+ {
+  "name": "Bell-mère",
+  "requested": "Bell-mère",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186.0,
+  "origin": "East Blue",
+  "firstChapter": 77,
+  "firstEpisode": 32,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest?cb=20231128171918"
+ },
+ {
+  "name": "Bellamy",
+  "requested": "Bellamy",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Boing-Boing Fruit (Spring-Spring Fruit (Funimation)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 195000000,
+  "heightCm": 240.0,
+  "origin": "North Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230116235201"
+ },
+ {
+  "name": "Benn Beckman",
+  "requested": "Benn Beckman",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 206.0,
+  "origin": "North Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest?cb=20240623091906"
+ },
+ {
+  "name": "Bentham",
+  "requested": "Bentham",
+  "gender": null,
+  "affiliation": "Newkama Land",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clone-Clone Fruit",
+  "haki": [],
+  "bounty": 32000000,
+  "heightCm": 238.0,
+  "origin": "East Blue",
+  "firstChapter": 129,
+  "firstEpisode": 78,
+  "firstArc": "Little Garden",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest?cb=20160929070742"
+ },
+ {
+  "name": "Bepo",
+  "requested": "Bepo",
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1500,
+  "heightCm": 240.0,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Bepo_Anime_Infobox.png/revision/latest?cb=20231210123641"
+ },
+ {
+  "name": "Blueno",
+  "requested": "Blueno",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Door-Door Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 258.0,
+  "origin": "North Blue",
+  "firstChapter": 325,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Blueno_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021752"
+ },
+ {
+  "name": "Boa Hancock",
+  "requested": "Boa Hancock",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Love-Love Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1659000000,
+  "heightCm": 191.0,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest?cb=20230126022456"
+ },
+ {
+  "name": "Borsalino",
+  "requested": "Borsalino",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Glint-Glint Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 302.0,
+  "origin": "North Blue",
+  "firstChapter": 504,
+  "firstEpisode": 398,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest?cb=20190603023753"
+ },
+ {
+  "name": "Brogy",
+  "requested": "Brogy",
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2130.0,
+  "origin": "Grand Line",
+  "firstChapter": 115,
+  "firstEpisode": 71,
+  "firstArc": "Little Garden",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Brogy_Anime_Infobox.png/revision/latest?cb=20250824161255"
+ },
+ {
+  "name": "Brook",
+  "requested": "Brook",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Revive-Revive Fruit",
+  "haki": [],
+  "bounty": 383000000,
+  "heightCm": 277.0,
+  "origin": "West Blue",
+  "firstChapter": 442,
+  "firstEpisode": 337,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20161016160925"
+ },
+ {
+  "name": "Buggy",
+  "requested": "Buggy",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Chop-Chop Fruit",
+  "haki": [],
+  "bounty": 3189000000,
+  "heightCm": 130.0,
+  "origin": "Grand Line",
+  "firstChapter": 9,
+  "firstEpisode": 4,
+  "firstArc": "Orange Town",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240813025900"
+ },
+ {
+  "name": "Caesar Clown",
+  "requested": "Caesar Clown",
+  "gender": "Male",
+  "affiliation": "NEO MADS",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Gas-Gas Fruit",
+  "haki": [],
+  "bounty": 300000000,
+  "heightCm": 309.0,
+  "origin": "Grand Line",
+  "firstChapter": 658,
+  "firstEpisode": 581,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest?cb=20221101011307"
+ },
+ {
+  "name": "Camie",
+  "requested": "Camie",
+  "gender": "Female",
+  "affiliation": "Takoyaki 8, Mermaid Cafe",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 197.0,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130912213617"
+ },
+ {
+  "name": "Capone Bege",
+  "requested": "Capone Bege",
+  "gender": "Male",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Castle-Castle Fruit",
+  "haki": [],
+  "bounty": 350000000,
+  "heightCm": 166.0,
+  "origin": "West Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Capone_Bege_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20160911163015"
+ },
+ {
+  "name": "Caribou",
+  "requested": "Caribou",
+  "gender": "Male",
+  "affiliation": "Caribou Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Swamp-Swamp Fruit",
+  "haki": [],
+  "bounty": 210000000,
+  "heightCm": 228.0,
+  "origin": "North Blue",
+  "firstChapter": 600,
+  "firstEpisode": 519,
+  "firstArc": "Return to Sabaody",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest?cb=20221124030700"
+ },
+ {
+  "name": "Carrot",
+  "requested": "Carrot",
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom, Inuarashi Musketeer Squad",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 161.0,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest?cb=20180826142459"
+ },
+ {
+  "name": "Cavendish",
+  "requested": "Cavendish",
+  "gender": "Male",
+  "affiliation": "Beautiful Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 208.0,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest?cb=20140224010824"
+ },
+ {
+  "name": "Chadros Higelyges",
+  "requested": "Chadros Higelyges",
+  "gender": "Male",
+  "affiliation": "Caesar Clown , Centaur Patrol Unit",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 80060000,
+  "heightCm": 691.0,
+  "origin": "Grand Line",
+  "firstChapter": 581,
+  "firstEpisode": 490,
+  "firstArc": "Post-War",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Chadros_Higelyges_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130429132405"
+ },
+ {
+  "name": "Charlotte Brûlée",
+  "requested": "Charlotte Brûlée",
+  "gender": "Female",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mirror-Mirror Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350.0,
+  "origin": "Grand Line",
+  "firstChapter": 831,
+  "firstEpisode": 791,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest?cb=20170611174235"
+ },
+ {
+  "name": "Charlotte Chiffon",
+  "requested": "Charlotte Chiffon",
+  "gender": "Female",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 215.0,
+  "origin": "Grand Line",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest?cb=20170409062554"
+ },
+ {
+  "name": "Charlotte Cracker",
+  "requested": "Charlotte Cracker",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bis-Bis Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 860000000,
+  "heightCm": 307.0,
+  "origin": "Grand Line",
+  "firstChapter": 835,
+  "firstEpisode": 796,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest?cb=20170730021804"
+ },
+ {
+  "name": "Charlotte Katakuri",
+  "requested": "Charlotte Katakuri",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Special Paramecia"
+  ],
+  "dfName": "Mochi-Mochi Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1057000000,
+  "heightCm": 509.0,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 825,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest?cb=20230204155539"
+ },
+ {
+  "name": "Charlotte Linlin",
+  "requested": "Charlotte Linlin",
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Soul-Soul Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4388000000,
+  "heightCm": 880.0,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest?cb=20180423150804"
+ },
+ {
+  "name": "Charlotte Lola",
+  "requested": "Charlotte Lola",
+  "gender": "Female",
+  "affiliation": "Rolling Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 215.0,
+  "origin": "Grand Line",
+  "firstChapter": 476,
+  "firstEpisode": 370,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20201012081800"
+ },
+ {
+  "name": "Charlotte Mont-d'Or",
+  "requested": "Charlotte Mont-d'Or",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Book-Book Fruit",
+  "haki": [],
+  "bounty": 120000000,
+  "heightCm": 260.0,
+  "origin": "Grand Line",
+  "firstChapter": 829,
+  "firstEpisode": 789,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest?cb=20180325090436"
+ },
+ {
+  "name": "Charlotte Perospero",
+  "requested": "Charlotte Perospero",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Lick-Lick Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 700000000,
+  "heightCm": 333.0,
+  "origin": "Grand Line",
+  "firstChapter": 834,
+  "firstEpisode": 795,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest?cb=20211101122146"
+ },
+ {
+  "name": "Charlotte Pudding",
+  "requested": "Charlotte Pudding",
+  "gender": "Female",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Memo-Memo Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 166.0,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest?cb=20250106015531"
+ },
+ {
+  "name": "Chimney",
+  "requested": "Chimney",
+  "gender": "Female",
+  "affiliation": "Kokoro",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 115.0,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20250318234329"
+ },
+ {
+  "name": "Chinjao",
+  "requested": "Chinjao",
+  "gender": "Male",
+  "affiliation": "Chinjao Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 542000000,
+  "heightCm": 520.0,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest?cb=20180508221950"
+ },
+ {
+  "name": "Conis",
+  "requested": "Conis",
+  "gender": "Female",
+  "affiliation": "Pumpkin Cafe",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 176.0,
+  "origin": "Grand Line",
+  "firstChapter": 239,
+  "firstEpisode": 154,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162322"
+ },
+ {
+  "name": "Crocodile",
+  "requested": "Crocodile",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Sand-Sand Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1965000000,
+  "heightCm": 253.0,
+  "origin": "Grand Line",
+  "firstChapter": 126,
+  "firstEpisode": 76,
+  "firstArc": "Little Garden",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest?cb=20230125235528"
+ },
+ {
+  "name": "Dalton",
+  "requested": "Dalton",
+  "gender": "Male",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit, Bison Model (Ox-Ox Fruit (4Kids; Ox-Ox Fruit, Bison Form (Funimation)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218.0,
+  "origin": "Grand Line",
+  "firstChapter": 132,
+  "firstEpisode": 79,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest?cb=20230101225126"
+ },
+ {
+  "name": "Daz Bonez",
+  "requested": "Daz Bonez",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Dice-Dice Fruit",
+  "haki": [],
+  "bounty": 75000000,
+  "heightCm": 212.0,
+  "origin": "West Blue",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Daz_Bonez_Anime_Infobox.png/revision/latest?cb=20221102004113"
+ },
+ {
+  "name": "Denjiro",
+  "requested": "Denjiro",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 306.0,
+  "origin": "Grand Line",
+  "firstChapter": 919,
+  "firstEpisode": 909,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest?cb=20210718045127"
+ },
+ {
+  "name": "Diamante",
+  "requested": "Diamante",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripple-Ripple Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 525.0,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Diamante_Anime_Infobox.png/revision/latest?cb=20151011043134"
+ },
+ {
+  "name": "Donquixote Doflamingo",
+  "requested": "Donquixote Doflamingo",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "String-String Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 340000000,
+  "heightCm": 305.0,
+  "origin": "Red Line",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest?cb=20231017082245"
+ },
+ {
+  "name": "Donquixote Rosinante",
+  "requested": "Donquixote Rosinante",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Calm-Calm Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 293.0,
+  "origin": "Red Line",
+  "firstChapter": 761,
+  "firstEpisode": 686,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest?cb=20150802160734"
+ },
+ {
+  "name": "Dorry",
+  "requested": "Dorry",
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2260.0,
+  "origin": "Grand Line",
+  "firstChapter": 116,
+  "firstEpisode": 71,
+  "firstArc": "Little Garden",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest?cb=20250927120409"
+ },
+ {
+  "name": "Dracule Mihawk",
+  "requested": "Dracule Mihawk",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3590000000,
+  "heightCm": 198.0,
+  "origin": null,
+  "firstChapter": 49,
+  "firstEpisode": 23,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest?cb=20151222105910"
+ },
+ {
+  "name": "Drophy",
+  "requested": "Drophy",
+  "gender": "Female",
+  "affiliation": "New Spiders Cafe",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mole-Mole Fruit (Funimation) (Diggy-Diggy Fruit)",
+  "haki": [],
+  "bounty": 14000000,
+  "heightCm": 156.0,
+  "origin": "Grand Line",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest?cb=20230624124714"
+ },
+ {
+  "name": "Edward Newgate",
+  "requested": "Edward Newgate",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tremor-Tremor Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5046000000,
+  "heightCm": 666.0,
+  "origin": "Grand Line",
+  "firstChapter": 159,
+  "firstEpisode": 95,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest?cb=20220926165737"
+ },
+ {
+  "name": "Emporio Ivankov",
+  "requested": "Emporio Ivankov",
+  "gender": null,
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Horm-Horm Fruit (Hor-Hor Fruit (One Piece Official YouTube Channel)",
+  "haki": [],
+  "bounty": 100000000,
+  "heightCm": 449.0,
+  "origin": "Grand Line",
+  "firstChapter": 537,
+  "firstEpisode": 438,
+  "firstArc": "Impel Down",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest?cb=20180624120810"
+ },
+ {
+  "name": "Enel",
+  "requested": "Enel",
+  "gender": "Male",
+  "affiliation": "God's Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Rumble-Rumble Fruit",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 266.0,
+  "origin": "Sky Island",
+  "firstChapter": 254,
+  "firstEpisode": 167,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest?cb=20230520213625"
+ },
+ {
+  "name": "Eustass Kid",
+  "requested": "Eustass Kid",
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Magnet-Magnet Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 205.0,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240505021859"
+ },
+ {
+  "name": "Foxy",
+  "requested": "Foxy",
+  "gender": "Male",
+  "affiliation": "Foxy Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slow-Slow Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 180.0,
+  "origin": "South Blue",
+  "firstChapter": 305,
+  "firstEpisode": 207,
+  "firstArc": "Long Ring Long Land",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102162706"
+ },
+ {
+  "name": "Franky",
+  "requested": "Franky",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 394000000,
+  "heightCm": 240.0,
+  "origin": "South Blue",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241110020715"
+ },
+ {
+  "name": "Fukaboshi",
+  "requested": "Fukaboshi",
+  "gender": "Male",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 604.0,
+  "origin": "Grand Line",
+  "firstChapter": 609,
+  "firstEpisode": 528,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest?cb=20140107021229"
+ },
+ {
+  "name": "Fukurou",
+  "requested": "Fukurou",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 331.0,
+  "origin": "Grand Line",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240901020742"
+ },
+ {
+  "name": "Gaimon",
+  "requested": "Gaimon",
+  "gender": "Male",
+  "affiliation": null,
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 130.0,
+  "origin": "East Blue",
+  "firstChapter": 22,
+  "firstEpisode": 18,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Gaimon_Anime_Infobox.png/revision/latest?cb=20221107181308"
+ },
+ {
+  "name": "Galdino",
+  "requested": "Galdino",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wax-Wax Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 179.0,
+  "origin": "South Blue",
+  "firstChapter": 117,
+  "firstEpisode": 70,
+  "firstArc": "Little Garden",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20221003165116"
+ },
+ {
+  "name": "Gan Fall",
+  "requested": "Gan Fall",
+  "gender": "Male",
+  "affiliation": "Skypiea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180.0,
+  "origin": "Grand Line",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest?cb=20221111195904"
+ },
+ {
+  "name": "Gecko Moria",
+  "requested": "Gecko Moria",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Shadow-Shadow Fruit",
+  "haki": [],
+  "bounty": 320000000,
+  "heightCm": 692.0,
+  "origin": "West Blue",
+  "firstChapter": 449,
+  "firstEpisode": 343,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest?cb=20181127062446"
+ },
+ {
+  "name": "Gem",
+  "requested": "Gem",
+  "gender": "Male",
+  "affiliation": "New Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bomb-Bomb Fruit (4Kids, Funimation, Odex) (Boom-Boom Fruit)",
+  "haki": [],
+  "bounty": 10000000,
+  "heightCm": 197.0,
+  "origin": "South Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest?cb=20221003165534"
+ },
+ {
+  "name": "Genzo",
+  "requested": "Genzo",
+  "gender": "Male",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173.0,
+  "origin": "East Blue",
+  "firstChapter": 71,
+  "firstEpisode": 32,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161031"
+ },
+ {
+  "name": "Gin",
+  "requested": "Gin",
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 12000000,
+  "heightCm": 186.0,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Gin_Anime_Infobox.png/revision/latest?cb=20220920031419"
+ },
+ {
+  "name": "Gladius",
+  "requested": "Gladius",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pop-Pop Fruit",
+  "haki": [],
+  "bounty": 31000000,
+  "heightCm": 260.0,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest?cb=20231025224459"
+ },
+ {
+  "name": "Gol D. Roger",
+  "requested": "Gol D. Roger",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5564800000,
+  "heightCm": 274.0,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 48,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20230612100153"
+ },
+ {
+  "name": "Gonbe",
+  "requested": "Gonbe",
+  "gender": "Male",
+  "affiliation": "Chimney",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest?cb=20250318234500"
+ },
+ {
+  "name": "Hatchan",
+  "requested": "Hatchan",
+  "gender": "Male",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 8000000,
+  "heightCm": 220.0,
+  "origin": null,
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest?cb=20221003174139"
+ },
+ {
+  "name": "Hattori",
+  "requested": "Hattori",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 25.0,
+  "origin": null,
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Hattori_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128193359"
+ },
+ {
+  "name": "Hiriluk",
+  "requested": "Hiriluk",
+  "gender": "Male",
+  "affiliation": null,
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213.0,
+  "origin": "Grand Line",
+  "firstChapter": 141,
+  "firstEpisode": 85,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Hiriluk_Anime_Infobox.png/revision/latest?cb=20190519083444"
+ },
+ {
+  "name": "Hody Jones",
+  "requested": "Hody Jones",
+  "gender": "Male",
+  "affiliation": "New Fish-Man Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 331.0,
+  "origin": "Grand Line",
+  "firstChapter": 608,
+  "firstEpisode": 527,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest?cb=20230609234039"
+ },
+ {
+  "name": "Hogback",
+  "requested": "Hogback",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 223.0,
+  "origin": "West Blue",
+  "firstChapter": 446,
+  "firstEpisode": 340,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest?cb=20240720150902"
+ },
+ {
+  "name": "Hyougoro",
+  "requested": "Hyogoro",
+  "gender": "Male",
+  "affiliation": "Hyougoro Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 100.0,
+  "origin": "Grand Line",
+  "firstChapter": 926,
+  "firstEpisode": 919,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Hyougoro_Anime_Infobox.png/revision/latest?cb=20211128060641"
+ },
+ {
+  "name": "Iceburg",
+  "requested": "Iceburg",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 199.0,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest?cb=20230620131854"
+ },
+ {
+  "name": "Igaram",
+  "requested": "Igaram",
+  "gender": "Male",
+  "affiliation": "Arabasta",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218.0,
+  "origin": "Grand Line",
+  "firstChapter": 106,
+  "firstEpisode": 64,
+  "firstArc": "Whisky Peak",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190625115148"
+ },
+ {
+  "name": "Inuarashi",
+  "requested": "Inuarashi",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 511.0,
+  "origin": "Grand Line",
+  "firstChapter": 808,
+  "firstEpisode": 756,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest?cb=20250516022630"
+ },
+ {
+  "name": "Issho",
+  "requested": "Issho",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Press-Press Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 270.0,
+  "origin": "Grand Line",
+  "firstChapter": 701,
+  "firstEpisode": 630,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest?cb=20220718140829"
+ },
+ {
+  "name": "Izou",
+  "requested": "Izou",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 510000000,
+  "heightCm": 192.0,
+  "origin": "Grand Line",
+  "firstChapter": 553,
+  "firstEpisode": 461,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210919035558"
+ },
+ {
+  "name": "Jabra",
+  "requested": "Jabra",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mutt-Mutt Fruit Wolf Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212.0,
+  "origin": "North Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021445"
+ },
+ {
+  "name": "Jango",
+  "requested": "Jango",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1000000,
+  "heightCm": 207.0,
+  "origin": "East Blue",
+  "firstChapter": 25,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest?cb=20241006021207"
+ },
+ {
+  "name": "Jesus Burgess",
+  "requested": "Jesus Burgess",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Strong-Strong Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 20000000,
+  "heightCm": 355.0,
+  "origin": "Grand Line",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128022349"
+ },
+ {
+  "name": "Jewelry Bonney",
+  "requested": "Jewelry Bonney",
+  "gender": "Female",
+  "affiliation": "Bonney Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Age-Age Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 320000000,
+  "heightCm": 174.0,
+  "origin": "Red Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230123001318"
+ },
+ {
+  "name": "Jinbe",
+  "requested": "Jinbe",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1100000000,
+  "heightCm": 301.0,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 430,
+  "firstArc": "Impel Down",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521201349"
+ },
+ {
+  "name": "Johnny",
+  "requested": "Johnny",
+  "gender": "Male",
+  "affiliation": "Yosaku",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186.0,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 19,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Johnny_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150337"
+ },
+ {
+  "name": "Kaidou",
+  "requested": "Kaidou",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4611100000,
+  "heightCm": 710.0,
+  "origin": "Grand Line",
+  "firstChapter": 795,
+  "firstEpisode": 736,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest?cb=20231102015517"
+ },
+ {
+  "name": "Kaku",
+  "requested": "Kaku",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit Giraffe Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 193.0,
+  "origin": "East Blue",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Kaku_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221127204534"
+ },
+ {
+  "name": "Kalgara",
+  "requested": "Kalgara",
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 222.0,
+  "origin": "Grand Line",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest?cb=20260419014810"
+ },
+ {
+  "name": "Kalifa",
+  "requested": "Kalifa",
+  "gender": "Female",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bubble-Bubble Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 185.0,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021516"
+ },
+ {
+  "name": "Karoo",
+  "requested": "Karoo",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom Guard Squad , Straw Hat Pirates , Baroque Works",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150.0,
+  "origin": "Grand Line",
+  "firstChapter": 109,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240629192134"
+ },
+ {
+  "name": "Kawamatsu",
+  "requested": "Kawamatsu",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 271.0,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest?cb=20201215013006"
+ },
+ {
+  "name": "Kaya",
+  "requested": "Kaya",
+  "gender": "Female",
+  "affiliation": null,
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20180617114926"
+ },
+ {
+  "name": "Kikunojo",
+  "requested": "Kikunojo",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 287.0,
+  "origin": "Grand Line",
+  "firstChapter": 913,
+  "firstEpisode": 899,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest?cb=20200620104530"
+ },
+ {
+  "name": "Killer",
+  "requested": "Killer",
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 200000000,
+  "heightCm": 195.0,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/70/Killer_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210815025653"
+ },
+ {
+  "name": "Kin'emon",
+  "requested": "Kin'emon",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Garb-Garb Jutsu (Garb-Garb Fruit (One Piece Official YouTube Channel)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 295.0,
+  "origin": "Grand Line",
+  "firstChapter": 656,
+  "firstEpisode": 580,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest?cb=20191124100115"
+ },
+ {
+  "name": "Koala",
+  "requested": "Koala",
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160.0,
+  "origin": null,
+  "firstChapter": 622,
+  "firstEpisode": 541,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest?cb=20140928211728"
+ },
+ {
+  "name": "Koby",
+  "requested": "Koby",
+  "gender": "Male",
+  "affiliation": "Marines , Marine 153rd Branch",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 167.0,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241114130518"
+ },
+ {
+  "name": "Kokoro",
+  "requested": "Kokoro",
+  "gender": "Female",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 168.0,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Kokoro_Anime_Infobox.png/revision/latest?cb=20250318233550"
+ },
+ {
+  "name": "Koza",
+  "requested": "Koza",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 177.0,
+  "origin": "Grand Line",
+  "firstChapter": 163,
+  "firstEpisode": 93,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Koza_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20171228110510"
+ },
+ {
+  "name": "Kouzuki Hiyori",
+  "requested": "Kozuki Hiyori",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170.0,
+  "origin": "Grand Line",
+  "firstChapter": 909,
+  "firstEpisode": 892,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest?cb=20200811195812"
+ },
+ {
+  "name": "Kouzuki Momonosuke",
+  "requested": "Kozuki Momonosuke",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Mythical Zoan (Artificial"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 322.0,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 609,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest?cb=20240904123638"
+ },
+ {
+  "name": "Kouzuki Oden",
+  "requested": "Kozuki Oden",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 382.0,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest?cb=20210425071747"
+ },
+ {
+  "name": "Krieg",
+  "requested": "Krieg",
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 17000000,
+  "heightCm": 243.0,
+  "origin": "East Blue",
+  "firstChapter": 45,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest?cb=20230123170612"
+ },
+ {
+  "name": "Kumadori",
+  "requested": "Kumadori",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 338.0,
+  "origin": "South Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Kumadori_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021726"
+ },
+ {
+  "name": "Kureha",
+  "requested": "Kureha",
+  "gender": "Female",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 188.0,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 80,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest?cb=20150819163116"
+ },
+ {
+  "name": "Kuro",
+  "requested": "Kuro",
+  "gender": "Male",
+  "affiliation": "Black Cat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 16000000,
+  "heightCm": 207.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest?cb=20231006042805"
+ },
+ {
+  "name": "Kurozumi Kanjuro",
+  "requested": "Kurozumi Kanjuro",
+  "gender": "Male",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brush-Brush Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 347.0,
+  "origin": "Grand Line",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest?cb=20150503144042"
+ },
+ {
+  "name": "Kurozumi Orochi",
+  "requested": "Kurozumi Orochi",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350.0,
+  "origin": "Grand Line",
+  "firstChapter": 927,
+  "firstEpisode": 921,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest?cb=20230911061118"
+ },
+ {
+  "name": "Kurozumi Tama",
+  "requested": "Kurozumi Tama",
+  "gender": "Female",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Millet-Millet Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 108.0,
+  "origin": "Grand Line",
+  "firstChapter": 911,
+  "firstEpisode": 893,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest?cb=20210210051806"
+ },
+ {
+  "name": "Kuzan",
+  "requested": "Kuzan",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Ice-Ice Fruit (Funimation) (Chilly-Chilly Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 298.0,
+  "origin": "South Blue",
+  "firstChapter": 303,
+  "firstEpisode": 225,
+  "firstArc": "Long Ring Long Land",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240811021341"
+ },
+ {
+  "name": "Kyros",
+  "requested": "Kyros",
+  "gender": "Male",
+  "affiliation": "Corrida Colosseum",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 298.0,
+  "origin": "Grand Line",
+  "firstChapter": 702,
+  "firstEpisode": 631,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest?cb=20221018190117"
+ },
+ {
+  "name": "Leo",
+  "requested": "Leo",
+  "gender": "Male",
+  "affiliation": "Tontatta Kingdom",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stitch-Stitch Power (Sew-Sew Fruit (One Piece Official YouTube Channel)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 23.0,
+  "origin": "Grand Line",
+  "firstChapter": 710,
+  "firstEpisode": 640,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534"
+ },
+ {
+  "name": "Magellan",
+  "requested": "Magellan",
+  "gender": "Male",
+  "affiliation": "Impel Down",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Venom-Venom Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 491.0,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 425,
+  "firstArc": "Impel Down",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102163212"
+ },
+ {
+  "name": "Polo Marco",
+  "requested": "Marco",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Tweet-Tweet Fruit, Phoenix Model (Crunchy subs) (Bird-Bird Fruit, Model: Phoenix (One Piece Official YouTube Channel)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1374000000,
+  "heightCm": 203.0,
+  "origin": "Grand Line",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Polo_Marco_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221010015200"
+ },
+ {
+  "name": "Marguerite",
+  "requested": "Marguerite",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 178.0,
+  "origin": "Calm Belt",
+  "firstChapter": 514,
+  "firstEpisode": 408,
+  "firstArc": "Amazon Lily",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest?cb=20140928162219"
+ },
+ {
+  "name": "Marshall D. Teach",
+  "requested": "Marshall D. Teach",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Dark-Dark Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3996000000,
+  "heightCm": 344.0,
+  "origin": "Grand Line",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128044952"
+ },
+ {
+  "name": "Mikita",
+  "requested": "Mikita",
+  "gender": "Female",
+  "affiliation": "New Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Kilo-Kilo Fruit",
+  "haki": [],
+  "bounty": 7500000,
+  "heightCm": 177.0,
+  "origin": "West Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest?cb=20230417164634"
+ },
+ {
+  "name": "Monet",
+  "requested": "Monet",
+  "gender": "Female",
+  "affiliation": "Caesar Clown",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Snow-Snow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227.0,
+  "origin": "North Blue",
+  "firstChapter": 657,
+  "firstEpisode": 581,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest?cb=20140616000310"
+ },
+ {
+  "name": "Monkey D. Dragon",
+  "requested": "Monkey D. Dragon",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 256.0,
+  "origin": "East Blue",
+  "firstChapter": 100,
+  "firstEpisode": 52,
+  "firstArc": "Loguetown",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Monkey_D._Dragon_Anime_Infobox.png/revision/latest?cb=20250621010227"
+ },
+ {
+  "name": "Monkey D. Garp",
+  "requested": "Monkey D. Garp",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 287.0,
+  "origin": "East Blue",
+  "firstChapter": 92,
+  "firstEpisode": 68,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest?cb=20230207160645"
+ },
+ {
+  "name": "Monkey D. Luffy",
+  "requested": "Monkey D. Luffy",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia",
+   "Mythical Zoan"
+  ],
+  "dfName": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 174.0,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637"
+ },
+ {
+  "name": "Mont Blanc Cricket",
+  "requested": "Mont Blanc Cricket",
+  "gender": "Male",
+  "affiliation": "Saruyama Alliance",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 25000000,
+  "heightCm": 242.0,
+  "origin": "North Blue",
+  "firstChapter": 227,
+  "firstEpisode": 148,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251116160951"
+ },
+ {
+  "name": "Mont Blanc Noland",
+  "requested": "Mont Blanc Noland",
+  "gender": "Male",
+  "affiliation": "Lvneel Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220.0,
+  "origin": "North Blue",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest?cb=20230806162218"
+ },
+ {
+  "name": "Morgans",
+  "requested": "Morgans",
+  "gender": "Male",
+  "affiliation": "World Economy News Paper",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Tweet-Tweet Fruit, Albatross Model (Crunchy subs) (Bird-Bird Fruit, Model: Albatross (One Piece Official YouTube Channel)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 305.0,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest?cb=20260405065914"
+ },
+ {
+  "name": "Mozu and Kiwi",
+  "requested": "Mozu and Kiwi",
+  "gender": "Female",
+  "affiliation": "Franky Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 187.0,
+  "origin": "Grand Line",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest?cb=20250224005132"
+ },
+ {
+  "name": "Nami",
+  "requested": "Nami",
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 366000000,
+  "heightCm": 170.0,
+  "origin": "East Blue",
+  "firstChapter": 8,
+  "firstEpisode": 1,
+  "firstArc": "Orange Town",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260315214841"
+ },
+ {
+  "name": "Namur",
+  "requested": "Namur",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 552,
+  "firstEpisode": 461,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest?cb=20160102105750"
+ },
+ {
+  "name": "Napoleon",
+  "requested": "Napoleon",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 848.0,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Napoleon_Anime_Infobox.png/revision/latest?cb=20220731071824"
+ },
+ {
+  "name": "Nefertari Cobra",
+  "requested": "Nefertari Cobra",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 182.0,
+  "origin": "Grand Line",
+  "firstChapter": 142,
+  "firstEpisode": 91,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Nefertari_Cobra_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20170219154108"
+ },
+ {
+  "name": "Nefertari Vivi",
+  "requested": "Nefertari Vivi",
+  "gender": "Female",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169.0,
+  "origin": "Grand Line",
+  "firstChapter": 103,
+  "firstEpisode": 62,
+  "firstArc": "Reverse Mountain",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190505023647"
+ },
+ {
+  "name": "Nekomamushi",
+  "requested": "Nekomamushi",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 522.0,
+  "origin": "Grand Line",
+  "firstChapter": 809,
+  "firstEpisode": 756,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest?cb=20220419121421"
+ },
+ {
+  "name": "Neptune",
+  "requested": "Neptune",
+  "gender": "Male",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 1220.0,
+  "origin": "Grand Line",
+  "firstChapter": 611,
+  "firstEpisode": 530,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest?cb=20131206042454"
+ },
+ {
+  "name": "Nico Robin",
+  "requested": "Nico Robin",
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hana-Hana Fruit (4Kids) (Flower-Flower Fruit)",
+  "haki": [],
+  "bounty": 930000000,
+  "heightCm": 188.0,
+  "origin": "West Blue",
+  "firstChapter": 114,
+  "firstEpisode": 67,
+  "firstArc": "Whisky Peak",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260610121757"
+ },
+ {
+  "name": "Ninjin",
+  "requested": "Ninjin",
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 127.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Ninjin_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026161026"
+ },
+ {
+  "name": "Nojiko",
+  "requested": "Nojiko",
+  "gender": "Female",
+  "affiliation": "Bell-mère's mikan",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170.0,
+  "origin": "East Blue",
+  "firstChapter": 70,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161125"
+ },
+ {
+  "name": "Nola",
+  "requested": "Nola",
+  "gender": null,
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 255,
+  "firstEpisode": 168,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Nola_Anime_Infobox.png/revision/latest?cb=20150414210834"
+ },
+ {
+  "name": "Oars",
+  "requested": "Oars",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "North Blue",
+  "firstChapter": 456,
+  "firstEpisode": 350,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest?cb=20230528185603"
+ },
+ {
+  "name": "Orlumbus",
+  "requested": "Orlumbus",
+  "gender": "Male",
+  "affiliation": "Yonta Maria Grand Fleet",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 148000000,
+  "heightCm": 480.0,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Orlumbus_Anime_Infobox.png/revision/latest?cb=20141013213403"
+ },
+ {
+  "name": "Pappag",
+  "requested": "Pappag",
+  "gender": "Male",
+  "affiliation": "Criminal brand",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 50.0,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140413064635"
+ },
+ {
+  "name": "Patty",
+  "requested": "Patty",
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204.0,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207161125"
+ },
+ {
+  "name": "Paulie",
+  "requested": "Paulie",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195.0,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160614"
+ },
+ {
+  "name": "Pedro",
+  "requested": "Pedro",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 382000000,
+  "heightCm": 233.0,
+  "origin": "Grand Line",
+  "firstChapter": 805,
+  "firstEpisode": 754,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest?cb=20170423080015"
+ },
+ {
+  "name": "Peepley Lulu",
+  "requested": "Peepley Lulu",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 206.0,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160639"
+ },
+ {
+  "name": "Pekoms",
+  "requested": "Pekoms",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Turtle-Turtle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 232.0,
+  "origin": null,
+  "firstChapter": 651,
+  "firstEpisode": 570,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest?cb=20221107145536"
+ },
+ {
+  "name": "Pell",
+  "requested": "Pell",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Tweet-Tweet Fruit Falcon Type (Tweet-Tweet Fruit (4Kids; Bird-Bird Fruit, Model: Falcon (Funimation)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189.0,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest?cb=20240903112506"
+ },
+ {
+  "name": "Perona",
+  "requested": "Perona",
+  "gender": "Female",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hollow-Hollow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160.0,
+  "origin": "West Blue",
+  "firstChapter": 443,
+  "firstEpisode": 338,
+  "firstArc": "Thriller Bark",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221124200121"
+ },
+ {
+  "name": "Pica",
+  "requested": "Pica",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stone-Stone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 470.0,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest?cb=20221117040111"
+ },
+ {
+  "name": "Pierre",
+  "requested": "Pierre",
+  "gender": "Male",
+  "affiliation": "Gan Fall",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Horse-Horse Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Pierre_Anime_Infobox.png/revision/latest?cb=20130502235859"
+ },
+ {
+  "name": "Piiman",
+  "requested": "Piiman",
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 120.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160542"
+ },
+ {
+  "name": "Portgas D. Ace",
+  "requested": "Portgas D. Ace",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit (Flare-Flare Fruit (4Kids, Funimation subs)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 550000000,
+  "heightCm": 103.0,
+  "origin": "South Blue",
+  "firstChapter": 154,
+  "firstEpisode": 91,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20240629132600"
+ },
+ {
+  "name": "Raizo",
+  "requested": "Raizo",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Scrolling Jutsu (Scroll-Scroll Fruit (One Piece Official YouTube Channel)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 311.0,
+  "origin": "Grand Line",
+  "firstChapter": 817,
+  "firstEpisode": 768,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest?cb=20161218152812"
+ },
+ {
+  "name": "Rebecca",
+  "requested": "Rebecca",
+  "gender": "Female",
+  "affiliation": "Dressrosa",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 171.0,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 633,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest?cb=20190519094508"
+ },
+ {
+  "name": "Riku Doldo III",
+  "requested": "Riku Doldo III",
+  "gender": "Male",
+  "affiliation": "Riku Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 261.0,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 636,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest?cb=20230114034249"
+ },
+ {
+  "name": "Rob Lucci",
+  "requested": "Rob Lucci",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit Leopard Model (Cat-Cat Fruit, Model: Leopard)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212.0,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230102052113"
+ },
+ {
+  "name": "Rockstar",
+  "requested": "Rockstar",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 94000000,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Rockstar_Anime_Infobox.png/revision/latest?cb=20160929234330"
+ },
+ {
+  "name": "Roronoa Zoro",
+  "requested": "Roronoa Zoro",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1111000000,
+  "heightCm": 181.0,
+  "origin": "East Blue",
+  "firstChapter": 3,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719"
+ },
+ {
+  "name": "Sabo",
+  "requested": "Sabo",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit (Flare-Flare Fruit (4Kids, Funimation subs)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 602000000,
+  "heightCm": 187.0,
+  "origin": "East Blue",
+  "firstChapter": 583,
+  "firstEpisode": 494,
+  "firstArc": "Post-War",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest?cb=20230804035141"
+ },
+ {
+  "name": "Sai",
+  "requested": "Sai",
+  "gender": "Male",
+  "affiliation": "Happo Navy",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 210000000,
+  "heightCm": 242.0,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest?cb=20230301234122"
+ },
+ {
+  "name": "Sakazuki",
+  "requested": "Sakazuki",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Mag-Mag Fruit (Magma-Magma Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 5000000000,
+  "heightCm": 306.0,
+  "origin": "North Blue",
+  "firstChapter": 397,
+  "firstEpisode": 278,
+  "firstArc": "Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220829052511"
+ },
+ {
+  "name": "Sanji",
+  "requested": "Sanji",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1032000000,
+  "heightCm": 180.0,
+  "origin": "North Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240122012744"
+ },
+ {
+  "name": "Sengoku",
+  "requested": "Sengoku",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Human-Human Fruit, Model: Buddha",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 278.0,
+  "origin": "South Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210208064630"
+ },
+ {
+  "name": "Senor Pink",
+  "requested": "Senor Pink",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Swim-Swim Fruit",
+  "haki": [],
+  "bounty": 58000000,
+  "heightCm": 244.0,
+  "origin": "North Blue",
+  "firstChapter": 702,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest?cb=20241014120619"
+ },
+ {
+  "name": "Shanks",
+  "requested": "Shanks",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4048900000,
+  "heightCm": 132.0,
+  "origin": "West Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb=20240829145447"
+ },
+ {
+  "name": "Shimotsuki Ryuma",
+  "requested": "Shimotsuki Ryuma",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 179.0,
+  "origin": "Wano Country",
+  "firstChapter": 1023,
+  "firstEpisode": 1046,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest?cb=20240121155620"
+ },
+ {
+  "name": "Shirahoshi",
+  "requested": "Shirahoshi",
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 1187.0,
+  "origin": "Grand Line",
+  "firstChapter": 612,
+  "firstEpisode": 531,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest?cb=20240814220909"
+ },
+ {
+  "name": "Silvers Rayleigh",
+  "requested": "Silvers Rayleigh",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 188.0,
+  "origin": null,
+  "firstChapter": 19,
+  "firstEpisode": 8,
+  "firstArc": "Orange Town",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest?cb=20230601221758"
+ },
+ {
+  "name": "Smoker",
+  "requested": "Smoker",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Smoke-Smoke Fruit (4Kids) (Plume-Plume Fruit; Steam-Steam Fruit (Grand Adventure)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 209.0,
+  "origin": "Grand Line",
+  "firstChapter": 97,
+  "firstEpisode": 48,
+  "firstArc": "Loguetown",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221101011905"
+ },
+ {
+  "name": "Spandam",
+  "requested": "Spandam",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 192.0,
+  "origin": "Grand Line",
+  "firstChapter": 355,
+  "firstEpisode": 249,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230913231907"
+ },
+ {
+  "name": "Tamanegi",
+  "requested": "Tamanegi",
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 124.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160607"
+ },
+ {
+  "name": "Tashigi",
+  "requested": "Tashigi",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 100000000,
+  "heightCm": 170.0,
+  "origin": "East Blue",
+  "firstChapter": 96,
+  "firstEpisode": 48,
+  "firstArc": "Loguetown",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251127120726"
+ },
+ {
+  "name": "Tom",
+  "requested": "Tom",
+  "gender": "Male",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 296.0,
+  "origin": "Grand Line",
+  "firstChapter": 352,
+  "firstEpisode": 248,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest?cb=20210404151116"
+ },
+ {
+  "name": "Tony Tony Chopper",
+  "requested": "Tony Tony Chopper",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Human-Human Fruit",
+  "haki": [],
+  "bounty": 1000,
+  "heightCm": 90.0,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 81,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240720150824"
+ },
+ {
+  "name": "Trafalgar D. Water Law",
+  "requested": "Trafalgar D. Water Law",
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Op-Op Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 191.0,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230124163510"
+ },
+ {
+  "name": "Trebol",
+  "requested": "Trebol",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stick-Stick Fruit (Sticky-Sticky Fruit (Funimation)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 349.0,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest?cb=20221117040446"
+ },
+ {
+  "name": "Ulti",
+  "requested": "Ulti",
+  "gender": "Female",
+  "affiliation": "Yamato",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 173.0,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest?cb=20240831170217"
+ },
+ {
+  "name": "Urouge",
+  "requested": "Urouge",
+  "gender": "Male",
+  "affiliation": "Fallen Monk Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 108000000,
+  "heightCm": 388.0,
+  "origin": "Sky Island",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest?cb=20230126223235"
+ },
+ {
+  "name": "Usopp",
+  "requested": "Usopp",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 176.0,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 8,
+  "firstArc": "Syrup Village",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221127233827"
+ },
+ {
+  "name": "Vergo",
+  "requested": "Vergo",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 247.0,
+  "origin": "North Blue",
+  "firstChapter": 671,
+  "firstEpisode": 597,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest?cb=20230101232239"
+ },
+ {
+  "name": "Vinsmoke Ichiji",
+  "requested": "Vinsmoke Ichiji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186.0,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Vinsmoke_Ichiji_Anime_Infobox.png/revision/latest?cb=20180625103724"
+ },
+ {
+  "name": "Vinsmoke Judge",
+  "requested": "Vinsmoke Judge",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 272.0,
+  "origin": "North Blue",
+  "firstChapter": 832,
+  "firstEpisode": 793,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Vinsmoke_Judge_Anime_Infobox.png/revision/latest?cb=20170626124958"
+ },
+ {
+  "name": "Vinsmoke Niji",
+  "requested": "Vinsmoke Niji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185.0,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest?cb=20180618054009"
+ },
+ {
+  "name": "Vinsmoke Reiju",
+  "requested": "Vinsmoke Reiju",
+  "gender": "Female",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173.0,
+  "origin": "North Blue",
+  "firstChapter": 826,
+  "firstEpisode": 784,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest?cb=20231211104854"
+ },
+ {
+  "name": "Vinsmoke Yonji",
+  "requested": "Vinsmoke Yonji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 194.0,
+  "origin": "North Blue",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Vinsmoke_Yonji_Anime_Infobox.png/revision/latest?cb=20170416175856"
+ },
+ {
+  "name": "Viola",
+  "requested": "Viola",
+  "gender": "Female",
+  "affiliation": "Riku Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glare-Glare Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 178.0,
+  "origin": "Grand Line",
+  "firstChapter": 703,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest?cb=20221027021751"
+ },
+ {
+  "name": "Vista",
+  "requested": "Vista",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 328.0,
+  "origin": "North Blue",
+  "firstChapter": 552,
+  "firstEpisode": 0,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest?cb=20180131180522"
+ },
+ {
+  "name": "Wanda",
+  "requested": "Wanda",
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181.0,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest?cb=20160829034647"
+ },
+ {
+  "name": "Wapol",
+  "requested": "Wapol",
+  "gender": "Male",
+  "affiliation": "Evil Black Drum Kingdom",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Munch-Munch Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 207.0,
+  "origin": "Grand Line",
+  "firstChapter": 131,
+  "firstEpisode": 79,
+  "firstArc": "Drum Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/33/Wapol_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519090502"
+ },
+ {
+  "name": "Woop Slap",
+  "requested": "Woop Slap",
+  "gender": "Male",
+  "affiliation": "Foosha Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519184815"
+ },
+ {
+  "name": "Wyper",
+  "requested": "Wyper",
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 183.0,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231126004333"
+ },
+ {
+  "name": "X Drake",
+  "requested": "X Drake",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Allosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 222000000,
+  "heightCm": 233.0,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200209080003"
+ },
+ {
+  "name": "Yamato",
+  "requested": "Yamato",
+  "gender": "Male",
+  "affiliation": "Ninja-Pirate-Mink-Samurai Alliance",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 263.0,
+  "origin": null,
+  "firstChapter": 971,
+  "firstEpisode": 972,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest?cb=20260126165014"
+ },
+ {
+  "name": "Yosaku",
+  "requested": "Yosaku",
+  "gender": "Male",
+  "affiliation": "Johnny",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185.0,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Yosaku_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150325"
+ },
+ {
+  "name": "Zala",
+  "requested": "Zala",
+  "gender": "Female",
+  "affiliation": "New Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Spike-Spike Fruit",
+  "haki": [],
+  "bounty": 35000000,
+  "heightCm": 187.0,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest?cb=20221003164424"
+ },
+ {
+  "name": "Zambai",
+  "requested": "Zambai",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227.0,
+  "origin": "Grand Line",
+  "firstChapter": 324,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20210313192955"
+ },
+ {
+  "name": "Zeff",
+  "requested": "Zeff",
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189.0,
+  "origin": "East Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest?cb=20230617083525"
+ },
+ {
+  "name": "Scratchmen Apoo",
+  "requested": "Scratchmen Apoo",
+  "gender": "Male",
+  "affiliation": "On Air Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tone-Tone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 350000000,
+  "heightCm": 256.0,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210426143015"
+ },
+ {
+  "name": "Charlotte Smoothie",
+  "requested": "Charlotte Smoothie",
+  "gender": "Female",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wring-Wring Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 932000000,
+  "heightCm": 464.0,
+  "origin": "Grand Line",
+  "firstChapter": 846,
+  "firstEpisode": 812,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest?cb=20180423150946"
+ },
+ {
+  "name": "Charlotte Oven",
+  "requested": "Charlotte Oven",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Heat-Heat Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 492.0,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 827,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest?cb=20181028111159"
+ },
+ {
+  "name": "Charlotte Daifuku",
+  "requested": "Charlotte Daifuku",
+  "gender": "Male",
+  "affiliation": "Charlotte Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Puff-Puff Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 489.0,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 826,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest?cb=20230215154338"
+ },
+ {
+  "name": "Jozu",
+  "requested": "Jozu",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Twinkle-Twinkle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 503.0,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest?cb=20220702104233"
+ },
+ {
+  "name": "Thatch",
+  "requested": "Thatch",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "North Blue",
+  "firstChapter": 440,
+  "firstEpisode": 325,
+  "firstArc": "Post-Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Thatch_Anime_Infobox.png/revision/latest?cb=20230520115925"
+ },
+ {
+  "name": "Edward Weevil",
+  "requested": "Edward Weevil",
+  "gender": "Male",
+  "affiliation": "Seven Warlords of the Sea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 680.0,
+  "origin": "Grand Line",
+  "firstChapter": 802,
+  "firstEpisode": 751,
+  "firstArc": "Zou",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest?cb=20160807113654"
+ },
+ {
+  "name": "Hina",
+  "requested": "Hina",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bind-Bind Fruit (Cage-Cage Fruit (4Kids, Funimation)",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 181.0,
+  "origin": "West Blue",
+  "firstChapter": 171,
+  "firstEpisode": 127,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest?cb=20231125233601"
+ },
+ {
+  "name": "Helmeppo",
+  "requested": "Helmeppo",
+  "gender": "Male",
+  "affiliation": "Marines (Headquarters",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 100000000,
+  "heightCm": 179.0,
+  "origin": null,
+  "firstChapter": 3,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230723204723"
+ },
+ {
+  "name": "Tsuru",
+  "requested": "Tsuru",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wash-Wash Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 204.0,
+  "origin": "North Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Tsuru_Anime_Infobox.png/revision/latest?cb=20240730231455"
+ },
+ {
+  "name": "Stussy",
+  "requested": "Stussy",
+  "gender": "Female",
+  "affiliation": "Vegapunk",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Batto Batto no Mi",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 179.0,
+  "origin": "MADS",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "firstArc": "Whole Cake Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest?cb=20240512081047"
+ },
+ {
+  "name": "King",
+  "requested": "King",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Pteranodon",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1390000000,
+  "heightCm": 613.0,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest?cb=20230423142631"
+ },
+ {
+  "name": "Queen",
+  "requested": "Queen",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1320000000,
+  "heightCm": 612.0,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest?cb=20200920174728"
+ },
+ {
+  "name": "Jack",
+  "requested": "Jack",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Elephant-Elephant Fruit, Ancient Zoan Model: Mammoth (Funimation), Eleph-Eleph Fruit Ancient Zoan Model Mammoth",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1000000000,
+  "heightCm": 830.0,
+  "origin": "Grand Line",
+  "firstChapter": 801,
+  "firstEpisode": 746,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest?cb=20161009223938"
+ },
+ {
+  "name": "Page One",
+  "requested": "Page One",
+  "gender": "Male",
+  "affiliation": "Yamato",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Spinosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 290000000,
+  "heightCm": 171.0,
+  "origin": "Grand Line",
+  "firstChapter": 929,
+  "firstEpisode": 923,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Page_One_Anime_Infobox.png/revision/latest?cb=20211128115519"
+ },
+ {
+  "name": "Who's-Who",
+  "requested": "Who's-Who",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 546000000,
+  "heightCm": 336.0,
+  "origin": "North Blue",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Who%27s-Who_Anime_Infobox.png/revision/latest?cb=20211201215156"
+ },
+ {
+  "name": "Black Maria",
+  "requested": "Black Maria",
+  "gender": "Female",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 820.0,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest?cb=20210808144206"
+ },
+ {
+  "name": "Sasaki",
+  "requested": "Sasaki",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Triceratops Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 472000000,
+  "heightCm": 318.0,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest?cb=20211205140441"
+ },
+ {
+  "name": "Shinobu",
+  "requested": "Shinobu",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripe-Ripe Enticement Jutsu (Ripe-Ripe Fruit (One Piece Official YouTube Channel)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180.0,
+  "origin": "Grand Line",
+  "firstChapter": 921,
+  "firstEpisode": 911,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest?cb=20241015051553"
+ },
+ {
+  "name": "Kouzuki Toki",
+  "requested": "Kozuki Toki",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Time-Time Ability (Time-Time Fruit (Funimation)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 190.0,
+  "origin": null,
+  "firstChapter": 919,
+  "firstEpisode": 893,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest?cb=20240923154828"
+ },
+ {
+  "name": "Belo Betty",
+  "requested": "Belo Betty",
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pump-Pump Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 457000000,
+  "heightCm": 196.0,
+  "origin": "East Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest?cb=20240903112156"
+ },
+ {
+  "name": "Karasu",
+  "requested": "Karasu",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Soot-Soot Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 265.0,
+  "origin": "North Blue",
+  "firstChapter": 593,
+  "firstEpisode": 510,
+  "firstArc": "Post-War",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest?cb=20190414113619"
+ },
+ {
+  "name": "Morley",
+  "requested": "Morley",
+  "gender": null,
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Push-Push Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 293000000,
+  "heightCm": 1253.0,
+  "origin": "West Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest?cb=20230517025343"
+ },
+ {
+  "name": "Yasopp",
+  "requested": "Yasopp",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 183.0,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest?cb=20240623091749"
+ },
+ {
+  "name": "Lucky Roux",
+  "requested": "Lucky Roux",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 241.0,
+  "origin": "South Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220613165554"
+ },
+ {
+  "name": "Scopper Gaban",
+  "requested": "Scopper Gaban",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 19,
+  "firstEpisode": 0,
+  "firstArc": "Orange Town",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Scopper_Gaban_Anime_Infobox.png/revision/latest?cb=20260712160645"
+ },
+ {
+  "name": "Crocus",
+  "requested": "Crocus",
+  "gender": "Male",
+  "affiliation": "Roger Pirates , Laboon",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 203.0,
+  "origin": "Grand Line",
+  "firstChapter": 102,
+  "firstEpisode": 62,
+  "firstArc": "Reverse Mountain",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest?cb=20230403010215"
+ },
+ {
+  "name": "Shiryu",
+  "requested": "Shiryu",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 340.0,
+  "origin": "Grand Line",
+  "firstChapter": 538,
+  "firstEpisode": 440,
+  "firstArc": "Impel Down",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest?cb=20240728020909"
+ },
+ {
+  "name": "Van Augur",
+  "requested": "Van Augur",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Warp-Warp Fruit",
+  "haki": [],
+  "bounty": 64000000,
+  "heightCm": 340.0,
+  "origin": "East Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/95/Van_Augur_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240211025011"
+ },
+ {
+  "name": "Doc Q",
+  "requested": "Doc Q",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Sick-Sick Fruit",
+  "haki": [],
+  "bounty": 72000000,
+  "heightCm": 342.0,
+  "origin": "North Blue",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest?cb=20240211200456"
+ },
+ {
+  "name": "Laffitte",
+  "requested": "Laffitte",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 42200000,
+  "heightCm": 340.0,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Laffitte_Anime_Infobox.png/revision/latest?cb=20161029211833"
+ },
+ {
+  "name": "Catarina Devon",
+  "requested": "Catarina Devon",
+  "gender": "Female",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 361.0,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112041332"
+ },
+ {
+  "name": "Avalo Pizarro",
+  "requested": "Avalo Pizarro",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Isle-Isle Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 505.0,
+  "origin": "North Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112042123"
+ },
+ {
+  "name": "Sanjuan Wolf",
+  "requested": "Sanjuan Wolf",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Huge-Huge Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Sanjuan_Wolf_Anime_Infobox.png/revision/latest?cb=20241006021549"
+ },
+ {
+  "name": "Vasco Shot",
+  "requested": "Vasco Shot",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glug-Glug Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 573.0,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240728020838"
+ },
+ {
+  "name": "Alvida",
+  "requested": "Alvida",
+  "gender": "Female",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slip-Slip Fruit (Smooth-Smooth Fruit (Funimation)",
+  "haki": [],
+  "bounty": 5000000,
+  "heightCm": 198.0,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest?cb=20221116234952"
+ },
+ {
+  "name": "Vegapunk",
+  "requested": "Vegapunk",
+  "gender": "Male",
+  "affiliation": "MADS",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brain-Brain Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 314.0,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 610,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest?cb=20240428020834"
+ },
+ {
+  "name": "Vegapunk/York",
+  "requested": "York",
+  "gender": "Female",
+  "affiliation": "World Government",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 482.0,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/York_Anime_Infobox.png/revision/latest?cb=20240714022211"
+ },
+ {
+  "name": "Vegapunk/Lilith",
+  "requested": "Lilith",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204.0,
+  "origin": "Grand Line",
+  "firstChapter": 1061,
+  "firstEpisode": 1090,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/63/Lilith_Anime_Infobox.png/revision/latest?cb=20240609022158"
+ },
+ {
+  "name": "Vegapunk/Shaka",
+  "requested": "Shaka",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220.0,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Shaka_Anime_Infobox.png/revision/latest?cb=20240303030112"
+ },
+ {
+  "name": "Vegapunk/Edison",
+  "requested": "Edison",
+  "gender": null,
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 100.0,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Edison_Anime_Infobox.png/revision/latest?cb=20240428152557"
+ },
+ {
+  "name": "Vegapunk/Pythagoras",
+  "requested": "Pythagoras",
+  "gender": null,
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 341.0,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Pythagoras_Anime_Infobox.png/revision/latest?cb=20240602020823"
+ },
+ {
+  "name": "Vegapunk/Atlas",
+  "requested": "Atlas",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 729.0,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Atlas_Anime_Infobox.png/revision/latest?cb=20240602021244"
+ },
+ {
+  "name": "Sentomaru",
+  "requested": "Sentomaru",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 279.0,
+  "origin": "Grand Line",
+  "firstChapter": 497,
+  "firstEpisode": 401,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241117020846"
+ },
+ {
+  "name": "Jaygarcia Saturn",
+  "requested": "Jaygarcia Saturn",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Jaygarcia_Saturn_Anime_Infobox.png/revision/latest?cb=20250409120617"
+ },
+ {
+  "name": "Marcus Mars",
+  "requested": "Marcus Mars",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Marcus_Mars_Anime_Infobox.png/revision/latest?cb=20230617153420"
+ },
+ {
+  "name": "Topman Warcury",
+  "requested": "Topman Warcury",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Topman_Warcury_Anime_Infobox.png/revision/latest?cb=20250914161645"
+ },
+ {
+  "name": "Ethanbaron V. Nusjuro",
+  "requested": "Ethanbaron V. Nusjuro",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Ethanbaron_V._Nusjuro_Anime_Infobox.png/revision/latest?cb=20230308192359"
+ },
+ {
+  "name": "Shepherd Ju Peter",
+  "requested": "Shepherd Ju Peter",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Shepherd_Ju_Peter_Anime_Infobox.png/revision/latest?cb=20230308192302"
+ },
+ {
+  "name": "Nerona Imu",
+  "requested": "Imu",
+  "gender": "Male",
+  "affiliation": "World Government",
+  "dfTypes": [],
+  "dfName": "The Devil's Fruit",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 906,
+  "firstEpisode": 885,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Nerona_Imu_Manga_Infobox.png/revision/latest?cb=20260419150637"
+ },
+ {
+  "name": "Figarland Garling",
+  "requested": "Figarland Garling",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 1086,
+  "firstEpisode": 1120,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Figarland_Garling_Anime_Infobox.png/revision/latest?cb=20251228161247"
+ },
+ {
+  "name": "Figarland Shamrock",
+  "requested": "Figarland Shamrock",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 907,
+  "firstEpisode": 887,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Figarland_Shamrock_Anime_Infobox.png/revision/latest?cb=20260719162016"
+ },
+ {
+  "name": "Manmayer Gunko",
+  "requested": "Gunko",
+  "gender": "Female",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arrow-Arrow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 1134,
+  "firstEpisode": 1164,
+  "firstArc": "Elbaf",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Manmayer_Gunko_Anime_Infobox.png/revision/latest?cb=20260614160604"
+ },
+ {
+  "name": "Shepherd Sommers",
+  "requested": "Sommers",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Thorn-Thorn Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "firstArc": "Elbaf",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Shepherd_Sommers_Anime_Infobox.png/revision/latest?cb=20260906182716"
+ },
+ {
+  "name": "Rimoshifu Killingham",
+  "requested": "Killingham",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Kirin",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "firstArc": "Elbaf",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Rimoshifu_Killingham_Anime_Infobox.png/revision/latest?cb=20260831033721"
+ },
+ {
+  "name": "Loki",
+  "requested": "Loki",
+  "gender": "Male",
+  "affiliation": "Elbaph Royal Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Nidhöggr",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 2600000000,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1130,
+  "firstEpisode": 1160,
+  "firstArc": "Elbaf",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Loki_Anime_Infobox.png/revision/latest?cb=20260728232529"
+ },
+ {
+  "name": "Harald",
+  "requested": "Harald",
+  "gender": "Male",
+  "affiliation": "Elbaph Royal Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1136,
+  "firstEpisode": 1166,
+  "firstArc": "Elbaf",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Harald_Anime_Infobox.png/revision/latest?cb=20260830163121"
+ },
+ {
+  "name": "Fisher Tiger",
+  "requested": "Fisher Tiger",
+  "gender": "Male",
+  "affiliation": "Sun Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 230000000,
+  "heightCm": 520.0,
+  "origin": "Grand Line",
+  "firstChapter": 521,
+  "firstEpisode": 415,
+  "firstArc": "Amazon Lily",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest?cb=20230214162116"
+ },
+ {
+  "name": "Otohime",
+  "requested": "Otohime",
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 224.0,
+  "origin": "Grand Line",
+  "firstChapter": 621,
+  "firstEpisode": 539,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest?cb=20130427195608"
+ },
+ {
+  "name": "Chaka",
+  "requested": "Chaka",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Jackal (Funimation) (Mutt Mutt Fruit: Jackal Mode; Mutt-Mutt Fruit: Jackal Strike (4Kids)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213.0,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "firstArc": "Alabasta",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Chaka_Anime_Infobox.png/revision/latest?cb=20240922030609"
+ },
+ {
+  "name": "Shimotsuki Kuina",
+  "requested": "Kuina",
+  "gender": "Female",
+  "affiliation": "Shimotsuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150.0,
+  "origin": "East Blue",
+  "firstChapter": 5,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest?cb=20241110050028"
+ },
+ {
+  "name": "Jaguar D. Saul",
+  "requested": "Jaguar D. Saul",
+  "gender": "Male",
+  "affiliation": "Walrus School",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 1950.0,
+  "origin": "South Blue",
+  "firstChapter": 392,
+  "firstEpisode": 275,
+  "firstArc": "Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348"
+ },
+ {
+  "name": "Boa Sandersonia",
+  "requested": "Boa Sandersonia",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit Anaconda Model (Snake-Snake Fruit: Model Anaconda (Funimation)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 453.0,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest?cb=20141017161424"
+ },
+ {
+  "name": "Boa Marigold",
+  "requested": "Boa Marigold",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit King Cobra Model (Snake-Snake Fruit: Model King Cobra (Funimation)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 432.0,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest?cb=20150903140509"
+ },
+ {
+  "name": "Hajrudin",
+  "requested": "Hajrudin",
+  "gender": "Male",
+  "affiliation": "New Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 2200.0,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 639,
+  "firstArc": "Dressrosa",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest?cb=20240319195654"
+ },
+ {
+  "name": "Sugar",
+  "requested": "Sugar",
+  "gender": "Female",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hobby-Hobby Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 110.0,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest?cb=20141005232110"
+ },
+ {
+  "name": "Vander Decken IX",
+  "requested": "Vander Decken IX",
+  "gender": "Male",
+  "affiliation": "Flying Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mark-Mark Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 352.0,
+  "origin": "Grand Line",
+  "firstChapter": 606,
+  "firstEpisode": 525,
+  "firstArc": "Fish-Man Island",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest?cb=20130504034305"
+ },
+ {
+  "name": "Morgan",
+  "requested": "Morgan",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 285.0,
+  "origin": null,
+  "firstChapter": 4,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest?cb=20160802223743"
+ },
+ {
+  "name": "Shakuyaku",
+  "requested": "Shakuyaku",
+  "gender": "Female",
+  "affiliation": "Shakky's Rip-off Bar",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186.0,
+  "origin": null,
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest?cb=20241117020947"
+ },
+ {
+  "name": "Rocks D. Xebec",
+  "requested": "Rocks D. Xebec",
+  "gender": "Male",
+  "affiliation": "Rocks Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 435.0,
+  "origin": "West Blue",
+  "firstChapter": 957,
+  "firstEpisode": 958,
+  "firstArc": "Wano Country",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Rocks_D._Xebec_Manga_Infobox.png/revision/latest?cb=20260228213945"
+ },
+ {
+  "name": "Aramaki",
+  "requested": "Aramaki",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Woods-Woods Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 308.0,
+  "origin": "South Blue",
+  "firstChapter": 905,
+  "firstEpisode": 882,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Aramaki_Anime_Infobox.png/revision/latest?cb=20240930142146"
+ },
+ {
+  "name": "Curly Dadan",
+  "requested": "Curly Dadan",
+  "gender": "Female",
+  "affiliation": "Dadan Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 7800000,
+  "heightCm": 221.0,
+  "origin": "East Blue",
+  "firstChapter": 440,
+  "firstEpisode": 324,
+  "firstArc": "Post-Enies Lobby",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest?cb=20160802231340"
+ },
+ {
+  "name": "Emet",
+  "requested": "Emet",
+  "gender": null,
+  "affiliation": null,
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": null,
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Emet_Anime_Infobox.png/revision/latest?cb=20250928162246"
+ }
+]

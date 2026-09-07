@@ -1,0 +1,5562 @@
+[
+ {
+  "name": "Absalom",
+  "aliases": [
+   "Absa",
+   "Absalom of the Graveyard"
+  ],
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195,
+  "origin": "West Blue",
+  "firstChapter": 444,
+  "firstEpisode": 339,
+  "firstArc": "Thriller Bark",
+  "portrait": "absalom.png"
+ },
+ {
+  "name": "Aisa",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 140,
+  "origin": "Sky Island",
+  "firstChapter": 249,
+  "firstEpisode": 161,
+  "firstArc": "Skypiea",
+  "portrait": "aisa.png"
+ },
+ {
+  "name": "Alvida",
+  "aliases": [
+   "Iron Mace Alvida",
+   "Iron Club Alvida"
+  ],
+  "gender": "Female",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slip-Slip Fruit",
+  "haki": [],
+  "bounty": 5000000,
+  "heightCm": 198,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "portrait": "alvida.png"
+ },
+ {
+  "name": "Aramaki",
+  "aliases": [
+   "Ryokugyu",
+   "Green Bull"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Woods-Woods Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 308,
+  "origin": "South Blue",
+  "firstChapter": 905,
+  "firstEpisode": 882,
+  "firstArc": "Levely",
+  "portrait": "aramaki.png"
+ },
+ {
+  "name": "Arlong",
+  "aliases": [
+   "Arlong the Saw",
+   "Saw-Tooth Arlong"
+  ],
+  "gender": "Male",
+  "affiliation": "Arlong Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 20000000,
+  "heightCm": 263,
+  "origin": "Grand Line",
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "portrait": "arlong.png"
+ },
+ {
+  "name": "Ashura Doji",
+  "aliases": [
+   "Shutenmaru"
+  ],
+  "gender": "Male",
+  "affiliation": "Nine Red Scabbards",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 544,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "portrait": "ashura-doji.png"
+ },
+ {
+  "name": "Atlas",
+  "aliases": [
+   "Vegapunk Atlas",
+   "Punk-05",
+   "Atlas the Violent",
+   "Vegapunk/Atlas"
+  ],
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 729,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "firstArc": "Egghead",
+  "portrait": "atlas.png"
+ },
+ {
+  "name": "Avalo Pizarro",
+  "aliases": [
+   "Pizarro",
+   "Corrupt King"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Isle-Isle Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 505,
+  "origin": "North Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "portrait": "avalo-pizarro.png"
+ },
+ {
+  "name": "Baby 5",
+  "aliases": [
+   "Baby Five"
+  ],
+  "gender": "Female",
+  "affiliation": "Happo Navy",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arms-Arms Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "portrait": "baby-5.png"
+ },
+ {
+  "name": "Bartholomew Kuma",
+  "aliases": [
+   "Kuma",
+   "Tyrant",
+   "PX-0"
+  ],
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Paw-Paw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 296000000,
+  "heightCm": 689,
+  "origin": "South Blue",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "bartholomew-kuma.png"
+ },
+ {
+  "name": "Bartolomeo",
+  "aliases": [
+   "Barto",
+   "Bartolomeo the Cannibal"
+  ],
+  "gender": "Male",
+  "affiliation": "Barto Club",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Barrier-Barrier Fruit",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 220,
+  "origin": "East Blue",
+  "firstChapter": 705,
+  "firstEpisode": 633,
+  "firstArc": "Dressrosa",
+  "portrait": "bartolomeo.png"
+ },
+ {
+  "name": "Basil Hawkins",
+  "aliases": [
+   "Hawkins",
+   "Magician"
+  ],
+  "gender": "Male",
+  "affiliation": "Hawkins Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Straw-Straw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 320000000,
+  "heightCm": 210,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "basil-hawkins.png"
+ },
+ {
+  "name": "Bell-mère",
+  "aliases": [
+   "Belle-Mère",
+   "Bellemere"
+  ],
+  "gender": "Female",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 77,
+  "firstEpisode": 32,
+  "firstArc": "Arlong Park",
+  "portrait": "bell-m-re.png"
+ },
+ {
+  "name": "Bellamy",
+  "aliases": [
+   "Bellamy the Hyena",
+   "The Hyena"
+  ],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Boing-Boing Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 195000000,
+  "heightCm": 240,
+  "origin": "North Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "portrait": "bellamy.png"
+ },
+ {
+  "name": "Belo Betty",
+  "aliases": [
+   "Betty"
+  ],
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pump-Pump Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 457000000,
+  "heightCm": 196,
+  "origin": "East Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "portrait": "belo-betty.png"
+ },
+ {
+  "name": "Benn Beckman",
+  "aliases": [
+   "Beckman",
+   "Ben Beckman"
+  ],
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 206,
+  "origin": "North Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "portrait": "benn-beckman.png"
+ },
+ {
+  "name": "Bentham",
+  "aliases": [
+   "Bon Clay",
+   "Mr. 2",
+   "Bon Kurei"
+  ],
+  "gender": "Other",
+  "affiliation": "Newkama Land",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clone-Clone Fruit",
+  "haki": [],
+  "bounty": 32000000,
+  "heightCm": 238,
+  "origin": "East Blue",
+  "firstChapter": 129,
+  "firstEpisode": 78,
+  "firstArc": "Little Garden",
+  "portrait": "bentham.png"
+ },
+ {
+  "name": "Bepo",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1500,
+  "heightCm": 240,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "bepo.png"
+ },
+ {
+  "name": "Black Maria",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 820,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "firstArc": "Wano Country",
+  "portrait": "black-maria.png"
+ },
+ {
+  "name": "Blueno",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Door-Door Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 258,
+  "origin": "North Blue",
+  "firstChapter": 325,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "blueno.png"
+ },
+ {
+  "name": "Boa Hancock",
+  "aliases": [
+   "Hancock",
+   "Snake Princess",
+   "Pirate Empress"
+  ],
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Love-Love Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1659000000,
+  "heightCm": 191,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "portrait": "boa-hancock.png"
+ },
+ {
+  "name": "Boa Marigold",
+  "aliases": [
+   "Marigold",
+   "Mari"
+  ],
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: King Cobra",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 432,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "portrait": "boa-marigold.png"
+ },
+ {
+  "name": "Boa Sandersonia",
+  "aliases": [
+   "Sandersonia",
+   "Sonia"
+  ],
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: Anaconda",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 453,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "firstArc": "Amazon Lily",
+  "portrait": "boa-sandersonia.png"
+ },
+ {
+  "name": "Borsalino",
+  "aliases": [
+   "Kizaru"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Glint-Glint Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 302,
+  "origin": "North Blue",
+  "firstChapter": 504,
+  "firstEpisode": 398,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "borsalino.png"
+ },
+ {
+  "name": "Brogy",
+  "aliases": [
+   "Broggy",
+   "Red Ogre"
+  ],
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2130,
+  "origin": "Grand Line",
+  "firstChapter": 115,
+  "firstEpisode": 71,
+  "firstArc": "Little Garden",
+  "portrait": "brogy.png"
+ },
+ {
+  "name": "Brook",
+  "aliases": [
+   "Soul King",
+   "Humming Brook"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Revive-Revive Fruit",
+  "haki": [],
+  "bounty": 383000000,
+  "heightCm": 277,
+  "origin": "West Blue",
+  "firstChapter": 442,
+  "firstEpisode": 337,
+  "firstArc": "Thriller Bark",
+  "portrait": "brook.png"
+ },
+ {
+  "name": "Buggy",
+  "aliases": [
+   "Buggy the Clown",
+   "Star Clown"
+  ],
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Chop-Chop Fruit",
+  "haki": [],
+  "bounty": 3189000000,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 9,
+  "firstEpisode": 4,
+  "firstArc": "Orange Town",
+  "portrait": "buggy.png"
+ },
+ {
+  "name": "Caesar Clown",
+  "aliases": [
+   "Caesar",
+   "Master",
+   "Gastino"
+  ],
+  "gender": "Male",
+  "affiliation": "NEO MADS",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Gas-Gas Fruit",
+  "haki": [],
+  "bounty": 300000000,
+  "heightCm": 309,
+  "origin": "Grand Line",
+  "firstChapter": 658,
+  "firstEpisode": 581,
+  "firstArc": "Punk Hazard",
+  "portrait": "caesar-clown.png"
+ },
+ {
+  "name": "Camie",
+  "aliases": [
+   "Keimi"
+  ],
+  "gender": "Female",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 197,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "firstArc": "Alabasta",
+  "portrait": "camie.png"
+ },
+ {
+  "name": "Capone Bege",
+  "aliases": [
+   "Bege",
+   "Gang Bege"
+  ],
+  "gender": "Male",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Castle-Castle Fruit",
+  "haki": [],
+  "bounty": 350000000,
+  "heightCm": 166,
+  "origin": "West Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "capone-bege.png"
+ },
+ {
+  "name": "Caribou",
+  "aliases": [
+   "Wet-Haired Caribou"
+  ],
+  "gender": "Male",
+  "affiliation": "Caribou Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Swamp-Swamp Fruit",
+  "haki": [],
+  "bounty": 210000000,
+  "heightCm": 228,
+  "origin": "North Blue",
+  "firstChapter": 600,
+  "firstEpisode": 519,
+  "firstArc": "Return to Sabaody",
+  "portrait": "caribou.png"
+ },
+ {
+  "name": "Carrot",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 161,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "firstArc": "Zou",
+  "portrait": "carrot.png"
+ },
+ {
+  "name": "Catarina Devon",
+  "aliases": [
+   "Devon",
+   "Crescent Moon Hunter"
+  ],
+  "gender": "Female",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 361,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "portrait": "catarina-devon.png"
+ },
+ {
+  "name": "Cavendish",
+  "aliases": [
+   "Hakuba",
+   "Cavendish of the White Horse",
+   "Pirate Prince"
+  ],
+  "gender": "Male",
+  "affiliation": "Beautiful Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 208,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "cavendish.png"
+ },
+ {
+  "name": "Chadros Higelyges",
+  "aliases": [
+   "Brownbeard"
+  ],
+  "gender": "Male",
+  "affiliation": "Brownbeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 80060000,
+  "heightCm": 691,
+  "origin": "Grand Line",
+  "firstChapter": 581,
+  "firstEpisode": 490,
+  "firstArc": "Post-War",
+  "portrait": "chadros-higelyges.png"
+ },
+ {
+  "name": "Chaka",
+  "aliases": [
+   "Chaka the Jackal"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Jackal",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "firstArc": "Alabasta",
+  "portrait": "chaka.png"
+ },
+ {
+  "name": "Charlotte Brûlée",
+  "aliases": [
+   "Brulee",
+   "Charlotte Brulee"
+  ],
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mirror-Mirror Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350,
+  "origin": "Grand Line",
+  "firstChapter": 831,
+  "firstEpisode": 791,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-br-l-e.png"
+ },
+ {
+  "name": "Charlotte Chiffon",
+  "aliases": [
+   "Chiffon"
+  ],
+  "gender": "Female",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 215,
+  "origin": "Grand Line",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-chiffon.png"
+ },
+ {
+  "name": "Charlotte Cracker",
+  "aliases": [
+   "Cracker",
+   "Thousand Arms Cracker",
+   "Biscuit Knight"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bis-Bis Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 860000000,
+  "heightCm": 307,
+  "origin": "Grand Line",
+  "firstChapter": 835,
+  "firstEpisode": 796,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-cracker.png"
+ },
+ {
+  "name": "Charlotte Daifuku",
+  "aliases": [
+   "Daifuku"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Puff-Puff Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 489,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 826,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-daifuku.png"
+ },
+ {
+  "name": "Charlotte Katakuri",
+  "aliases": [
+   "Katakuri",
+   "Dogtooth"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Special Paramecia"
+  ],
+  "dfName": "Mochi-Mochi Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1057000000,
+  "heightCm": 509,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 825,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-katakuri.png"
+ },
+ {
+  "name": "Charlotte Linlin",
+  "aliases": [
+   "Big Mom",
+   "O-Lin",
+   "Linlin"
+  ],
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Soul-Soul Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4388000000,
+  "heightCm": 880,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "portrait": "charlotte-linlin.png"
+ },
+ {
+  "name": "Charlotte Lola",
+  "aliases": [
+   "Lola",
+   "Marriage Proposal Lola"
+  ],
+  "gender": "Female",
+  "affiliation": "Rolling Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 215,
+  "origin": "Grand Line",
+  "firstChapter": 476,
+  "firstEpisode": 370,
+  "firstArc": "Thriller Bark",
+  "portrait": "charlotte-lola.png"
+ },
+ {
+  "name": "Charlotte Mont-d'Or",
+  "aliases": [
+   "Mont-d'Or",
+   "Scribe"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Book-Book Fruit",
+  "haki": [],
+  "bounty": 120000000,
+  "heightCm": 260,
+  "origin": "Grand Line",
+  "firstChapter": 829,
+  "firstEpisode": 789,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-mont-d-or.png"
+ },
+ {
+  "name": "Charlotte Oven",
+  "aliases": [
+   "Oven"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Heat-Heat Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 492,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 827,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-oven.png"
+ },
+ {
+  "name": "Charlotte Perospero",
+  "aliases": [
+   "Perospero"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Lick-Lick Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 700000000,
+  "heightCm": 333,
+  "origin": "Grand Line",
+  "firstChapter": 834,
+  "firstEpisode": 795,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-perospero.png"
+ },
+ {
+  "name": "Charlotte Pudding",
+  "aliases": [
+   "Pudding"
+  ],
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Memo-Memo Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 166,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "portrait": "charlotte-pudding.png"
+ },
+ {
+  "name": "Charlotte Smoothie",
+  "aliases": [
+   "Smoothie"
+  ],
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wring-Wring Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 932000000,
+  "heightCm": 464,
+  "origin": "Grand Line",
+  "firstChapter": 846,
+  "firstEpisode": 812,
+  "firstArc": "Whole Cake Island",
+  "portrait": "charlotte-smoothie.png"
+ },
+ {
+  "name": "Chimney",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Water 7",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 115,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "portrait": "chimney.png"
+ },
+ {
+  "name": "Chinjao",
+  "aliases": [
+   "Don Chinjao",
+   "Chinjao the Drill"
+  ],
+  "gender": "Male",
+  "affiliation": "Chinjao Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 542000000,
+  "heightCm": 520,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "chinjao.png"
+ },
+ {
+  "name": "Conis",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Skypiea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 176,
+  "origin": "Sky Island",
+  "firstChapter": 239,
+  "firstEpisode": 154,
+  "firstArc": "Skypiea",
+  "portrait": "conis.png"
+ },
+ {
+  "name": "Crocodile",
+  "aliases": [
+   "Sir Crocodile",
+   "Mr. 0",
+   "Desert King"
+  ],
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Sand-Sand Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1965000000,
+  "heightCm": 253,
+  "origin": "Grand Line",
+  "firstChapter": 126,
+  "firstEpisode": 76,
+  "firstArc": "Little Garden",
+  "portrait": "crocodile.png"
+ },
+ {
+  "name": "Crocus",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 203,
+  "origin": "Grand Line",
+  "firstChapter": 102,
+  "firstEpisode": 62,
+  "firstArc": "Reverse Mountain",
+  "portrait": "crocus.png"
+ },
+ {
+  "name": "Curly Dadan",
+  "aliases": [
+   "Dadan"
+  ],
+  "gender": "Female",
+  "affiliation": "Dadan Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 7800000,
+  "heightCm": 221,
+  "origin": "East Blue",
+  "firstChapter": 440,
+  "firstEpisode": 324,
+  "firstArc": "Post-Enies Lobby",
+  "portrait": "curly-dadan.png"
+ },
+ {
+  "name": "Dalton",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit, Bison Model",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218,
+  "origin": "Grand Line",
+  "firstChapter": 132,
+  "firstEpisode": 79,
+  "firstArc": "Drum Island",
+  "portrait": "dalton.png"
+ },
+ {
+  "name": "Daz Bonez",
+  "aliases": [
+   "Mr. 1",
+   "The Killer",
+   "Daz Bones"
+  ],
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Dice-Dice Fruit",
+  "haki": [],
+  "bounty": 75000000,
+  "heightCm": 212,
+  "origin": "West Blue",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "portrait": "daz-bonez.png"
+ },
+ {
+  "name": "Denjiro",
+  "aliases": [
+   "Kyoshiro",
+   "Ushimitsu Kozo",
+   "Dozing Kyoshiro"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 306,
+  "origin": "Grand Line",
+  "firstChapter": 919,
+  "firstEpisode": 909,
+  "firstArc": "Wano Country",
+  "portrait": "denjiro.png"
+ },
+ {
+  "name": "Diamante",
+  "aliases": [
+   "Hero of the Colosseum"
+  ],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripple-Ripple Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 525,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "portrait": "diamante.png"
+ },
+ {
+  "name": "Doc Q",
+  "aliases": [
+   "Grim Reaper",
+   "Death God"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Sick-Sick Fruit",
+  "haki": [],
+  "bounty": 72000000,
+  "heightCm": 342,
+  "origin": "North Blue",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "portrait": "doc-q.png"
+ },
+ {
+  "name": "Donquixote Doflamingo",
+  "aliases": [
+   "Doflamingo",
+   "Joker",
+   "Heavenly Yaksha",
+   "Doffy"
+  ],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "String-String Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 340000000,
+  "heightCm": 305,
+  "origin": "Red Line",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "donquixote-doflamingo.png"
+ },
+ {
+  "name": "Donquixote Rosinante",
+  "aliases": [
+   "Corazon",
+   "Cora-san",
+   "Rosinante"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Calm-Calm Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 293,
+  "origin": "Red Line",
+  "firstChapter": 761,
+  "firstEpisode": 686,
+  "firstArc": "Dressrosa",
+  "portrait": "donquixote-rosinante.png"
+ },
+ {
+  "name": "Dorry",
+  "aliases": [
+   "Blue Ogre",
+   "Dorry the Blue Ogre"
+  ],
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2260,
+  "origin": "Grand Line",
+  "firstChapter": 116,
+  "firstEpisode": 71,
+  "firstArc": "Little Garden",
+  "portrait": "dorry.png"
+ },
+ {
+  "name": "Dracule Mihawk",
+  "aliases": [
+   "Mihawk",
+   "Hawk Eyes",
+   "Hawk-Eye Mihawk"
+  ],
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3590000000,
+  "heightCm": 198,
+  "origin": "Unknown",
+  "firstChapter": 49,
+  "firstEpisode": 23,
+  "firstArc": "Baratie",
+  "portrait": "dracule-mihawk.png"
+ },
+ {
+  "name": "Drophy",
+  "aliases": [
+   "Miss Merry Christmas",
+   "Ms. Merry Christmas"
+  ],
+  "gender": "Female",
+  "affiliation": "Baroque Works",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mole-Mole Fruit",
+  "haki": [],
+  "bounty": 14000000,
+  "heightCm": 156,
+  "origin": "Grand Line",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "portrait": "drophy.png"
+ },
+ {
+  "name": "Edison",
+  "aliases": [
+   "Vegapunk Edison",
+   "Punk-03",
+   "Edison the Thinker",
+   "Vegapunk/Edison"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 100,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "portrait": "edison.png"
+ },
+ {
+  "name": "Edward Newgate",
+  "aliases": [
+   "Whitebeard"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tremor-Tremor Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5046000000,
+  "heightCm": 666,
+  "origin": "Grand Line",
+  "firstChapter": 159,
+  "firstEpisode": 95,
+  "firstArc": "Alabasta",
+  "portrait": "edward-newgate.png"
+ },
+ {
+  "name": "Edward Weevil",
+  "aliases": [
+   "Weevil",
+   "Whitebeard Jr."
+  ],
+  "gender": "Male",
+  "affiliation": "Seven Warlords of the Sea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 680,
+  "origin": "Grand Line",
+  "firstChapter": 802,
+  "firstEpisode": 751,
+  "firstArc": "Zou",
+  "portrait": "edward-weevil.png"
+ },
+ {
+  "name": "Emet",
+  "aliases": [
+   "Iron Giant"
+  ],
+  "gender": "Other",
+  "affiliation": "Egghead",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "portrait": "emet.png"
+ },
+ {
+  "name": "Emporio Ivankov",
+  "aliases": [
+   "Iva",
+   "Ivankov",
+   "Okama King"
+  ],
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Horm-Horm Fruit",
+  "haki": [],
+  "bounty": 100000000,
+  "heightCm": 449,
+  "origin": "Grand Line",
+  "firstChapter": 537,
+  "firstEpisode": 438,
+  "firstArc": "Impel Down",
+  "portrait": "emporio-ivankov.png"
+ },
+ {
+  "name": "Enel",
+  "aliases": [
+   "Eneru",
+   "God Enel"
+  ],
+  "gender": "Male",
+  "affiliation": "God's Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Rumble-Rumble Fruit",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 266,
+  "origin": "Sky Island",
+  "firstChapter": 254,
+  "firstEpisode": 167,
+  "firstArc": "Skypiea",
+  "portrait": "enel.png"
+ },
+ {
+  "name": "Ethanbaron V. Nusjuro",
+  "aliases": [
+   "Nusjuro",
+   "Warrior God of Finance"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "ethanbaron-v-nusjuro.png"
+ },
+ {
+  "name": "Eustass Kid",
+  "aliases": [
+   "Kid",
+   "Kidd",
+   "Captain Kid"
+  ],
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Magnet-Magnet Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 205,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "eustass-kid.png"
+ },
+ {
+  "name": "Figarland Garling",
+  "aliases": [
+   "Garling"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1086,
+  "firstEpisode": 1120,
+  "firstArc": "Egghead",
+  "portrait": "figarland-garling.png"
+ },
+ {
+  "name": "Figarland Shamrock",
+  "aliases": [
+   "Shamrock"
+  ],
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 907,
+  "firstEpisode": 887,
+  "firstArc": "Levely",
+  "portrait": "figarland-shamrock.png"
+ },
+ {
+  "name": "Fisher Tiger",
+  "aliases": [
+   "Tiger",
+   "The Adventurer",
+   "Hero of Slaves"
+  ],
+  "gender": "Male",
+  "affiliation": "Sun Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 230000000,
+  "heightCm": 520,
+  "origin": "Grand Line",
+  "firstChapter": 521,
+  "firstEpisode": 415,
+  "firstArc": "Amazon Lily",
+  "portrait": "fisher-tiger.png"
+ },
+ {
+  "name": "Foxy",
+  "aliases": [
+   "Silver Fox"
+  ],
+  "gender": "Male",
+  "affiliation": "Foxy Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slow-Slow Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 180,
+  "origin": "South Blue",
+  "firstChapter": 305,
+  "firstEpisode": 207,
+  "firstArc": "Long Ring Long Land",
+  "portrait": "foxy.png"
+ },
+ {
+  "name": "Franky",
+  "aliases": [
+   "Cutty Flam",
+   "Iron Man Franky",
+   "Cyborg Franky",
+   "Franosuke"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 394000000,
+  "heightCm": 240,
+  "origin": "South Blue",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "firstArc": "Water 7",
+  "portrait": "franky.png"
+ },
+ {
+  "name": "Fukaboshi",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 604,
+  "origin": "Grand Line",
+  "firstChapter": 609,
+  "firstEpisode": 528,
+  "firstArc": "Fish-Man Island",
+  "portrait": "fukaboshi.png"
+ },
+ {
+  "name": "Fukurou",
+  "aliases": [
+   "Fukuro",
+   "Fukurou the Silent"
+  ],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 331,
+  "origin": "Grand Line",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "portrait": "fukurou.png"
+ },
+ {
+  "name": "Gaimon",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Island of Rare Animals",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 130,
+  "origin": "East Blue",
+  "firstChapter": 22,
+  "firstEpisode": 18,
+  "firstArc": "Syrup Village",
+  "portrait": "gaimon.png"
+ },
+ {
+  "name": "Galdino",
+  "aliases": [
+   "Mr. 3",
+   "Mister 3"
+  ],
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wax-Wax Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 179,
+  "origin": "South Blue",
+  "firstChapter": 117,
+  "firstEpisode": 70,
+  "firstArc": "Little Garden",
+  "portrait": "galdino.png"
+ },
+ {
+  "name": "Gan Fall",
+  "aliases": [
+   "Knight of the Sky",
+   "Sky Knight",
+   "Ganfor"
+  ],
+  "gender": "Male",
+  "affiliation": "Skypiea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "portrait": "gan-fall.png"
+ },
+ {
+  "name": "Gecko Moria",
+  "aliases": [
+   "Moria",
+   "Gekko Moriah",
+   "Kouzuki Moria"
+  ],
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Shadow-Shadow Fruit",
+  "haki": [],
+  "bounty": 320000000,
+  "heightCm": 692,
+  "origin": "West Blue",
+  "firstChapter": 449,
+  "firstEpisode": 343,
+  "firstArc": "Thriller Bark",
+  "portrait": "gecko-moria.png"
+ },
+ {
+  "name": "Gem",
+  "aliases": [
+   "Mr. 5",
+   "Gem of the Border"
+  ],
+  "gender": "Male",
+  "affiliation": "Baroque Works",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bomb-Bomb Fruit",
+  "haki": [],
+  "bounty": 10000000,
+  "heightCm": 197,
+  "origin": "South Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "portrait": "gem.png"
+ },
+ {
+  "name": "Genzo",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173,
+  "origin": "East Blue",
+  "firstChapter": 71,
+  "firstEpisode": 32,
+  "firstArc": "Arlong Park",
+  "portrait": "genzo.png"
+ },
+ {
+  "name": "Gin",
+  "aliases": [
+   "Ghin",
+   "Man-Demon Gin"
+  ],
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 12000000,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "portrait": "gin.png"
+ },
+ {
+  "name": "Gladius",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pop-Pop Fruit",
+  "haki": [],
+  "bounty": 31000000,
+  "heightCm": 260,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "portrait": "gladius.png"
+ },
+ {
+  "name": "Gol D. Roger",
+  "aliases": [
+   "Gold Roger",
+   "Pirate King",
+   "Roger"
+  ],
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5564800000,
+  "heightCm": 274,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 48,
+  "firstArc": "Romance Dawn",
+  "portrait": "gol-d-roger.png"
+ },
+ {
+  "name": "Gonbe",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Water 7",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "portrait": "gonbe.png"
+ },
+ {
+  "name": "Gunko",
+  "aliases": [
+   "Manmayer Gunko",
+   "Shuri",
+   "Father-Killing Princess"
+  ],
+  "gender": "Female",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arrow-Arrow Fruit",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 1134,
+  "firstEpisode": 1164,
+  "firstArc": "Elbaf",
+  "portrait": "gunko.png"
+ },
+ {
+  "name": "Hajrudin",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "New Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 2200,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 639,
+  "firstArc": "Dressrosa",
+  "portrait": "hajrudin.png"
+ },
+ {
+  "name": "Harald",
+  "aliases": [
+   "King Harald"
+  ],
+  "gender": "Male",
+  "affiliation": "Elbaf Royal Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1136,
+  "firstEpisode": 1166,
+  "firstArc": "Elbaf",
+  "portrait": "harald.png"
+ },
+ {
+  "name": "Hatchan",
+  "aliases": [
+   "Hachi",
+   "Six Sword Style Hachi"
+  ],
+  "gender": "Male",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 8000000,
+  "heightCm": 220,
+  "origin": "Grand Line",
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "portrait": "hatchan.png"
+ },
+ {
+  "name": "Hattori",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 25,
+  "origin": "Unknown",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "hattori.png"
+ },
+ {
+  "name": "Helmeppo",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 100000000,
+  "heightCm": 179,
+  "origin": "Unknown",
+  "firstChapter": 3,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "portrait": "helmeppo.png"
+ },
+ {
+  "name": "Hina",
+  "aliases": [
+   "Black Cage Hina"
+  ],
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bind-Bind Fruit",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 181,
+  "origin": "West Blue",
+  "firstChapter": 171,
+  "firstEpisode": 127,
+  "firstArc": "Alabasta",
+  "portrait": "hina.png"
+ },
+ {
+  "name": "Hiriluk",
+  "aliases": [
+   "Dr. Hiriluk",
+   "Hiluluk"
+  ],
+  "gender": "Male",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213,
+  "origin": "Grand Line",
+  "firstChapter": 141,
+  "firstEpisode": 85,
+  "firstArc": "Drum Island",
+  "portrait": "hiriluk.png"
+ },
+ {
+  "name": "Hody Jones",
+  "aliases": [
+   "Hordy Jones",
+   "Hordy"
+  ],
+  "gender": "Male",
+  "affiliation": "New Fish-Man Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 331,
+  "origin": "Grand Line",
+  "firstChapter": 608,
+  "firstEpisode": 527,
+  "firstArc": "Fish-Man Island",
+  "portrait": "hody-jones.png"
+ },
+ {
+  "name": "Hogback",
+  "aliases": [
+   "Doctor Hogback",
+   "Dr. Hogback"
+  ],
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 223,
+  "origin": "West Blue",
+  "firstChapter": 446,
+  "firstEpisode": 340,
+  "firstArc": "Thriller Bark",
+  "portrait": "hogback.png"
+ },
+ {
+  "name": "Hyogoro",
+  "aliases": [
+   "Hyougoro",
+   "Grandpa Hyo",
+   "Old Man Hyo",
+   "Hyogoro the Flower"
+  ],
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 100,
+  "origin": "Grand Line",
+  "firstChapter": 926,
+  "firstEpisode": 919,
+  "firstArc": "Wano Country",
+  "portrait": "hyogoro.png"
+ },
+ {
+  "name": "Iceburg",
+  "aliases": [
+   "Iceberg"
+  ],
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 199,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "iceburg.png"
+ },
+ {
+  "name": "Igaram",
+  "aliases": [
+   "Mr. 8",
+   "Igarappoi"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218,
+  "origin": "Grand Line",
+  "firstChapter": 106,
+  "firstEpisode": 64,
+  "firstArc": "Whisky Peak",
+  "portrait": "igaram.png"
+ },
+ {
+  "name": "Imu",
+  "aliases": [
+   "Nerona Imu",
+   "Im",
+   "Imu-sama",
+   "King of the World"
+  ],
+  "gender": "Male",
+  "affiliation": "World Government",
+  "dfTypes": [
+   "Unknown"
+  ],
+  "dfName": "The Devil's Fruit",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 906,
+  "firstEpisode": 885,
+  "firstArc": "Levely",
+  "portrait": "imu.png"
+ },
+ {
+  "name": "Inuarashi",
+  "aliases": [
+   "Dogstorm",
+   "Duke Inuarashi",
+   "Dogupine",
+   "Ruler of Day"
+  ],
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 511,
+  "origin": "Grand Line",
+  "firstChapter": 808,
+  "firstEpisode": 756,
+  "firstArc": "Zou",
+  "portrait": "inuarashi.png"
+ },
+ {
+  "name": "Issho",
+  "aliases": [
+   "Fujitora"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Press-Press Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 270,
+  "origin": "Grand Line",
+  "firstChapter": 701,
+  "firstEpisode": 630,
+  "firstArc": "Dressrosa",
+  "portrait": "issho.png"
+ },
+ {
+  "name": "Izou",
+  "aliases": [
+   "Izo"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 510000000,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 553,
+  "firstEpisode": 461,
+  "firstArc": "Marineford",
+  "portrait": "izou.png"
+ },
+ {
+  "name": "Jabra",
+  "aliases": [
+   "Jabura"
+  ],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mutt-Mutt Fruit, Model: Wolf",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212,
+  "origin": "North Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "portrait": "jabra.png"
+ },
+ {
+  "name": "Jack",
+  "aliases": [
+   "Jack the Drought"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Elephant-Elephant Fruit, Model: Mammoth",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1000000000,
+  "heightCm": 830,
+  "origin": "Grand Line",
+  "firstChapter": 801,
+  "firstEpisode": 746,
+  "firstArc": "Dressrosa",
+  "portrait": "jack.png"
+ },
+ {
+  "name": "Jaguar D. Saul",
+  "aliases": [
+   "Saul",
+   "Sauro"
+  ],
+  "gender": "Male",
+  "affiliation": "Walrus School",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 1950,
+  "origin": "South Blue",
+  "firstChapter": 392,
+  "firstEpisode": 275,
+  "firstArc": "Enies Lobby",
+  "portrait": "jaguar-d-saul.png"
+ },
+ {
+  "name": "Jango",
+  "aliases": [
+   "Django",
+   "Jango the Turncoat",
+   "One-Two Jango"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1000000,
+  "heightCm": 207,
+  "origin": "East Blue",
+  "firstChapter": 25,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "jango.png"
+ },
+ {
+  "name": "Jaygarcia Saturn",
+  "aliases": [
+   "Saturn",
+   "St. Jaygarcia Saturn"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "jaygarcia-saturn.png"
+ },
+ {
+  "name": "Jesus Burgess",
+  "aliases": [
+   "Burgess",
+   "Champion",
+   "Mr. Store"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Strong-Strong Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 20000000,
+  "heightCm": 355,
+  "origin": "Grand Line",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "portrait": "jesus-burgess.png"
+ },
+ {
+  "name": "Jewelry Bonney",
+  "aliases": [
+   "Bonney",
+   "Big Eater",
+   "Conney"
+  ],
+  "gender": "Female",
+  "affiliation": "Bonney Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Age-Age Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 320000000,
+  "heightCm": 174,
+  "origin": "Red Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "jewelry-bonney.png"
+ },
+ {
+  "name": "Jinbe",
+  "aliases": [
+   "Jimbei",
+   "Jinbei",
+   "Knight of the Sea"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1100000000,
+  "heightCm": 301,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 430,
+  "firstArc": "Impel Down",
+  "portrait": "jinbe.png"
+ },
+ {
+  "name": "Johnny",
+  "aliases": [
+   "Johnny and Yosaku"
+  ],
+  "gender": "Male",
+  "affiliation": "Bounty Hunters",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 19,
+  "firstArc": "Baratie",
+  "portrait": "johnny.png"
+ },
+ {
+  "name": "Jozu",
+  "aliases": [
+   "Diamond Jozu"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Twinkle-Twinkle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 503,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "jozu.png"
+ },
+ {
+  "name": "Kaidou",
+  "aliases": [
+   "Kaido",
+   "Kaido of the Beasts",
+   "Strongest Creature"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4611100000,
+  "heightCm": 710,
+  "origin": "Grand Line",
+  "firstChapter": 795,
+  "firstEpisode": 736,
+  "firstArc": "Dressrosa",
+  "portrait": "kaidou.png"
+ },
+ {
+  "name": "Kaku",
+  "aliases": [
+   "Mountain Wind"
+  ],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit Giraffe Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 193,
+  "origin": "East Blue",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "kaku.png"
+ },
+ {
+  "name": "Kalgara",
+  "aliases": [
+   "Calgara",
+   "Demon of Shandora"
+  ],
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 222,
+  "origin": "Grand Line",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "firstArc": "Skypiea",
+  "portrait": "kalgara.png"
+ },
+ {
+  "name": "Kalifa",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bubble-Bubble Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "kalifa.png"
+ },
+ {
+  "name": "Karasu",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Soot-Soot Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 265,
+  "origin": "North Blue",
+  "firstChapter": 593,
+  "firstEpisode": 510,
+  "firstArc": "Post-War",
+  "portrait": "karasu.png"
+ },
+ {
+  "name": "Karoo",
+  "aliases": [
+   "Carue"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150,
+  "origin": "Grand Line",
+  "firstChapter": 109,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "portrait": "karoo.png"
+ },
+ {
+  "name": "Kawamatsu",
+  "aliases": [
+   "Gyukimaru",
+   "Kawamatsu the Kappa"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 271,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "portrait": "kawamatsu.png"
+ },
+ {
+  "name": "Kaya",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Syrup Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "kaya.png"
+ },
+ {
+  "name": "Kikunojo",
+  "aliases": [
+   "Kiku",
+   "O-Kiku",
+   "Okiku"
+  ],
+  "gender": "Female",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 287,
+  "origin": "Grand Line",
+  "firstChapter": 913,
+  "firstEpisode": 899,
+  "firstArc": "Wano Country",
+  "portrait": "kikunojo.png"
+ },
+ {
+  "name": "Killer",
+  "aliases": [
+   "Kamazo",
+   "Massacre Soldier"
+  ],
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 200000000,
+  "heightCm": 195,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "killer.png"
+ },
+ {
+  "name": "Killingham",
+  "aliases": [
+   "Rimoshifu Killingham"
+  ],
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Kirin",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "firstArc": "Elbaf",
+  "portrait": "killingham.png"
+ },
+ {
+  "name": "Kin'emon",
+  "aliases": [
+   "Kinemon",
+   "Foxfire",
+   "Foxfire Kin'emon"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Garb-Garb Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 295,
+  "origin": "Grand Line",
+  "firstChapter": 656,
+  "firstEpisode": 580,
+  "firstArc": "Punk Hazard",
+  "portrait": "kin-emon.png"
+ },
+ {
+  "name": "King",
+  "aliases": [
+   "Alber",
+   "King the Wildfire",
+   "King the Conflagration"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Pteranodon",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1390000000,
+  "heightCm": 613,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "portrait": "king.png"
+ },
+ {
+  "name": "Koala",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160,
+  "origin": "Unknown",
+  "firstChapter": 622,
+  "firstEpisode": 541,
+  "firstArc": "Fish-Man Island",
+  "portrait": "koala.png"
+ },
+ {
+  "name": "Koby",
+  "aliases": [
+   "Coby"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 167,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "portrait": "koby.png"
+ },
+ {
+  "name": "Kokoro",
+  "aliases": [
+   "Granny Kokoro"
+  ],
+  "gender": "Female",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 168,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "firstArc": "Water 7",
+  "portrait": "kokoro.png"
+ },
+ {
+  "name": "Koza",
+  "aliases": [
+   "Kohza"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 177,
+  "origin": "Grand Line",
+  "firstChapter": 163,
+  "firstEpisode": 93,
+  "firstArc": "Alabasta",
+  "portrait": "koza.png"
+ },
+ {
+  "name": "Kozuki Hiyori",
+  "aliases": [
+   "Komurasaki",
+   "Hiyori",
+   "Kouzuki Hiyori"
+  ],
+  "gender": "Female",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170,
+  "origin": "Grand Line",
+  "firstChapter": 909,
+  "firstEpisode": 892,
+  "firstArc": "Wano Country",
+  "portrait": "kozuki-hiyori.png"
+ },
+ {
+  "name": "Kozuki Momonosuke",
+  "aliases": [
+   "Momo",
+   "Momonosuke",
+   "Kouzuki Momonosuke"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 322,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 609,
+  "firstArc": "Punk Hazard",
+  "portrait": "kozuki-momonosuke.png"
+ },
+ {
+  "name": "Kozuki Oden",
+  "aliases": [
+   "Oden",
+   "Kouzuki Oden"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 382,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "portrait": "kozuki-oden.png"
+ },
+ {
+  "name": "Kozuki Toki",
+  "aliases": [
+   "Kouzuki Toki",
+   "Toki",
+   "Amatsuki Toki"
+  ],
+  "gender": "Female",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Time-Time Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 190,
+  "origin": "Unknown",
+  "firstChapter": 919,
+  "firstEpisode": 893,
+  "firstArc": "Wano Country",
+  "portrait": "kozuki-toki.png"
+ },
+ {
+  "name": "Krieg",
+  "aliases": [
+   "Don Krieg",
+   "Foul Play Krieg"
+  ],
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 17000000,
+  "heightCm": 243,
+  "origin": "East Blue",
+  "firstChapter": 45,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "portrait": "krieg.png"
+ },
+ {
+  "name": "Kuina",
+  "aliases": [
+   "Shimotsuki Kuina"
+  ],
+  "gender": "Female",
+  "affiliation": "Shimotsuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150,
+  "origin": "East Blue",
+  "firstChapter": 5,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "portrait": "kuina.png"
+ },
+ {
+  "name": "Kumadori",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 338,
+  "origin": "South Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "firstArc": "Enies Lobby",
+  "portrait": "kumadori.png"
+ },
+ {
+  "name": "Kureha",
+  "aliases": [
+   "Doctorine",
+   "Dr. Kureha"
+  ],
+  "gender": "Female",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 188,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 80,
+  "firstArc": "Drum Island",
+  "portrait": "kureha.png"
+ },
+ {
+  "name": "Kuro",
+  "aliases": [
+   "Klahadore",
+   "Captain Kuro",
+   "Kuro of a Hundred Plans"
+  ],
+  "gender": "Male",
+  "affiliation": "Black Cat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 16000000,
+  "heightCm": 207,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "kuro.png"
+ },
+ {
+  "name": "Kurozumi Kanjuro",
+  "aliases": [
+   "Kanjuro",
+   "Evening Shower Kanjuro"
+  ],
+  "gender": "Male",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brush-Brush Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 347,
+  "origin": "Grand Line",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "portrait": "kurozumi-kanjuro.png"
+ },
+ {
+  "name": "Kurozumi Orochi",
+  "aliases": [
+   "Orochi",
+   "Shogun of Wano"
+  ],
+  "gender": "Male",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350,
+  "origin": "Grand Line",
+  "firstChapter": 927,
+  "firstEpisode": 921,
+  "firstArc": "Wano Country",
+  "portrait": "kurozumi-orochi.png"
+ },
+ {
+  "name": "Kurozumi Tama",
+  "aliases": [
+   "Tama",
+   "O-Tama",
+   "Otama"
+  ],
+  "gender": "Female",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Millet-Millet Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 108,
+  "origin": "Grand Line",
+  "firstChapter": 911,
+  "firstEpisode": 893,
+  "firstArc": "Wano Country",
+  "portrait": "kurozumi-tama.png"
+ },
+ {
+  "name": "Kuzan",
+  "aliases": [
+   "Aokiji"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Ice-Ice Fruit (Chilly-Chilly Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 298,
+  "origin": "South Blue",
+  "firstChapter": 303,
+  "firstEpisode": 225,
+  "firstArc": "Long Ring Long Land",
+  "portrait": "kuzan.png"
+ },
+ {
+  "name": "Kyros",
+  "aliases": [
+   "Thunder Soldier",
+   "Toy Soldier"
+  ],
+  "gender": "Male",
+  "affiliation": "Riku Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 298,
+  "origin": "Grand Line",
+  "firstChapter": 702,
+  "firstEpisode": 631,
+  "firstArc": "Dressrosa",
+  "portrait": "kyros.png"
+ },
+ {
+  "name": "Laffitte",
+  "aliases": [
+   "Lafitte",
+   "Demon Sheriff"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 42200000,
+  "heightCm": 340,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "laffitte.png"
+ },
+ {
+  "name": "Leo",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Tontatta Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Sew-Sew Fruit (Stitch-Stitch Power)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 23,
+  "origin": "Grand Line",
+  "firstChapter": 710,
+  "firstEpisode": 640,
+  "firstArc": "Dressrosa",
+  "portrait": "leo.png"
+ },
+ {
+  "name": "Lilith",
+  "aliases": [
+   "Vegapunk Lilith",
+   "Punk-02",
+   "Vegapunk/Lilith"
+  ],
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204,
+  "origin": "Grand Line",
+  "firstChapter": 1061,
+  "firstEpisode": 1090,
+  "firstArc": "Egghead",
+  "portrait": "lilith.png"
+ },
+ {
+  "name": "Loki",
+  "aliases": [
+   "Accursed Prince",
+   "Shame of Elbaf"
+  ],
+  "gender": "Male",
+  "affiliation": "Elbaf Royal Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Nidhöggr",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 2600000000,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1130,
+  "firstEpisode": 1160,
+  "firstArc": "Elbaf",
+  "portrait": "loki.png"
+ },
+ {
+  "name": "Lucky Roux",
+  "aliases": [
+   "Lucky Roo"
+  ],
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 241,
+  "origin": "South Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "portrait": "lucky-roux.png"
+ },
+ {
+  "name": "Magellan",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Impel Down",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Venom-Venom Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 491,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 425,
+  "firstArc": "Impel Down",
+  "portrait": "magellan.png"
+ },
+ {
+  "name": "Marco",
+  "aliases": [
+   "Marco the Phoenix",
+   "Phoenix",
+   "Polo Marco"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Bird-Bird Fruit, Model: Phoenix",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1374000000,
+  "heightCm": 203,
+  "origin": "Grand Line",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "marco.png"
+ },
+ {
+  "name": "Marcus Mars",
+  "aliases": [
+   "Mars",
+   "St. Marcus Mars"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "marcus-mars.png"
+ },
+ {
+  "name": "Marguerite",
+  "aliases": [
+   "Margaret"
+  ],
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 178,
+  "origin": "Calm Belt",
+  "firstChapter": 514,
+  "firstEpisode": 408,
+  "firstArc": "Amazon Lily",
+  "portrait": "marguerite.png"
+ },
+ {
+  "name": "Marshall D. Teach",
+  "aliases": [
+   "Blackbeard",
+   "Teach"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia",
+   "Paramecia"
+  ],
+  "dfName": "Dark-Dark Fruit & Tremor-Tremor Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3996000000,
+  "heightCm": 344,
+  "origin": "Grand Line",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "portrait": "marshall-d-teach.png"
+ },
+ {
+  "name": "Mikita",
+  "aliases": [
+   "Miss Valentine",
+   "Ms. Valentine"
+  ],
+  "gender": "Female",
+  "affiliation": "Baroque Works",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Kilo-Kilo Fruit",
+  "haki": [],
+  "bounty": 7500000,
+  "heightCm": 177,
+  "origin": "West Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "firstArc": "Whisky Peak",
+  "portrait": "mikita.png"
+ },
+ {
+  "name": "Monet",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Snow-Snow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227,
+  "origin": "North Blue",
+  "firstChapter": 657,
+  "firstEpisode": 581,
+  "firstArc": "Punk Hazard",
+  "portrait": "monet.png"
+ },
+ {
+  "name": "Monkey D. Dragon",
+  "aliases": [
+   "Dragon",
+   "Rebellious Dragon"
+  ],
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": 256,
+  "origin": "East Blue",
+  "firstChapter": 100,
+  "firstEpisode": 52,
+  "firstArc": "Loguetown",
+  "portrait": "monkey-d-dragon.png"
+ },
+ {
+  "name": "Monkey D. Garp",
+  "aliases": [
+   "Garp",
+   "Garp the Fist",
+   "Hero of the Marines"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 287,
+  "origin": "East Blue",
+  "firstChapter": 92,
+  "firstEpisode": 68,
+  "firstArc": "Arlong Park",
+  "portrait": "monkey-d-garp.png"
+ },
+ {
+  "name": "Monkey D. Luffy",
+  "aliases": [
+   "Luffy",
+   "Straw Hat",
+   "Straw Hat Luffy",
+   "Joy Boy"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Mythical Zoan",
+   "Paramecia"
+  ],
+  "dfName": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 174,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "portrait": "monkey-d-luffy.png"
+ },
+ {
+  "name": "Mont Blanc Cricket",
+  "aliases": [
+   "Cricket",
+   "Montblanc Cricket"
+  ],
+  "gender": "Male",
+  "affiliation": "Saruyama Alliance",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 25000000,
+  "heightCm": 242,
+  "origin": "North Blue",
+  "firstChapter": 227,
+  "firstEpisode": 148,
+  "firstArc": "Jaya",
+  "portrait": "mont-blanc-cricket.png"
+ },
+ {
+  "name": "Mont Blanc Noland",
+  "aliases": [
+   "Noland",
+   "Liar Noland",
+   "Montblanc Noland"
+  ],
+  "gender": "Male",
+  "affiliation": "Lvneel Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220,
+  "origin": "North Blue",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "firstArc": "Skypiea",
+  "portrait": "mont-blanc-noland.png"
+ },
+ {
+  "name": "Morgan",
+  "aliases": [
+   "Axe-Hand Morgan",
+   "Captain Morgan"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 285,
+  "origin": "Unknown",
+  "firstChapter": 4,
+  "firstEpisode": 2,
+  "firstArc": "Romance Dawn",
+  "portrait": "morgan.png"
+ },
+ {
+  "name": "Morgans",
+  "aliases": [
+   "Big News Morgans",
+   "Big News"
+  ],
+  "gender": "Male",
+  "affiliation": "World Economy News Paper",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Bird-Bird Fruit, Model: Albatross",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 305,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "firstArc": "Whole Cake Island",
+  "portrait": "morgans.png"
+ },
+ {
+  "name": "Morley",
+  "aliases": [],
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Push-Push Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 293000000,
+  "heightCm": 1253,
+  "origin": "West Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "portrait": "morley.png"
+ },
+ {
+  "name": "Mozu and Kiwi",
+  "aliases": [
+   "Square Sisters",
+   "Mozu",
+   "Kiwi"
+  ],
+  "gender": "Female",
+  "affiliation": "Franky Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 187,
+  "origin": "Grand Line",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "firstArc": "Water 7",
+  "portrait": "mozu-and-kiwi.png"
+ },
+ {
+  "name": "Nami",
+  "aliases": [
+   "Cat Burglar",
+   "O-Nami"
+  ],
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 366000000,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 8,
+  "firstEpisode": 1,
+  "firstArc": "Orange Town",
+  "portrait": "nami.png"
+ },
+ {
+  "name": "Namur",
+  "aliases": [
+   "Namule"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 552,
+  "firstEpisode": 461,
+  "firstArc": "Marineford",
+  "portrait": "namur.png"
+ },
+ {
+  "name": "Napoleon",
+  "aliases": [
+   "Napoleon the Bicorne",
+   "Bicorne"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 848,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "firstArc": "Fish-Man Island",
+  "portrait": "napoleon.png"
+ },
+ {
+  "name": "Nefertari Cobra",
+  "aliases": [
+   "Cobra",
+   "King Cobra"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 182,
+  "origin": "Grand Line",
+  "firstChapter": 142,
+  "firstEpisode": 91,
+  "firstArc": "Drum Island",
+  "portrait": "nefertari-cobra.png"
+ },
+ {
+  "name": "Nefertari Vivi",
+  "aliases": [
+   "Vivi",
+   "Miss Wednesday"
+  ],
+  "gender": "Female",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169,
+  "origin": "Grand Line",
+  "firstChapter": 103,
+  "firstEpisode": 62,
+  "firstArc": "Reverse Mountain",
+  "portrait": "nefertari-vivi.png"
+ },
+ {
+  "name": "Nekomamushi",
+  "aliases": [
+   "Cat Viper",
+   "Master Cat Viper",
+   "Ruler of Night"
+  ],
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 522,
+  "origin": "Grand Line",
+  "firstChapter": 809,
+  "firstEpisode": 756,
+  "firstArc": "Zou",
+  "portrait": "nekomamushi.png"
+ },
+ {
+  "name": "Neptune",
+  "aliases": [
+   "King Neptune",
+   "Sea God",
+   "Great Knight of the Sea"
+  ],
+  "gender": "Male",
+  "affiliation": "Ryugu Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 1220,
+  "origin": "Grand Line",
+  "firstChapter": 611,
+  "firstEpisode": 530,
+  "firstArc": "Fish-Man Island",
+  "portrait": "neptune.png"
+ },
+ {
+  "name": "Nico Robin",
+  "aliases": [
+   "Robin",
+   "Miss All Sunday",
+   "Devil Child",
+   "Light of the Revolution"
+  ],
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Flower-Flower Fruit (Hana Hana no Mi)",
+  "haki": [],
+  "bounty": 930000000,
+  "heightCm": 188,
+  "origin": "West Blue",
+  "firstChapter": 114,
+  "firstEpisode": 67,
+  "firstArc": "Whisky Peak",
+  "portrait": "nico-robin.png"
+ },
+ {
+  "name": "Ninjin",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Usopp Security Force",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 127,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "ninjin.png"
+ },
+ {
+  "name": "Nojiko",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 70,
+  "firstEpisode": 31,
+  "firstArc": "Arlong Park",
+  "portrait": "nojiko.png"
+ },
+ {
+  "name": "Nola",
+  "aliases": [
+   "Master of the Sky",
+   "Nora"
+  ],
+  "gender": "Unknown",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 255,
+  "firstEpisode": 168,
+  "firstArc": "Skypiea",
+  "portrait": "nola.png"
+ },
+ {
+  "name": "Oars",
+  "aliases": [
+   "Oz",
+   "Continent-Puller"
+  ],
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 6700,
+  "origin": "North Blue",
+  "firstChapter": 456,
+  "firstEpisode": 350,
+  "firstArc": "Thriller Bark",
+  "portrait": "oars.png"
+ },
+ {
+  "name": "Orlumbus",
+  "aliases": [
+   "Massacre Ruler",
+   "Olombus"
+  ],
+  "gender": "Male",
+  "affiliation": "Yonta Maria Grand Fleet",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 148000000,
+  "heightCm": 480,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "orlumbus.png"
+ },
+ {
+  "name": "Otohime",
+  "aliases": [
+   "Queen Otohime"
+  ],
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 224,
+  "origin": "Grand Line",
+  "firstChapter": 621,
+  "firstEpisode": 539,
+  "firstArc": "Fish-Man Island",
+  "portrait": "otohime.png"
+ },
+ {
+  "name": "Page One",
+  "aliases": [
+   "Page-One"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Spinosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 290000000,
+  "heightCm": 171,
+  "origin": "Grand Line",
+  "firstChapter": 929,
+  "firstEpisode": 923,
+  "firstArc": "Wano Country",
+  "portrait": "page-one.png"
+ },
+ {
+  "name": "Pappag",
+  "aliases": [
+   "Pappagu"
+  ],
+  "gender": "Male",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 50,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "firstArc": "Alabasta",
+  "portrait": "pappag.png"
+ },
+ {
+  "name": "Patty",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "firstArc": "Baratie",
+  "portrait": "patty.png"
+ },
+ {
+  "name": "Paulie",
+  "aliases": [
+   "Pauly"
+  ],
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "paulie.png"
+ },
+ {
+  "name": "Pedro",
+  "aliases": [
+   "Pedro of the Treetops",
+   "Treetop Pedro"
+  ],
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 382000000,
+  "heightCm": 233,
+  "origin": "Grand Line",
+  "firstChapter": 805,
+  "firstEpisode": 754,
+  "firstArc": "Zou",
+  "portrait": "pedro.png"
+ },
+ {
+  "name": "Peepley Lulu",
+  "aliases": [
+   "Lulu"
+  ],
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 206,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "peepley-lulu.png"
+ },
+ {
+  "name": "Pekoms",
+  "aliases": [
+   "Nazoms"
+  ],
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Turtle-Turtle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 232,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 570,
+  "firstArc": "Fish-Man Island",
+  "portrait": "pekoms.png"
+ },
+ {
+  "name": "Pell",
+  "aliases": [
+   "Pell the Falcon"
+  ],
+  "gender": "Male",
+  "affiliation": "Alabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Tweet-Tweet Fruit, Model: Falcon (Bird-Bird Fruit, Model: Falcon)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "firstArc": "Alabasta",
+  "portrait": "pell.png"
+ },
+ {
+  "name": "Perona",
+  "aliases": [
+   "Ghost Princess"
+  ],
+  "gender": "Female",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hollow-Hollow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160,
+  "origin": "West Blue",
+  "firstChapter": 443,
+  "firstEpisode": 338,
+  "firstArc": "Thriller Bark",
+  "portrait": "perona.png"
+ },
+ {
+  "name": "Pica",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stone-Stone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 470,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "portrait": "pica.png"
+ },
+ {
+  "name": "Pierre",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Skypiea",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Horse-Horse Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "portrait": "pierre.png"
+ },
+ {
+  "name": "Piiman",
+  "aliases": [
+   "Pepper"
+  ],
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 120,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "piiman.png"
+ },
+ {
+  "name": "Portgas D. Ace",
+  "aliases": [
+   "Ace",
+   "Fire Fist Ace",
+   "Fire Fist",
+   "Gol D. Ace"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 550000000,
+  "heightCm": 185,
+  "origin": "South Blue",
+  "firstChapter": 154,
+  "firstEpisode": 91,
+  "firstArc": "Drum Island",
+  "portrait": "portgas-d-ace.png"
+ },
+ {
+  "name": "Pythagoras",
+  "aliases": [
+   "Vegapunk Pythagoras",
+   "Punk-04",
+   "Pythagoras the Wise",
+   "Vegapunk/Pythagoras"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 341,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "portrait": "pythagoras.png"
+ },
+ {
+  "name": "Queen",
+  "aliases": [
+   "Queen the Plague",
+   "Scien"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1320000000,
+  "heightCm": 612,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "firstArc": "Wano Country",
+  "portrait": "queen.png"
+ },
+ {
+  "name": "Raizo",
+  "aliases": [
+   "Raizo of the Mist"
+  ],
+  "gender": "Male",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Scroll-Scroll Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 311,
+  "origin": "Grand Line",
+  "firstChapter": 817,
+  "firstEpisode": 768,
+  "firstArc": "Zou",
+  "portrait": "raizo.png"
+ },
+ {
+  "name": "Rebecca",
+  "aliases": [
+   "The Undefeated Woman",
+   "Phantom Princess"
+  ],
+  "gender": "Female",
+  "affiliation": "Dressrosa",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 171,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 633,
+  "firstArc": "Dressrosa",
+  "portrait": "rebecca.png"
+ },
+ {
+  "name": "Riku Doldo III",
+  "aliases": [
+   "Ricky",
+   "King Riku",
+   "King of Miracles"
+  ],
+  "gender": "Male",
+  "affiliation": "Riku Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 261,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 636,
+  "firstArc": "Dressrosa",
+  "portrait": "riku-doldo-iii.png"
+ },
+ {
+  "name": "Rob Lucci",
+  "aliases": [
+   "Lucci",
+   "Massacre Weapon"
+  ],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit, Model: Leopard",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "rob-lucci.png"
+ },
+ {
+  "name": "Rocks D. Xebec",
+  "aliases": [
+   "Rocks",
+   "Xebec",
+   "Davy D. Xebec"
+  ],
+  "gender": "Male",
+  "affiliation": "Rocks Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 435,
+  "origin": "West Blue",
+  "firstChapter": 957,
+  "firstEpisode": 958,
+  "firstArc": "Wano Country",
+  "portrait": "rocks-d-xebec.png"
+ },
+ {
+  "name": "Rockstar",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 94000000,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "rockstar.png"
+ },
+ {
+  "name": "Roronoa Zoro",
+  "aliases": [
+   "Zoro",
+   "Pirate Hunter",
+   "Zolo",
+   "Zorojuro"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1111000000,
+  "heightCm": 181,
+  "origin": "East Blue",
+  "firstChapter": 3,
+  "firstEpisode": 1,
+  "firstArc": "Romance Dawn",
+  "portrait": "roronoa-zoro.png"
+ },
+ {
+  "name": "Sabo",
+  "aliases": [
+   "Flame Emperor",
+   "Lucy"
+  ],
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 602000000,
+  "heightCm": 187,
+  "origin": "East Blue",
+  "firstChapter": 583,
+  "firstEpisode": 494,
+  "firstArc": "Post-War",
+  "portrait": "sabo.png"
+ },
+ {
+  "name": "Sai",
+  "aliases": [
+   "Don Sai"
+  ],
+  "gender": "Male",
+  "affiliation": "Happo Navy",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 210000000,
+  "heightCm": 242,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "sai.png"
+ },
+ {
+  "name": "Sakazuki",
+  "aliases": [
+   "Akainu",
+   "Red Dog"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Mag-Mag Fruit (Magma-Magma Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 5000000000,
+  "heightCm": 306,
+  "origin": "North Blue",
+  "firstChapter": 397,
+  "firstEpisode": 278,
+  "firstArc": "Enies Lobby",
+  "portrait": "sakazuki.png"
+ },
+ {
+  "name": "Sanji",
+  "aliases": [
+   "Black Leg",
+   "Vinsmoke Sanji",
+   "Mr. Prince"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1032000000,
+  "heightCm": 180,
+  "origin": "North Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "portrait": "sanji.png"
+ },
+ {
+  "name": "Sanjuan Wolf",
+  "aliases": [
+   "San Juan Wolf",
+   "Colossal Battleship"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Huge-Huge Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 18000,
+  "origin": "West Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "portrait": "sanjuan-wolf.png"
+ },
+ {
+  "name": "Sasaki",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Triceratops Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 472000000,
+  "heightCm": 318,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "firstArc": "Wano Country",
+  "portrait": "sasaki.png"
+ },
+ {
+  "name": "Scopper Gaban",
+  "aliases": [
+   "Gaban",
+   "Left Hand of the Pirate King"
+  ],
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 19,
+  "firstEpisode": 0,
+  "firstArc": "Orange Town",
+  "portrait": "scopper-gaban.png"
+ },
+ {
+  "name": "Scratchmen Apoo",
+  "aliases": [
+   "Apoo",
+   "Roar of the Sea"
+  ],
+  "gender": "Male",
+  "affiliation": "On Air Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tone-Tone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 350000000,
+  "heightCm": 256,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "scratchmen-apoo.png"
+ },
+ {
+  "name": "Sengoku",
+  "aliases": [
+   "Sengoku the Buddha",
+   "Buddha"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Human-Human Fruit, Model: Buddha",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 278,
+  "origin": "South Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "sengoku.png"
+ },
+ {
+  "name": "Senor Pink",
+  "aliases": [
+   "Señor Pink"
+  ],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Swim-Swim Fruit",
+  "haki": [],
+  "bounty": 58000000,
+  "heightCm": 244,
+  "origin": "North Blue",
+  "firstChapter": 702,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "senor-pink.png"
+ },
+ {
+  "name": "Sentomaru",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 279,
+  "origin": "Grand Line",
+  "firstChapter": 497,
+  "firstEpisode": 401,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "sentomaru.png"
+ },
+ {
+  "name": "Shaka",
+  "aliases": [
+   "Vegapunk Shaka",
+   "Punk-01",
+   "Shaka the Good",
+   "Vegapunk/Shaka"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "firstArc": "Egghead",
+  "portrait": "shaka.png"
+ },
+ {
+  "name": "Shakuyaku",
+  "aliases": [
+   "Shakky"
+  ],
+  "gender": "Female",
+  "affiliation": "Shakky's Rip-off Bar",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "Unknown",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "shakuyaku.png"
+ },
+ {
+  "name": "Shanks",
+  "aliases": [
+   "Red Hair",
+   "Red-Haired Shanks"
+  ],
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4048900000,
+  "heightCm": 199,
+  "origin": "West Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "portrait": "shanks.png"
+ },
+ {
+  "name": "Shepherd Ju Peter",
+  "aliases": [
+   "Ju Peter",
+   "Peter",
+   "Warrior God of Agriculture"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "shepherd-ju-peter.png"
+ },
+ {
+  "name": "Shimotsuki Ryuma",
+  "aliases": [
+   "Ryuma",
+   "Sword God"
+  ],
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 179,
+  "origin": "Grand Line",
+  "firstChapter": 1023,
+  "firstEpisode": 1046,
+  "firstArc": "Wano Country",
+  "portrait": "shimotsuki-ryuma.png"
+ },
+ {
+  "name": "Shinobu",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Kozuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripe-Ripe Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180,
+  "origin": "Grand Line",
+  "firstChapter": 921,
+  "firstEpisode": 911,
+  "firstArc": "Wano Country",
+  "portrait": "shinobu.png"
+ },
+ {
+  "name": "Shirahoshi",
+  "aliases": [
+   "Poseidon",
+   "Mermaid Princess"
+  ],
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 1187,
+  "origin": "Grand Line",
+  "firstChapter": 612,
+  "firstEpisode": 531,
+  "firstArc": "Fish-Man Island",
+  "portrait": "shirahoshi.png"
+ },
+ {
+  "name": "Shiryu",
+  "aliases": [
+   "Shiryu of the Rain",
+   "Shiliew"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 340,
+  "origin": "Grand Line",
+  "firstChapter": 538,
+  "firstEpisode": 440,
+  "firstArc": "Impel Down",
+  "portrait": "shiryu.png"
+ },
+ {
+  "name": "Silvers Rayleigh",
+  "aliases": [
+   "Rayleigh",
+   "Dark King"
+  ],
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 188,
+  "origin": "Unknown",
+  "firstChapter": 19,
+  "firstEpisode": 8,
+  "firstArc": "Orange Town",
+  "portrait": "silvers-rayleigh.png"
+ },
+ {
+  "name": "Smoker",
+  "aliases": [
+   "White Hunter",
+   "Chaser"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Smoke-Smoke Fruit (Plume-Plume Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 209,
+  "origin": "Grand Line",
+  "firstChapter": 97,
+  "firstEpisode": 48,
+  "firstArc": "Loguetown",
+  "portrait": "smoker.png"
+ },
+ {
+  "name": "Sommers",
+  "aliases": [
+   "Shepherd Sommers",
+   "Super Sommers"
+  ],
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Thorn-Thorn Fruit",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "firstArc": "Elbaf",
+  "portrait": "sommers.png"
+ },
+ {
+  "name": "Spandam",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 355,
+  "firstEpisode": 249,
+  "firstArc": "Water 7",
+  "portrait": "spandam.png"
+ },
+ {
+  "name": "Stussy",
+  "aliases": [
+   "Queen of the Pleasure District"
+  ],
+  "gender": "Female",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Bat-Bat Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 179,
+  "origin": "Unknown",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "firstArc": "Whole Cake Island",
+  "portrait": "stussy.png"
+ },
+ {
+  "name": "Sugar",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hobby-Hobby Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 110,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "firstArc": "Punk Hazard",
+  "portrait": "sugar.png"
+ },
+ {
+  "name": "Tamanegi",
+  "aliases": [
+   "Onion"
+  ],
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 124,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "firstArc": "Syrup Village",
+  "portrait": "tamanegi.png"
+ },
+ {
+  "name": "Tashigi",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 100000000,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 96,
+  "firstEpisode": 48,
+  "firstArc": "Loguetown",
+  "portrait": "tashigi.png"
+ },
+ {
+  "name": "Thatch",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "North Blue",
+  "firstChapter": 440,
+  "firstEpisode": 325,
+  "firstArc": "Post-Enies Lobby",
+  "portrait": "thatch.png"
+ },
+ {
+  "name": "Tom",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 296,
+  "origin": "Grand Line",
+  "firstChapter": 352,
+  "firstEpisode": 248,
+  "firstArc": "Water 7",
+  "portrait": "tom.png"
+ },
+ {
+  "name": "Tony Tony Chopper",
+  "aliases": [
+   "Chopper",
+   "Cotton Candy Lover"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Human-Human Fruit",
+  "haki": [],
+  "bounty": 1000,
+  "heightCm": 90,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 81,
+  "firstArc": "Drum Island",
+  "portrait": "tony-tony-chopper.png"
+ },
+ {
+  "name": "Topman Warcury",
+  "aliases": [
+   "Warcury",
+   "St. Topman Warcury"
+  ],
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "topman-warcury.png"
+ },
+ {
+  "name": "Trafalgar D. Water Law",
+  "aliases": [
+   "Law",
+   "Trafalgar Law",
+   "Surgeon of Death"
+  ],
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Op-Op Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 191,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "trafalgar-d-water-law.png"
+ },
+ {
+  "name": "Trebol",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stick-Stick Fruit (Sticky-Sticky Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 349,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "firstArc": "Dressrosa",
+  "portrait": "trebol.png"
+ },
+ {
+  "name": "Tsuru",
+  "aliases": [
+   "Great Staff Officer"
+  ],
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wash-Wash Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 204,
+  "origin": "North Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "firstArc": "Jaya",
+  "portrait": "tsuru.png"
+ },
+ {
+  "name": "Ulti",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 173,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "firstArc": "Wano Country",
+  "portrait": "ulti.png"
+ },
+ {
+  "name": "Urouge",
+  "aliases": [
+   "Mad Monk"
+  ],
+  "gender": "Male",
+  "affiliation": "Fallen Monk Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": null,
+  "haki": [],
+  "bounty": 108000000,
+  "heightCm": 388,
+  "origin": "Sky Island",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "urouge.png"
+ },
+ {
+  "name": "Usopp",
+  "aliases": [
+   "Sogeking",
+   "God Usopp",
+   "Sniper King"
+  ],
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 176,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 8,
+  "firstArc": "Syrup Village",
+  "portrait": "usopp.png"
+ },
+ {
+  "name": "Van Augur",
+  "aliases": [
+   "The Supersonic",
+   "Van Auger"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Warp-Warp Fruit",
+  "haki": [],
+  "bounty": 64000000,
+  "heightCm": 340,
+  "origin": "East Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "firstArc": "Jaya",
+  "portrait": "van-augur.png"
+ },
+ {
+  "name": "Vander Decken IX",
+  "aliases": [
+   "Vander Decken",
+   "Decken"
+  ],
+  "gender": "Male",
+  "affiliation": "Flying Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mark-Mark Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 352,
+  "origin": "Grand Line",
+  "firstChapter": 606,
+  "firstEpisode": 525,
+  "firstArc": "Fish-Man Island",
+  "portrait": "vander-decken-ix.png"
+ },
+ {
+  "name": "Vasco Shot",
+  "aliases": [
+   "Heavy Drinker"
+  ],
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glug-Glug Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 573,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "firstArc": "Marineford",
+  "portrait": "vasco-shot.png"
+ },
+ {
+  "name": "Vegapunk",
+  "aliases": [
+   "Dr. Vegapunk",
+   "Stella"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brain-Brain Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 314,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 610,
+  "firstArc": "Punk Hazard",
+  "portrait": "vegapunk.png"
+ },
+ {
+  "name": "Vergo",
+  "aliases": [
+   "Demon Bamboo",
+   "Corazon"
+  ],
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 247,
+  "origin": "North Blue",
+  "firstChapter": 671,
+  "firstEpisode": 597,
+  "firstArc": "Punk Hazard",
+  "portrait": "vergo.png"
+ },
+ {
+  "name": "Vinsmoke Ichiji",
+  "aliases": [
+   "Ichiji",
+   "Sparking Red"
+  ],
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "firstArc": "Whole Cake Island",
+  "portrait": "vinsmoke-ichiji.png"
+ },
+ {
+  "name": "Vinsmoke Judge",
+  "aliases": [
+   "Judge",
+   "Garuda"
+  ],
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 272,
+  "origin": "North Blue",
+  "firstChapter": 832,
+  "firstEpisode": 793,
+  "firstArc": "Whole Cake Island",
+  "portrait": "vinsmoke-judge.png"
+ },
+ {
+  "name": "Vinsmoke Niji",
+  "aliases": [
+   "Niji",
+   "Dengeki Blue"
+  ],
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "firstArc": "Whole Cake Island",
+  "portrait": "vinsmoke-niji.png"
+ },
+ {
+  "name": "Vinsmoke Reiju",
+  "aliases": [
+   "Reiju",
+   "Poison Pink"
+  ],
+  "gender": "Female",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173,
+  "origin": "North Blue",
+  "firstChapter": 826,
+  "firstEpisode": 784,
+  "firstArc": "Whole Cake Island",
+  "portrait": "vinsmoke-reiju.png"
+ },
+ {
+  "name": "Vinsmoke Yonji",
+  "aliases": [
+   "Yonji",
+   "Winch Green"
+  ],
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 194,
+  "origin": "North Blue",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "firstArc": "Whole Cake Island",
+  "portrait": "vinsmoke-yonji.png"
+ },
+ {
+  "name": "Viola",
+  "aliases": [
+   "Violet"
+  ],
+  "gender": "Female",
+  "affiliation": "Riku Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glare-Glare Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 178,
+  "origin": "Grand Line",
+  "firstChapter": 703,
+  "firstEpisode": 632,
+  "firstArc": "Dressrosa",
+  "portrait": "viola.png"
+ },
+ {
+  "name": "Vista",
+  "aliases": [
+   "Flower Swords Vista",
+   "Flower Sword"
+  ],
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 328,
+  "origin": "North Blue",
+  "firstChapter": 552,
+  "firstEpisode": 0,
+  "firstArc": "Marineford",
+  "portrait": "vista.png"
+ },
+ {
+  "name": "Wanda",
+  "aliases": [],
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "firstArc": "Zou",
+  "portrait": "wanda.png"
+ },
+ {
+  "name": "Wapol",
+  "aliases": [
+   "Tin-Plate Wapol"
+  ],
+  "gender": "Male",
+  "affiliation": "Evil Black Drum Kingdom",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Munch-Munch Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 207,
+  "origin": "Grand Line",
+  "firstChapter": 131,
+  "firstEpisode": 79,
+  "firstArc": "Drum Island",
+  "portrait": "wapol.png"
+ },
+ {
+  "name": "Who's-Who",
+  "aliases": [
+   "Who's Who",
+   "Whos Who"
+  ],
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 546000000,
+  "heightCm": 336,
+  "origin": "North Blue",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "firstArc": "Wano Country",
+  "portrait": "who-s-who.png"
+ },
+ {
+  "name": "Woop Slap",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Foosha Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "portrait": "woop-slap.png"
+ },
+ {
+  "name": "Wyper",
+  "aliases": [
+   "Wiper",
+   "Berserker"
+  ],
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 183,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "firstArc": "Skypiea",
+  "portrait": "wyper.png"
+ },
+ {
+  "name": "X Drake",
+  "aliases": [
+   "Drake",
+   "X. Drake",
+   "Red Flag"
+  ],
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Allosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 222000000,
+  "heightCm": 233,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "firstArc": "Sabaody Archipelago",
+  "portrait": "x-drake.png"
+ },
+ {
+  "name": "Yamato",
+  "aliases": [
+   "Kouzuki Oden",
+   "Oni Princess",
+   "Son of Kaidou"
+  ],
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 263,
+  "origin": "Unknown",
+  "firstChapter": 971,
+  "firstEpisode": 972,
+  "firstArc": "Wano Country",
+  "portrait": "yamato.png"
+ },
+ {
+  "name": "Yasopp",
+  "aliases": [
+   "Chaser"
+  ],
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 183,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "firstArc": "Romance Dawn",
+  "portrait": "yasopp.png"
+ },
+ {
+  "name": "York",
+  "aliases": [
+   "Vegapunk York",
+   "Punk-06",
+   "Vegapunk/York"
+  ],
+  "gender": "Female",
+  "affiliation": "World Government",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 482,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "firstArc": "Egghead",
+  "portrait": "york.png"
+ },
+ {
+  "name": "Yosaku",
+  "aliases": [
+   "Johnny and Yosaku"
+  ],
+  "gender": "Male",
+  "affiliation": "Bounty Hunters",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "portrait": "yosaku.png"
+ },
+ {
+  "name": "Zala",
+  "aliases": [
+   "Miss Doublefinger",
+   "Miss Double Finger",
+   "Paula"
+  ],
+  "gender": "Female",
+  "affiliation": "Baroque Works",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Spike-Spike Fruit",
+  "haki": [],
+  "bounty": 35000000,
+  "heightCm": 187,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 103,
+  "firstArc": "Alabasta",
+  "portrait": "zala.png"
+ },
+ {
+  "name": "Zambai",
+  "aliases": [],
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227,
+  "origin": "Grand Line",
+  "firstChapter": 324,
+  "firstEpisode": 230,
+  "firstArc": "Water 7",
+  "portrait": "zambai.png"
+ },
+ {
+  "name": "Zeff",
+  "aliases": [
+   "Red-Leg Zeff",
+   "Red Foot Zeff"
+  ],
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189,
+  "origin": "East Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "firstArc": "Baratie",
+  "portrait": "zeff.png"
+ }
+]

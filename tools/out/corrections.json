@@ -1,0 +1,5290 @@
+[
+ {
+  "requested": "Benn Beckman",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 206,
+  "origin": "North Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "aliases": [
+   "Beckman",
+   "Ben Beckman"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Bentham",
+  "gender": "Other",
+  "affiliation": "Newkama Land",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clone-Clone Fruit",
+  "haki": [],
+  "bounty": 32000000,
+  "heightCm": 238,
+  "origin": "East Blue",
+  "firstChapter": 129,
+  "firstEpisode": 78,
+  "aliases": [
+   "Bon Clay",
+   "Mr. 2",
+   "Bon Kurei"
+  ],
+  "notes": "Gender set to Other: Bentham is an okama (draft had null)."
+ },
+ {
+  "requested": "Bepo",
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1500,
+  "heightCm": 240,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Blueno",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Door-Door Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 258,
+  "origin": "North Blue",
+  "firstChapter": 325,
+  "firstEpisode": 230,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Boa Hancock",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Love-Love Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1659000000,
+  "heightCm": 191,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "aliases": [
+   "Hancock",
+   "Snake Princess",
+   "Pirate Empress"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Borsalino",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Glint-Glint Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 302,
+  "origin": "North Blue",
+  "firstChapter": 504,
+  "firstEpisode": 398,
+  "aliases": [
+   "Kizaru"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Brogy",
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2130,
+  "origin": "Grand Line",
+  "firstChapter": 115,
+  "firstEpisode": 71,
+  "aliases": [
+   "Broggy",
+   "Red Ogre"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Brook",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Revive-Revive Fruit",
+  "haki": [],
+  "bounty": 383000000,
+  "heightCm": 277,
+  "origin": "West Blue",
+  "firstChapter": 442,
+  "firstEpisode": 337,
+  "aliases": [
+   "Soul King",
+   "Humming Brook"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Buggy",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Chop-Chop Fruit",
+  "haki": [],
+  "bounty": 3189000000,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 9,
+  "firstEpisode": 4,
+  "aliases": [
+   "Buggy the Clown",
+   "Star Clown"
+  ],
+  "notes": "Height corrected from 130 to 192 cm: wiki lists 192 cm at age 39 (current); 130 cm is his age-13 height."
+ },
+ {
+  "requested": "Caesar Clown",
+  "gender": "Male",
+  "affiliation": "NEO MADS",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Gas-Gas Fruit",
+  "haki": [],
+  "bounty": 300000000,
+  "heightCm": 309,
+  "origin": "Grand Line",
+  "firstChapter": 658,
+  "firstEpisode": 581,
+  "aliases": [
+   "Caesar",
+   "Master",
+   "Gastino"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Daz Bonez",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Dice-Dice Fruit",
+  "haki": [],
+  "bounty": 75000000,
+  "heightCm": 212,
+  "origin": "West Blue",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "aliases": [
+   "Mr. 1",
+   "The Killer",
+   "Daz Bones"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Denjiro",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 306,
+  "origin": "Grand Line",
+  "firstChapter": 919,
+  "firstEpisode": 909,
+  "aliases": [
+   "Kyoshiro",
+   "Ushimitsu Kozo",
+   "Dozing Kyoshiro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Diamante",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripple-Ripple Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 525,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "aliases": [
+   "Hero of the Colosseum"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Donquixote Doflamingo",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "String-String Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 340000000,
+  "heightCm": 305,
+  "origin": "Red Line",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Doflamingo",
+   "Joker",
+   "Heavenly Yaksha",
+   "Doffy"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Donquixote Rosinante",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Calm-Calm Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 293,
+  "origin": "Red Line",
+  "firstChapter": 761,
+  "firstEpisode": 686,
+  "aliases": [
+   "Corazon",
+   "Cora-san",
+   "Rosinante"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Dorry",
+  "gender": "Male",
+  "affiliation": "Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1800000000,
+  "heightCm": 2260,
+  "origin": "Grand Line",
+  "firstChapter": 116,
+  "firstEpisode": 71,
+  "aliases": [
+   "Blue Ogre",
+   "Dorry the Blue Ogre"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Dracule Mihawk",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3590000000,
+  "heightCm": 198,
+  "origin": "Unknown",
+  "firstChapter": 49,
+  "firstEpisode": 23,
+  "aliases": [
+   "Mihawk",
+   "Hawk Eyes",
+   "Hawk-Eye Mihawk"
+  ],
+  "notes": "Origin set to Unknown: the wiki infobox has no origin field for Mihawk (draft had null)."
+ },
+ {
+  "requested": "Drophy",
+  "gender": "Female",
+  "affiliation": "Spiders Cafe",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mole-Mole Fruit",
+  "haki": [],
+  "bounty": 14000000,
+  "heightCm": 156,
+  "origin": "Grand Line",
+  "firstChapter": 160,
+  "firstEpisode": 103,
+  "aliases": [
+   "Miss Merry Christmas",
+   "Ms. Merry Christmas"
+  ],
+  "notes": "Cleaned dfName to Mole-Mole Fruit (draft had translation-note clutter) and normalized affiliation to the wiki org page title Spiders Cafe (displayed as New Spiders Cafe)."
+ },
+ {
+  "requested": "Edward Newgate",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tremor-Tremor Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5046000000,
+  "heightCm": 666,
+  "origin": "Grand Line",
+  "firstChapter": 159,
+  "firstEpisode": 95,
+  "aliases": [
+   "Whitebeard"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Emporio Ivankov",
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Horm-Horm Fruit",
+  "haki": [],
+  "bounty": 100000000,
+  "heightCm": 449,
+  "origin": "Grand Line",
+  "firstChapter": 537,
+  "firstEpisode": 438,
+  "aliases": [
+   "Iva",
+   "Ivankov",
+   "Okama King"
+  ],
+  "notes": "Gender set to Other (okama, per field rules; draft had null) and cleaned dfName to Horm-Horm Fruit; bounty is 'at least' 100,000,000 per rumor in Chapter 536."
+ },
+ {
+  "requested": "Camie",
+  "gender": "Female",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 197,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "aliases": [
+   "Keimi"
+  ],
+  "notes": "Simplified affiliation from 'Takoyaki 8, Mermaid Cafe' to the single main org 'Takoyaki 8'."
+ },
+ {
+  "requested": "Capone Bege",
+  "gender": "Male",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Castle-Castle Fruit",
+  "haki": [],
+  "bounty": 350000000,
+  "heightCm": 166,
+  "origin": "West Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Bege",
+   "Gang Bege"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Caribou",
+  "gender": "Male",
+  "affiliation": "Caribou Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Swamp-Swamp Fruit",
+  "haki": [],
+  "bounty": 210000000,
+  "heightCm": 228,
+  "origin": "North Blue",
+  "firstChapter": 600,
+  "firstEpisode": 519,
+  "aliases": [
+   "Wet-Haired Caribou"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Carrot",
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 161,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "aliases": [],
+  "notes": "Affiliation reduced to 'Mokomo Dukedom' (she now rules it; Musketeer Squad is a former role per ch.1115)."
+ },
+ {
+  "requested": "Cavendish",
+  "gender": "Male",
+  "affiliation": "Beautiful Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 208,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "aliases": [
+   "Hakuba",
+   "Cavendish of the White Horse",
+   "Pirate Prince"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Chadros Higelyges",
+  "gender": "Male",
+  "affiliation": "Brownbeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 80060000,
+  "heightCm": 691,
+  "origin": "Grand Line",
+  "firstChapter": 581,
+  "firstEpisode": 490,
+  "aliases": [
+   "Brownbeard"
+  ],
+  "notes": "Affiliation changed to 'Brownbeard Pirates', his most identifying group; draft's 'Caesar Clown, Centaur Patrol Unit' are both defected per the infobox. Bounty 80,060,000 is struck through (expired) but kept as last known."
+ },
+ {
+  "requested": "Charlotte Brûlée",
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mirror-Mirror Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350,
+  "origin": "Grand Line",
+  "firstChapter": 831,
+  "firstEpisode": 791,
+  "aliases": [
+   "Brulee",
+   "Charlotte Brulee"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to the crew 'Big Mom Pirates' (she is an officer of the crew per ch.930)."
+ },
+ {
+  "requested": "Charlotte Chiffon",
+  "gender": "Female",
+  "affiliation": "Fire Tank Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 215,
+  "origin": "Grand Line",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "aliases": [
+   "Chiffon"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Charlotte Cracker",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bis-Bis Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 860000000,
+  "heightCm": 307,
+  "origin": "Grand Line",
+  "firstChapter": 835,
+  "firstEpisode": 796,
+  "aliases": [
+   "Cracker",
+   "Thousand Arms Cracker",
+   "Biscuit Knight"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to the crew 'Big Mom Pirates' (Sweet Commander)."
+ },
+ {
+  "requested": "Charlotte Katakuri",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Special Paramecia"
+  ],
+  "dfName": "Mochi-Mochi Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1057000000,
+  "heightCm": 509,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 825,
+  "aliases": [
+   "Katakuri",
+   "Dogtooth"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to the crew 'Big Mom Pirates' (Sweet Commander)."
+ },
+ {
+  "requested": "Charlotte Linlin",
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Soul-Soul Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4388000000,
+  "heightCm": 880,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "aliases": [
+   "Big Mom",
+   "O-Lin",
+   "Linlin"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Charlotte Lola",
+  "gender": "Female",
+  "affiliation": "Rolling Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 215,
+  "origin": "Grand Line",
+  "firstChapter": 476,
+  "firstEpisode": 370,
+  "aliases": [
+   "Lola",
+   "Marriage Proposal Lola"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Charlotte Mont-d'Or",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Book-Book Fruit",
+  "haki": [],
+  "bounty": 120000000,
+  "heightCm": 260,
+  "origin": "Grand Line",
+  "firstChapter": 829,
+  "firstEpisode": 789,
+  "aliases": [
+   "Mont-d'Or",
+   "Scribe"
+  ],
+  "notes": "Changed affiliation from Charlotte Family to Big Mom Pirates; wiki confirms him as a Big Mom Pirates officer and the crew is the canonical main org."
+ },
+ {
+  "requested": "Charlotte Perospero",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Lick-Lick Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 700000000,
+  "heightCm": 333,
+  "origin": "Grand Line",
+  "firstChapter": 834,
+  "firstEpisode": 795,
+  "aliases": [
+   "Perospero"
+  ],
+  "notes": "Changed affiliation from Charlotte Family to Big Mom Pirates; wiki confirms him as a Big Mom Pirates officer and the crew is the canonical main org."
+ },
+ {
+  "requested": "Charlotte Pudding",
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Memo-Memo Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 166,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "aliases": [
+   "Pudding"
+  ],
+  "notes": "Changed affiliation from Charlotte Family to Big Mom Pirates; wiki confirms her as a Big Mom Pirates officer and the crew is the canonical main org."
+ },
+ {
+  "requested": "Chimney",
+  "gender": "Female",
+  "affiliation": "Water 7",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 115,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "aliases": [],
+  "notes": "Changed affiliation from 'Kokoro' (a person, her grandmother) to Water 7, her identifying place per the wiki (Water 7 citizen, lives at the Shift Station)."
+ },
+ {
+  "requested": "Chinjao",
+  "gender": "Male",
+  "affiliation": "Chinjao Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 542000000,
+  "heightCm": 520,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "aliases": [
+   "Don Chinjao",
+   "Chinjao the Drill"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Conis",
+  "gender": "Female",
+  "affiliation": "Pumpkin Cafe",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 176,
+  "origin": "Sky Island",
+  "firstChapter": 239,
+  "firstEpisode": 154,
+  "aliases": [],
+  "notes": "Changed origin from Grand Line to Sky Island; wiki states Skypiea, which maps to Sky Island per the origin rules."
+ },
+ {
+  "requested": "Crocodile",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Sand-Sand Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1965000000,
+  "heightCm": 253,
+  "origin": "Grand Line",
+  "firstChapter": 126,
+  "firstEpisode": 76,
+  "aliases": [
+   "Sir Crocodile",
+   "Mr. 0",
+   "Desert King"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Dalton",
+  "gender": "Male",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit, Bison Model",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218,
+  "origin": "Grand Line",
+  "firstChapter": 132,
+  "firstEpisode": 79,
+  "aliases": [],
+  "notes": "Cleaned malformed dfName string to the VIZ English name 'Ox-Ox Fruit, Bison Model'."
+ },
+ {
+  "requested": "Enel",
+  "gender": "Male",
+  "affiliation": "God's Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Rumble-Rumble Fruit",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 266,
+  "origin": "Sky Island",
+  "firstChapter": 254,
+  "firstEpisode": 167,
+  "aliases": [
+   "Eneru",
+   "God Enel"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Eustass Kid",
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Magnet-Magnet Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 205,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Kid",
+   "Kidd",
+   "Captain Kid"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Foxy",
+  "gender": "Male",
+  "affiliation": "Foxy Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slow-Slow Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 180,
+  "origin": "South Blue",
+  "firstChapter": 305,
+  "firstEpisode": 207,
+  "aliases": [
+   "Silver Fox"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Franky",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 394000000,
+  "heightCm": 240,
+  "origin": "South Blue",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "aliases": [
+   "Cutty Flam",
+   "Iron Man Franky",
+   "Cyborg Franky",
+   "Franosuke"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Fukaboshi",
+  "gender": "Male",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 604,
+  "origin": "Grand Line",
+  "firstChapter": 609,
+  "firstEpisode": 528,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Fukurou",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 331,
+  "origin": "Grand Line",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "aliases": [
+   "Fukuro",
+   "Fukurou the Silent"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Gaimon",
+  "gender": "Male",
+  "affiliation": "Island of Rare Animals",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 130,
+  "origin": "East Blue",
+  "firstChapter": 22,
+  "firstEpisode": 18,
+  "aliases": [],
+  "notes": "Draft affiliation was null; set to Island of Rare Animals, the place he guards and lives on per the wiki."
+ },
+ {
+  "requested": "Galdino",
+  "gender": "Male",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wax-Wax Fruit",
+  "haki": [],
+  "bounty": 24000000,
+  "heightCm": 179,
+  "origin": "South Blue",
+  "firstChapter": 117,
+  "firstEpisode": 70,
+  "aliases": [
+   "Mr. 3",
+   "Mister 3"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Gan Fall",
+  "gender": "Male",
+  "affiliation": "Skypiea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "aliases": [
+   "Knight of the Sky",
+   "Sky Knight",
+   "Ganfor"
+  ],
+  "notes": "Origin changed from Grand Line to Sky Island: wiki lists Grand Line (Skypiea) and Skypiea maps to Sky Island per the sea-mapping rule."
+ },
+ {
+  "requested": "Gecko Moria",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Shadow-Shadow Fruit",
+  "haki": [],
+  "bounty": 320000000,
+  "heightCm": 692,
+  "origin": "West Blue",
+  "firstChapter": 449,
+  "firstEpisode": 343,
+  "aliases": [
+   "Moria",
+   "Gekko Moriah",
+   "Kouzuki Moria"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Absalom",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195,
+  "origin": "West Blue",
+  "firstChapter": 444,
+  "firstEpisode": 339,
+  "aliases": [
+   "Absa",
+   "Absalom of the Graveyard"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Aisa",
+  "gender": "Female",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 140,
+  "origin": "Sky Island",
+  "firstChapter": 249,
+  "firstEpisode": 161,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Arlong",
+  "gender": "Male",
+  "affiliation": "Arlong Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 20000000,
+  "heightCm": 263,
+  "origin": "Grand Line",
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "aliases": [
+   "Arlong the Saw",
+   "Saw-Tooth Arlong"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Ashura Doji",
+  "gender": "Male",
+  "affiliation": "Nine Red Scabbards",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 544,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "aliases": [
+   "Shutenmaru"
+  ],
+  "notes": "Affiliation changed from Mt. Atama Thieves to Nine Red Scabbards: he is deceased and died serving the Kouzuki Family as one of the Nine Red Scabbards, his most identifying last affiliation."
+ },
+ {
+  "requested": "Baby 5",
+  "gender": "Female",
+  "affiliation": "Happo Navy",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arms-Arms Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "aliases": [
+   "Baby Five"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Bartholomew Kuma",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Paw-Paw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 296000000,
+  "heightCm": 689,
+  "origin": "South Blue",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Kuma",
+   "Tyrant",
+   "PX-0"
+  ],
+  "notes": "Affiliation changed from Freedom Fighters (marked former on the wiki) to Revolutionary Army, his current non-former affiliation and identifying organization (Army Commander)."
+ },
+ {
+  "requested": "Bartolomeo",
+  "gender": "Male",
+  "affiliation": "Barto Club",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Barrier-Barrier Fruit",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 220,
+  "origin": "East Blue",
+  "firstChapter": 705,
+  "firstEpisode": 633,
+  "aliases": [
+   "Barto",
+   "Bartolomeo the Cannibal"
+  ],
+  "notes": "Cleaned malformed dfName (unbalanced parenthetical dub variant) to the primary English name Barrier-Barrier Fruit."
+ },
+ {
+  "requested": "Basil Hawkins",
+  "gender": "Male",
+  "affiliation": "Hawkins Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Straw-Straw Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 320000000,
+  "heightCm": 210,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Hawkins",
+   "Magician"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Bell-mère",
+  "gender": "Female",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 77,
+  "firstEpisode": 32,
+  "aliases": [
+   "Belle-Mère",
+   "Bellemere"
+  ],
+  "notes": "Affiliation changed from Marines to Cocoyasi Village: the wiki marks Marines as former, and at her death she was a civilian mikan farmer in Cocoyasi Village."
+ },
+ {
+  "requested": "Bellamy",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Boing-Boing Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 195000000,
+  "heightCm": 240,
+  "origin": "North Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "aliases": [
+   "Bellamy the Hyena",
+   "The Hyena"
+  ],
+  "notes": "Cleaned malformed dfName (unbalanced parenthetical Funimation variant) to the primary English name Boing-Boing Fruit."
+ },
+ {
+  "requested": "Hogback",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 223,
+  "origin": "West Blue",
+  "firstChapter": 446,
+  "firstEpisode": 340,
+  "aliases": [
+   "Doctor Hogback",
+   "Dr. Hogback"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Hyogoro",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 100,
+  "origin": "Grand Line",
+  "firstChapter": 926,
+  "firstEpisode": 919,
+  "aliases": [
+   "Hyougoro",
+   "Grandpa Hyo",
+   "Old Man Hyo",
+   "Hyogoro the Flower"
+  ],
+  "notes": "Changed affiliation from Hyougoro Family to Wano Country: the wiki marks the Hyougoro Family as former and the Alliance as disbanded, so his identifying group is Wano where he now lives as a samurai."
+ },
+ {
+  "requested": "Iceburg",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 199,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [
+   "Iceberg"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Igaram",
+  "gender": "Male",
+  "affiliation": "Arabasta",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 218,
+  "origin": "Grand Line",
+  "firstChapter": 106,
+  "firstEpisode": 64,
+  "aliases": [
+   "Mr. 8",
+   "Igarappoi"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Inuarashi",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 511,
+  "origin": "Grand Line",
+  "firstChapter": 808,
+  "firstEpisode": 756,
+  "aliases": [
+   "Dogstorm",
+   "Duke Inuarashi",
+   "Dogupine",
+   "Ruler of Day"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Issho",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Press-Press Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 270,
+  "origin": "Grand Line",
+  "firstChapter": 701,
+  "firstEpisode": 630,
+  "aliases": [
+   "Fujitora"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Izou",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 510000000,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 553,
+  "firstEpisode": 461,
+  "aliases": [
+   "Izo"
+  ],
+  "notes": "Changed affiliation from Whitebeard Pirates to Kouzuki Family: he is deceased and the wiki marks Whitebeard Pirates as former, with Kouzuki Family retainer as his affiliation at death."
+ },
+ {
+  "requested": "Jabra",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Mutt-Mutt Fruit, Model: Wolf",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212,
+  "origin": "North Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "aliases": [
+   "Jabura"
+  ],
+  "notes": "Reformatted dfName to the wiki's standard Zoan model naming (Mutt-Mutt Fruit, Model: Wolf)."
+ },
+ {
+  "requested": "Jango",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 1000000,
+  "heightCm": 207,
+  "origin": "East Blue",
+  "firstChapter": 25,
+  "firstEpisode": 9,
+  "aliases": [
+   "Django",
+   "Jango the Turncoat",
+   "One-Two Jango"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Jesus Burgess",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Strong-Strong Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 20000000,
+  "heightCm": 355,
+  "origin": "Grand Line",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "aliases": [
+   "Burgess",
+   "Champion",
+   "Mr. Store"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Gem",
+  "gender": "Male",
+  "affiliation": "Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bomb-Bomb Fruit",
+  "haki": [],
+  "bounty": 10000000,
+  "heightCm": 197,
+  "origin": "South Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "aliases": [
+   "Mr. 5",
+   "Gem of the Border"
+  ],
+  "notes": "Cleaned dfName (dub labels removed) and normalized affiliation to the wiki page title 'Spiders Cafe' (displayed as New Spiders Cafe)."
+ },
+ {
+  "requested": "Genzo",
+  "gender": "Male",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173,
+  "origin": "East Blue",
+  "firstChapter": 71,
+  "firstEpisode": 32,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Gin",
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 12000000,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "aliases": [
+   "Ghin",
+   "Man-Demon Gin"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Gladius",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pop-Pop Fruit",
+  "haki": [],
+  "bounty": 31000000,
+  "heightCm": 260,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Gol D. Roger",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 5564800000,
+  "heightCm": 274,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 48,
+  "aliases": [
+   "Gold Roger",
+   "Pirate King",
+   "Roger"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Gonbe",
+  "gender": "Male",
+  "affiliation": "Water 7",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "aliases": [],
+  "notes": "Changed affiliation from 'Chimney' (a person, not an org) to Water 7 where he lives; wiki states no origin so set Unknown."
+ },
+ {
+  "requested": "Hatchan",
+  "gender": "Male",
+  "affiliation": "Takoyaki 8",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 8000000,
+  "heightCm": 220,
+  "origin": "Grand Line",
+  "firstChapter": 69,
+  "firstEpisode": 31,
+  "aliases": [
+   "Hachi",
+   "Six Sword Style Hachi"
+  ],
+  "notes": "Set origin to Grand Line: infobox lacks an origin field but the wiki depicts his upbringing in the Fish-Man District of Fish-Man Island."
+ },
+ {
+  "requested": "Hattori",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 25,
+  "origin": "Unknown",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [],
+  "notes": "Origin not stated on the wiki, set to Unknown; wiki uses male pronouns for him."
+ },
+ {
+  "requested": "Hiriluk",
+  "gender": "Male",
+  "affiliation": "Drum Island",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213,
+  "origin": "Grand Line",
+  "firstChapter": 141,
+  "firstEpisode": 85,
+  "aliases": [
+   "Dr. Hiriluk",
+   "Hiluluk"
+  ],
+  "notes": "Draft affiliation was null; as an unaffiliated deceased civilian doctor, used his home Drum Island as the identifying group."
+ },
+ {
+  "requested": "Hody Jones",
+  "gender": "Male",
+  "affiliation": "New Fish-Man Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 331,
+  "origin": "Grand Line",
+  "firstChapter": 608,
+  "firstEpisode": 527,
+  "aliases": [
+   "Hordy Jones",
+   "Hordy"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Jewelry Bonney",
+  "gender": "Female",
+  "affiliation": "Bonney Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Age-Age Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 320000000,
+  "heightCm": 174,
+  "origin": "Red Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Bonney",
+   "Big Eater",
+   "Conney"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Jinbe",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1100000000,
+  "heightCm": 301,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 430,
+  "aliases": [
+   "Jimbei",
+   "Jinbei",
+   "Knight of the Sea"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Johnny",
+  "gender": "Male",
+  "affiliation": "Yosaku",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 19,
+  "aliases": [
+   "Johnny and Yosaku"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kaidou",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4611100000,
+  "heightCm": 710,
+  "origin": "Grand Line",
+  "firstChapter": 795,
+  "firstEpisode": 736,
+  "aliases": [
+   "Kaido",
+   "Kaido of the Beasts",
+   "Strongest Creature"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kaku",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Ox-Ox Fruit Giraffe Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 193,
+  "origin": "East Blue",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [
+   "Mountain Wind"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kalgara",
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 222,
+  "origin": "Grand Line",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "aliases": [
+   "Calgara",
+   "Demon of Shandora"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kalifa",
+  "gender": "Female",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bubble-Bubble Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Karoo",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150,
+  "origin": "Grand Line",
+  "firstChapter": 109,
+  "firstEpisode": 65,
+  "aliases": [
+   "Carue"
+  ],
+  "notes": "Affiliation reduced to current main affiliation (Arabasta Kingdom Guard Squad, i.e. Arabasta Kingdom); Straw Hat Pirates and Baroque Works are former per the wiki infobox."
+ },
+ {
+  "requested": "Kawamatsu",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 271,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "aliases": [
+   "Gyukimaru",
+   "Kawamatsu the Kappa"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kaya",
+  "gender": "Female",
+  "affiliation": "Syrup Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "aliases": [],
+  "notes": "Affiliation was null in the draft; set to Syrup Village, her identifying home village per the wiki (resident civilian with no organization)."
+ },
+ {
+  "requested": "Krieg",
+  "gender": "Male",
+  "affiliation": "Krieg Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 17000000,
+  "heightCm": 243,
+  "origin": "East Blue",
+  "firstChapter": 45,
+  "firstEpisode": 21,
+  "aliases": [
+   "Don Krieg",
+   "Foul Play Krieg"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kumadori",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 338,
+  "origin": "South Blue",
+  "firstChapter": 375,
+  "firstEpisode": 264,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Kureha",
+  "gender": "Female",
+  "affiliation": "Sakura Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 188,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 80,
+  "aliases": [
+   "Doctorine",
+   "Dr. Kureha"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kuro",
+  "gender": "Male",
+  "affiliation": "Black Cat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 16000000,
+  "heightCm": 207,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "aliases": [
+   "Klahadore",
+   "Captain Kuro",
+   "Kuro of a Hundred Plans"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kurozumi Kanjuro",
+  "gender": "Male",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brush-Brush Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 347,
+  "origin": "Grand Line",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "aliases": [
+   "Kanjuro",
+   "Evening Shower Kanjuro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kurozumi Orochi",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 350,
+  "origin": "Grand Line",
+  "firstChapter": 927,
+  "firstEpisode": 921,
+  "aliases": [
+   "Orochi",
+   "Shogun of Wano"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kurozumi Tama",
+  "gender": "Female",
+  "affiliation": "Kurozumi Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Millet-Millet Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 108,
+  "origin": "Grand Line",
+  "firstChapter": 911,
+  "firstEpisode": 893,
+  "aliases": [
+   "Tama",
+   "O-Tama",
+   "Otama"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kuzan",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Ice-Ice Fruit (Chilly-Chilly Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 298,
+  "origin": "South Blue",
+  "firstChapter": 303,
+  "firstEpisode": 225,
+  "aliases": [
+   "Aokiji"
+  ],
+  "notes": "Cleaned malformed dfName formatting; wiki gives Ice-Ice Fruit (Funimation) / Chilly-Chilly Fruit (VIZ)."
+ },
+ {
+  "requested": "Kyros",
+  "gender": "Male",
+  "affiliation": "Riku Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 298,
+  "origin": "Grand Line",
+  "firstChapter": 702,
+  "firstEpisode": 631,
+  "aliases": [
+   "Thunder Soldier",
+   "Toy Soldier"
+  ],
+  "notes": "Changed affiliation from Corrida Colosseum to Riku Family; infobox marks the Colosseum as former and Riku Family as current."
+ },
+ {
+  "requested": "Leo",
+  "gender": "Male",
+  "affiliation": "Tontatta Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Sew-Sew Fruit (Stitch-Stitch Power)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 23,
+  "origin": "Grand Line",
+  "firstChapter": 710,
+  "firstEpisode": 640,
+  "aliases": [],
+  "notes": "Changed affiliation to the specific crew Tontatta Pirates (Straw Hat Grand Fleet, Fifth Ship) per current-affiliation rule, and cleaned the malformed dfName."
+ },
+ {
+  "requested": "Magellan",
+  "gender": "Male",
+  "affiliation": "Impel Down",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Venom-Venom Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 491,
+  "origin": "Grand Line",
+  "firstChapter": 528,
+  "firstEpisode": 425,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Marco",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Bird-Bird Fruit, Model: Phoenix",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1374000000,
+  "heightCm": 203,
+  "origin": "Grand Line",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [
+   "Marco the Phoenix",
+   "Phoenix",
+   "Polo Marco"
+  ],
+  "notes": "Cleaned dfName to the single official English name (Bird-Bird Fruit, Model: Phoenix) instead of the concatenated sub/dub variants."
+ },
+ {
+  "requested": "Marguerite",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 178,
+  "origin": "Calm Belt",
+  "firstChapter": 514,
+  "firstEpisode": 408,
+  "aliases": [
+   "Margaret"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Marshall D. Teach",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Logia",
+   "Paramecia"
+  ],
+  "dfName": "Dark-Dark Fruit & Tremor-Tremor Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3996000000,
+  "heightCm": 344,
+  "origin": "Grand Line",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "aliases": [
+   "Blackbeard",
+   "Teach"
+  ],
+  "notes": "Added his second devil fruit (Gura Gura no Mi, Paramecia) to dfTypes/dfName; the wiki infobox lists both fruits."
+ },
+ {
+  "requested": "Mikita",
+  "gender": "Female",
+  "affiliation": "Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Kilo-Kilo Fruit",
+  "haki": [],
+  "bounty": 7500000,
+  "heightCm": 177,
+  "origin": "West Blue",
+  "firstChapter": 110,
+  "firstEpisode": 65,
+  "aliases": [
+   "Miss Valentine",
+   "Ms. Valentine"
+  ],
+  "notes": "Affiliation normalized to the wiki org page title 'Spiders Cafe' (displayed as 'New Spiders Cafe')."
+ },
+ {
+  "requested": "Monet",
+  "gender": "Female",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Snow-Snow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227,
+  "origin": "North Blue",
+  "firstChapter": 657,
+  "firstEpisode": 581,
+  "aliases": [],
+  "notes": "Affiliation changed from 'Caesar Clown' to 'Donquixote Pirates': she was a Donquixote officer placed with Caesar only as Doflamingo's spy, and it was her last affiliation before death."
+ },
+ {
+  "requested": "Monkey D. Dragon",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": 256,
+  "origin": "East Blue",
+  "firstChapter": 100,
+  "firstEpisode": 52,
+  "aliases": [
+   "Dragon",
+   "Rebellious Dragon"
+  ],
+  "notes": "Haki changed from [] to ['Unknown']: Dragon is a top-tier, still-mysterious figure whose combat abilities the wiki says are largely unknown, with no haki type confirmed."
+ },
+ {
+  "requested": "Monkey D. Garp",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 287,
+  "origin": "East Blue",
+  "firstChapter": 92,
+  "firstEpisode": 68,
+  "aliases": [
+   "Garp",
+   "Garp the Fist",
+   "Hero of the Marines"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Monkey D. Luffy",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Mythical Zoan",
+   "Paramecia"
+  ],
+  "dfName": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 174,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 1,
+  "aliases": [
+   "Luffy",
+   "Straw Hat",
+   "Straw Hat Luffy",
+   "Joy Boy"
+  ],
+  "notes": "Reordered dfTypes to the canonical ['Mythical Zoan', 'Paramecia'] per the wiki's Nika fruit classification."
+ },
+ {
+  "requested": "Mont Blanc Cricket",
+  "gender": "Male",
+  "affiliation": "Saruyama Alliance",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 25000000,
+  "heightCm": 242,
+  "origin": "North Blue",
+  "firstChapter": 227,
+  "firstEpisode": 148,
+  "aliases": [
+   "Cricket",
+   "Montblanc Cricket"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Mont Blanc Noland",
+  "gender": "Male",
+  "affiliation": "Lvneel Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220,
+  "origin": "North Blue",
+  "firstChapter": 286,
+  "firstEpisode": 187,
+  "aliases": [
+   "Noland",
+   "Liar Noland",
+   "Montblanc Noland"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Morgans",
+  "gender": "Male",
+  "affiliation": "World Economy News Paper",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Bird-Bird Fruit, Model: Albatross",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 305,
+  "origin": "Grand Line",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "aliases": [
+   "Big News Morgans",
+   "Big News"
+  ],
+  "notes": "Cleaned up dfName to the official English name (Bird-Bird Fruit, Model: Albatross) instead of the concatenated sub/dub variants."
+ },
+ {
+  "requested": "Mozu and Kiwi",
+  "gender": "Female",
+  "affiliation": "Franky Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 187,
+  "origin": "Grand Line",
+  "firstChapter": 329,
+  "firstEpisode": 233,
+  "aliases": [
+   "Square Sisters",
+   "Mozu",
+   "Kiwi"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Nami",
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 366000000,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 8,
+  "firstEpisode": 1,
+  "aliases": [
+   "Cat Burglar",
+   "O-Nami"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Namur",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 552,
+  "firstEpisode": 461,
+  "aliases": [
+   "Namule"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Napoleon",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 848,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 571,
+  "aliases": [
+   "Napoleon the Bicorne",
+   "Bicorne"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Nefertari Cobra",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 182,
+  "origin": "Grand Line",
+  "firstChapter": 142,
+  "firstEpisode": 91,
+  "aliases": [
+   "Cobra",
+   "King Cobra"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Nefertari Vivi",
+  "gender": "Female",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 169,
+  "origin": "Grand Line",
+  "firstChapter": 103,
+  "firstEpisode": 62,
+  "aliases": [
+   "Vivi",
+   "Miss Wednesday"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Nekomamushi",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 522,
+  "origin": "Grand Line",
+  "firstChapter": 809,
+  "firstEpisode": 756,
+  "aliases": [
+   "Cat Viper",
+   "Master Cat Viper",
+   "Ruler of Night"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Neptune",
+  "gender": "Male",
+  "affiliation": "Ryugu Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 1220,
+  "origin": "Grand Line",
+  "firstChapter": 611,
+  "firstEpisode": 530,
+  "aliases": [
+   "King Neptune",
+   "Sea God",
+   "Great Knight of the Sea"
+  ],
+  "notes": "Changed affiliation from Neptune Family to Ryugu Kingdom, the kingdom he rules as king, consistent with how other monarchs (e.g. Cobra = Arabasta Kingdom) are recorded."
+ },
+ {
+  "requested": "Kikunojo",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 287,
+  "origin": "Grand Line",
+  "firstChapter": 913,
+  "firstEpisode": 899,
+  "aliases": [
+   "Kiku",
+   "O-Kiku",
+   "Okiku"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Killer",
+  "gender": "Male",
+  "affiliation": "Kid Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 200000000,
+  "heightCm": 195,
+  "origin": "South Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Kamazo",
+   "Massacre Soldier"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kin'emon",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Garb-Garb Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 295,
+  "origin": "Grand Line",
+  "firstChapter": 656,
+  "firstEpisode": 580,
+  "aliases": [
+   "Kinemon",
+   "Foxfire",
+   "Foxfire Kin'emon"
+  ],
+  "notes": "Cleaned malformed dfName to the fruit's English name Garb-Garb Fruit (Fuku Fuku no Mi)."
+ },
+ {
+  "requested": "Koala",
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160,
+  "origin": "Unknown",
+  "firstChapter": 622,
+  "firstEpisode": 541,
+  "aliases": [],
+  "notes": "Origin set to Unknown: the wiki infobox field is misspelled (orign) and tagged Confirm, so no sourced origin is actually stated; bounty listed only as Unknown so kept null."
+ },
+ {
+  "requested": "Koby",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 167,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "aliases": [
+   "Coby"
+  ],
+  "notes": "Simplified affiliation to canonical org name Marines (draft had 'Marines , Marine 153rd Branch'; the 153rd Branch is former)."
+ },
+ {
+  "requested": "Kokoro",
+  "gender": "Female",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 168,
+  "origin": "Grand Line",
+  "firstChapter": 322,
+  "firstEpisode": 229,
+  "aliases": [
+   "Granny Kokoro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Koza",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 177,
+  "origin": "Grand Line",
+  "firstChapter": 163,
+  "firstEpisode": 93,
+  "aliases": [
+   "Kohza"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kozuki Hiyori",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170,
+  "origin": "Grand Line",
+  "firstChapter": 909,
+  "firstEpisode": 892,
+  "aliases": [
+   "Komurasaki",
+   "Hiyori",
+   "Kouzuki Hiyori"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Kozuki Momonosuke",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)",
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 322,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 609,
+  "aliases": [
+   "Momo",
+   "Momonosuke",
+   "Kouzuki Momonosuke"
+  ],
+  "notes": "Fixed malformed dfTypes to ['Mythical Zoan'] (artificial fruits use the base type) and cleaned the dfName string."
+ },
+ {
+  "requested": "Kozuki Oden",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 382,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "aliases": [
+   "Oden",
+   "Kouzuki Oden"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Nico Robin",
+  "gender": "Female",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Flower-Flower Fruit (Hana Hana no Mi)",
+  "haki": [],
+  "bounty": 930000000,
+  "heightCm": 188,
+  "origin": "West Blue",
+  "firstChapter": 114,
+  "firstEpisode": 67,
+  "aliases": [
+   "Robin",
+   "Miss All Sunday",
+   "Devil Child",
+   "Light of the Revolution"
+  ],
+  "notes": "Cleaned dfName from the garbled 4Kids parse to the standard VIZ/Funimation English name."
+ },
+ {
+  "requested": "Ninjin",
+  "gender": "Male",
+  "affiliation": "Usopp Security Force",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 127,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "aliases": [],
+  "notes": "Usopp Pirates is marked disbanded on the wiki; his current affiliation is the Usopp Security Force (cover chapter 130)."
+ },
+ {
+  "requested": "Nojiko",
+  "gender": "Female",
+  "affiliation": "Cocoyasi Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 70,
+  "firstEpisode": 31,
+  "aliases": [],
+  "notes": "Replaced cover-story label 'Bell-mère's mikan' with her identifying home village Cocoyasi Village per civilian rule."
+ },
+ {
+  "requested": "Nola",
+  "gender": "Unknown",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 255,
+  "firstEpisode": 168,
+  "aliases": [
+   "Master of the Sky",
+   "Nora"
+  ],
+  "notes": "Set gender Unknown (wiki refers to the snake as 'it', sex never indicated) and origin Unknown (no origin field in the infobox; only a length, not a height, is stated)."
+ },
+ {
+  "requested": "Oars",
+  "gender": "Male",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 6700,
+  "origin": "North Blue",
+  "firstChapter": 456,
+  "firstEpisode": 350,
+  "aliases": [
+   "Oz",
+   "Continent-Puller"
+  ],
+  "notes": "Added height: Vivre Card states 67 m, i.e. 6700 cm."
+ },
+ {
+  "requested": "Orlumbus",
+  "gender": "Male",
+  "affiliation": "Yonta Maria Grand Fleet",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 148000000,
+  "heightCm": 480,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "aliases": [
+   "Massacre Ruler",
+   "Olombus"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Pappag",
+  "gender": "Male",
+  "affiliation": "Criminal brand",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 50,
+  "origin": "Grand Line",
+  "firstChapter": 195,
+  "firstEpisode": 385,
+  "aliases": [
+   "Pappagu"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Patty",
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204,
+  "origin": "East Blue",
+  "firstChapter": 44,
+  "firstEpisode": 21,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Paulie",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 195,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [
+   "Pauly"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Pedro",
+  "gender": "Male",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 382000000,
+  "heightCm": 233,
+  "origin": "Grand Line",
+  "firstChapter": 805,
+  "firstEpisode": 754,
+  "aliases": [
+   "Pedro of the Treetops",
+   "Treetop Pedro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Riku Doldo III",
+  "gender": "Male",
+  "affiliation": "Riku Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 261,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 636,
+  "aliases": [
+   "Ricky",
+   "King Riku",
+   "King of Miracles"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Rob Lucci",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit, Model: Leopard",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 212,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [
+   "Lucci",
+   "Massacre Weapon"
+  ],
+  "notes": "Cleaned duplicated dfName string to the standard English name Cat-Cat Fruit, Model: Leopard."
+ },
+ {
+  "requested": "Rockstar",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 94000000,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [],
+  "notes": "Origin set to Unknown (draft had null); the wiki infobox lists no origin for Rockstar."
+ },
+ {
+  "requested": "Roronoa Zoro",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 1111000000,
+  "heightCm": 181,
+  "origin": "East Blue",
+  "firstChapter": 3,
+  "firstEpisode": 1,
+  "aliases": [
+   "Zoro",
+   "Pirate Hunter",
+   "Zolo",
+   "Zorojuro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sabo",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 602000000,
+  "heightCm": 187,
+  "origin": "East Blue",
+  "firstChapter": 583,
+  "firstEpisode": 494,
+  "aliases": [
+   "Flame Emperor",
+   "Lucy"
+  ],
+  "notes": "Fixed malformed dfName (draft had an unclosed 4Kids alt-name parenthesis); bounty kept at 602,000,000 as the last known figure since the current one is listed as unknown."
+ },
+ {
+  "requested": "Sai",
+  "gender": "Male",
+  "affiliation": "Happo Navy",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 210000000,
+  "heightCm": 242,
+  "origin": "West Blue",
+  "firstChapter": 704,
+  "firstEpisode": 632,
+  "aliases": [
+   "Don Sai"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sakazuki",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Mag-Mag Fruit (Magma-Magma Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 5000000000,
+  "heightCm": 306,
+  "origin": "North Blue",
+  "firstChapter": 397,
+  "firstEpisode": 278,
+  "aliases": [
+   "Akainu",
+   "Red Dog"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sanji",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1032000000,
+  "heightCm": 180,
+  "origin": "North Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "aliases": [
+   "Black Leg",
+   "Vinsmoke Sanji",
+   "Mr. Prince"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sengoku",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Human-Human Fruit, Model: Buddha",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 278,
+  "origin": "South Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [
+   "Sengoku the Buddha",
+   "Buddha"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Senor Pink",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Swim-Swim Fruit",
+  "haki": [],
+  "bounty": 58000000,
+  "heightCm": 244,
+  "origin": "North Blue",
+  "firstChapter": 702,
+  "firstEpisode": 632,
+  "aliases": [
+   "Señor Pink"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Shanks",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 4048900000,
+  "heightCm": 199,
+  "origin": "West Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "aliases": [
+   "Red Hair",
+   "Red-Haired Shanks"
+  ],
+  "notes": "Height corrected from 132 cm (age-13 Vivre Card value) to 199 cm, his adult post-timeskip height."
+ },
+ {
+  "requested": "Shimotsuki Ryuma",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 179,
+  "origin": "Grand Line",
+  "firstChapter": 1023,
+  "firstEpisode": 1046,
+  "aliases": [
+   "Ryuma",
+   "Sword God"
+  ],
+  "notes": "Origin mapped from Wano Country to its sea, Grand Line."
+ },
+ {
+  "requested": "Shirahoshi",
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 1187,
+  "origin": "Grand Line",
+  "firstChapter": 612,
+  "firstEpisode": 531,
+  "aliases": [
+   "Poseidon",
+   "Mermaid Princess"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Silvers Rayleigh",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 188,
+  "origin": "Unknown",
+  "firstChapter": 19,
+  "firstEpisode": 8,
+  "aliases": [
+   "Rayleigh",
+   "Dark King"
+  ],
+  "notes": "Origin set to Unknown; the wiki infobox does not state his origin (bounty is listed only as Unknown, so kept null)."
+ },
+ {
+  "requested": "Smoker",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Smoke-Smoke Fruit (Plume-Plume Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 209,
+  "origin": "Grand Line",
+  "firstChapter": 97,
+  "firstEpisode": 48,
+  "aliases": [
+   "White Hunter",
+   "Chaser"
+  ],
+  "notes": "Cleaned malformed dfName string into the standard English fruit names; bounty is the Cross Guild 'at least 500,000,000' marine bounty per the wiki infobox."
+ },
+ {
+  "requested": "Spandam",
+  "gender": "Male",
+  "affiliation": "CP0",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 192,
+  "origin": "Grand Line",
+  "firstChapter": 355,
+  "firstEpisode": 249,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Tamanegi",
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 124,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "aliases": [
+   "Onion"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Tashigi",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 100000000,
+  "heightCm": 170,
+  "origin": "East Blue",
+  "firstChapter": 96,
+  "firstEpisode": 48,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Tom",
+  "gender": "Male",
+  "affiliation": "Tom's Workers",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 296,
+  "origin": "Grand Line",
+  "firstChapter": 352,
+  "firstEpisode": 248,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Tony Tony Chopper",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Human-Human Fruit",
+  "haki": [],
+  "bounty": 1000,
+  "heightCm": 90,
+  "origin": "Grand Line",
+  "firstChapter": 134,
+  "firstEpisode": 81,
+  "aliases": [
+   "Chopper",
+   "Cotton Candy Lover"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Zala",
+  "gender": "Female",
+  "affiliation": "Spiders Cafe",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Spike-Spike Fruit",
+  "haki": [],
+  "bounty": 35000000,
+  "heightCm": 187,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 103,
+  "aliases": [
+   "Miss Doublefinger",
+   "Miss Double Finger",
+   "Paula"
+  ],
+  "notes": "Affiliation normalized from 'New Spiders Cafe' to the wiki org page title 'Spiders Cafe'."
+ },
+ {
+  "requested": "Zambai",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 227,
+  "origin": "Grand Line",
+  "firstChapter": 324,
+  "firstEpisode": 230,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Zeff",
+  "gender": "Male",
+  "affiliation": "Baratie",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189,
+  "origin": "East Blue",
+  "firstChapter": 43,
+  "firstEpisode": 20,
+  "aliases": [
+   "Red-Leg Zeff",
+   "Red Foot Zeff"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Scratchmen Apoo",
+  "gender": "Male",
+  "affiliation": "On Air Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Tone-Tone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 350000000,
+  "heightCm": 256,
+  "origin": "Grand Line",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Apoo",
+   "Roar of the Sea"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Charlotte Smoothie",
+  "gender": "Female",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wring-Wring Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 932000000,
+  "heightCm": 464,
+  "origin": "Grand Line",
+  "firstChapter": 846,
+  "firstEpisode": 812,
+  "aliases": [
+   "Smoothie"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', her crew per the wiki (Sweet Commander) and the canonical org naming."
+ },
+ {
+  "requested": "Charlotte Oven",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Heat-Heat Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 492,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 827,
+  "aliases": [
+   "Oven"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', his crew per the wiki (officer) and the canonical org naming."
+ },
+ {
+  "requested": "Charlotte Daifuku",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Puff-Puff Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 300000000,
+  "heightCm": 489,
+  "origin": "Grand Line",
+  "firstChapter": 861,
+  "firstEpisode": 826,
+  "aliases": [
+   "Daifuku"
+  ],
+  "notes": "Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', his crew per the wiki (officer) and the canonical org naming."
+ },
+ {
+  "requested": "Jozu",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Twinkle-Twinkle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 503,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [
+   "Diamond Jozu"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Thatch",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "North Blue",
+  "firstChapter": 440,
+  "firstEpisode": 325,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Edward Weevil",
+  "gender": "Male",
+  "affiliation": "Seven Warlords of the Sea",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 680,
+  "origin": "Grand Line",
+  "firstChapter": 802,
+  "firstEpisode": 751,
+  "aliases": [
+   "Weevil",
+   "Whitebeard Jr."
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Trafalgar D. Water Law",
+  "gender": "Male",
+  "affiliation": "Heart Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Op-Op Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 191,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Law",
+   "Trafalgar Law",
+   "Surgeon of Death"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Trebol",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stick-Stick Fruit (Sticky-Sticky Fruit)",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 349,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "aliases": [],
+  "notes": "Fixed malformed dfName parentheses; Viz name Stick-Stick Fruit with Funimation alt Sticky-Sticky Fruit."
+ },
+ {
+  "requested": "Ulti",
+  "gender": "Female",
+  "affiliation": "Yamato",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 173,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Urouge",
+  "gender": "Male",
+  "affiliation": "Fallen Monk Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": null,
+  "haki": [],
+  "bounty": 108000000,
+  "heightCm": 388,
+  "origin": "Sky Island",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Mad Monk"
+  ],
+  "notes": "Added Paramecia dfType: wiki confirms he ate an unnamed Paramecia-type Devil Fruit (Blue Deep); name stays null since the fruit is unnamed."
+ },
+ {
+  "requested": "Usopp",
+  "gender": "Male",
+  "affiliation": "Straw Hat Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 176,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 8,
+  "aliases": [
+   "Sogeking",
+   "God Usopp",
+   "Sniper King"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vergo",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 247,
+  "origin": "North Blue",
+  "firstChapter": 671,
+  "firstEpisode": 597,
+  "aliases": [
+   "Demon Bamboo",
+   "Corazon"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vinsmoke Ichiji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "aliases": [
+   "Ichiji",
+   "Sparking Red"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vinsmoke Judge",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 272,
+  "origin": "North Blue",
+  "firstChapter": 832,
+  "firstEpisode": 793,
+  "aliases": [
+   "Judge",
+   "Garuda"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vinsmoke Niji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "North Blue",
+  "firstChapter": 828,
+  "firstEpisode": 787,
+  "aliases": [
+   "Niji",
+   "Dengeki Blue"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vinsmoke Reiju",
+  "gender": "Female",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 173,
+  "origin": "North Blue",
+  "firstChapter": 826,
+  "firstEpisode": 784,
+  "aliases": [
+   "Reiju",
+   "Poison Pink"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Peepley Lulu",
+  "gender": "Male",
+  "affiliation": "Galley-La Company",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 206,
+  "origin": "Grand Line",
+  "firstChapter": 323,
+  "firstEpisode": 230,
+  "aliases": [
+   "Lulu"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Pekoms",
+  "gender": "Male",
+  "affiliation": "Big Mom Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Turtle-Turtle Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 330000000,
+  "heightCm": 232,
+  "origin": "Grand Line",
+  "firstChapter": 651,
+  "firstEpisode": 570,
+  "aliases": [
+   "Nazoms"
+  ],
+  "notes": "Origin was null; set to Grand Line since the wiki confirms he is a Zou mink who grew up there before sailing with the Nox Pirates."
+ },
+ {
+  "requested": "Pell",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Tweet-Tweet Fruit, Model: Falcon (Bird-Bird Fruit, Model: Falcon)",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 189,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "aliases": [
+   "Pell the Falcon"
+  ],
+  "notes": "Cleaned malformed dfName parenthetical parsing."
+ },
+ {
+  "requested": "Perona",
+  "gender": "Female",
+  "affiliation": "Thriller Bark Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hollow-Hollow Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 160,
+  "origin": "West Blue",
+  "firstChapter": 443,
+  "firstEpisode": 338,
+  "aliases": [
+   "Ghost Princess"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Pica",
+  "gender": "Male",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Stone-Stone Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 99000000,
+  "heightCm": 470,
+  "origin": "North Blue",
+  "firstChapter": 700,
+  "firstEpisode": 629,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Pierre",
+  "gender": "Male",
+  "affiliation": "Gan Fall",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Horse-Horse Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "aliases": [],
+  "notes": "Origin was null; set to Sky Island since the wiki identifies him as a Sky Dot Bird of Skypiea."
+ },
+ {
+  "requested": "Piiman",
+  "gender": "Male",
+  "affiliation": "Usopp Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 120,
+  "origin": "East Blue",
+  "firstChapter": 23,
+  "firstEpisode": 9,
+  "aliases": [
+   "Pepper"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Portgas D. Ace",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Flame-Flame Fruit",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 550000000,
+  "heightCm": 185,
+  "origin": "South Blue",
+  "firstChapter": 154,
+  "firstEpisode": 91,
+  "aliases": [
+   "Ace",
+   "Fire Fist Ace",
+   "Fire Fist",
+   "Gol D. Ace"
+  ],
+  "notes": "Fixed heightCm from 103 (his age-10 height) to 185 (adult height per SBS 48); cleaned malformed dfName."
+ },
+ {
+  "requested": "Raizo",
+  "gender": "Male",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Scroll-Scroll Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 311,
+  "origin": "Grand Line",
+  "firstChapter": 817,
+  "firstEpisode": 768,
+  "aliases": [
+   "Raizo of the Mist"
+  ],
+  "notes": "Cleaned malformed dfName to the Scroll-Scroll Fruit English name."
+ },
+ {
+  "requested": "Rebecca",
+  "gender": "Female",
+  "affiliation": "Dressrosa",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 171,
+  "origin": "Grand Line",
+  "firstChapter": 704,
+  "firstEpisode": 633,
+  "aliases": [
+   "The Undefeated Woman",
+   "Phantom Princess"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vinsmoke Yonji",
+  "gender": "Male",
+  "affiliation": "Vinsmoke Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 194,
+  "origin": "North Blue",
+  "firstChapter": 825,
+  "firstEpisode": 783,
+  "aliases": [
+   "Yonji",
+   "Winch Green"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Viola",
+  "gender": "Female",
+  "affiliation": "Riku Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glare-Glare Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 178,
+  "origin": "Grand Line",
+  "firstChapter": 703,
+  "firstEpisode": 632,
+  "aliases": [
+   "Violet"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Vista",
+  "gender": "Male",
+  "affiliation": "Whitebeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 328,
+  "origin": "North Blue",
+  "firstChapter": 552,
+  "firstEpisode": 0,
+  "aliases": [
+   "Flower Swords Vista",
+   "Flower Sword"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Wanda",
+  "gender": "Female",
+  "affiliation": "Mokomo Dukedom",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 181,
+  "origin": "Grand Line",
+  "firstChapter": 804,
+  "firstEpisode": 753,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Wapol",
+  "gender": "Male",
+  "affiliation": "Evil Black Drum Kingdom",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Munch-Munch Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 207,
+  "origin": "Grand Line",
+  "firstChapter": 131,
+  "firstEpisode": 79,
+  "aliases": [
+   "Tin-Plate Wapol"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Woop Slap",
+  "gender": "Male",
+  "affiliation": "Foosha Village",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Wyper",
+  "gender": "Male",
+  "affiliation": "Shandia",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 183,
+  "origin": "Sky Island",
+  "firstChapter": 237,
+  "firstEpisode": 153,
+  "aliases": [
+   "Wiper",
+   "Berserker"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "X Drake",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Allosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 222000000,
+  "heightCm": 233,
+  "origin": "North Blue",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Drake",
+   "X. Drake",
+   "Red Flag"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Yamato",
+  "gender": "Male",
+  "affiliation": "Wano Country",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 263,
+  "origin": "Unknown",
+  "firstChapter": 971,
+  "firstEpisode": 972,
+  "aliases": [
+   "Kouzuki Oden",
+   "Oni Princess",
+   "Son of Kaidou"
+  ],
+  "notes": "Changed affiliation from the disbanded Ninja-Pirate-Mink-Samurai Alliance to Wano Country (both listed orgs are former; he currently resides in and protects Wano), and origin from null to Unknown since the wiki infobox states no origin."
+ },
+ {
+  "requested": "Yosaku",
+  "gender": "Male",
+  "affiliation": "Johnny",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 185,
+  "origin": "East Blue",
+  "firstChapter": 42,
+  "firstEpisode": 20,
+  "aliases": [
+   "Johnny and Yosaku"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sasaki",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Triceratops Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 472000000,
+  "heightCm": 318,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Shinobu",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Ripe-Ripe Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 180,
+  "origin": "Grand Line",
+  "firstChapter": 921,
+  "firstEpisode": 911,
+  "aliases": [],
+  "notes": "Cleaned malformed dfName to the simple English name Ripe-Ripe Fruit."
+ },
+ {
+  "requested": "Kozuki Toki",
+  "gender": "Female",
+  "affiliation": "Kouzuki Family",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Time-Time Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 190,
+  "origin": "Unknown",
+  "firstChapter": 919,
+  "firstEpisode": 893,
+  "aliases": [
+   "Kouzuki Toki",
+   "Toki",
+   "Amatsuki Toki"
+  ],
+  "notes": "Cleaned malformed dfName to Time-Time Fruit and set origin to Unknown since the wiki infobox states no origin."
+ },
+ {
+  "requested": "Belo Betty",
+  "gender": "Female",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Pump-Pump Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 457000000,
+  "heightCm": 196,
+  "origin": "East Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "aliases": [
+   "Betty"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Karasu",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Soot-Soot Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 400000000,
+  "heightCm": 265,
+  "origin": "North Blue",
+  "firstChapter": 593,
+  "firstEpisode": 510,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Morley",
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Push-Push Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 293000000,
+  "heightCm": 1253,
+  "origin": "West Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "aliases": [],
+  "notes": "Set gender from null to Other since Morley is an okama giant."
+ },
+ {
+  "requested": "Yasopp",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 183,
+  "origin": "East Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "aliases": [
+   "Chaser"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Lucky Roux",
+  "gender": "Male",
+  "affiliation": "Red Hair Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 241,
+  "origin": "South Blue",
+  "firstChapter": 1,
+  "firstEpisode": 4,
+  "aliases": [
+   "Lucky Roo"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Scopper Gaban",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 19,
+  "firstEpisode": 0,
+  "aliases": [
+   "Gaban",
+   "Left Hand of the Pirate King"
+  ],
+  "notes": "Set origin from null to Unknown since the wiki infobox states no origin; firstEpisode 0 is the Strong World Episode 0 special listed as his anime debut."
+ },
+ {
+  "requested": "Crocus",
+  "gender": "Male",
+  "affiliation": "Roger Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 203,
+  "origin": "Grand Line",
+  "firstChapter": 102,
+  "firstEpisode": 62,
+  "aliases": [],
+  "notes": "Cleaned affiliation from the malformed 'Roger Pirates , Laboon' to the canonical Roger Pirates (his last crew; now the Twin Cape lighthouse keeper)."
+ },
+ {
+  "requested": "Fisher Tiger",
+  "gender": "Male",
+  "affiliation": "Sun Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 230000000,
+  "heightCm": 520,
+  "origin": "Grand Line",
+  "firstChapter": 521,
+  "firstEpisode": 415,
+  "aliases": [
+   "Tiger",
+   "The Adventurer",
+   "Hero of Slaves"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Otohime",
+  "gender": "Female",
+  "affiliation": "Neptune Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 224,
+  "origin": "Grand Line",
+  "firstChapter": 621,
+  "firstEpisode": 539,
+  "aliases": [
+   "Queen Otohime"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Chaka",
+  "gender": "Male",
+  "affiliation": "Arabasta Kingdom",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Jackal",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 213,
+  "origin": "Grand Line",
+  "firstChapter": 155,
+  "firstEpisode": 91,
+  "aliases": [
+   "Chaka the Jackal"
+  ],
+  "notes": "Cleaned garbled dfName (mixed Funimation/Viz/4Kids strings) to the standard English name Dog-Dog Fruit, Model: Jackal."
+ },
+ {
+  "requested": "Kuina",
+  "gender": "Female",
+  "affiliation": "Shimotsuki Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 150,
+  "origin": "East Blue",
+  "firstChapter": 5,
+  "firstEpisode": 2,
+  "aliases": [
+   "Shimotsuki Kuina"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Jaguar D. Saul",
+  "gender": "Male",
+  "affiliation": "Walrus School",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 1950,
+  "origin": "South Blue",
+  "firstChapter": 392,
+  "firstEpisode": 275,
+  "aliases": [
+   "Saul",
+   "Sauro"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Boa Sandersonia",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: Anaconda",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 453,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "aliases": [
+   "Sandersonia",
+   "Sonia"
+  ],
+  "notes": "Cleaned garbled dfName (mixed VIZ/Funimation strings) to Snake-Snake Fruit, Model: Anaconda."
+ },
+ {
+  "requested": "Boa Marigold",
+  "gender": "Female",
+  "affiliation": "Kuja Pirates",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Snake-Snake Fruit, Model: King Cobra",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 40000000,
+  "heightCm": 432,
+  "origin": "Calm Belt",
+  "firstChapter": 516,
+  "firstEpisode": 409,
+  "aliases": [
+   "Marigold",
+   "Mari"
+  ],
+  "notes": "Cleaned garbled dfName (mixed VIZ/Funimation strings) to Snake-Snake Fruit, Model: King Cobra."
+ },
+ {
+  "requested": "Hajrudin",
+  "gender": "Male",
+  "affiliation": "New Giant Warrior Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 2200,
+  "origin": "Grand Line",
+  "firstChapter": 706,
+  "firstEpisode": 639,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Sugar",
+  "gender": "Female",
+  "affiliation": "Donquixote Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Hobby-Hobby Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 110,
+  "origin": "North Blue",
+  "firstChapter": 682,
+  "firstEpisode": 608,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Vander Decken IX",
+  "gender": "Male",
+  "affiliation": "Flying Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Mark-Mark Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 352,
+  "origin": "Grand Line",
+  "firstChapter": 606,
+  "firstEpisode": 525,
+  "aliases": [
+   "Vander Decken",
+   "Decken"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Shiryu",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Clear-Clear Fruit",
+  "haki": [
+   "Armament"
+  ],
+  "bounty": null,
+  "heightCm": 340,
+  "origin": "Grand Line",
+  "firstChapter": 538,
+  "firstEpisode": 440,
+  "aliases": [
+   "Shiryu of the Rain",
+   "Shiliew"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Van Augur",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Warp-Warp Fruit",
+  "haki": [],
+  "bounty": 64000000,
+  "heightCm": 340,
+  "origin": "East Blue",
+  "firstChapter": 222,
+  "firstEpisode": 146,
+  "aliases": [
+   "The Supersonic",
+   "Van Auger"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Doc Q",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Sick-Sick Fruit",
+  "haki": [],
+  "bounty": 72000000,
+  "heightCm": 342,
+  "origin": "North Blue",
+  "firstChapter": 223,
+  "firstEpisode": 146,
+  "aliases": [
+   "Grim Reaper",
+   "Death God"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Laffitte",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 42200000,
+  "heightCm": 340,
+  "origin": "West Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [
+   "Lafitte",
+   "Demon Sheriff"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Catarina Devon",
+  "gender": "Female",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 361,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "aliases": [
+   "Devon",
+   "Crescent Moon Hunter"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Avalo Pizarro",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Isle-Isle Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 505,
+  "origin": "North Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "aliases": [
+   "Pizarro",
+   "Corrupt King"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sanjuan Wolf",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Huge-Huge Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 18000,
+  "origin": "West Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "aliases": [
+   "San Juan Wolf",
+   "Colossal Battleship"
+  ],
+  "notes": "Height changed from null: wiki infobox states 180 m (maximum), i.e. 18000 cm."
+ },
+ {
+  "requested": "Vasco Shot",
+  "gender": "Male",
+  "affiliation": "Blackbeard Pirates",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Glug-Glug Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 573,
+  "origin": "South Blue",
+  "firstChapter": 575,
+  "firstEpisode": 484,
+  "aliases": [
+   "Heavy Drinker"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Alvida",
+  "gender": "Female",
+  "affiliation": "Cross Guild",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Slip-Slip Fruit",
+  "haki": [],
+  "bounty": 5000000,
+  "heightCm": 198,
+  "origin": "East Blue",
+  "firstChapter": 2,
+  "firstEpisode": 1,
+  "aliases": [
+   "Iron Mace Alvida",
+   "Iron Club Alvida"
+  ],
+  "notes": "Cleaned malformed dfName to the VIZ English name Slip-Slip Fruit."
+ },
+ {
+  "requested": "Vegapunk",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Brain-Brain Fruit",
+  "haki": [],
+  "bounty": null,
+  "heightCm": 314,
+  "origin": "Grand Line",
+  "firstChapter": 684,
+  "firstEpisode": 610,
+  "aliases": [
+   "Dr. Vegapunk",
+   "Stella"
+  ],
+  "notes": "Affiliation changed from MADS to Marines: MADS was the older former group, and his last affiliation while alive was the Marines (SSG lead scientist) per the wiki infobox."
+ },
+ {
+  "requested": "Ethanbaron V. Nusjuro",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Nusjuro",
+   "Warrior God of Finance"
+  ],
+  "notes": "Added Mythical Zoan to dfTypes (awakened Bakotsu fruit per wiki Abilities section; fruit has no official name so dfName stays null) and set origin to Unknown (not stated)."
+ },
+ {
+  "requested": "Shepherd Ju Peter",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Ju Peter",
+   "Peter",
+   "Warrior God of Agriculture"
+  ],
+  "notes": "Added Mythical Zoan to dfTypes (awakened Sandworm fruit per wiki; no official fruit name so dfName null) and set origin to Unknown (not stated)."
+ },
+ {
+  "requested": "Imu",
+  "gender": "Male",
+  "affiliation": "World Government",
+  "dfTypes": [
+   "Unknown"
+  ],
+  "dfName": "The Devil's Fruit",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 906,
+  "firstEpisode": 885,
+  "aliases": [
+   "Nerona Imu",
+   "Im",
+   "Imu-sama",
+   "King of the World"
+  ],
+  "notes": "Changed dfTypes from [] to [Unknown]: Imu wields the Akuma no Mi (The Devil's Fruit) whose type is unconfirmed on the wiki; origin set to Unknown."
+ },
+ {
+  "requested": "Figarland Garling",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1086,
+  "firstEpisode": 1120,
+  "aliases": [
+   "Garling"
+  ],
+  "notes": "Changed haki from [] to [Unknown]: wiki says little is known of his combat prowess and no haki type is confirmed for this powerful Elder; origin not stated."
+ },
+ {
+  "requested": "Figarland Shamrock",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 907,
+  "firstEpisode": 887,
+  "aliases": [
+   "Shamrock"
+  ],
+  "notes": "Changed haki from [] to [Unknown]: wiki confirms powerful abnormal Haki but no specific type; his Cerberus fruit belongs to his sword, not him, so dfTypes stays empty."
+ },
+ {
+  "requested": "Gunko",
+  "gender": "Female",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Arrow-Arrow Fruit",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "West Blue",
+  "firstChapter": 1134,
+  "firstEpisode": 1164,
+  "aliases": [
+   "Manmayer Gunko",
+   "Shuri",
+   "Father-Killing Princess"
+  ],
+  "notes": "Changed haki from [] to [Unknown]: wiki confirms powerful Haki (black-lightning burst) and only suggests Observation, no type confirmed; added wiki page name Manmayer Gunko as alias."
+ },
+ {
+  "requested": "Sommers",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Thorn-Thorn Fruit",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "aliases": [
+   "Shepherd Sommers",
+   "Super Sommers"
+  ],
+  "notes": "Changed haki from [] to [Unknown]: wiki confirms he possesses Haki (abnormal black-lightning burst) but no type is confirmed; origin not stated."
+ },
+ {
+  "requested": "Killingham",
+  "gender": "Male",
+  "affiliation": "Knights of God",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Kirin",
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1140,
+  "firstEpisode": 1170,
+  "aliases": [
+   "Rimoshifu Killingham"
+  ],
+  "notes": "Changed haki from [] to [Unknown]: wiki confirms he possesses Haki (abnormal black-lightning burst) but no type is confirmed; origin not stated."
+ },
+ {
+  "requested": "Loki",
+  "gender": "Male",
+  "affiliation": "Elbaf Royal Family",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Nidhöggr",
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": 2600000000,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1130,
+  "firstEpisode": 1160,
+  "aliases": [
+   "Accursed Prince",
+   "Shame of Elbaf"
+  ],
+  "notes": "Respelled affiliation Elbaph Royal Family as Elbaf Royal Family per naming convention; all other draft values verified against the wiki."
+ },
+ {
+  "requested": "Harald",
+  "gender": "Male",
+  "affiliation": "Elbaf Royal Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Grand Line",
+  "firstChapter": 1136,
+  "firstEpisode": 1166,
+  "aliases": [
+   "King Harald"
+  ],
+  "notes": "Respelled affiliation Elbaph Royal Family as Elbaf Royal Family per naming convention; deceased, so kept his last-living affiliation as Elbaf's king."
+ },
+ {
+  "requested": "Hina",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Bind-Bind Fruit",
+  "haki": [],
+  "bounty": 200000000,
+  "heightCm": 181,
+  "origin": "West Blue",
+  "firstChapter": 171,
+  "firstEpisode": 127,
+  "aliases": [
+   "Black Cage Hina"
+  ],
+  "notes": "Cleaned malformed dfName to the VIZ English name Bind-Bind Fruit."
+ },
+ {
+  "requested": "Helmeppo",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament"
+  ],
+  "bounty": 100000000,
+  "heightCm": 179,
+  "origin": "Unknown",
+  "firstChapter": 3,
+  "firstEpisode": 2,
+  "aliases": [],
+  "notes": "Fixed truncated affiliation to Marines and set origin to Unknown since the wiki infobox lists no origin."
+ },
+ {
+  "requested": "Tsuru",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Wash-Wash Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 204,
+  "origin": "North Blue",
+  "firstChapter": 234,
+  "firstEpisode": 151,
+  "aliases": [
+   "Great Staff Officer"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Stussy",
+  "gender": "Female",
+  "affiliation": "Vegapunk",
+  "dfTypes": [
+   "Zoan"
+  ],
+  "dfName": "Bat-Bat Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": null,
+  "heightCm": 179,
+  "origin": "Unknown",
+  "firstChapter": 860,
+  "firstEpisode": 828,
+  "aliases": [
+   "Queen of the Pleasure District"
+  ],
+  "notes": "Set dfName to Bat-Bat Fruit (English name from the fruit's wiki page, plain Zoan) and origin to Unknown because MADS is a research ship with no stated sea."
+ },
+ {
+  "requested": "King",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Pteranodon",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1390000000,
+  "heightCm": 613,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "aliases": [
+   "Alber",
+   "King the Wildfire",
+   "King the Conflagration"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Queen",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1320000000,
+  "heightCm": 612,
+  "origin": "Grand Line",
+  "firstChapter": 920,
+  "firstEpisode": 910,
+  "aliases": [
+   "Queen the Plague",
+   "Scien"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Jack",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Elephant-Elephant Fruit, Model: Mammoth",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 1000000000,
+  "heightCm": 830,
+  "origin": "Grand Line",
+  "firstChapter": 801,
+  "firstEpisode": 746,
+  "aliases": [
+   "Jack the Drought"
+  ],
+  "notes": "Cleaned messy dfName (merged Funimation/YouTube variants) to Elephant-Elephant Fruit, Model: Mammoth."
+ },
+ {
+  "requested": "Page One",
+  "gender": "Male",
+  "affiliation": "Yamato",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Dragon-Dragon Fruit, Model: Spinosaurus",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 290000000,
+  "heightCm": 171,
+  "origin": "Grand Line",
+  "firstChapter": 929,
+  "firstEpisode": 923,
+  "aliases": [
+   "Page-One"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Who's-Who",
+  "gender": "Male",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 546000000,
+  "heightCm": 336,
+  "origin": "North Blue",
+  "firstChapter": 977,
+  "firstEpisode": 954,
+  "aliases": [
+   "Who's Who",
+   "Whos Who"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Black Maria",
+  "gender": "Female",
+  "affiliation": "Beasts Pirates",
+  "dfTypes": [
+   "Ancient Zoan"
+  ],
+  "dfName": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 480000000,
+  "heightCm": 820,
+  "origin": "Grand Line",
+  "firstChapter": 977,
+  "firstEpisode": 982,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Morgan",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 285,
+  "origin": "Unknown",
+  "firstChapter": 4,
+  "firstEpisode": 2,
+  "aliases": [
+   "Axe-Hand Morgan",
+   "Captain Morgan"
+  ],
+  "notes": "Origin set to Unknown: wiki infobox has no origin field (Shells Town is only his former residence)."
+ },
+ {
+  "requested": "Shakuyaku",
+  "gender": "Female",
+  "affiliation": "Shakky's Rip-off Bar",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Unknown"
+  ],
+  "bounty": null,
+  "heightCm": 186,
+  "origin": "Unknown",
+  "firstChapter": 498,
+  "firstEpisode": 392,
+  "aliases": [
+   "Shakky"
+  ],
+  "notes": "Haki changed [] -> [Unknown]: wiki only says her Haki 'can be assumed' with no confirmed types, and as a former Kuja empress she is powerful with largely unrevealed abilities; origin set to Unknown (not stated on wiki)."
+ },
+ {
+  "requested": "Rocks D. Xebec",
+  "gender": "Male",
+  "affiliation": "Rocks Pirates",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": 435,
+  "origin": "West Blue",
+  "firstChapter": 957,
+  "firstEpisode": 958,
+  "aliases": [
+   "Rocks",
+   "Xebec",
+   "Davy D. Xebec"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Aramaki",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [
+   "Logia"
+  ],
+  "dfName": "Woods-Woods Fruit",
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 3000000000,
+  "heightCm": 308,
+  "origin": "South Blue",
+  "firstChapter": 905,
+  "firstEpisode": 882,
+  "aliases": [
+   "Ryokugyu",
+   "Green Bull"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Curly Dadan",
+  "gender": "Female",
+  "affiliation": "Dadan Family",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": 7800000,
+  "heightCm": 221,
+  "origin": "East Blue",
+  "firstChapter": 440,
+  "firstEpisode": 324,
+  "aliases": [
+   "Dadan"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Emet",
+  "gender": "Other",
+  "affiliation": "Egghead",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "aliases": [
+   "Iron Giant"
+  ],
+  "notes": "Gender set to Other (non-human robot), affiliation set to Egghead (its residence and most identifying group), origin Unknown (creation place unstated); the Supreme King Haki burst was Joy Boy's sealed Haki, not Emet's own, so haki stays []."
+ },
+ {
+  "requested": "York",
+  "gender": "Female",
+  "affiliation": "World Government",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 482,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "aliases": [
+   "Vegapunk York",
+   "Punk-06"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Lilith",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 204,
+  "origin": "Grand Line",
+  "firstChapter": 1061,
+  "firstEpisode": 1090,
+  "aliases": [
+   "Vegapunk Lilith",
+   "Punk-02"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Shaka",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 220,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "aliases": [
+   "Vegapunk Shaka",
+   "Punk-01",
+   "Shaka the Good"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Edison",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 100,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "aliases": [
+   "Vegapunk Edison",
+   "Punk-03",
+   "Edison the Thinker"
+  ],
+  "notes": "Draft gender was null; wiki consistently uses male pronouns and the epithet 'Edison the Thinker', so set to Male."
+ },
+ {
+  "requested": "Pythagoras",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 341,
+  "origin": "Grand Line",
+  "firstChapter": 1065,
+  "firstEpisode": 1095,
+  "aliases": [
+   "Vegapunk Pythagoras",
+   "Punk-04",
+   "Pythagoras the Wise"
+  ],
+  "notes": "Draft gender was null; wiki consistently uses male pronouns ('He is an ally...'), so set to Male."
+ },
+ {
+  "requested": "Atlas",
+  "gender": "Female",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [],
+  "bounty": null,
+  "heightCm": 729,
+  "origin": "Grand Line",
+  "firstChapter": 1062,
+  "firstEpisode": 1091,
+  "aliases": [
+   "Vegapunk Atlas",
+   "Punk-05",
+   "Atlas the Violent"
+  ],
+  "notes": ""
+ },
+ {
+  "requested": "Sentomaru",
+  "gender": "Male",
+  "affiliation": "Marines",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 500000000,
+  "heightCm": 279,
+  "origin": "Grand Line",
+  "firstChapter": 497,
+  "firstEpisode": 401,
+  "aliases": [],
+  "notes": ""
+ },
+ {
+  "requested": "Jaygarcia Saturn",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Saturn",
+   "St. Jaygarcia Saturn"
+  ],
+  "notes": "Added Mythical Zoan (unnamed Gyuki fruit) missing from draft, confirmed on the wiki; origin set to Unknown since the wiki only states Mary Geoise residence, not origin."
+ },
+ {
+  "requested": "Marcus Mars",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Mars",
+   "St. Marcus Mars"
+  ],
+  "notes": "Added Mythical Zoan (unnamed Itsumade fruit) missing from draft per the wiki Devil Fruit section; origin set to Unknown as the wiki states only Mary Geoise residence."
+ },
+ {
+  "requested": "Topman Warcury",
+  "gender": "Male",
+  "affiliation": "Five Elders",
+  "dfTypes": [
+   "Mythical Zoan"
+  ],
+  "dfName": null,
+  "haki": [
+   "Observation",
+   "Conqueror"
+  ],
+  "bounty": null,
+  "heightCm": null,
+  "origin": "Unknown",
+  "firstChapter": 233,
+  "firstEpisode": 151,
+  "aliases": [
+   "Warcury",
+   "St. Topman Warcury"
+  ],
+  "notes": "Added Mythical Zoan (unnamed Fengxi fruit) missing from draft per the wiki Devil Fruit section; origin set to Unknown as the wiki states only Mary Geoise residence."
+ }
+]
