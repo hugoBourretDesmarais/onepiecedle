@@ -5,8 +5,8 @@ import arcs from './data/arcs.json'
 import { COLUMNS, compareGuess } from './game/compare.js'
 import {
   dailyIndex, dailyNumber, loadDailyState, loadArcLimit, loadExcluded, localDateString,
-  msUntilMidnight, randomIndex, recordWin, saveArcLimit, saveDailyState, saveExcluded,
-  currentStreak,
+  msUntilMidnight, randomIndex, recordGuess, recordPracticeStart, recordWin, saveArcLimit,
+  saveDailyState, saveExcluded, currentStreak,
 } from './game/state.js'
 import GuessInput from './components/GuessInput.vue'
 import GuessRow from './components/GuessRow.vue'
@@ -66,7 +66,7 @@ const daily = reactive({
   won: false,
   triesAtWin: 0,
 })
-const practice = reactive({ answer: null, guesses: [], won: false })
+const practice = reactive({ answer: null, guesses: [], won: false, counted: false })
 
 const yesterdayAnswer = computed(
   () => pool.value[dailyIndex(pool.value.length, localDateString(-1))])
@@ -107,17 +107,24 @@ function applyArcLimit(next) {
 function submitGuess(char) {
   const g = game.value
   if (g.won || guessedNames.value.has(char.name)) return
+  const isDaily = mode.value === 'daily'
+  const statMode = isDaily ? 'classic' : 'practice'
+
+  if (!isDaily && !practice.counted) {
+    practice.counted = true
+    recordPracticeStart()
+  }
   const cells = compareGuess(char, g.answer, arcOrder)
   g.guesses.unshift({ char, cells, animate: true })
+  recordGuess(statMode, char.name)
+
   if (char.name === g.answer.name) {
     g.won = true
-    if (mode.value === 'daily') {
-      daily.triesAtWin = daily.guesses.length
-      recordWin(daily.guesses.length)
-      streak.value = currentStreak()
-    }
+    if (isDaily) daily.triesAtWin = daily.guesses.length
+    recordWin(statMode, g.guesses.length)
+    if (isDaily) streak.value = currentStreak()
   }
-  if (mode.value === 'daily') persistDaily()
+  if (isDaily) persistDaily()
 }
 
 function newPractice() {
@@ -125,6 +132,7 @@ function newPractice() {
   practice.answer = src[randomIndex(src.length)]
   practice.guesses = []
   practice.won = false
+  practice.counted = false
 }
 
 // countdown to next daily
@@ -255,7 +263,7 @@ const base = import.meta.env.BASE_URL
     </main>
 
     <HelpModal v-if="showHelp" @close="showHelp = false" />
-    <StatsModal v-if="showStats" @close="showStats = false" />
+    <StatsModal v-if="showStats" :characters="characters" @close="showStats = false" />
     <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />
     <SettingsModal
       v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"

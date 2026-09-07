@@ -48,7 +48,12 @@ Type a character name and submit. Each guess reveals a row of tiles:
 `Last Bounty`, `Height` and `First Arc` also show ▲/▼ arrows pointing toward the hidden character's value.
 
 Clues unlock as you guess: **First Appearance** (chapter/episode) after 5 tries, **Devil Fruit** (fruit name)
-after 8. The daily character resets at local midnight; streaks and stats are stored in `localStorage`.
+after 8. The daily character resets at local midnight; stats live in `localStorage`.
+
+📊 tracks classic and practice separately — games played, wins, win rate, total guesses, average
+guesses per win, best game, the guesses-per-win distribution and your five most-guessed characters.
+Classic additionally tracks streaks; a streak counts **consecutive days** won, so missing a day resets
+it to zero, and winning a second daily on the same day (by changing the spoiler limit) doesn't inflate it.
 
 ## Data pipeline
 

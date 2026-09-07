@@ -88,28 +88,92 @@ export function saveExcluded(set) {
   save('excluded', [...set])
 }
 
-export function loadStats() {
-  return load('stats', { played: 0, wins: 0, streak: 0, maxStreak: 0, lastWinDate: null, tries: {} })
+function emptyMode() {
+  return { played: 0, wins: 0, guesses: 0, tries: {}, guessed: {} }
 }
 
-export function recordWin(numGuesses) {
+function normalizeMode(m) {
+  return { ...emptyMode(), ...(m || {}), tries: { ...(m?.tries || {}) }, guessed: { ...(m?.guessed || {}) } }
+}
+
+export function loadStats() {
+  const raw = load('stats', null)
+  const classicExtras = { streak: 0, maxStreak: 0, lastWinDate: null, lastPlayedDate: null }
+  if (!raw) {
+    return { classic: { ...emptyMode(), ...classicExtras }, practice: emptyMode() }
+  }
+  // Pre-split stats were a single flat object; those games were all classic.
+  const legacy = raw.classic || raw.practice ? null : raw
+  return {
+    classic: {
+      ...classicExtras,
+      ...normalizeMode(legacy || raw.classic),
+      ...(legacy
+        ? {
+            streak: legacy.streak ?? 0,
+            maxStreak: legacy.maxStreak ?? 0,
+            lastWinDate: legacy.lastWinDate ?? null,
+            lastPlayedDate: legacy.lastWinDate ?? null,
+          }
+        : {
+            streak: raw.classic?.streak ?? 0,
+            maxStreak: raw.classic?.maxStreak ?? 0,
+            lastWinDate: raw.classic?.lastWinDate ?? null,
+            lastPlayedDate: raw.classic?.lastPlayedDate ?? null,
+          }),
+    },
+    practice: normalizeMode(legacy ? null : raw.practice),
+  }
+}
+
+export function recordGuess(mode, charName) {
   const stats = loadStats()
-  stats.played += 1
-  stats.wins += 1
-  const yesterday = localDateString(-1)
-  stats.streak = stats.lastWinDate === yesterday || stats.lastWinDate === localDateString()
-    ? stats.streak + 1 : 1
-  stats.maxStreak = Math.max(stats.maxStreak, stats.streak)
-  stats.lastWinDate = localDateString()
-  stats.tries[numGuesses] = (stats.tries[numGuesses] || 0) + 1
+  const m = stats[mode]
+  m.guesses += 1
+  m.guessed[charName] = (m.guessed[charName] || 0) + 1
+  // A classic game is one per calendar day however many times the board resets.
+  if (mode === 'classic') {
+    const today = localDateString()
+    if (m.lastPlayedDate !== today) {
+      m.played += 1
+      m.lastPlayedDate = today
+    }
+  }
   save('stats', stats)
   return stats
 }
 
-export function currentStreak() {
+export function recordPracticeStart() {
   const stats = loadStats()
-  const today = localDateString()
-  const yesterday = localDateString(-1)
-  if (stats.lastWinDate === today || stats.lastWinDate === yesterday) return stats.streak
+  stats.practice.played += 1
+  save('stats', stats)
+  return stats
+}
+
+export function recordWin(mode, numGuesses) {
+  const stats = loadStats()
+  const m = stats[mode]
+  if (mode === 'classic') {
+    const today = localDateString()
+    // Already credited today — a second win (e.g. after changing the spoiler
+    // limit) must not inflate wins or the streak.
+    if (m.lastWinDate === today) return stats
+    m.streak = m.lastWinDate === localDateString(-1) ? m.streak + 1 : 1
+    m.maxStreak = Math.max(m.maxStreak, m.streak)
+    m.lastWinDate = today
+  }
+  m.wins += 1
+  m.tries[numGuesses] = (m.tries[numGuesses] || 0) + 1
+  save('stats', stats)
+  return stats
+}
+
+// A streak is only live if the last win was today or yesterday; any longer gap
+// breaks it, regardless of how many wins came before.
+export function currentStreak() {
+  const { classic } = loadStats()
+  if (classic.lastWinDate === localDateString() || classic.lastWinDate === localDateString(-1)) {
+    return classic.streak
+  }
   return 0
 }
