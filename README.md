@@ -70,6 +70,26 @@ python3 tools/build_dataset.py      # merge + validate -> src/data/characters.js
 overrides that `build_dataset.py` merges over the raw parse; `tools/out/final_report.txt` reports the
 resulting value vocabularies and anything that needed attention.
 
+## Backend (solve counter)
+
+`api/` is a Cloudflare Worker backed by a D1 database. It powers the
+“N people already found out!” counter under the daily puzzle.
+
+The worker recomputes the day's answer itself from a generated copy of the dataset, and only
+counts a solve whose submitted name matches — so the tally can't be inflated by anyone who
+hasn't actually solved it. One count per address per `(day, spoiler limit)` bucket; the address
+is salted with a Worker secret and hashed, never stored.
+
+```bash
+node api/tools/gen_data.mjs                          # after changing characters.json / arcs.json
+cd api && npx wrangler d1 execute onepiecedle --remote --file=./schema.sql
+cd api && npx wrangler deploy
+```
+
+`VITE_API_URL` in `.env.production` points the site at the worker. It's a public endpoint, so
+it isn't a secret. Every API call fails soft: with no `VITE_API_URL` the counter simply hides
+and the game is unaffected.
+
 ## Deploying
 
 Pushing to `main` builds and publishes to GitHub Pages via `.github/workflows/deploy.yml`.
