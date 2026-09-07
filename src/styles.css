@@ -2,7 +2,7 @@
 
 :root {
   --green: #479f4b;
-  --orange: #d68f2e;
+  --yellow: #d9a51f;
   --red: #b23c39;
   --parchment: #f6eed7;
   --parchment-dark: #efe2bd;
@@ -109,7 +109,7 @@ button { font-family: inherit; cursor: pointer; }
   margin-right: 4px;
 }
 .swatch.exact { background: var(--green); }
-.swatch.partial { background: var(--orange); }
+.swatch.partial { background: var(--yellow); }
 .swatch.wrong { background: var(--red); }
 
 /* Fit all 9 columns on screen: 9 tiles + 8 gaps + page padding <= 100vw */

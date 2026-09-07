@@ -70,7 +70,7 @@ function textSize(text) {
   padding: 3px;
 }
 .tile.exact { background: var(--green); }
-.tile.partial { background: var(--orange); }
+.tile.partial { background: var(--yellow); }
 .tile.wrong { background: var(--red); }
 .tile.neutral { background: #2f2a22; padding: 0; }
 
@@ -109,8 +109,9 @@ function textSize(text) {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(var(--tile-size) * 0.82);
-  color: rgba(0, 0, 0, 0.28);
+  font-size: calc(var(--tile-size) * 0.92);
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.34);
   z-index: 0;
 }
 

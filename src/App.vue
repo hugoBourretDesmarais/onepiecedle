@@ -138,12 +138,15 @@ const base = import.meta.env.BASE_URL
         <h2 v-if="mode === 'daily'">GUESS TODAY'S ONE PIECE CHARACTER!</h2>
         <h2 v-else>PRACTICE MODE — GUESS THE CHARACTER!</h2>
         <CluesPanel :answer="game.answer" :tries="game.guesses.length" :won="game.won" />
+        <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
+          🎲 New character
+        </button>
       </section>
 
       <WinPanel
         v-if="game.won" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
         :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
-        @practice="mode = 'practice'; practice.won && newPractice()"
+        @practice="mode = 'practice'"
         @replay="newPractice" />
 
       <GuessInput
@@ -285,6 +288,18 @@ const base = import.meta.env.BASE_URL
   font-size: 22px;
   margin: 0 0 14px;
 }
+
+.reset-btn {
+  margin-top: 14px;
+  border: 2px solid var(--tan);
+  background: var(--parchment-dark);
+  color: var(--brown-dark);
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 9px 16px;
+  font-size: 15px;
+}
+.reset-btn:hover { filter: brightness(.96); }
 
 .grid-wrap {
   width: 100%;

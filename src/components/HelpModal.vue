@@ -10,7 +10,7 @@ const emit = defineEmits(['close'])
       <p>Guess today's One Piece character. Each guess reveals its properties and how they compare to the hidden character.</p>
       <ul class="colors">
         <li><span class="swatch exact"></span><b>Green</b> — exact match</li>
-        <li><span class="swatch partial"></span><b>Orange</b> — partial match (some overlap)</li>
+        <li><span class="swatch partial"></span><b>Yellow</b> — partial match (some overlap)</li>
         <li><span class="swatch wrong"></span><b>Red</b> — no match</li>
       </ul>
       <p>On <b>Last Bounty</b>, <b>Height</b> and <b>First Arc</b>, an arrow shows whether the hidden character's value is <b>▲ higher/later</b> or <b>▼ lower/earlier</b> than your guess.</p>
@@ -21,7 +21,7 @@ const emit = defineEmits(['close'])
           <tr><td>Gender</td><td>Male, Female, Other or Unknown</td></tr>
           <tr><td>Affiliation</td><td>Main crew or organization (e.g. Straw Hat Pirates, Marines)</td></tr>
           <tr><td>Devil Fruit</td><td>Fruit type: Paramecia, Zoan, Ancient Zoan, Mythical Zoan, Logia, Special Paramecia, None or Unknown</td></tr>
-          <tr><td>Haki</td><td>Confirmed haki: 👑 Conqueror, 💪 Armament, 👀 Observation — ✖ none, ? unknown</td></tr>
+          <tr><td>Haki</td><td>Confirmed haki: 👑 Conqueror, 💪 Armament, 👀 Observation — ✖ none, ? unknown. Yellow when you share at least one type but not all of them</td></tr>
           <tr><td>Last Bounty</td><td>Latest known bounty (0 if none)</td></tr>
           <tr><td>Height</td><td>Latest known height</td></tr>
           <tr><td>Origin</td><td>Sea of origin (East Blue, Grand Line, …)</td></tr>
