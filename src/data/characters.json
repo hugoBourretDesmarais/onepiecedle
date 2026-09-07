@@ -1,6 +1,7 @@
 [
  {
   "name": "Absalom",
+  "codename": null,
   "aliases": [
    "Absa",
    "Absalom of the Graveyard"
@@ -23,6 +24,7 @@
  },
  {
   "name": "Aisa",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Shandia",
@@ -42,6 +44,7 @@
  },
  {
   "name": "Alvida",
+  "codename": null,
   "aliases": [
    "Iron Mace Alvida",
    "Iron Club Alvida"
@@ -64,6 +67,7 @@
  },
  {
   "name": "Aramaki",
+  "codename": null,
   "aliases": [
    "Ryokugyu",
    "Green Bull"
@@ -89,6 +93,7 @@
  },
  {
   "name": "Arlong",
+  "codename": null,
   "aliases": [
    "Arlong the Saw",
    "Saw-Tooth Arlong"
@@ -109,6 +114,7 @@
  },
  {
   "name": "Ashura Doji",
+  "codename": null,
   "aliases": [
    "Shutenmaru"
   ],
@@ -131,6 +137,7 @@
  },
  {
   "name": "Atlas",
+  "codename": null,
   "aliases": [
    "Vegapunk Atlas",
    "Punk-05",
@@ -153,6 +160,7 @@
  },
  {
   "name": "Avalo Pizarro",
+  "codename": null,
   "aliases": [
    "Pizarro",
    "Corrupt King"
@@ -175,6 +183,7 @@
  },
  {
   "name": "Baby 5",
+  "codename": null,
   "aliases": [
    "Baby Five"
   ],
@@ -196,6 +205,7 @@
  },
  {
   "name": "Bartholomew Kuma",
+  "codename": null,
   "aliases": [
    "Kuma",
    "Tyrant",
@@ -222,6 +232,7 @@
  },
  {
   "name": "Bartolomeo",
+  "codename": null,
   "aliases": [
    "Barto",
    "Bartolomeo the Cannibal"
@@ -244,6 +255,7 @@
  },
  {
   "name": "Basil Hawkins",
+  "codename": null,
   "aliases": [
    "Hawkins",
    "Magician"
@@ -269,6 +281,7 @@
  },
  {
   "name": "Bell-mère",
+  "codename": null,
   "aliases": [
    "Belle-Mère",
    "Bellemere"
@@ -289,6 +302,7 @@
  },
  {
   "name": "Bellamy",
+  "codename": null,
   "aliases": [
    "Bellamy the Hyena",
    "The Hyena"
@@ -314,6 +328,7 @@
  },
  {
   "name": "Belo Betty",
+  "codename": null,
   "aliases": [
    "Betty"
   ],
@@ -338,6 +353,7 @@
  },
  {
   "name": "Benn Beckman",
+  "codename": null,
   "aliases": [
    "Beckman",
    "Ben Beckman"
@@ -360,10 +376,12 @@
  },
  {
   "name": "Bentham",
+  "codename": "Mr. 2 Bon Clay",
   "aliases": [
    "Bon Clay",
    "Mr. 2",
-   "Bon Kurei"
+   "Bon Kurei",
+   "Mr. 2 Bon Clay"
   ],
   "gender": "Other",
   "affiliation": "Newkama Land",
@@ -383,6 +401,7 @@
  },
  {
   "name": "Bepo",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Heart Pirates",
@@ -400,6 +419,7 @@
  },
  {
   "name": "Black Maria",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Beasts Pirates",
@@ -422,6 +442,7 @@
  },
  {
   "name": "Blueno",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "CP0",
@@ -444,6 +465,7 @@
  },
  {
   "name": "Boa Hancock",
+  "codename": null,
   "aliases": [
    "Hancock",
    "Snake Princess",
@@ -471,6 +493,7 @@
  },
  {
   "name": "Boa Marigold",
+  "codename": null,
   "aliases": [
    "Marigold",
    "Mari"
@@ -496,6 +519,7 @@
  },
  {
   "name": "Boa Sandersonia",
+  "codename": null,
   "aliases": [
    "Sandersonia",
    "Sonia"
@@ -521,6 +545,7 @@
  },
  {
   "name": "Borsalino",
+  "codename": null,
   "aliases": [
    "Kizaru"
   ],
@@ -545,6 +570,7 @@
  },
  {
   "name": "Brogy",
+  "codename": null,
   "aliases": [
    "Broggy",
    "Red Ogre"
@@ -565,6 +591,7 @@
  },
  {
   "name": "Brook",
+  "codename": null,
   "aliases": [
    "Soul King",
    "Humming Brook"
@@ -587,6 +614,7 @@
  },
  {
   "name": "Buggy",
+  "codename": null,
   "aliases": [
    "Buggy the Clown",
    "Star Clown"
@@ -609,6 +637,7 @@
  },
  {
   "name": "Caesar Clown",
+  "codename": null,
   "aliases": [
    "Caesar",
    "Master",
@@ -632,6 +661,7 @@
  },
  {
   "name": "Camie",
+  "codename": null,
   "aliases": [
    "Keimi"
   ],
@@ -651,6 +681,7 @@
  },
  {
   "name": "Capone Bege",
+  "codename": null,
   "aliases": [
    "Bege",
    "Gang Bege"
@@ -673,6 +704,7 @@
  },
  {
   "name": "Caribou",
+  "codename": null,
   "aliases": [
    "Wet-Haired Caribou"
   ],
@@ -694,6 +726,7 @@
  },
  {
   "name": "Carrot",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Mokomo Dukedom",
@@ -711,6 +744,7 @@
  },
  {
   "name": "Catarina Devon",
+  "codename": null,
   "aliases": [
    "Devon",
    "Crescent Moon Hunter"
@@ -733,6 +767,7 @@
  },
  {
   "name": "Cavendish",
+  "codename": null,
   "aliases": [
    "Hakuba",
    "Cavendish of the White Horse",
@@ -757,6 +792,7 @@
  },
  {
   "name": "Chadros Higelyges",
+  "codename": null,
   "aliases": [
    "Brownbeard"
   ],
@@ -776,6 +812,7 @@
  },
  {
   "name": "Chaka",
+  "codename": null,
   "aliases": [
    "Chaka the Jackal"
   ],
@@ -797,6 +834,7 @@
  },
  {
   "name": "Charlotte Brûlée",
+  "codename": null,
   "aliases": [
    "Brulee",
    "Charlotte Brulee"
@@ -819,6 +857,7 @@
  },
  {
   "name": "Charlotte Chiffon",
+  "codename": null,
   "aliases": [
    "Chiffon"
   ],
@@ -838,6 +877,7 @@
  },
  {
   "name": "Charlotte Cracker",
+  "codename": null,
   "aliases": [
    "Cracker",
    "Thousand Arms Cracker",
@@ -864,6 +904,7 @@
  },
  {
   "name": "Charlotte Daifuku",
+  "codename": null,
   "aliases": [
    "Daifuku"
   ],
@@ -888,6 +929,7 @@
  },
  {
   "name": "Charlotte Katakuri",
+  "codename": null,
   "aliases": [
    "Katakuri",
    "Dogtooth"
@@ -914,6 +956,7 @@
  },
  {
   "name": "Charlotte Linlin",
+  "codename": null,
   "aliases": [
    "Big Mom",
    "O-Lin",
@@ -941,6 +984,7 @@
  },
  {
   "name": "Charlotte Lola",
+  "codename": null,
   "aliases": [
    "Lola",
    "Marriage Proposal Lola"
@@ -961,6 +1005,7 @@
  },
  {
   "name": "Charlotte Mont-d'Or",
+  "codename": null,
   "aliases": [
    "Mont-d'Or",
    "Scribe"
@@ -983,6 +1028,7 @@
  },
  {
   "name": "Charlotte Oven",
+  "codename": null,
   "aliases": [
    "Oven"
   ],
@@ -1007,6 +1053,7 @@
  },
  {
   "name": "Charlotte Perospero",
+  "codename": null,
   "aliases": [
    "Perospero"
   ],
@@ -1031,6 +1078,7 @@
  },
  {
   "name": "Charlotte Pudding",
+  "codename": null,
   "aliases": [
    "Pudding"
   ],
@@ -1052,6 +1100,7 @@
  },
  {
   "name": "Charlotte Smoothie",
+  "codename": null,
   "aliases": [
    "Smoothie"
   ],
@@ -1076,6 +1125,7 @@
  },
  {
   "name": "Chimney",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Water 7",
@@ -1093,6 +1143,7 @@
  },
  {
   "name": "Chinjao",
+  "codename": null,
   "aliases": [
    "Don Chinjao",
    "Chinjao the Drill"
@@ -1117,6 +1168,7 @@
  },
  {
   "name": "Conis",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Skypiea",
@@ -1134,6 +1186,7 @@
  },
  {
   "name": "Crocodile",
+  "codename": "Mr. 0",
   "aliases": [
    "Sir Crocodile",
    "Mr. 0",
@@ -1160,6 +1213,7 @@
  },
  {
   "name": "Crocus",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Roger Pirates",
@@ -1179,6 +1233,7 @@
  },
  {
   "name": "Curly Dadan",
+  "codename": null,
   "aliases": [
    "Dadan"
   ],
@@ -1198,6 +1253,7 @@
  },
  {
   "name": "Dalton",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Sakura Kingdom",
@@ -1217,6 +1273,7 @@
  },
  {
   "name": "Daz Bonez",
+  "codename": "Mr. 1",
   "aliases": [
    "Mr. 1",
    "The Killer",
@@ -1240,6 +1297,7 @@
  },
  {
   "name": "Denjiro",
+  "codename": null,
   "aliases": [
    "Kyoshiro",
    "Ushimitsu Kozo",
@@ -1264,6 +1322,7 @@
  },
  {
   "name": "Diamante",
+  "codename": null,
   "aliases": [
    "Hero of the Colosseum"
   ],
@@ -1288,6 +1347,7 @@
  },
  {
   "name": "Doc Q",
+  "codename": null,
   "aliases": [
    "Grim Reaper",
    "Death God"
@@ -1310,6 +1370,7 @@
  },
  {
   "name": "Donquixote Doflamingo",
+  "codename": null,
   "aliases": [
    "Doflamingo",
    "Joker",
@@ -1338,6 +1399,7 @@
  },
  {
   "name": "Donquixote Rosinante",
+  "codename": null,
   "aliases": [
    "Corazon",
    "Cora-san",
@@ -1361,6 +1423,7 @@
  },
  {
   "name": "Dorry",
+  "codename": null,
   "aliases": [
    "Blue Ogre",
    "Dorry the Blue Ogre"
@@ -1381,6 +1444,7 @@
  },
  {
   "name": "Dracule Mihawk",
+  "codename": null,
   "aliases": [
    "Mihawk",
    "Hawk Eyes",
@@ -1405,6 +1469,7 @@
  },
  {
   "name": "Drophy",
+  "codename": "Miss Merry Christmas",
   "aliases": [
    "Miss Merry Christmas",
    "Ms. Merry Christmas"
@@ -1427,6 +1492,7 @@
  },
  {
   "name": "Edison",
+  "codename": null,
   "aliases": [
    "Vegapunk Edison",
    "Punk-03",
@@ -1449,6 +1515,7 @@
  },
  {
   "name": "Edward Newgate",
+  "codename": null,
   "aliases": [
    "Whitebeard"
   ],
@@ -1474,6 +1541,7 @@
  },
  {
   "name": "Edward Weevil",
+  "codename": null,
   "aliases": [
    "Weevil",
    "Whitebeard Jr."
@@ -1497,6 +1565,7 @@
  },
  {
   "name": "Emet",
+  "codename": null,
   "aliases": [
    "Iron Giant"
   ],
@@ -1516,6 +1585,7 @@
  },
  {
   "name": "Emporio Ivankov",
+  "codename": null,
   "aliases": [
    "Iva",
    "Ivankov",
@@ -1539,6 +1609,7 @@
  },
  {
   "name": "Enel",
+  "codename": null,
   "aliases": [
    "Eneru",
    "God Enel"
@@ -1563,6 +1634,7 @@
  },
  {
   "name": "Ethanbaron V. Nusjuro",
+  "codename": null,
   "aliases": [
    "Nusjuro",
    "Warrior God of Finance"
@@ -1589,6 +1661,7 @@
  },
  {
   "name": "Eustass Kid",
+  "codename": null,
   "aliases": [
    "Kid",
    "Kidd",
@@ -1616,6 +1689,7 @@
  },
  {
   "name": "Figarland Garling",
+  "codename": null,
   "aliases": [
    "Garling"
   ],
@@ -1637,6 +1711,7 @@
  },
  {
   "name": "Figarland Shamrock",
+  "codename": null,
   "aliases": [
    "Shamrock"
   ],
@@ -1658,6 +1733,7 @@
  },
  {
   "name": "Fisher Tiger",
+  "codename": null,
   "aliases": [
    "Tiger",
    "The Adventurer",
@@ -1679,6 +1755,7 @@
  },
  {
   "name": "Foxy",
+  "codename": null,
   "aliases": [
    "Silver Fox"
   ],
@@ -1700,6 +1777,7 @@
  },
  {
   "name": "Franky",
+  "codename": null,
   "aliases": [
    "Cutty Flam",
    "Iron Man Franky",
@@ -1722,6 +1800,7 @@
  },
  {
   "name": "Fukaboshi",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Neptune Family",
@@ -1739,6 +1818,7 @@
  },
  {
   "name": "Fukurou",
+  "codename": null,
   "aliases": [
    "Fukuro",
    "Fukurou the Silent"
@@ -1762,6 +1842,7 @@
  },
  {
   "name": "Gaimon",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Island of Rare Animals",
@@ -1779,6 +1860,7 @@
  },
  {
   "name": "Galdino",
+  "codename": "Mr. 3",
   "aliases": [
    "Mr. 3",
    "Mister 3"
@@ -1801,6 +1883,7 @@
  },
  {
   "name": "Gan Fall",
+  "codename": null,
   "aliases": [
    "Knight of the Sky",
    "Sky Knight",
@@ -1822,6 +1905,7 @@
  },
  {
   "name": "Gecko Moria",
+  "codename": null,
   "aliases": [
    "Moria",
    "Gekko Moriah",
@@ -1845,6 +1929,7 @@
  },
  {
   "name": "Gem",
+  "codename": "Mr. 5",
   "aliases": [
    "Mr. 5",
    "Gem of the Border"
@@ -1867,6 +1952,7 @@
  },
  {
   "name": "Genzo",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Cocoyasi Village",
@@ -1884,6 +1970,7 @@
  },
  {
   "name": "Gin",
+  "codename": null,
   "aliases": [
    "Ghin",
    "Man-Demon Gin"
@@ -1904,6 +1991,7 @@
  },
  {
   "name": "Gladius",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Donquixote Pirates",
@@ -1923,6 +2011,7 @@
  },
  {
   "name": "Gol D. Roger",
+  "codename": null,
   "aliases": [
    "Gold Roger",
    "Pirate King",
@@ -1948,6 +2037,7 @@
  },
  {
   "name": "Gonbe",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Water 7",
@@ -1965,6 +2055,7 @@
  },
  {
   "name": "Gunko",
+  "codename": null,
   "aliases": [
    "Manmayer Gunko",
    "Shuri",
@@ -1990,6 +2081,7 @@
  },
  {
   "name": "Hajrudin",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "New Giant Warrior Pirates",
@@ -2007,6 +2099,7 @@
  },
  {
   "name": "Harald",
+  "codename": null,
   "aliases": [
    "King Harald"
   ],
@@ -2028,6 +2121,7 @@
  },
  {
   "name": "Hatchan",
+  "codename": null,
   "aliases": [
    "Hachi",
    "Six Sword Style Hachi"
@@ -2048,6 +2142,7 @@
  },
  {
   "name": "Hattori",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "CP0",
@@ -2065,6 +2160,7 @@
  },
  {
   "name": "Helmeppo",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Marines",
@@ -2084,6 +2180,7 @@
  },
  {
   "name": "Hina",
+  "codename": null,
   "aliases": [
    "Black Cage Hina"
   ],
@@ -2105,6 +2202,7 @@
  },
  {
   "name": "Hiriluk",
+  "codename": null,
   "aliases": [
    "Dr. Hiriluk",
    "Hiluluk"
@@ -2125,6 +2223,7 @@
  },
  {
   "name": "Hody Jones",
+  "codename": null,
   "aliases": [
    "Hordy Jones",
    "Hordy"
@@ -2145,6 +2244,7 @@
  },
  {
   "name": "Hogback",
+  "codename": null,
   "aliases": [
    "Doctor Hogback",
    "Dr. Hogback"
@@ -2165,6 +2265,7 @@
  },
  {
   "name": "Hyogoro",
+  "codename": null,
   "aliases": [
    "Hyougoro",
    "Grandpa Hyo",
@@ -2190,6 +2291,7 @@
  },
  {
   "name": "Iceburg",
+  "codename": null,
   "aliases": [
    "Iceberg"
   ],
@@ -2209,6 +2311,7 @@
  },
  {
   "name": "Igaram",
+  "codename": "Mr. 8",
   "aliases": [
    "Mr. 8",
    "Igarappoi"
@@ -2229,6 +2332,7 @@
  },
  {
   "name": "Imu",
+  "codename": null,
   "aliases": [
    "Nerona Imu",
    "Im",
@@ -2256,6 +2360,7 @@
  },
  {
   "name": "Inuarashi",
+  "codename": null,
   "aliases": [
    "Dogstorm",
    "Duke Inuarashi",
@@ -2281,6 +2386,7 @@
  },
  {
   "name": "Issho",
+  "codename": null,
   "aliases": [
    "Fujitora"
   ],
@@ -2305,6 +2411,7 @@
  },
  {
   "name": "Izou",
+  "codename": null,
   "aliases": [
    "Izo"
   ],
@@ -2327,6 +2434,7 @@
  },
  {
   "name": "Jabra",
+  "codename": null,
   "aliases": [
    "Jabura"
   ],
@@ -2351,6 +2459,7 @@
  },
  {
   "name": "Jack",
+  "codename": null,
   "aliases": [
    "Jack the Drought"
   ],
@@ -2375,6 +2484,7 @@
  },
  {
   "name": "Jaguar D. Saul",
+  "codename": null,
   "aliases": [
    "Saul",
    "Sauro"
@@ -2397,6 +2507,7 @@
  },
  {
   "name": "Jango",
+  "codename": null,
   "aliases": [
    "Django",
    "Jango the Turncoat",
@@ -2418,6 +2529,7 @@
  },
  {
   "name": "Jaygarcia Saturn",
+  "codename": null,
   "aliases": [
    "Saturn",
    "St. Jaygarcia Saturn"
@@ -2443,6 +2555,7 @@
  },
  {
   "name": "Jesus Burgess",
+  "codename": null,
   "aliases": [
    "Burgess",
    "Champion",
@@ -2469,6 +2582,7 @@
  },
  {
   "name": "Jewelry Bonney",
+  "codename": null,
   "aliases": [
    "Bonney",
    "Big Eater",
@@ -2494,6 +2608,7 @@
  },
  {
   "name": "Jinbe",
+  "codename": null,
   "aliases": [
    "Jimbei",
    "Jinbei",
@@ -2518,6 +2633,7 @@
  },
  {
   "name": "Johnny",
+  "codename": null,
   "aliases": [
    "Johnny and Yosaku"
   ],
@@ -2537,6 +2653,7 @@
  },
  {
   "name": "Jozu",
+  "codename": null,
   "aliases": [
    "Diamond Jozu"
   ],
@@ -2561,6 +2678,7 @@
  },
  {
   "name": "Kaidou",
+  "codename": null,
   "aliases": [
    "Kaido",
    "Kaido of the Beasts",
@@ -2588,6 +2706,7 @@
  },
  {
   "name": "Kaku",
+  "codename": null,
   "aliases": [
    "Mountain Wind"
   ],
@@ -2612,6 +2731,7 @@
  },
  {
   "name": "Kalgara",
+  "codename": null,
   "aliases": [
    "Calgara",
    "Demon of Shandora"
@@ -2634,6 +2754,7 @@
  },
  {
   "name": "Kalifa",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "CP0",
@@ -2656,6 +2777,7 @@
  },
  {
   "name": "Karasu",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Revolutionary Army",
@@ -2678,6 +2800,7 @@
  },
  {
   "name": "Karoo",
+  "codename": null,
   "aliases": [
    "Carue"
   ],
@@ -2697,6 +2820,7 @@
  },
  {
   "name": "Kawamatsu",
+  "codename": null,
   "aliases": [
    "Gyukimaru",
    "Kawamatsu the Kappa"
@@ -2720,6 +2844,7 @@
  },
  {
   "name": "Kaya",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Syrup Village",
@@ -2737,6 +2862,7 @@
  },
  {
   "name": "Kikunojo",
+  "codename": null,
   "aliases": [
    "Kiku",
    "O-Kiku",
@@ -2761,6 +2887,7 @@
  },
  {
   "name": "Killer",
+  "codename": null,
   "aliases": [
    "Kamazo",
    "Massacre Soldier"
@@ -2784,6 +2911,7 @@
  },
  {
   "name": "Killingham",
+  "codename": null,
   "aliases": [
    "Rimoshifu Killingham"
   ],
@@ -2807,6 +2935,7 @@
  },
  {
   "name": "Kin'emon",
+  "codename": null,
   "aliases": [
    "Kinemon",
    "Foxfire",
@@ -2833,6 +2962,7 @@
  },
  {
   "name": "King",
+  "codename": null,
   "aliases": [
    "Alber",
    "King the Wildfire",
@@ -2859,6 +2989,7 @@
  },
  {
   "name": "Koala",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Revolutionary Army",
@@ -2876,6 +3007,7 @@
  },
  {
   "name": "Koby",
+  "codename": null,
   "aliases": [
    "Coby"
   ],
@@ -2898,6 +3030,7 @@
  },
  {
   "name": "Kokoro",
+  "codename": null,
   "aliases": [
    "Granny Kokoro"
   ],
@@ -2917,6 +3050,7 @@
  },
  {
   "name": "Koza",
+  "codename": null,
   "aliases": [
    "Kohza"
   ],
@@ -2936,6 +3070,7 @@
  },
  {
   "name": "Kozuki Hiyori",
+  "codename": null,
   "aliases": [
    "Komurasaki",
    "Hiyori",
@@ -2957,6 +3092,7 @@
  },
  {
   "name": "Kozuki Momonosuke",
+  "codename": null,
   "aliases": [
    "Momo",
    "Momonosuke",
@@ -2982,6 +3118,7 @@
  },
  {
   "name": "Kozuki Oden",
+  "codename": null,
   "aliases": [
    "Oden",
    "Kouzuki Oden"
@@ -3006,6 +3143,7 @@
  },
  {
   "name": "Kozuki Toki",
+  "codename": null,
   "aliases": [
    "Kouzuki Toki",
    "Toki",
@@ -3029,6 +3167,7 @@
  },
  {
   "name": "Krieg",
+  "codename": null,
   "aliases": [
    "Don Krieg",
    "Foul Play Krieg"
@@ -3049,6 +3188,7 @@
  },
  {
   "name": "Kuina",
+  "codename": null,
   "aliases": [
    "Shimotsuki Kuina"
   ],
@@ -3068,6 +3208,7 @@
  },
  {
   "name": "Kumadori",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "CP0",
@@ -3088,6 +3229,7 @@
  },
  {
   "name": "Kureha",
+  "codename": null,
   "aliases": [
    "Doctorine",
    "Dr. Kureha"
@@ -3108,6 +3250,7 @@
  },
  {
   "name": "Kuro",
+  "codename": null,
   "aliases": [
    "Klahadore",
    "Captain Kuro",
@@ -3129,6 +3272,7 @@
  },
  {
   "name": "Kurozumi Kanjuro",
+  "codename": null,
   "aliases": [
    "Kanjuro",
    "Evening Shower Kanjuro"
@@ -3154,6 +3298,7 @@
  },
  {
   "name": "Kurozumi Orochi",
+  "codename": null,
   "aliases": [
    "Orochi",
    "Shogun of Wano"
@@ -3176,6 +3321,7 @@
  },
  {
   "name": "Kurozumi Tama",
+  "codename": null,
   "aliases": [
    "Tama",
    "O-Tama",
@@ -3199,6 +3345,7 @@
  },
  {
   "name": "Kuzan",
+  "codename": null,
   "aliases": [
    "Aokiji"
   ],
@@ -3223,6 +3370,7 @@
  },
  {
   "name": "Kyros",
+  "codename": null,
   "aliases": [
    "Thunder Soldier",
    "Toy Soldier"
@@ -3243,6 +3391,7 @@
  },
  {
   "name": "Laffitte",
+  "codename": null,
   "aliases": [
    "Lafitte",
    "Demon Sheriff"
@@ -3263,6 +3412,7 @@
  },
  {
   "name": "Leo",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Tontatta Pirates",
@@ -3282,6 +3432,7 @@
  },
  {
   "name": "Lilith",
+  "codename": null,
   "aliases": [
    "Vegapunk Lilith",
    "Punk-02",
@@ -3303,6 +3454,7 @@
  },
  {
   "name": "Loki",
+  "codename": null,
   "aliases": [
    "Accursed Prince",
    "Shame of Elbaf"
@@ -3328,6 +3480,7 @@
  },
  {
   "name": "Lucky Roux",
+  "codename": null,
   "aliases": [
    "Lucky Roo"
   ],
@@ -3349,6 +3502,7 @@
  },
  {
   "name": "Magellan",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Impel Down",
@@ -3368,6 +3522,7 @@
  },
  {
   "name": "Marco",
+  "codename": null,
   "aliases": [
    "Marco the Phoenix",
    "Phoenix",
@@ -3394,6 +3549,7 @@
  },
  {
   "name": "Marcus Mars",
+  "codename": null,
   "aliases": [
    "Mars",
    "St. Marcus Mars"
@@ -3419,6 +3575,7 @@
  },
  {
   "name": "Marguerite",
+  "codename": null,
   "aliases": [
    "Margaret"
   ],
@@ -3440,6 +3597,7 @@
  },
  {
   "name": "Marshall D. Teach",
+  "codename": null,
   "aliases": [
    "Blackbeard",
    "Teach"
@@ -3466,6 +3624,7 @@
  },
  {
   "name": "Mikita",
+  "codename": "Miss Valentine",
   "aliases": [
    "Miss Valentine",
    "Ms. Valentine"
@@ -3488,6 +3647,7 @@
  },
  {
   "name": "Monet",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Donquixote Pirates",
@@ -3507,6 +3667,7 @@
  },
  {
   "name": "Monkey D. Dragon",
+  "codename": null,
   "aliases": [
    "Dragon",
    "Rebellious Dragon"
@@ -3529,6 +3690,7 @@
  },
  {
   "name": "Monkey D. Garp",
+  "codename": null,
   "aliases": [
    "Garp",
    "Garp the Fist",
@@ -3554,6 +3716,7 @@
  },
  {
   "name": "Monkey D. Luffy",
+  "codename": null,
   "aliases": [
    "Luffy",
    "Straw Hat",
@@ -3583,6 +3746,7 @@
  },
  {
   "name": "Mont Blanc Cricket",
+  "codename": null,
   "aliases": [
    "Cricket",
    "Montblanc Cricket"
@@ -3603,6 +3767,7 @@
  },
  {
   "name": "Mont Blanc Noland",
+  "codename": null,
   "aliases": [
    "Noland",
    "Liar Noland",
@@ -3624,6 +3789,7 @@
  },
  {
   "name": "Morgan",
+  "codename": null,
   "aliases": [
    "Axe-Hand Morgan",
    "Captain Morgan"
@@ -3644,6 +3810,7 @@
  },
  {
   "name": "Morgans",
+  "codename": null,
   "aliases": [
    "Big News Morgans",
    "Big News"
@@ -3666,6 +3833,7 @@
  },
  {
   "name": "Morley",
+  "codename": null,
   "aliases": [],
   "gender": "Other",
   "affiliation": "Revolutionary Army",
@@ -3688,6 +3856,7 @@
  },
  {
   "name": "Mozu and Kiwi",
+  "codename": null,
   "aliases": [
    "Square Sisters",
    "Mozu",
@@ -3709,6 +3878,7 @@
  },
  {
   "name": "Nami",
+  "codename": null,
   "aliases": [
    "Cat Burglar",
    "O-Nami"
@@ -3729,6 +3899,7 @@
  },
  {
   "name": "Namur",
+  "codename": null,
   "aliases": [
    "Namule"
   ],
@@ -3748,6 +3919,7 @@
  },
  {
   "name": "Napoleon",
+  "codename": null,
   "aliases": [
    "Napoleon the Bicorne",
    "Bicorne"
@@ -3768,6 +3940,7 @@
  },
  {
   "name": "Nefertari Cobra",
+  "codename": null,
   "aliases": [
    "Cobra",
    "King Cobra"
@@ -3788,6 +3961,7 @@
  },
  {
   "name": "Nefertari Vivi",
+  "codename": "Miss Wednesday",
   "aliases": [
    "Vivi",
    "Miss Wednesday"
@@ -3808,6 +3982,7 @@
  },
  {
   "name": "Nekomamushi",
+  "codename": null,
   "aliases": [
    "Cat Viper",
    "Master Cat Viper",
@@ -3832,6 +4007,7 @@
  },
  {
   "name": "Neptune",
+  "codename": null,
   "aliases": [
    "King Neptune",
    "Sea God",
@@ -3853,6 +4029,7 @@
  },
  {
   "name": "Nico Robin",
+  "codename": "Miss All Sunday",
   "aliases": [
    "Robin",
    "Miss All Sunday",
@@ -3877,6 +4054,7 @@
  },
  {
   "name": "Ninjin",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Usopp Security Force",
@@ -3894,6 +4072,7 @@
  },
  {
   "name": "Nojiko",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Cocoyasi Village",
@@ -3911,6 +4090,7 @@
  },
  {
   "name": "Nola",
+  "codename": null,
   "aliases": [
    "Master of the Sky",
    "Nora"
@@ -3931,6 +4111,7 @@
  },
  {
   "name": "Oars",
+  "codename": null,
   "aliases": [
    "Oz",
    "Continent-Puller"
@@ -3951,6 +4132,7 @@
  },
  {
   "name": "Orlumbus",
+  "codename": null,
   "aliases": [
    "Massacre Ruler",
    "Olombus"
@@ -3971,6 +4153,7 @@
  },
  {
   "name": "Otohime",
+  "codename": null,
   "aliases": [
    "Queen Otohime"
   ],
@@ -3992,6 +4175,7 @@
  },
  {
   "name": "Page One",
+  "codename": null,
   "aliases": [
    "Page-One"
   ],
@@ -4016,6 +4200,7 @@
  },
  {
   "name": "Pappag",
+  "codename": null,
   "aliases": [
    "Pappagu"
   ],
@@ -4035,6 +4220,7 @@
  },
  {
   "name": "Patty",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Baratie",
@@ -4052,6 +4238,7 @@
  },
  {
   "name": "Paulie",
+  "codename": null,
   "aliases": [
    "Pauly"
   ],
@@ -4071,6 +4258,7 @@
  },
  {
   "name": "Pedro",
+  "codename": null,
   "aliases": [
    "Pedro of the Treetops",
    "Treetop Pedro"
@@ -4094,6 +4282,7 @@
  },
  {
   "name": "Peepley Lulu",
+  "codename": null,
   "aliases": [
    "Lulu"
   ],
@@ -4113,6 +4302,7 @@
  },
  {
   "name": "Pekoms",
+  "codename": null,
   "aliases": [
    "Nazoms"
   ],
@@ -4137,6 +4327,7 @@
  },
  {
   "name": "Pell",
+  "codename": null,
   "aliases": [
    "Pell the Falcon"
   ],
@@ -4158,6 +4349,7 @@
  },
  {
   "name": "Perona",
+  "codename": null,
   "aliases": [
    "Ghost Princess"
   ],
@@ -4179,6 +4371,7 @@
  },
  {
   "name": "Pica",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Donquixote Pirates",
@@ -4201,6 +4394,7 @@
  },
  {
   "name": "Pierre",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Skypiea",
@@ -4220,6 +4414,7 @@
  },
  {
   "name": "Piiman",
+  "codename": null,
   "aliases": [
    "Pepper"
   ],
@@ -4239,6 +4434,7 @@
  },
  {
   "name": "Portgas D. Ace",
+  "codename": null,
   "aliases": [
    "Ace",
    "Fire Fist Ace",
@@ -4267,6 +4463,7 @@
  },
  {
   "name": "Pythagoras",
+  "codename": null,
   "aliases": [
    "Vegapunk Pythagoras",
    "Punk-04",
@@ -4289,6 +4486,7 @@
  },
  {
   "name": "Queen",
+  "codename": null,
   "aliases": [
    "Queen the Plague",
    "Scien"
@@ -4314,6 +4512,7 @@
  },
  {
   "name": "Raizo",
+  "codename": null,
   "aliases": [
    "Raizo of the Mist"
   ],
@@ -4338,6 +4537,7 @@
  },
  {
   "name": "Rebecca",
+  "codename": null,
   "aliases": [
    "The Undefeated Woman",
    "Phantom Princess"
@@ -4360,6 +4560,7 @@
  },
  {
   "name": "Riku Doldo III",
+  "codename": null,
   "aliases": [
    "Ricky",
    "King Riku",
@@ -4381,6 +4582,7 @@
  },
  {
   "name": "Rob Lucci",
+  "codename": null,
   "aliases": [
    "Lucci",
    "Massacre Weapon"
@@ -4406,6 +4608,7 @@
  },
  {
   "name": "Rocks D. Xebec",
+  "codename": null,
   "aliases": [
    "Rocks",
    "Xebec",
@@ -4430,6 +4633,7 @@
  },
  {
   "name": "Rockstar",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Red Hair Pirates",
@@ -4447,6 +4651,7 @@
  },
  {
   "name": "Roronoa Zoro",
+  "codename": null,
   "aliases": [
    "Zoro",
    "Pirate Hunter",
@@ -4473,6 +4678,7 @@
  },
  {
   "name": "Sabo",
+  "codename": null,
   "aliases": [
    "Flame Emperor",
    "Lucy"
@@ -4498,6 +4704,7 @@
  },
  {
   "name": "Sai",
+  "codename": null,
   "aliases": [
    "Don Sai"
   ],
@@ -4520,6 +4727,7 @@
  },
  {
   "name": "Sakazuki",
+  "codename": null,
   "aliases": [
    "Akainu",
    "Red Dog"
@@ -4545,6 +4753,7 @@
  },
  {
   "name": "Sanji",
+  "codename": null,
   "aliases": [
    "Black Leg",
    "Vinsmoke Sanji",
@@ -4569,6 +4778,7 @@
  },
  {
   "name": "Sanjuan Wolf",
+  "codename": null,
   "aliases": [
    "San Juan Wolf",
    "Colossal Battleship"
@@ -4591,6 +4801,7 @@
  },
  {
   "name": "Sasaki",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Beasts Pirates",
@@ -4613,6 +4824,7 @@
  },
  {
   "name": "Scopper Gaban",
+  "codename": null,
   "aliases": [
    "Gaban",
    "Left Hand of the Pirate King"
@@ -4637,6 +4849,7 @@
  },
  {
   "name": "Scratchmen Apoo",
+  "codename": null,
   "aliases": [
    "Apoo",
    "Roar of the Sea"
@@ -4662,6 +4875,7 @@
  },
  {
   "name": "Sengoku",
+  "codename": null,
   "aliases": [
    "Sengoku the Buddha",
    "Buddha"
@@ -4688,6 +4902,7 @@
  },
  {
   "name": "Senor Pink",
+  "codename": null,
   "aliases": [
    "Señor Pink"
   ],
@@ -4709,6 +4924,7 @@
  },
  {
   "name": "Sentomaru",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Marines",
@@ -4729,6 +4945,7 @@
  },
  {
   "name": "Shaka",
+  "codename": null,
   "aliases": [
    "Vegapunk Shaka",
    "Punk-01",
@@ -4751,6 +4968,7 @@
  },
  {
   "name": "Shakuyaku",
+  "codename": null,
   "aliases": [
    "Shakky"
   ],
@@ -4772,6 +4990,7 @@
  },
  {
   "name": "Shanks",
+  "codename": null,
   "aliases": [
    "Red Hair",
    "Red-Haired Shanks"
@@ -4796,6 +5015,7 @@
  },
  {
   "name": "Shepherd Ju Peter",
+  "codename": null,
   "aliases": [
    "Ju Peter",
    "Peter",
@@ -4821,6 +5041,7 @@
  },
  {
   "name": "Shimotsuki Ryuma",
+  "codename": null,
   "aliases": [
    "Ryuma",
    "Sword God"
@@ -4843,6 +5064,7 @@
  },
  {
   "name": "Shinobu",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Kozuki Family",
@@ -4862,6 +5084,7 @@
  },
  {
   "name": "Shirahoshi",
+  "codename": null,
   "aliases": [
    "Poseidon",
    "Mermaid Princess"
@@ -4884,6 +5107,7 @@
  },
  {
   "name": "Shiryu",
+  "codename": null,
   "aliases": [
    "Shiryu of the Rain",
    "Shiliew"
@@ -4908,6 +5132,7 @@
  },
  {
   "name": "Silvers Rayleigh",
+  "codename": null,
   "aliases": [
    "Rayleigh",
    "Dark King"
@@ -4932,6 +5157,7 @@
  },
  {
   "name": "Smoker",
+  "codename": null,
   "aliases": [
    "White Hunter",
    "Chaser"
@@ -4957,6 +5183,7 @@
  },
  {
   "name": "Sommers",
+  "codename": null,
   "aliases": [
    "Shepherd Sommers",
    "Super Sommers"
@@ -4981,6 +5208,7 @@
  },
  {
   "name": "Spandam",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "CP0",
@@ -4998,6 +5226,7 @@
  },
  {
   "name": "Stussy",
+  "codename": null,
   "aliases": [
    "Queen of the Pleasure District"
   ],
@@ -5022,6 +5251,7 @@
  },
  {
   "name": "Sugar",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Donquixote Pirates",
@@ -5041,6 +5271,7 @@
  },
  {
   "name": "Tamanegi",
+  "codename": null,
   "aliases": [
    "Onion"
   ],
@@ -5060,6 +5291,7 @@
  },
  {
   "name": "Tashigi",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Marines",
@@ -5080,6 +5312,7 @@
  },
  {
   "name": "Thatch",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Whitebeard Pirates",
@@ -5097,6 +5330,7 @@
  },
  {
   "name": "Tom",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Tom's Workers",
@@ -5114,6 +5348,7 @@
  },
  {
   "name": "Tony Tony Chopper",
+  "codename": null,
   "aliases": [
    "Chopper",
    "Cotton Candy Lover"
@@ -5136,6 +5371,7 @@
  },
  {
   "name": "Topman Warcury",
+  "codename": null,
   "aliases": [
    "Warcury",
    "St. Topman Warcury"
@@ -5161,6 +5397,7 @@
  },
  {
   "name": "Trafalgar D. Water Law",
+  "codename": null,
   "aliases": [
    "Law",
    "Trafalgar Law",
@@ -5187,6 +5424,7 @@
  },
  {
   "name": "Trebol",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Donquixote Pirates",
@@ -5209,6 +5447,7 @@
  },
  {
   "name": "Tsuru",
+  "codename": null,
   "aliases": [
    "Great Staff Officer"
   ],
@@ -5233,6 +5472,7 @@
  },
  {
   "name": "Ulti",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Beasts Pirates",
@@ -5255,6 +5495,7 @@
  },
  {
   "name": "Urouge",
+  "codename": null,
   "aliases": [
    "Mad Monk"
   ],
@@ -5276,6 +5517,7 @@
  },
  {
   "name": "Usopp",
+  "codename": null,
   "aliases": [
    "Sogeking",
    "God Usopp",
@@ -5299,6 +5541,7 @@
  },
  {
   "name": "Van Augur",
+  "codename": null,
   "aliases": [
    "The Supersonic",
    "Van Auger"
@@ -5321,6 +5564,7 @@
  },
  {
   "name": "Vander Decken IX",
+  "codename": null,
   "aliases": [
    "Vander Decken",
    "Decken"
@@ -5343,6 +5587,7 @@
  },
  {
   "name": "Vasco Shot",
+  "codename": null,
   "aliases": [
    "Heavy Drinker"
   ],
@@ -5364,6 +5609,7 @@
  },
  {
   "name": "Vegapunk",
+  "codename": null,
   "aliases": [
    "Dr. Vegapunk",
    "Stella"
@@ -5386,6 +5632,7 @@
  },
  {
   "name": "Vergo",
+  "codename": null,
   "aliases": [
    "Demon Bamboo",
    "Corazon"
@@ -5409,6 +5656,7 @@
  },
  {
   "name": "Vinsmoke Ichiji",
+  "codename": null,
   "aliases": [
    "Ichiji",
    "Sparking Red"
@@ -5429,6 +5677,7 @@
  },
  {
   "name": "Vinsmoke Judge",
+  "codename": null,
   "aliases": [
    "Judge",
    "Garuda"
@@ -5449,6 +5698,7 @@
  },
  {
   "name": "Vinsmoke Niji",
+  "codename": null,
   "aliases": [
    "Niji",
    "Dengeki Blue"
@@ -5469,6 +5719,7 @@
  },
  {
   "name": "Vinsmoke Reiju",
+  "codename": null,
   "aliases": [
    "Reiju",
    "Poison Pink"
@@ -5489,6 +5740,7 @@
  },
  {
   "name": "Vinsmoke Yonji",
+  "codename": null,
   "aliases": [
    "Yonji",
    "Winch Green"
@@ -5509,6 +5761,7 @@
  },
  {
   "name": "Viola",
+  "codename": null,
   "aliases": [
    "Violet"
   ],
@@ -5530,6 +5783,7 @@
  },
  {
   "name": "Vista",
+  "codename": null,
   "aliases": [
    "Flower Swords Vista",
    "Flower Sword"
@@ -5553,6 +5807,7 @@
  },
  {
   "name": "Wanda",
+  "codename": null,
   "aliases": [],
   "gender": "Female",
   "affiliation": "Mokomo Dukedom",
@@ -5570,6 +5825,7 @@
  },
  {
   "name": "Wapol",
+  "codename": null,
   "aliases": [
    "Tin-Plate Wapol"
   ],
@@ -5591,6 +5847,7 @@
  },
  {
   "name": "Who's-Who",
+  "codename": null,
   "aliases": [
    "Who's Who",
    "Whos Who"
@@ -5616,6 +5873,7 @@
  },
  {
   "name": "Woop Slap",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Foosha Village",
@@ -5633,6 +5891,7 @@
  },
  {
   "name": "Wyper",
+  "codename": null,
   "aliases": [
    "Wiper",
    "Berserker"
@@ -5653,6 +5912,7 @@
  },
  {
   "name": "X Drake",
+  "codename": null,
   "aliases": [
    "Drake",
    "X. Drake",
@@ -5679,6 +5939,7 @@
  },
  {
   "name": "Yamato",
+  "codename": null,
   "aliases": [
    "Kouzuki Oden",
    "Oni Princess",
@@ -5706,6 +5967,7 @@
  },
  {
   "name": "Yasopp",
+  "codename": null,
   "aliases": [
    "Chaser"
   ],
@@ -5727,6 +5989,7 @@
  },
  {
   "name": "York",
+  "codename": null,
   "aliases": [
    "Vegapunk York",
    "Punk-06",
@@ -5748,6 +6011,7 @@
  },
  {
   "name": "Yosaku",
+  "codename": null,
   "aliases": [
    "Johnny and Yosaku"
   ],
@@ -5767,6 +6031,7 @@
  },
  {
   "name": "Zala",
+  "codename": "Miss Doublefinger",
   "aliases": [
    "Miss Doublefinger",
    "Miss Double Finger",
@@ -5790,6 +6055,7 @@
  },
  {
   "name": "Zambai",
+  "codename": null,
   "aliases": [],
   "gender": "Male",
   "affiliation": "Galley-La Company",
@@ -5807,6 +6073,7 @@
  },
  {
   "name": "Zeff",
+  "codename": null,
   "aliases": [
    "Red-Leg Zeff",
    "Red Foot Zeff"

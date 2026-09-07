@@ -1,5 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
+import { displayName } from '../game/compare.js'
 
 const props = defineProps({
   characters: { type: Array, required: true },
@@ -22,7 +23,7 @@ const matches = computed(() => {
   const scored = []
   for (const c of props.characters) {
     if (props.guessed.has(c.name)) continue
-    const names = [c.name, ...(c.aliases || [])]
+    const names = [c.name, c.codename, ...(c.aliases || [])].filter(Boolean)
     let best = -1
     for (const n of names) {
       const nn = norm(n)
@@ -76,7 +77,7 @@ function onKey(e) {
         v-for="(c, i) in matches" :key="c.name" :class="{ sel: i === selected }"
         @mousedown.prevent="pick(c)" @mousemove="selected = i">
         <img :src="base + 'portraits/' + c.portrait" :alt="c.name" loading="lazy" />
-        <span>{{ c.name }}</span>
+        <span>{{ displayName(c) }}</span>
       </li>
     </ul>
   </div>

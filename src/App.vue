@@ -4,8 +4,9 @@ import characters from './data/characters.json'
 import arcs from './data/arcs.json'
 import { COLUMNS, compareGuess } from './game/compare.js'
 import {
-  dailyIndex, dailyNumber, loadDailyState, loadArcLimit, localDateString, msUntilMidnight,
-  randomIndex, recordWin, saveArcLimit, saveDailyState, currentStreak,
+  dailyIndex, dailyNumber, loadDailyState, loadArcLimit, loadExcluded, localDateString,
+  msUntilMidnight, randomIndex, recordWin, saveArcLimit, saveDailyState, saveExcluded,
+  currentStreak,
 } from './game/state.js'
 import GuessInput from './components/GuessInput.vue'
 import GuessRow from './components/GuessRow.vue'
@@ -27,6 +28,7 @@ const showSettings = ref(false)
 const galleryPick = ref(null)
 const streak = ref(currentStreak())
 const arcLimit = ref(loadArcLimit())
+const excluded = ref(loadExcluded())
 
 // Everything the player can meet — answers, suggestions, gallery — comes from here.
 const pool = computed(() => {
@@ -35,6 +37,27 @@ const pool = computed(() => {
   if (!arc) return characters
   return characters.filter(c => c.firstChapter <= arc.endChapter)
 })
+
+// Exclusions only narrow practice; the daily stays shared between players.
+const practicePool = computed(() => pool.value.filter(c => !excluded.value.has(c.name)))
+
+function toggleExcluded(c) {
+  const next = new Set(excluded.value)
+  if (next.has(c.name)) next.delete(c.name)
+  else next.add(c.name)
+  excluded.value = next
+  saveExcluded(next)
+}
+
+function setAllExcluded({ chars, included }) {
+  const next = new Set(excluded.value)
+  for (const c of chars) {
+    if (included) next.delete(c.name)
+    else next.add(c.name)
+  }
+  excluded.value = next
+  saveExcluded(next)
+}
 
 const daily = reactive({
   number: dailyNumber(),
@@ -98,7 +121,8 @@ function submitGuess(char) {
 }
 
 function newPractice() {
-  practice.answer = pool.value[randomIndex(pool.value.length)]
+  const src = practicePool.value.length ? practicePool.value : pool.value
+  practice.answer = src[randomIndex(src.length)]
   practice.guesses = []
   practice.won = false
 }
@@ -179,7 +203,9 @@ const base = import.meta.env.BASE_URL
             Search by name, crew, devil fruit, haki or origin — then tap a card for the full details.
           </p>
         </section>
-        <GalleryPanel :characters="pool" @open="galleryPick = $event" />
+        <GalleryPanel
+          :characters="pool" :excluded="excluded" :arc-limit="arcLimit"
+          @open="galleryPick = $event" @toggle="toggleExcluded" @set-all="setAllExcluded" />
       </template>
 
       <template v-else>
@@ -190,6 +216,11 @@ const base = import.meta.env.BASE_URL
           <button v-if="mode === 'practice'" class="reset-btn" @click="newPractice">
             🎲 New character
           </button>
+          <p v-if="mode === 'practice' && excluded.size" class="practice-pool">
+            Drawing from <b>{{ practicePool.length }}</b> of {{ pool.length }} characters
+            <template v-if="!practicePool.length">— none selected, using all</template>
+            <span class="pool-hint">· change this in the 📖 gallery</span>
+          </p>
         </section>
 
         <WinPanel
@@ -360,6 +391,13 @@ const base = import.meta.env.BASE_URL
   font-size: 14px;
   color: var(--brown);
 }
+
+.practice-pool {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--brown);
+}
+.pool-hint { opacity: .8; }
 
 .tool-on {
   background: var(--parchment-dark);

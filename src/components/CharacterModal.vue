@@ -11,6 +11,7 @@ const base = import.meta.env.BASE_URL
 const HAKI_ICONS = { Conqueror: '👑', Armament: '💪', Observation: '👀' }
 
 const c = computed(() => props.character)
+const otherAliases = computed(() => c.value.aliases.filter(a => a !== c.value.codename))
 
 const devilFruit = computed(() => {
   const x = c.value
@@ -56,7 +57,8 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
         <img class="char-portrait" :src="base + 'portraits/' + c.portrait" :alt="c.name" />
         <div class="char-id">
           <h2>{{ c.name }}</h2>
-          <p v-if="c.aliases.length" class="aliases">{{ c.aliases.join(' · ') }}</p>
+          <p v-if="c.codename" class="codename">{{ c.codename }}</p>
+          <p v-if="otherAliases.length" class="aliases">{{ otherAliases.join(' · ') }}</p>
         </div>
       </div>
 
@@ -112,6 +114,12 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   margin: 0 0 4px;
   font-size: 24px;
   line-height: 1.1;
+}
+.codename {
+  margin: 0 0 3px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--brown-dark);
 }
 .aliases {
   margin: 0;

@@ -77,6 +77,10 @@ function trim(x) {
   return s.replace(/\.?0+$/, '')
 }
 
+export function displayName(c) {
+  return c.codename ? `${c.name} (${c.codename})` : c.name
+}
+
 export function formatHeight(cm) {
   if (cm == null) return '?'
   const m = Math.floor(cm / 100)

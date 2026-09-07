@@ -37,6 +37,7 @@ async function share() {
     <h2>GG! 🎉</h2>
     <img class="win-portrait" :src="base + 'portraits/' + answer.portrait" :alt="answer.name" />
     <p class="win-name">{{ answer.name }}</p>
+    <p v-if="answer.codename" class="win-codename">{{ answer.codename }}</p>
     <p class="win-tries">
       Found in <b>{{ tries }}</b> {{ tries === 1 ? 'try' : 'tries' }}
     </p>
@@ -86,6 +87,11 @@ h2 {
   font-size: 24px;
   color: var(--brown-dark);
   margin: 8px 0 2px;
+}
+.win-codename {
+  margin: 0 0 4px;
+  font-weight: 700;
+  color: var(--brown);
 }
 .win-tries { margin: 0 0 6px; }
 .win-next { margin: 0; color: var(--brown); }

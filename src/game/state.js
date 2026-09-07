@@ -79,6 +79,15 @@ export function saveArcLimit(arcName) {
   save('arcLimit', arcName)
 }
 
+// Stored as exclusions so characters added to the roster later default to in.
+export function loadExcluded() {
+  return new Set(load('excluded', []))
+}
+
+export function saveExcluded(set) {
+  save('excluded', [...set])
+}
+
 export function loadStats() {
   return load('stats', { played: 0, wins: 0, streak: 0, maxStreak: 0, lastWinDate: null, tries: {} })
 }

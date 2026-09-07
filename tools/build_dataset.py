@@ -34,6 +34,22 @@ AFFILIATION_FIXES = {
     "Stussy": "CP0",
     "Hiriluk": "Sakura Kingdom",
 }
+# Baroque Works agents are known to readers by their codename, not their real
+# name — "Zala" or "Drophy" is unrecognizable on its own.
+CODENAMES = {
+    "Crocodile": "Mr. 0",
+    "Nico Robin": "Miss All Sunday",
+    "Daz Bonez": "Mr. 1",
+    "Zala": "Miss Doublefinger",
+    "Bentham": "Mr. 2 Bon Clay",
+    "Galdino": "Mr. 3",
+    "Drophy": "Miss Merry Christmas",
+    "Gem": "Mr. 5",
+    "Mikita": "Miss Valentine",
+    "Nefertari Vivi": "Miss Wednesday",
+    "Igaram": "Mr. 8",
+}
+
 # vocabulary unification (spelling/recognizability)
 AFFILIATION_RENAMES = {
     "Kouzuki Family": "Kozuki Family",
@@ -119,8 +135,13 @@ def main():
         if c.get("notes"):
             problems.append(f"note {req}: {c['notes']}")
 
+        codename = CODENAMES.get(req)
+        if codename and codename not in aliases:
+            aliases = aliases + [codename]
+
         final.append({
             "name": req,
+            "codename": codename,
             "aliases": aliases,
             "gender": gender,
             "affiliation": affiliation,

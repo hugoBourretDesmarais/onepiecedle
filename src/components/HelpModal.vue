@@ -36,7 +36,7 @@ const emit = defineEmits(['close'])
         <tbody>
           <tr><td>☠️ Classic</td><td>One character per day, shared by everyone. Resets at your local midnight.</td></tr>
           <tr><td>🎲 Practice</td><td>Unlimited random characters — hit <b>New character</b> any time to reroll.</td></tr>
-          <tr><td>📖 Gallery</td><td>Browse all characters and search by name, crew, devil fruit, haki or origin. Tap a card for full details.</td></tr>
+          <tr><td>📖 Gallery</td><td>Browse all characters and search by name, crew, devil fruit, haki or origin. Tap a card for full details, or untick it to keep it out of practice mode.</td></tr>
         </tbody>
       </table>
 

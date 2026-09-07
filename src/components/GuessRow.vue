@@ -1,4 +1,6 @@
 <script setup>
+import { displayName } from '../game/compare.js'
+
 const props = defineProps({
   guess: { type: Object, required: true },
   base: { type: String, required: true },
@@ -30,7 +32,7 @@ function textSize(text) {
       <template v-if="key === 'portrait'">
         <img
           class="portrait" :src="base + 'portraits/' + guess.char.portrait"
-          :alt="guess.char.name" :title="guess.char.name" />
+          :alt="guess.char.name" :title="displayName(guess.char)" />
       </template>
       <template v-else-if="key === 'haki'">
         <span v-if="guess.cells.haki.haki.includes('Unknown')" class="txt lg">?</span>

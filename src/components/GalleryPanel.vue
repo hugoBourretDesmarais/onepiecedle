@@ -1,10 +1,13 @@
 <script setup>
 import { computed, ref } from 'vue'
+import { displayName } from '../game/compare.js'
 
 const props = defineProps({
   characters: { type: Array, required: true },
+  excluded: { type: Set, required: true },
+  arcLimit: { type: String, default: null },
 })
-const emit = defineEmits(['open'])
+const emit = defineEmits(['open', 'toggle', 'set-all'])
 
 const base = import.meta.env.BASE_URL
 const query = ref('')
@@ -18,10 +21,13 @@ function norm(s) {
 // browsable by concept ("marines", "logia", "east blue"), not just by name.
 function haystack(c) {
   return norm([
-    c.name, ...(c.aliases || []), c.affiliation, c.origin, c.dfName,
+    c.name, c.codename, ...(c.aliases || []), c.affiliation, c.origin, c.dfName,
     ...c.dfTypes, ...c.haki, c.firstArc,
   ].filter(Boolean).join(' '))
 }
+
+const includedCount = computed(
+  () => props.characters.filter(c => !props.excluded.has(c.name)).length)
 
 const indexed = computed(() => props.characters.map(c => ({ c, hay: haystack(c) })))
 
@@ -62,18 +68,44 @@ const results = computed(() => {
           </select>
         </label>
         <span class="count">
-          {{ results.length }} of {{ characters.length }} characters
+          {{ results.length }} of {{ characters.length }}<span v-if="arcLimit"> (up to {{ arcLimit }})</span>
+        </span>
+      </div>
+
+      <div class="pool-row">
+        <span class="pool-count">
+          🎲 <b>{{ includedCount }}</b> of {{ characters.length }} in the practice pool
+        </span>
+        <span class="pool-actions">
+          <button @click="emit('set-all', { chars: results, included: true })">
+            Include{{ query ? ' shown' : ' all' }}
+          </button>
+          <button @click="emit('set-all', { chars: results, included: false })">
+            Exclude{{ query ? ' shown' : ' all' }}
+          </button>
         </span>
       </div>
     </div>
 
     <div v-if="results.length" class="cards">
-      <button
-        v-for="c in results" :key="c.name" class="card" :title="c.name"
-        @click="emit('open', c)">
-        <img :src="base + 'portraits/' + c.portrait" :alt="c.name" loading="lazy" decoding="async" />
-        <span class="card-name">{{ c.name }}</span>
-      </button>
+      <div
+        v-for="c in results" :key="c.name" class="card"
+        :class="{ dimmed: excluded.has(c.name) }">
+        <label
+          class="pick" :title="excluded.has(c.name)
+            ? `${c.name} is excluded from practice — click to include`
+            : `${c.name} is in the practice pool — click to exclude`"
+          @click.stop>
+          <input
+            type="checkbox" :checked="!excluded.has(c.name)"
+            @change="emit('toggle', c)" />
+        </label>
+        <button class="card-open" :title="displayName(c)" @click="emit('open', c)">
+          <img :src="base + 'portraits/' + c.portrait" :alt="c.name" loading="lazy" decoding="async" />
+          <span class="card-name">{{ c.name }}</span>
+          <span v-if="c.codename" class="card-codename">({{ c.codename }})</span>
+        </button>
+      </div>
     </div>
     <p v-else class="empty panel">
       No character matches “{{ query }}”.
@@ -145,23 +177,77 @@ const results = computed(() => {
   gap: 10px;
 }
 
-.card {
+.pool-row {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  gap: 6px;
-  padding: 6px 4px 8px;
+  gap: 8px;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--tan);
+  padding-top: 9px;
+}
+.pool-count { font-size: 13px; color: var(--brown); }
+.pool-count b { color: var(--brown-dark); }
+.pool-actions { display: flex; gap: 6px; }
+.pool-actions button {
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 9px;
+  border-radius: 6px;
+  border: 2px solid var(--tan);
+  background: var(--parchment-dark);
+  color: var(--brown-dark);
+}
+.pool-actions button:hover { filter: brightness(.96); }
+
+.card {
+  position: relative;
   border-radius: 10px;
   border: 3px solid var(--tan);
   background: var(--parchment);
-  transition: transform .12s, box-shadow .12s;
+  transition: transform .12s, box-shadow .12s, opacity .12s;
 }
-.card:hover, .card:focus-visible {
+.card:hover {
   transform: translateY(-3px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.3);
-  outline: none;
   border-color: var(--brown);
 }
+.card.dimmed { opacity: .45; }
+.card.dimmed:hover { opacity: .75; }
+
+.card-open {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 4px 8px;
+  background: none;
+  border: none;
+  border-radius: 8px;
+}
+.card-open:focus-visible { outline: 2px solid var(--brown); }
+
+.pick {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  z-index: 2;
+  background: rgba(255, 253, 245, 0.92);
+  border-radius: 5px;
+  padding: 1px 2px;
+  line-height: 0;
+  cursor: pointer;
+}
+.pick input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--green);
+  cursor: pointer;
+  margin: 0;
+}
+
 .card img {
   width: 100%;
   aspect-ratio: 1;
@@ -175,6 +261,14 @@ const results = computed(() => {
   font-weight: 700;
   color: var(--brown-dark);
   line-height: 1.15;
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+.card-codename {
+  font-size: 10px;
+  font-style: italic;
+  color: var(--brown);
+  line-height: 1.1;
   text-align: center;
   overflow-wrap: anywhere;
 }
