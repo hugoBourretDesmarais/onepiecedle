@@ -1,9 +1,8 @@
-node_modules
-dist
-tools/cache
-tools/out/dossier
 .DS_Store
+.env.local
 api/.wrangler
 api/node_modules
-.env
-.env.local
+dist
+node_modules
+tools/cache
+tools/out/dossier
