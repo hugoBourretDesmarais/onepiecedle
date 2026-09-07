@@ -1,0 +1,32 @@
+[
+ {
+  "slug": "wano",
+  "label": "Wano Country",
+  "page": "Wano Country Saga"
+ },
+ {
+  "slug": "new-age",
+  "label": "New Age",
+  "page": "Dressrosa Saga"
+ },
+ {
+  "slug": "loguetown",
+  "label": "Loguetown",
+  "page": "Loguetown Arc"
+ },
+ {
+  "slug": "marineford",
+  "label": "Marineford",
+  "page": "Marineford Arc"
+ },
+ {
+  "slug": "elbaf",
+  "label": "Elbaf",
+  "page": "Elbaph"
+ },
+ {
+  "slug": "alabasta",
+  "label": "Alabasta",
+  "page": "Arabasta Arc"
+ }
+]

@@ -60,18 +60,23 @@ it to zero, and winning a second daily on the same day (by changing the spoiler 
 
 ## Look and feel
 
-Everything visual is generated rather than copied — no third-party artwork is bundled:
-
-- **Backdrop** — an animated SVG seascape (`SeaBackground.vue`) with drifting cloud bands, rolling
-  swell, a ship on the horizon and wheeling birds. Five palettes (morning, noon, golden hour, dusk,
-  night, the last with a twinkling star field) rotate by date, so the page changes day to day.
-  Append `?bg=0`–`?bg=4` to preview a specific one.
+- **Backdrop** — six hand-picked landscape pieces from the wiki (Oda colour spreads and anime
+  stills) rotate by date, each slowly panning. Fetched and encoded by
+  `tools/download_backgrounds.py`: centre-cropped to 16:9, resized to 1920px, written as WebP
+  with a JPEG fallback via CSS `image-set()`. A tint and vignette keep the UI readable over
+  busy art. Append `?bg=0`–`?bg=5` to preview a specific one.
+- **Wordmark** — `GameLogo.vue` draws the crew's Jolly Roger as the leading O, with the
+  alternating red/blue outlined letters dropping in one by one.
+- **Streak flame** — `StreakFlame.vue` animates three nested tongues on offset cycles; it is
+  greyed out at zero and lights up once a streak is running.
 - **Paper** — panels use an inline SVG `feTurbulence` grain plus warm gradients and an inset
   shadow, so parchment scales cleanly instead of tiling like a bitmap, at no extra request.
-- **Icons** — a hand-drawn SVG set (`Icon.vue`) replaces emoji, which render differently on every
+- **Icons** — a drawn SVG set (`Icon.vue`) replaces emoji, which render differently on every
   platform and can't be recoloured or sized reliably.
 
-All motion is suppressed under `prefers-reduced-motion`.
+The backdrop pans via `background-position` rather than a transform: a transformed layer can sit
+un-rasterised in a throttled tab, leaving the artwork invisible. All motion is suppressed under
+`prefers-reduced-motion`.
 
 ## Data pipeline
 
@@ -81,6 +86,7 @@ Character data is generated from the wiki, not hand-written. The scripts live in
 python3 tools/fetch_wiki.py         # pull infoboxes + haki categories -> tools/out/characters.draft.json
 python3 tools/dump_dossiers.py      # per-character source excerpts for review
 python3 tools/download_portraits.py # portraits -> public/portraits/
+python3 tools/download_backgrounds.py # backdrops -> public/backgrounds/
 python3 tools/build_dataset.py      # merge + validate -> src/data/characters.json
 ```
 

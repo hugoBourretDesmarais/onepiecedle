@@ -26,14 +26,17 @@ html, body {
   min-height: 100%;
 }
 
+html { background: #10243d; }
+
 body {
   font-family: 'Source Sans 3', 'Source Sans Pro', sans-serif;
   color: var(--ink);
-  background: #2b6da0;
+  background: transparent;
 }
 
 #app {
   position: relative;
+  z-index: 1;
   min-height: 100vh;
   padding: 18px 12px 60px;
 }

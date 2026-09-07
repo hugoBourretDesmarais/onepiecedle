@@ -18,7 +18,9 @@ import { apiEnabled, fetchCount, reportSolve, submitResult } from './game/api.js
 import GalleryPanel from './components/GalleryPanel.vue'
 import LeaderboardModal from './components/LeaderboardModal.vue'
 import Confetti from './components/Confetti.vue'
-import SeaBackground from './components/SeaBackground.vue'
+import ArtBackground from './components/ArtBackground.vue'
+import GameLogo from './components/GameLogo.vue'
+import StreakFlame from './components/StreakFlame.vue'
 import Icon from './components/Icon.vue'
 import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
@@ -250,13 +252,9 @@ const base = import.meta.env.BASE_URL
 
 <template>
   <div class="page">
-    <SeaBackground :seed="bgSeed" />
+    <ArtBackground :seed="bgSeed" />
     <header class="header">
-      <h1 class="logo" aria-label="One Piece Dle">
-        <span
-          v-for="(ch, i) in 'ONEPIECEDLE'" :key="i" :class="i % 2 ? 'lb' : 'lr'"
-          :style="{ animationDelay: i * 45 + 'ms' }">{{ ch }}</span>
-      </h1>
+      <GameLogo />
 
       <div class="modes">
         <button class="mode-btn" :class="{ active: mode === 'daily' }" title="Classic (daily)"
@@ -277,7 +275,7 @@ const base = import.meta.env.BASE_URL
 
       <div class="toolbar panel">
         <button class="tool" title="Statistics" @click="showStats = true"><Icon name="chart" :size="23" /></button>
-        <span class="tool streak" title="Daily win streak"><Icon name="flame" :size="22" /><b>{{ streak }}</b></span>
+        <StreakFlame class="tool" :count="streak" />
         <span class="tool daily-num" :title="`Daily character #${daily.number}`">#{{ daily.number }}</span>
         <button
           class="tool" :class="{ 'tool-on': arcLimit }"
@@ -399,21 +397,6 @@ const base = import.meta.env.BASE_URL
   width: 100%;
 }
 
-.logo {
-  font-family: 'Lilita One', cursive;
-  font-size: clamp(38px, 8vw, 64px);
-  margin: 4px 0 0;
-  letter-spacing: 2px;
-  user-select: none;
-}
-.logo span {
-  display: inline-block;
-  animation: logo-drop .5s cubic-bezier(.2, .8, .3, 1.4) both;
-  -webkit-text-stroke: 2px #fff;
-  paint-order: stroke fill;
-  text-shadow: 2px 3px 0 rgba(0, 0, 0, 0.35);
-}
-.logo .lr { color: #d23f3f; }
 @keyframes logo-drop {
   from { transform: translateY(-18px) rotate(-6deg); opacity: 0; }
   to { transform: none; opacity: 1; }
@@ -422,7 +405,6 @@ const base = import.meta.env.BASE_URL
   from { transform: translateY(-6px); opacity: 0; }
   to { transform: none; opacity: 1; }
 }
-.logo .lb { color: #3f6fd2; }
 
 .modes { display: flex; gap: 16px; }
 .mode-btn {
@@ -484,7 +466,6 @@ const base = import.meta.env.BASE_URL
   color: var(--brown-dark);
 }
 button.tool:hover { background: rgba(140, 105, 55, .14); }
-.streak b { font-size: 15px; margin-left: 2px; }
 .daily-num {
   font-weight: 700;
   font-size: 15px;
