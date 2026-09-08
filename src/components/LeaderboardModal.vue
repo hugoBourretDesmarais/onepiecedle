@@ -140,10 +140,6 @@ function signOut() {
         Nobody's on the board yet — win today's character to be first.
       </p>
 
-      <p class="fine">
-        Only classic games with <b>no spoiler limit</b> count, since a limited roster is far easier.
-        Streak shows current / best. Average needs 3+ wins to rank.
-      </p>
     </div>
   </div>
 </template>
@@ -246,11 +242,4 @@ h2 { margin-bottom: 12px; }
 .best { color: var(--brown); font-size: 12px; }
 
 .empty { text-align: center; font-style: italic; color: var(--brown); margin: 18px 0; }
-.fine {
-  margin: 14px 0 0;
-  font-size: 12px;
-  color: var(--brown);
-  font-style: italic;
-  line-height: 1.4;
-}
 </style>

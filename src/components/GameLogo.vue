@@ -70,7 +70,7 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
       </svg>
     </span>
 
-    <svg class="word" viewBox="0 0 760 150" aria-hidden="true">
+    <svg class="word" viewBox="0 0 672 150" aria-hidden="true">
       <defs>
         <linearGradient id="gRed" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stop-color="#f56a45" />
@@ -108,16 +108,16 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
         </filter>
 
         <mask id="wordMask">
-          <text class="t" x="380" y="112" text-anchor="middle" fill="#fff">{{ WORD }}</text>
+          <text class="t" x="336" y="112" text-anchor="middle" fill="#fff">{{ WORD }}</text>
         </mask>
       </defs>
 
       <g filter="url(#cast)">
-        <text class="t" x="380" y="112" text-anchor="middle"
+        <text class="t" x="336" y="112" text-anchor="middle"
           fill="none" stroke="#101828" stroke-width="23" stroke-linejoin="round">{{ WORD }}</text>
-        <text class="t" x="380" y="112" text-anchor="middle"
+        <text class="t" x="336" y="112" text-anchor="middle"
           fill="none" stroke="#fdf3dc" stroke-width="13" stroke-linejoin="round">{{ WORD }}</text>
-        <text class="t" x="380" y="112" text-anchor="middle">
+        <text class="t" x="336" y="112" text-anchor="middle">
           <tspan v-for="(ch, i) in LETTERS" :key="i" :fill="fillFor(i)">{{ ch }}</tspan>
         </text>
       </g>
@@ -125,11 +125,11 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
       <g mask="url(#wordMask)">
         <!-- straight alpha, no blend modes: the group is isolated, so overlay
              and soft-light would blend against nothing and grey the letters -->
-        <rect width="760" height="150" fill="url(#wear)" opacity=".55" />
+        <rect width="672" height="150" fill="url(#wear)" opacity=".55" />
         <!-- thickness: shadow pooling toward the base of each glyph -->
-        <rect width="760" height="150" fill="url(#depth)" />
+        <rect width="672" height="150" fill="url(#depth)" />
         <!-- a narrow lit edge along the top, not a full plastic gloss -->
-        <rect width="760" height="150" fill="url(#topLight)" />
+        <rect width="672" height="150" fill="url(#topLight)" />
       </g>
     </svg>
 
@@ -152,7 +152,7 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
 .mark {
   width: clamp(48px, 14%, 100px);
   flex: none;
-  margin: 0 -1.5% 0 0;
+  margin: 0 1% 0 0;
   filter: drop-shadow(0 5px 6px rgba(0, 0, 0, .45));
   animation: mark-in .6s cubic-bezier(.2, .9, .3, 1.5) both, sway 6s ease-in-out 1.1s infinite;
 }

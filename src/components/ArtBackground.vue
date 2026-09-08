@@ -49,7 +49,10 @@ onMounted(() => {
 .art-bg {
   position: fixed;
   inset: 0;
-  z-index: 0;
+  /* Behind everything in #app's stacking context. At z-index 0 it painted over
+     every non-positioned sibling — the column headers, the yesterday line and
+     the footer all disappeared under the artwork. */
+  z-index: -1;
   overflow: hidden;
   background: #10243d;
 }

@@ -192,9 +192,12 @@ function submitGuess(char) {
   if (isDaily) persistDaily()
 }
 
-// Opens a practice round for you, drawn from the same set the answer comes from.
+// Opens a round for you. Practice honours the gallery selection; the daily
+// doesn't, since exclusions are a practice-only preference.
 function randomStarter() {
-  const src = practicePool.value.length ? practicePool.value : pool.value
+  const src = mode.value === 'practice' && practicePool.value.length
+    ? practicePool.value
+    : pool.value
   const candidates = src.filter(c => !guessedNames.value.has(c.name))
   if (!candidates.length) return
   submitGuess(candidates[randomIndex(candidates.length)])
@@ -339,7 +342,7 @@ const base = import.meta.env.BASE_URL
           @guess="submitGuess" />
 
         <button
-          v-if="mode === 'practice' && !game.won && !game.guesses.length"
+          v-if="!game.won && !game.guesses.length"
           class="starter-btn" @click="randomStarter">
           🎯 Random starting character
         </button>
@@ -589,20 +592,26 @@ button.tool:hover { background: rgba(140, 105, 55, .14); }
   width: max-content;
   margin: 0 auto;
 }
+/* A solid bar rather than per-cell tints: small white labels vanish against
+   bright artwork otherwise. */
 .grid-head {
   display: flex;
   gap: var(--tile-gap);
+  background: rgba(10, 16, 30, .88);
+  border-radius: 8px;
+  padding: 5px var(--tile-gap);
+  margin: 0 calc(var(--tile-gap) * -1) 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .35);
 }
 .head-cell {
   width: var(--tile-size);
   font-weight: 700;
-  font-size: clamp(8px, calc(var(--tile-size) * 0.14), 12px);
+  font-size: clamp(9px, calc(var(--tile-size) * 0.16), 13px);
   text-transform: uppercase;
   color: #fff;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .8);
   text-align: center;
-  border-bottom: 2px solid #fff;
-  padding-bottom: 4px;
+  padding-bottom: 1px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -611,14 +620,20 @@ button.tool:hover { background: rgba(140, 105, 55, .14); }
 
 .yesterday {
   color: #fff;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, .9);
   font-size: 15px;
   margin: 4px 0 0;
+  background: rgba(12, 18, 34, .68);
+  padding: 6px 14px;
+  border-radius: 14px;
 }
 
 .footer {
-  color: rgba(255, 255, 255, 0.85);
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, .9);
+  background: rgba(12, 18, 34, .6);
+  padding: 8px 14px;
+  border-radius: 12px;
   font-size: 12px;
   text-align: center;
   margin-top: 26px;
