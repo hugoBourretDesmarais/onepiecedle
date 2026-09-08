@@ -76,8 +76,8 @@ it to zero, and winning a second daily on the same day (by changing the spoiler 
   greyed out at zero and lights up once a streak is running.
 - **Paper** — panels use an inline SVG `feTurbulence` grain plus warm gradients and an inset
   shadow, so parchment scales cleanly instead of tiling like a bitmap, at no extra request.
-- **Icons** — a drawn SVG set (`Icon.vue`) replaces emoji, which render differently on every
-  platform and can't be recoloured or sized reliably.
+- **Icons** — the toolbar uses a drawn SVG set (`Icon.vue`), which can be recoloured and sized;
+  the three mode buttons keep their emoji (☠️ 🎲 📖) as in the original.
 
 The backdrop pans via `background-position` rather than a transform: a transformed layer can sit
 un-rasterised in a throttled tab, leaving the artwork invisible. All motion is suppressed under

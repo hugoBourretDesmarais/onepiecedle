@@ -262,17 +262,17 @@ const base = import.meta.env.BASE_URL
       <div class="modes">
         <button class="mode-btn" :class="{ active: mode === 'daily' }" title="Classic (daily)"
           @click="mode = 'daily'">
-          <Icon class="mode-ico" name="skull" :size="30" />
+          <span class="mode-ico">☠️</span>
           <span v-if="daily.won" class="mode-check">✔</span>
         </button>
         <button class="mode-btn" :class="{ active: mode === 'practice' }" title="Practice (unlimited)"
           @click="mode = 'practice'">
-          <Icon class="mode-ico" name="dice" :size="30" />
+          <span class="mode-ico">🎲</span>
           <span v-if="practice.won" class="mode-check">✔</span>
         </button>
         <button class="mode-btn" :class="{ active: mode === 'gallery' }" title="Character gallery"
           @click="mode = 'gallery'">
-          <Icon class="mode-ico" name="book" :size="30" />
+          <span class="mode-ico">📖</span>
         </button>
       </div>
 
@@ -432,8 +432,7 @@ const base = import.meta.env.BASE_URL
 }
 .mode-btn:hover { filter: none; transform: translateY(-2px) scale(1.05); }
 .mode-btn:active { transform: translateY(0) scale(.98); }
-.mode-ico { pointer-events: none; color: #f2e2bd; }
-.mode-btn.active .mode-ico { color: #ffe9a8; }
+.mode-ico { pointer-events: none; }
 .mode-check {
   position: absolute;
   bottom: -6px;
