@@ -4,6 +4,7 @@
 // text-shadow stacking can't express cleanly.
 const WORD = 'NEPIECEDLE'
 const LETTERS = [...WORD]
+const base = import.meta.env.BASE_URL
 
 // Alternating warm/cool, matching the original's red-and-blue wordmark.
 const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
@@ -72,33 +73,38 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
     <svg class="word" viewBox="0 0 760 150" aria-hidden="true">
       <defs>
         <linearGradient id="gRed" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#ff8b6b" />
-          <stop offset="34%" stop-color="#ef4235" />
-          <stop offset="72%" stop-color="#c8202a" />
-          <stop offset="100%" stop-color="#95101f" />
+          <stop offset="0%" stop-color="#f56a45" />
+          <stop offset="38%" stop-color="#d8342f" />
+          <stop offset="78%" stop-color="#a3182a" />
+          <stop offset="100%" stop-color="#6f0c1e" />
         </linearGradient>
         <linearGradient id="gBlue" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#8fc4ff" />
-          <stop offset="34%" stop-color="#3f7ee0" />
-          <stop offset="72%" stop-color="#2352b4" />
-          <stop offset="100%" stop-color="#13317a" />
-        </linearGradient>
-        <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#fff" stop-opacity=".85" />
-          <stop offset="42%" stop-color="#fff" stop-opacity=".22" />
-          <stop offset="46%" stop-color="#fff" stop-opacity="0" />
+          <stop offset="0%" stop-color="#5f9ae8" />
+          <stop offset="38%" stop-color="#2f61c4" />
+          <stop offset="78%" stop-color="#1b3d90" />
+          <stop offset="100%" stop-color="#101f56" />
         </linearGradient>
 
-        <!-- speckled grain, masked to the letters, so the fill isn't flat -->
-        <filter id="speck" x="0" y="0" width="100%" height="100%">
-          <feTurbulence type="fractalNoise" baseFrequency="0.55" numOctaves="4" seed="11" />
-          <feColorMatrix type="saturate" values="0" />
-          <feComponentTransfer><feFuncA type="linear" slope=".55" /></feComponentTransfer>
-        </filter>
+        <!-- generated wear map, tiled across the wordmark -->
+        <pattern id="wear" patternUnits="userSpaceOnUse" width="260" height="260">
+          <image :href="base + 'textures/wear.png'" width="260" height="260"
+            preserveAspectRatio="xMidYMid slice" />
+        </pattern>
 
-        <filter id="cast" x="-15%" y="-25%" width="130%" height="160%">
-          <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000" flood-opacity=".45" />
-          <feDropShadow dx="0" dy="2" stdDeviation="1" flood-color="#000" flood-opacity=".35" />
+        <linearGradient id="depth" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#2a0d16" stop-opacity="0" />
+          <stop offset="66%" stop-color="#2a0d16" stop-opacity="0" />
+          <stop offset="100%" stop-color="#2a0d16" stop-opacity=".42" />
+        </linearGradient>
+        <linearGradient id="topLight" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#fff" stop-opacity=".55" />
+          <stop offset="16%" stop-color="#fff" stop-opacity=".10" />
+          <stop offset="26%" stop-color="#fff" stop-opacity="0" />
+        </linearGradient>
+
+        <filter id="cast" x="-15%" y="-30%" width="130%" height="170%">
+          <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#000" flood-opacity=".5" />
+          <feDropShadow dx="0" dy="2" stdDeviation="1" flood-color="#000" flood-opacity=".4" />
         </filter>
 
         <mask id="wordMask">
@@ -106,24 +112,24 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
         </mask>
       </defs>
 
-      <g :filter="'url(#cast)'">
-        <!-- 1. dark outer keyline -->
+      <g filter="url(#cast)">
         <text class="t" x="380" y="112" text-anchor="middle"
-          fill="none" stroke="#141c33" stroke-width="21" stroke-linejoin="round">{{ WORD }}</text>
-        <!-- 2. cream band -->
+          fill="none" stroke="#101828" stroke-width="23" stroke-linejoin="round">{{ WORD }}</text>
         <text class="t" x="380" y="112" text-anchor="middle"
-          fill="none" stroke="#fff6e2" stroke-width="12" stroke-linejoin="round">{{ WORD }}</text>
-        <!-- 3. per-letter gradient fill -->
+          fill="none" stroke="#fdf3dc" stroke-width="13" stroke-linejoin="round">{{ WORD }}</text>
         <text class="t" x="380" y="112" text-anchor="middle">
           <tspan v-for="(ch, i) in LETTERS" :key="i" :fill="fillFor(i)">{{ ch }}</tspan>
         </text>
       </g>
 
-      <!-- grain + gloss, both clipped to the glyphs -->
       <g mask="url(#wordMask)">
-        <rect x="0" y="0" width="760" height="150" filter="url(#speck)" opacity=".16"
-          style="mix-blend-mode: multiply" />
-        <rect x="0" y="0" width="760" height="150" fill="url(#gloss)" />
+        <!-- straight alpha, no blend modes: the group is isolated, so overlay
+             and soft-light would blend against nothing and grey the letters -->
+        <rect width="760" height="150" fill="url(#wear)" opacity=".55" />
+        <!-- thickness: shadow pooling toward the base of each glyph -->
+        <rect width="760" height="150" fill="url(#depth)" />
+        <!-- a narrow lit edge along the top, not a full plastic gloss -->
+        <rect width="760" height="150" fill="url(#topLight)" />
       </g>
     </svg>
 

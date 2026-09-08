@@ -67,9 +67,11 @@ it to zero, and winning a second daily on the same day (by changing the spoiler 
   busy art. Append `?bg=0`–`?bg=5` to preview a specific one.
 - **Wordmark** — `GameLogo.vue` is drawn entirely in SVG: the crew's Jolly Roger (gold-rimmed
   disc, skull, crossed bones, straw hat with its red band) stands in for the leading O, and the
-  letters stack a dark keyline, a cream band and a per-letter vertical gradient, finished with a
-  gloss sweep and a turbulence grain masked to the glyphs. Stacked `text-shadow`s can't express
-  that; three `paint-order` stroke passes can.
+  letters stack a dark keyline, a cream band and a per-letter gradient, then a generated wear map
+  (`tools/make_textures.py` — fractal grain, speckle and directional scratches, baked to RGBA)
+  tiled inside the glyphs so the fill looks weathered rather than moulded. The overlay uses plain
+  alpha, not `mix-blend-mode`: the masked group is isolated, so `overlay`/`soft-light` blend
+  against nothing and grey the letters out.
 - **Streak flame** — `StreakFlame.vue` animates three nested tongues on offset cycles; it is
   greyed out at zero and lights up once a streak is running.
 - **Paper** — panels use an inline SVG `feTurbulence` grain plus warm gradients and an inset
@@ -90,6 +92,7 @@ python3 tools/fetch_wiki.py         # pull infoboxes + haki categories -> tools/
 python3 tools/dump_dossiers.py      # per-character source excerpts for review
 python3 tools/download_portraits.py # portraits -> public/portraits/
 python3 tools/download_backgrounds.py # backdrops -> public/backgrounds/
+python3 tools/make_textures.py      # wear map -> public/textures/
 python3 tools/build_dataset.py      # merge + validate -> src/data/characters.json
 ```
 
