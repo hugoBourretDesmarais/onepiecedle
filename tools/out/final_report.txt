@@ -98,7 +98,7 @@
     4  Calm Belt
     3  Red Line
 == arcs used ==
-   21  Wano Country
+   20  Wano Country
    20  Dressrosa
    19  Jaya
    16  Water 7
@@ -109,10 +109,10 @@
    10  Alabasta
     9  Skypiea
     9  Punk Hazard
+    8  Thriller Bark
     8  Egghead
     8  Baratie
     8  Syrup Village
-    7  Thriller Bark
     7  Marineford
     7  Zou
     7  Drum Island
@@ -201,7 +201,7 @@
   note Sabo: Fixed malformed dfName (draft had an unclosed 4Kids alt-name parenthesis); bounty kept at 602,000,000 as the last known figure since the current one is listed as unknown.
   Sakazuki: 1 haki type(s) undated — hidden under a limit
   note Shanks: Height corrected from 132 cm (age-13 Vivre Card value) to 199 cm, his adult post-timeskip height.
-  note Shimotsuki Ryuma: Origin mapped from Wano Country to its sea, Grand Line.
+  note Shimotsuki Ryuma: Origin mapped from Wano Country to its sea, Grand Line. Debut is his zombie at Thriller Bark (ch. 448, ep. 342); the wiki's 1023 is the living Ryuma in the Wano flashback.
   note Silvers Rayleigh: Origin set to Unknown; the wiki infobox does not state his origin (bounty is listed only as Unknown, so kept null).
   note Smoker: Cleaned malformed dfName string into the standard English fruit names; bounty is the Cross Guild 'at least 500,000,000' marine bounty per the wiki infobox.
   note Trebol: Fixed malformed dfName parentheses; Viz name Stick-Stick Fruit with Funimation alt Sticky-Sticky Fruit.
