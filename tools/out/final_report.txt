@@ -165,12 +165,15 @@
   note Hyogoro: Changed affiliation from Hyougoro Family to Wano Country: the wiki marks the Hyougoro Family as former and the Alliance as disbanded, so his identifying group is Wano where he now lives as a samurai.
   note Izou: Changed affiliation from Whitebeard Pirates to Kouzuki Family: he is deceased and the wiki marks Whitebeard Pirates as former, with Kouzuki Family retainer as his affiliation at death.
   note Jabra: Reformatted dfName to the wiki's standard Zoan model naming (Mutt-Mutt Fruit, Model: Wolf).
+  Kalgara: 1 haki type(s) undated — hidden under a limit
+  Kalifa: 2 haki type(s) undated — hidden under a limit
   note Karoo: Affiliation reduced to current main affiliation (Arabasta Kingdom Guard Squad, i.e. Arabasta Kingdom); Straw Hat Pirates and Baroque Works are former per the wiki infobox.
   note Kaya: Affiliation was null in the draft; set to Syrup Village, her identifying home village per the wiki (resident civilian with no organization).
   note Kin'emon: Cleaned malformed dfName to the fruit's English name Garb-Garb Fruit (Fuku Fuku no Mi).
   note Koala: Origin set to Unknown: the wiki infobox field is misspelled (orign) and tagged Confirm, so no sourced origin is actually stated; bounty listed only as Unknown so kept null.
   note Koby: Simplified affiliation to canonical org name Marines (draft had 'Marines , Marine 153rd Branch'; the 153rd Branch is former).
   note Kozuki Momonosuke: Fixed malformed dfTypes to ['Mythical Zoan'] (artificial fruits use the base type) and cleaned the dfName string.
+  Kuzan: 1 haki type(s) undated — hidden under a limit
   note Kuzan: Cleaned malformed dfName formatting; wiki gives Ice-Ice Fruit (Funimation) / Chilly-Chilly Fruit (VIZ).
   note Kyros: Changed affiliation from Corrida Colosseum to Riku Family; infobox marks the Colosseum as former and Riku Family as current.
   note Leo: Changed affiliation to the specific crew Tontatta Pirates (Straw Hat Grand Fleet, Fifth Ship) per current-affiliation rule, and cleaned the malformed dfName.
@@ -190,11 +193,13 @@
   note Pekoms: Origin was null; set to Grand Line since the wiki confirms he is a Zou mink who grew up there before sailing with the Nox Pirates.
   note Pell: Cleaned malformed dfName parenthetical parsing.
   note Pierre: Origin was null; set to Sky Island since the wiki identifies him as a Sky Dot Bird of Skypiea.
+  Portgas D. Ace: 2 haki type(s) undated — hidden under a limit
   note Portgas D. Ace: Fixed heightCm from 103 (his age-10 height) to 185 (adult height per SBS 48); cleaned malformed dfName.
   note Raizo: Cleaned malformed dfName to the Scroll-Scroll Fruit English name.
   note Rob Lucci: Cleaned duplicated dfName string to the standard English name Cat-Cat Fruit, Model: Leopard.
   note Rockstar: Origin set to Unknown (draft had null); the wiki infobox lists no origin for Rockstar.
   note Sabo: Fixed malformed dfName (draft had an unclosed 4Kids alt-name parenthesis); bounty kept at 602,000,000 as the last known figure since the current one is listed as unknown.
+  Sakazuki: 1 haki type(s) undated — hidden under a limit
   note Shanks: Height corrected from 132 cm (age-13 Vivre Card value) to 199 cm, his adult post-timeskip height.
   note Shimotsuki Ryuma: Origin mapped from Wano Country to its sea, Grand Line.
   note Silvers Rayleigh: Origin set to Unknown; the wiki infobox does not state his origin (bounty is listed only as Unknown, so kept null).
@@ -206,14 +211,18 @@
   note Charlotte Smoothie: Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', her crew per the wiki (Sweet Commander) and the canonical org naming.
   note Charlotte Oven: Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', his crew per the wiki (officer) and the canonical org naming.
   note Charlotte Daifuku: Affiliation changed from 'Charlotte Family' to 'Big Mom Pirates', his crew per the wiki (officer) and the canonical org naming.
+  Edward Weevil: 2 haki type(s) undated — hidden under a limit
   note Hina: Cleaned malformed dfName to the VIZ English name Bind-Bind Fruit.
   note Helmeppo: Fixed truncated affiliation to Marines and set origin to Unknown since the wiki infobox lists no origin.
   note Stussy: Set dfName to Bat-Bat Fruit (English name from the fruit's wiki page, plain Zoan) and origin to Unknown because MADS is a research ship with no stated sea.
   note Jack: Cleaned messy dfName (merged Funimation/YouTube variants) to Elephant-Elephant Fruit, Model: Mammoth.
+  Page One: 1 haki type(s) undated — hidden under a limit
+  Who's-Who: 1 haki type(s) undated — hidden under a limit
   note Shinobu: Cleaned malformed dfName to the simple English name Ripe-Ripe Fruit.
   note Kozuki Toki: Cleaned malformed dfName to Time-Time Fruit and set origin to Unknown since the wiki infobox states no origin.
   note Morley: Set gender from null to Other since Morley is an okama giant.
   note Inazuma: Gender set to Other (newkama, switches between male and female; draft had null), matching Ivankov and Morley. Affiliation taken from the Revolutionary Army rather than the infobox's first entry, Kamabakka Kingdom. dfName cleaned to the VIZ/Funimation name; the draft merged in the YouTube channel's Shear-Shear Fruit. Bounty is 'at least' 100,000,000 per Chapter 536.
+  Lindbergh: 2 haki type(s) undated — hidden under a limit
   note Lindbergh: Origin set to South Blue; the infobox has no origin field, but the wiki files him under South Blue Residents and the South Blue Characters navibox, and it matches the other army commanders (Belo Betty East, Karasu North, Morley West, all from their infoboxes). Bounty is dated by its Vivre Card citation, so it lands at chapter 918 rather than his debut.
   note Scopper Gaban: Set origin from null to Unknown since the wiki infobox states no origin; firstEpisode 0 is the Strong World Episode 0 special listed as his anime debut.
   note Crocus: Cleaned affiliation from the malformed 'Roger Pirates , Laboon' to the canonical Roger Pirates (his last crew; now the Twin Cape lighthouse keeper).
@@ -228,6 +237,7 @@
   note Ethanbaron V. Nusjuro: Added Mythical Zoan to dfTypes (awakened Bakotsu fruit per wiki Abilities section; fruit has no official name so dfName stays null) and set origin to Unknown (not stated).
   note Shepherd Ju Peter: Added Mythical Zoan to dfTypes (awakened Sandworm fruit per wiki; no official fruit name so dfName null) and set origin to Unknown (not stated).
   note Imu: Changed dfTypes from [] to [Unknown]: Imu wields the Akuma no Mi (The Devil's Fruit) whose type is unconfirmed on the wiki; origin set to Unknown.
+  Figarland Garling: 1 haki type(s) undated — hidden under a limit
   note Figarland Garling: Changed haki from [] to [Unknown]: wiki says little is known of his combat prowess and no haki type is confirmed for this powerful Elder; origin not stated.
   note Figarland Shamrock: Changed haki from [] to [Unknown]: wiki confirms powerful abnormal Haki but no specific type; his Cerberus fruit belongs to his sword, not him, so dfTypes stays empty.
   note Gunko: Changed haki from [] to [Unknown]: wiki confirms powerful Haki (black-lightning burst) and only suggests Observation, no type confirmed; added wiki page name Manmayer Gunko as alias.

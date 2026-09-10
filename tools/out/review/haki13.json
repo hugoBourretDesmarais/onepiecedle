@@ -1,0 +1,135 @@
+{
+  "results": [
+    {
+      "character": "Boa Sandersonia",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 519,
+          "confidence": "high",
+          "evidence": "After Luffy's Conqueror's outburst the Gorgon sisters fight seriously and land blows that hurt the rubber Luffy (ch. 519, pp. 10-12)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 519,
+          "confidence": "medium",
+          "evidence": "Same serious phase of the fight shows her reading and slipping past Luffy's attacks; ch. 520 only shows the limit of it against Gear 2."
+        }
+      ],
+      "note": "Wiki's Observation section reuses the ch. 519 citation, so the scraped 520 hint is one chapter late."
+    },
+    {
+      "character": "Denjiro",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 992,
+          "confidence": "medium",
+          "evidence": "Denjiro is one of four Scabbards who cut Kaidou's scar with Oden Two Sword Style, requiring advanced Armament/Ryuo."
+        },
+        {
+          "value": "Observation",
+          "chapter": 992,
+          "confidence": "low",
+          "evidence": "Never displayed on-page; only sourced to his Vivre Card, so dated to his main combat showing."
+        }
+      ],
+      "note": "Armament could arguably be 986, when the Scabbards collectively wound Kaidou, but 992 is the first clearly individual display."
+    },
+    {
+      "character": "Gunko",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 1139,
+          "confidence": "medium",
+          "evidence": "Scopper Gaban senses the abnormal black-lightning Haki accompanying the Holy Knights' arrival on Elbaph (ch. 1139, p. 6)."
+        }
+      ],
+      "note": "The sensed Haki burst is attributed to the Holy Knights' arrival rather than to Gunko alone; her Observation is only implied much later in the ch. 1185 flashback."
+    },
+    {
+      "character": "Jewelry Bonney",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1119,
+          "confidence": "high",
+          "evidence": "In her Nika form she hardens her inflated fist to strike Luffy from behind and launch Marcus Mars, visibly hurting the rubber man."
+        }
+      ]
+    },
+    {
+      "character": "King",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1032,
+          "confidence": "medium",
+          "evidence": "King uses Hardening on his blade to clash evenly with Zoro's Haki-coated swords and overpower him (ch. 1032, pp. 14-15)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1036,
+          "confidence": "low",
+          "evidence": "Never shown on-page; sourced only to his Vivre Card, so dated to the end of his fight with Zoro."
+        }
+      ],
+      "note": "An earlier Armament read is possible around 1022-1023, where King shrugs off and blocks Zoro's Enma strikes, but the first explicit hardening is 1032."
+    },
+    {
+      "character": "Monkey D. Dragon",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 570,
+          "confidence": "low",
+          "evidence": "During Marineford, Doberman and Ivankov's remarks about Luffy being Dragon's son hint that Dragon has Haki."
+        }
+      ],
+      "note": "Dragon has no Haki section and no Haki category on the wiki; his abilities are explicitly 'largely unknown'. Chapter 570 is only a hint, never a confirmation - null would also be defensible here."
+    },
+    {
+      "character": "Rebecca",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 725,
+          "confidence": "high",
+          "evidence": "Watching Block D, Luffy works out that Rebecca's flawless evasion means she is using Observation Haki."
+        }
+      ],
+      "note": "She is seen dodging everything from ch. 722-723, but the reader is only told it is Observation Haki at 725."
+    },
+    {
+      "character": "Shakuyaku",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 1059,
+          "confidence": "low",
+          "evidence": "Chapter 1059 reveals Shakky as a former Kuja Pirates captain and Empress of Amazon Lily, from which Haki is inferred."
+        }
+      ],
+      "note": "The wiki only assumes she has Haki from her Kuja/Empress status; she is never shown or stated to use it."
+    },
+    {
+      "character": "Trebol",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 782,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card; dated to his one real fight, against Law in Dressrosa."
+        },
+        {
+          "value": "Observation",
+          "chapter": 782,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card; dated to his one real fight, against Law in Dressrosa."
+        }
+      ],
+      "note": "Trebol never demonstrates either Haki on-page - he only reacts to Doflamingo's and Luffy's Conqueror's Haki."
+    }
+  ]
+}

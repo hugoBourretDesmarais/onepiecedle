@@ -1,0 +1,379 @@
+{
+  "results": [
+    {
+      "character": "Alvida",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Buggy Pirates", "chapter": 97},
+        {"value": "Alvida Pirates", "chapter": 2}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debuts as captain of her own crew; allied with Buggy in Loguetown (ch 97), Cross Guild members shown ch 1058."
+    },
+    {
+      "character": "Ashura Doji",
+      "affiliationTimeline": [
+        {"value": "Nine Red Scabbards", "chapter": 939},
+        {"value": "Mt. Atama Thieves", "chapter": 920}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Reader knows him as the bandit Shutenmaru; Hiyori names the Nine Red Scabbards in ch 939."
+    },
+    {
+      "character": "Bellamy",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 706},
+        {"value": "Bellamy Pirates", "chapter": 222}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Blueno",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "CP9", "chapter": 345},
+        {"value": "Water 7", "chapter": 325}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "medium",
+      "note": "Undercover Water 7 bartender at debut; CP9 unmasked ch 345; CP0 shown with the ex-CP9 group at the Levely (ch 1083)."
+    },
+    {
+      "character": "Brook",
+      "affiliationTimeline": [
+        {"value": "Straw Hat Pirates", "chapter": 489},
+        {"value": "Rumbar Pirates", "chapter": 442}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Crew named in ch 487 flashback, but Rumbar Pirates is the only non-spoiling label for his pre-Straw Hat debut."
+    },
+    {
+      "character": "Buggy",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1056},
+        {"value": "Seven Warlords of the Sea", "chapter": 700},
+        {"value": "Buggy Pirates", "chapter": 9}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debut label fixed from Cross Guild to Buggy Pirates."
+    },
+    {
+      "character": "Caesar Clown",
+      "affiliationTimeline": [
+        {"value": "NEO MADS", "chapter": 1078},
+        {"value": "Donquixote Pirates", "chapter": 713},
+        {"value": "MADS", "chapter": 658}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "medium",
+      "note": "Doflamingo declares him a direct subordinate in ch 713; the old Donquixote label at debut leaked Joker's identity. MADS is his research-group background (stated ch 663)."
+    },
+    {
+      "character": "Camie",
+      "affiliationTimeline": [
+        {"value": "Takoyaki 8", "chapter": 195}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium"
+    },
+    {
+      "character": "Chadros Higelyges",
+      "affiliationTimeline": [
+        {"value": "Brownbeard Pirates", "chapter": 581}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "high"
+    },
+    {
+      "character": "Charlotte Smoothie",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 846}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "high"
+    },
+    {
+      "character": "Crocus",
+      "affiliationTimeline": [
+        {"value": "Roger Pirates", "chapter": 506},
+        {"value": "Twin Capes", "chapter": 102}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debut entry added: he is the Twin Capes lighthouse keeper until Rayleigh reveals his Roger Pirates past in ch 506."
+    },
+    {
+      "character": "Dalton",
+      "affiliationTimeline": [
+        {"value": "Sakura Kingdom", "chapter": 243},
+        {"value": "Drum Kingdom", "chapter": 132}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "The country is Drum Kingdom at his debut; the Sakura Kingdom name reaches the reader in the ch 243 cover story."
+    },
+    {
+      "character": "Denjiro",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 973},
+        {"value": "Kyoshiro Family", "chapter": 919}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debuts as the yakuza boss Kyoshiro; Kurozumi was the wrong label for that window."
+    },
+    {
+      "character": "Fukurou",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "CP9", "chapter": 375}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Galdino",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Buggy Pirates", "chapter": 593},
+        {"value": "Baroque Works", "chapter": 117}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Joins Buggy's crew after Marineford (ch 593)."
+    },
+    {
+      "character": "Gonbe",
+      "affiliationTimeline": [
+        {"value": "Water 7", "chapter": 322}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium"
+    },
+    {
+      "character": "Harald",
+      "affiliationTimeline": [
+        {"value": "Elbaf Royal Family", "chapter": 1136}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "high",
+      "note": "Wiki also lists a Knights of God membership revealed in ch 1167; left out since the headline is King of Elbaf and it matches currentAffiliation."
+    },
+    {
+      "character": "Hattori",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 801},
+        {"value": "CP9", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Helmeppo",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 3}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium",
+      "note": "At debut he is Captain Morgan's son at the Marine base rather than an enlisted Marine, but no closer vocabulary value exists."
+    },
+    {
+      "character": "Hiriluk",
+      "affiliationTimeline": [
+        {"value": "Sakura Kingdom", "chapter": 243},
+        {"value": "Drum Kingdom", "chapter": 141}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "He lives and dies in Drum Kingdom; Sakura Kingdom is only the country's later name, kept as the newest entry to match currentAffiliation."
+    },
+    {
+      "character": "Hyogoro",
+      "affiliationTimeline": [
+        {"value": "Wano Country", "chapter": 926}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium",
+      "note": "Hyogoro Family is now in vocabulary but his family is only named in the ch 960 flashback; kept Wano Country to match currentAffiliation."
+    },
+    {
+      "character": "Izou",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 962},
+        {"value": "Whitebeard Pirates", "chapter": 553}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "high"
+    },
+    {
+      "character": "Jabra",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "CP9", "chapter": 375}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Kaku",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 907},
+        {"value": "CP9", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Old answer used CP0 for his ch 345 unmasking; he is confirmed in CP0 at the Levely (ch 907)."
+    },
+    {
+      "character": "Kalifa",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "CP9", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "medium",
+      "note": "CP0 chapter taken from the ch 1083 Levely panel showing the ex-CP9 agents; wiki cites a databook for her membership."
+    },
+    {
+      "character": "Koby",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 7},
+        {"value": "Alvida Pirates", "chapter": 2}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debut entry added: chore boy on Alvida's ship until he enlists in ch 7."
+    },
+    {
+      "character": "Koza",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 638},
+        {"value": "Rebel Army", "chapter": 164},
+        {"value": "Alabasta Kingdom", "chapter": 163}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "medium",
+      "note": "Debuts as a child in flashback (Sand-Sand Clan, not in vocabulary); rebel leadership revealed ch 164; environmental minister in the ch 638 cover story."
+    },
+    {
+      "character": "Kumadori",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "CP9", "chapter": 375}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Marguerite",
+      "affiliationTimeline": [
+        {"value": "Kuja Pirates", "chapter": 598},
+        {"value": "Kuja Tribe", "chapter": 514}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "An Amazon Lily warrior at debut; shown as a Kuja Pirates crew member in ch 598."
+    },
+    {
+      "character": "Nola",
+      "affiliationTimeline": [
+        {"value": "Shandia", "chapter": 255}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium",
+      "note": "Her Shandia bond is only shown in the ch 288-292 flashback, but no better vocabulary value exists for the giant snake of Upper Yard."
+    },
+    {
+      "character": "Page One",
+      "affiliationTimeline": [
+        {"value": "Beasts Pirates", "chapter": 929}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "high"
+    },
+    {
+      "character": "Pierre",
+      "affiliationTimeline": [
+        {"value": "Skypiea", "chapter": 237}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium"
+    },
+    {
+      "character": "Rob Lucci",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 801},
+        {"value": "CP9", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high"
+    },
+    {
+      "character": "Shaka",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 1062}
+      ],
+      "changedFromPrevious": false,
+      "confidence": "medium",
+      "note": "Wiki lists Marines (SSG); Vegapunk's Satellites would be the more recognisable headline but contradicts currentAffiliation."
+    },
+    {
+      "character": "Spandam",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 801},
+        {"value": "CP9", "chapter": 358},
+        {"value": "CP5", "chapter": 355}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debuts in the Tom's Workers flashback as CP5 chief; CP9 chief in the present from ch 358."
+    },
+    {
+      "character": "Stussy",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 871},
+        {"value": "Underworld", "chapter": 860}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debut entry fixed: an underworld emperor at Big Mom's tea party until her CP0 identity surfaces in ch 871."
+    },
+    {
+      "character": "Wapol",
+      "affiliationTimeline": [
+        {"value": "Evil Black Drum Kingdom", "chapter": 635},
+        {"value": "Drum Kingdom", "chapter": 133},
+        {"value": "Bliking Pirates", "chapter": 131}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debuts at sea with his crew; revealed as Drum's king in ch 133; the Evil Black Drum Kingdom is his post-timeskip country (ch 635 cover story)."
+    },
+    {
+      "character": "X Drake",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 956},
+        {"value": "Beasts Pirates", "chapter": 793},
+        {"value": "Drake Pirates", "chapter": 498}
+      ],
+      "changedFromPrevious": true,
+      "confidence": "high",
+      "note": "Debut label fixed from Marines to Drake Pirates; the SWORD reveal is ch 956."
+    }
+  ],
+  "remainingGaps": [
+    "Sand-Sand Clan (Koza's childhood gang, ch 163) - used Alabasta Kingdom",
+    "No value for Caesar Clown's Punk Hazard 'Master' window (ch 658-712) - used MADS, his research group",
+    "No value for Nola as guardian snake of Upper Yard / Island of Rare Animals fit poorly - used Shandia",
+    "No civilian value for Helmeppo at debut (Captain Morgan's son) - used Marines"
+  ]
+}

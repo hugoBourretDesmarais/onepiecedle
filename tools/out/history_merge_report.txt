@@ -1,0 +1,169 @@
+268 characters
+affiliation timelines with a change: 60
+haki dated: 233 of 247
+late fruit reveals: 81
+height timelines: 8
+pre-timeskip portraits: 71
+
+== affiliation vocabulary now in use (102) ==
+   26  Marines
+   14  Donquixote Pirates
+   12  Big Mom Pirates
+   12  Kozuki Family
+   11  Blackbeard Pirates
+   11  Baroque Works
+   11  Straw Hat Pirates
+   10  Revolutionary Army
+   10  Beasts Pirates
+   10  CP0
+    9  CP9
+    8  Alabasta Kingdom
+    8  Whitebeard Pirates
+    8  Galley-La Company
+    7  Seven Warlords of the Sea
+    6  Cross Guild
+    6  Five Elders
+    5  Thriller Bark Pirates
+    5  Red Hair Pirates
+    5  Mokomo Dukedom
+    5  Knights of God
+    5  Wano Country
+    5  Vinsmoke Family
+    4  Shandia
+    4  Water 7
+    4  Kuja Pirates
+    4  Roger Pirates
+    4  Usopp Pirates
+    3  Buggy Pirates
+    3  Arlong Pirates
+    3  Cocoyasi Village
+    3  Takoyaki 8
+    3  Skypiea
+    3  Sakura Kingdom
+    3  Drum Kingdom
+    3  Sun Pirates
+    3  Franky Family
+    3  Neptune Family
+    3  Kurozumi Family
+    3  Riku Family
+    3  Baratie
+    2  Alvida Pirates
+    2  Happo Navy
+    2  Newkama Land
+    2  Heart Pirates
+    2  Giant Warrior Pirates
+    2  Fire Tank Pirates
+    2  Dadan Family
+    2  Kid Pirates
+    2  Krieg Pirates
+    2  Elbaf Royal Family
+    2  World Government
+    2  Black Cat Pirates
+    2  Bounty Hunters
+    2  Tom's Workers
+    2  Impel Down
+    2  Dressrosa
+    1  Nine Red Scabbards
+    1  Mt. Atama Thieves
+    1  Barto Club
+    1  Hawkins Pirates
+    1  Bellamy Pirates
+    1  Rumbar Pirates
+    1  NEO MADS
+    1  MADS
+    1  Caribou Pirates
+    1  Beautiful Pirates
+    1  Brownbeard Pirates
+    1  Rolling Pirates
+    1  Chinjao Family
+    1  Twin Capes
+    1  Kyoshiro Family
+    1  Egghead
+    1  God's Army
+    1  Foxy Pirates
+    1  Island of Rare Animals
+    1  New Giant Warrior Pirates
+    1  New Fish-Man Pirates
+    1  Walrus School
+    1  Bonney Pirates
+    1  Syrup Village
+    1  Rebel Army
+    1  Shimotsuki Family
+    1  Tontatta Pirates
+    1  Kuja Tribe
+    1  Saruyama Alliance
+    1  Lvneel Kingdom
+    1  World Economy News Paper
+    1  Ryugu Kingdom
+    1  Usopp Security Force
+    1  Yonta Maria Grand Fleet
+    1  Rocks Pirates
+    1  On Air Pirates
+    1  Shakky's Rip-off Bar
+    1  CP5
+    1  Underworld
+    1  Fallen Monk Pirates
+    1  Flying Pirates
+    1  Evil Black Drum Kingdom
+    1  Bliking Pirates
+    1  Foosha Village
+    1  Drake Pirates
+
+== vocabulary problems raised in review ==
+  aff01.json: {'character': 'Kalifa', 'wanted': 'CP9', 'reason': "Her headline affiliation from chapter 345 to the timeskip is CP9, not CP0; 'World Government' was used as the closest non-spoiler value."}
+  aff01.json: {'character': 'Stussy', 'wanted': 'Underworld', 'reason': 'From her debut in 860 until 871 she is known purely as an Emperor of the Underworld; CP0 was used instead, which leaks the chapter 871 reveal.'}
+  aff01.json: {'character': 'Shaka', 'wanted': 'Vegapunk (SSG)', 'reason': "He is a Vegapunk satellite; 'Marines' is the wiki infobox value but no reader would name him by it."}
+  aff01.json: {'character': 'Hiriluk', 'wanted': 'Drum Kingdom', 'reason': 'The nation is Drum Kingdom throughout his lifetime and is only renamed Sakura Kingdom in chapter 153.'}
+  aff01.json: {'character': 'Marguerite', 'wanted': 'Kuja / Amazon Lily', 'reason': 'At debut she is an Amazon Lily Kuja warrior, not yet a member of the Kuja Pirates crew.'}
+  aff02.json: {'character': 'Bellamy', 'wanted': 'Bellamy Pirates', 'used': 'Donquixote Pirates', 'explanation': 'From ch 222 to about ch 233 he is known as captain of his own Bellamy Pirates, a crew that has no vocabulary value.'}
+  aff02.json: {'character': 'Brook', 'wanted': 'Rumbar Pirates', 'used': 'Straw Hat Pirates', 'explanation': 'Between his ch 442 debut and joining in ch 489 his only crew is the Rumbar Pirates, which is not in the vocabulary.'}
+  aff02.json: {'character': 'Koza', 'wanted': 'Rebel Army', 'used': 'Alabasta Kingdom', 'explanation': 'For the whole Alabasta arc his headline is leader of the Rebel Army, not the kingdom he later serves.'}
+  aff02.json: {'character': 'Pierre', 'wanted': 'Gan Fall / Skypiea Divine Forces', 'used': 'Skypiea', 'explanation': "Pierre is personally Gan Fall's steed rather than a member of any listed organization."}
+  aff03.json: {'character': 'Alvida', 'wanted': ['Alvida Pirates', 'Buggy Pirates'], 'used': 'Cross Guild', 'explanation': "She captains the Alvida Pirates from ch. 2 and rides with Buggy's crew from ch. 98 onward. Neither name exists in the vocabulary, so her entire pre-1058 career had to be labelled Cross Guild, which reads as an anachronism for early-manga readers."}
+  aff03.json: {'character': 'Buggy', 'wanted': ['Buggy Pirates', 'Four Emperors'], 'used': 'Cross Guild', 'explanation': 'Buggy Pirates is the headline affiliation from ch. 9 to ch. 700; without it the debut entry has to fall back to Cross Guild. Four Emperors is also absent, though Cross Guild covers the modern era adequately.'}
+  aff04.json: {'character': 'Caesar Clown', 'wanted': "MADS (or an 'independent scientist' value)", 'explanation': 'At his 658 debut he belongs to no crew; only NEO MADS and Donquixote Pirates exist in the vocabulary, so the debut entry overstates the Doflamingo link.'}
+  aff04.json: {'character': 'Hyogoro', 'wanted': 'Hyogoro Family', 'explanation': "His headline is his own yakuza family; 'Wano Country' is the closest available value."}
+  aff04.json: {'character': 'Page One', 'wanted': 'Yamato', 'explanation': 'Since the chapter 1148 cover story his affiliation is Yamato rather than the Beasts Pirates, and there is no value for it.'}
+  aff04.json: {'character': 'Wapol', 'wanted': 'Drum Kingdom / Bliking Pirates', 'explanation': "Only the post-timeskip 'Evil Black Drum Kingdom' name exists, so his chapter 131 state cannot be expressed without a mild spoiler."}
+  aff05.json: {'character': 'Crocus', 'wanted': "Twin Capes / Laboon's caretaker", 'used': 'Roger Pirates', 'reason': 'Between his chapter 102 debut and the chapter 506 reveal he is only the Twin Capes lighthouse keeper, which has no vocabulary value, so the card has no affiliation in that window.'}
+  aff05.json: {'character': 'Gonbe', 'wanted': 'Chimney (owner) or Blue Station / Water 7 residents', 'used': 'Water 7', 'reason': "Gonbe is Chimney's pet; the wiki affiliation is a person, not an organization in the vocabulary."}
+  aff05.json: {'character': 'Camie', 'wanted': 'Mermaid Cafe', 'used': 'Takoyaki 8', 'reason': 'Her secondary workplace has no vocabulary value; Takoyaki 8 covers the headline identity.'}
+  aff06.json: {'character': 'Ashura Doji', 'wanted': 'Mt. Atama Thieves', 'used': 'Nine Red Scabbards', 'reason': 'Between ch. 916 and 925 he is publicly the bandit chief Shutenmaru of the Mt. Atama Thieves, which has no vocabulary value; collapsed into his Scabbard identity instead.'}
+  aff07.json: {'character': 'Dalton', 'wanted': 'Drum Kingdom', 'used': 'Sakura Kingdom', 'why': "From ch 132 to the ch 243 cover story the nation is Drum Kingdom; Sakura Kingdom is the post-timeskip name and mildly spoils Wapol's fall."}
+  aff07.json: {'character': 'Fukurou', 'wanted': 'CP9', 'used': 'World Government', 'why': 'CP9 is his headline affiliation for the whole Enies Lobby arc and for ~700 chapters afterwards, but it is not in the 86-value list.'}
+  aff08.json: {'character': 'Blueno', 'wanted': 'CP9', 'used': 'CP0', 'explanation': 'Blueno is CP9 from ch. 345 until the timeskip and only becomes CP0 afterwards. The vocabulary has CP0 but no CP9, so both eras collapse into one entry.'}
+  aff08.json: {'character': 'X Drake', 'wanted': 'Drake Pirates', 'used': 'Marines', 'explanation': "From his ch. 498 debut to ch. 792 the reader knows Drake purely as captain of the Drake Pirates. That crew is missing from the vocabulary even though peer Supernova crews (Kid Pirates, Hawkins Pirates, On Air Pirates, Bonney Pirates) are present, so the debut entry had to fall back on 'Marines', which spoils the SWORD reveal."}
+  aff08.json: {'character': 'Harald', 'wanted': 'n/a', 'used': 'Elbaf Royal Family', 'explanation': "Minor: the vocabulary spells it 'Elbaf Royal Family' while the wiki infobox uses 'Elbaph Royal Family'. Flagging only so the spelling mismatch in the input's affiliationCandidates is not read as a missing value."}
+  aff09.json: {'character': 'Denjiro', 'wanted': 'Kyoshiro Family', 'used': 'Kurozumi Family', 'explanation': "From chapters 919 to 973 the reader knows him as Kyoshiro, boss of the Kyoshiro Family. That value is missing from the vocabulary, so his undercover service to Orochi's Kurozumi Family is used instead."}
+  aff09.json: {'character': 'Galdino', 'wanted': 'Buggy Pirates', 'used': '(omitted)', 'explanation': "Between Impel Down and the Cross Guild reveal he is a Buggy Pirates / Buggy's Delivery officer for roughly 460 chapters. Neither Buggy Pirates nor Buggy and Alvida Alliance exists in the vocabulary, so that stretch has no entry."}
+  aff09.json: {'character': 'Kumadori', 'wanted': 'CP9', 'used': 'CP0', 'explanation': 'He is a CP9 agent from chapter 375 and only confirmed as CP0 in chapter 1083. CP9 is absent from the vocabulary, so CP0 covers the whole timeline.'}
+  aff10.json: {'characters': ['Rob Lucci', 'Hattori'], 'wanted': 'CP9', 'used': 'World Government', 'explanation': 'Between ch. 345 and ch. 801 both are headlined as CP9, the Cipher Pol assassin unit. The vocabulary has CP0 but no CP9, so the broader World Government was used to avoid the spoiler of showing CP0 early.'}
+  aff11.json: {'character': 'Kaku', 'wanted': 'CP9', 'explanation': 'From ch 345 to 907 a reader would name Kaku by CP9; the vocabulary only has CP0, so both Cipher Pol spans were merged under CP0 starting at ch 345.'}
+  aff11.json: {'character': 'Chadros Higelyges', 'wanted': 'Centaur Patrol Unit', 'explanation': "From ch 661 to 674 a reader would name Brownbeard by Caesar Clown's Centaur Patrol Unit on Punk Hazard, not by his disbanded pirate crew. Fell back to Brownbeard Pirates."}
+  aff11.json: {'character': 'Helmeppo', 'wanted': 'no affiliation / civilian', 'explanation': "At his ch 3 debut he is Captain Morgan's spoiled son, not a Marine; he only enlists as a chore boy around ch 102. Used Marines for the whole span."}
+  aff11.json: {'character': 'Izou', 'wanted': 'Nine Red Scabbards is present but Izou is not a Scabbard', 'explanation': "Kozuki Family covers him, but the vocabulary spells it 'Kozuki Family' while the wiki uses 'Kouzuki Family' - matched the vocabulary spelling."}
+  aff12.json: {'character': 'Koby', 'wanted': 'Alvida Pirates', 'used': 'Marines', 'explanation': "Koby is Alvida's chore boy from his ch 2 debut until he joins the Marines in ch 7. No vocabulary value covers the Alvida Pirates, so his timeline simply starts at ch 7 instead of his debut chapter."}
+  aff12.json: {'character': 'Jabra', 'wanted': 'CP9', 'used': 'CP0', 'explanation': 'Jabra is introduced as CP9 in ch 375 and only confirmed as CP0 in ch 1083. The vocabulary has CP0 but no CP9, so CP0 is shown from his debut, which is slightly ahead of the story.'}
+  aff12.json: {'character': 'Spandam', 'wanted': 'CP5 and CP9', 'used': 'CP0', 'explanation': 'Spandam debuts in ch 355 as CP5 chief, becomes CP9 chief at ch 358, and joins CP0 by ch 801. Neither CP5 nor CP9 exists in the vocabulary.'}
+  aff12.json: {'character': 'Nola', 'wanted': "Wagomuland or a neutral 'no affiliation' value", 'used': 'Shandia', 'explanation': 'Nola is a giant snake worshipped by the Shandia rather than a member of the tribe; a non-organization value would fit better.'}
+  aff12.json: {'character': 'Charlotte Smoothie', 'wanted': 'Charlotte Family', 'used': 'Big Mom Pirates', 'explanation': 'Her wiki infobox leads with Charlotte Family; Big Mom Pirates is the closest available value and is also the headline crew, so this is a minor loss only.'}
+  fix01.json: Sand-Sand Clan (Koza's childhood gang, ch 163) - used Alabasta Kingdom
+  fix01.json: No value for Caesar Clown's Punk Hazard 'Master' window (ch 658-712) - used MADS, his research group
+  fix01.json: No value for Nola as guardian snake of Upper Yard / Island of Rare Animals fit poorly - used Shandia
+  fix01.json: No civilian value for Helmeppo at debut (Captain Morgan's son) - used Marines
+
+== notes ==
+  Edward Weevil: Armament haki undated — hidden under a limit
+  Edward Weevil: Observation haki undated — hidden under a limit
+  Figarland Garling: Unknown haki undated — hidden under a limit
+  Kalgara: Observation haki undated — hidden under a limit
+  Kalifa: Armament haki undated — hidden under a limit
+  Kalifa: Observation haki undated — hidden under a limit
+  Kuzan: Observation haki undated — hidden under a limit
+  Lindbergh: Armament haki undated — hidden under a limit
+  Lindbergh: Observation haki undated — hidden under a limit
+  Page One: Armament haki undated — hidden under a limit
+  Portgas D. Ace: Armament haki undated — hidden under a limit
+  Portgas D. Ace: Observation haki undated — hidden under a limit
+  Sakazuki: Observation haki undated — hidden under a limit
+  Who's-Who: Observation haki undated — hidden under a limit

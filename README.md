@@ -91,8 +91,11 @@ Character data is generated from the wiki, not hand-written. The scripts live in
 ```bash
 python3 tools/fetch_wiki.py         # pull infoboxes + haki categories -> tools/out/characters.draft.json
 python3 tools/fetch_bounties.py     # full bounty history + reveal chapters -> tools/out/bounties.json
+python3 tools/fetch_history.py      # height/haki/fruit timelines -> tools/out/history.raw.json
+python3 tools/merge_history.py      # + reviewed research -> tools/out/history.json
 python3 tools/dump_dossiers.py      # per-character source excerpts for review
 python3 tools/download_portraits.py # portraits -> public/portraits/
+python3 tools/download_pre_timeskip.py # pre-timeskip portraits -> public/portraits/*-pre.png
 python3 tools/download_backgrounds.py # backdrops -> public/backgrounds/
 python3 tools/make_textures.py      # wear map -> public/textures/
 python3 tools/build_dataset.py      # merge + validate -> src/data/characters.json
@@ -122,6 +125,40 @@ in-story, so every bounty carries the chapter its wiki citation points at. Three
 
 With no limit set, the card shows the latest bounty as before — the history only comes into play
 once you cap the story.
+
+### Dating everything else
+
+Each character also carries a `history` block covering affiliation, haki, devil fruit, height and
+portrait, resolved the same way: newest-first lists, scanned top-down for the first entry the
+reader has reached. How much of it the wiki will tell you varies enormously.
+
+- **Height** is easy — the Char Box tags its values `(debut)` / `(after timeskip)`, and the
+  timeskip is chapter 598. Only eight characters actually grow.
+- **Portraits** are a naming convention: `<Name> Anime Pre Timeskip Infobox.png` exists for 71 of
+  the 164 characters who debut before the timeskip. The rest never changed enough for the wiki to
+  bother and keep the one portrait.
+- **Haki** comes from the per-type sections on the `/Abilities and Powers` pages, whose chapter
+  citations give a usable first-display date — but only as a starting point, since the earliest
+  citation in a section is often not the earliest display.
+- **Devil fruit** defaults to the character's debut: taking the earliest citation in the Devil
+  Fruit section instead would date Robin's power to chapter 629, hundreds after readers saw it.
+  Review only has to catch the genuinely late reveals, like Blackbeard's in 440.
+- **Affiliation is not datable at all.** The Char Box lists crews in no particular order and mostly
+  without refs — Robin's own list puts Baroque Works third and undated, and Jinbe's only dated
+  entry points at a chapter that has nothing to do with him. This one is researched per character.
+
+So `fetch_history.py` scrapes what it can and everything else is reviewed, with the results merged
+by `merge_history.py`. `tools/out/history_review.json` holds hand overrides for the cases neither
+can express — Luffy's fruit is a plain Paramecia until the Five Elders name it in chapter 1044.
+
+One consequence worth knowing: the affiliation vocabulary contains crews nobody currently belongs
+to (`CP9`, `Buggy Pirates`, `Drake Pirates`, `Drum Kingdom`, …). Without them the early-story cards
+have to reach for a successor organisation, and that leaks — labelling X Drake's debut "Marines"
+gives away the cover he keeps for another 300 chapters.
+
+Where a value can't be dated it stays hidden under a limit rather than being shown early, so a
+handful of databook-only haki types read as "none" on a limited board. That matches how an
+unrevealed bounty already reads as ฿0.
 
 ## Backend (solve counter + leaderboard)
 

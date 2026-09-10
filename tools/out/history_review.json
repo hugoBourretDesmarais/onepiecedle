@@ -1,0 +1,27 @@
+{
+ "_comment": "Hand overrides applied last by merge_history.py. Each key replaces that field's whole timeline, newest first. Only for things the scrape and the review pass cannot express.",
+
+ "Monkey D. Luffy": {
+  "_why": "The Gomu Gomu no Mi is a plain Paramecia for a thousand chapters; the Five Elders name it as the Hito Hito no Mi, Model: Nika in 1044. Showing the real fruit earlier is the single biggest spoiler on the card.",
+  "devilFruit": [
+   {"chapter": 1044, "types": ["Mythical Zoan", "Paramecia"], "name": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)"},
+   {"chapter": 1, "types": ["Paramecia"], "name": "Gum-Gum Fruit"}
+  ]
+ },
+
+ "Marshall D. Teach": {
+  "_why": "Two fruits, taken 137 chapters apart. The reveal date covers the Dark-Dark Fruit only; he takes Whitebeard's Tremor-Tremor Fruit at the end of Marineford, so pairing them from 440 spoils the whole war.",
+  "devilFruit": [
+   {"chapter": 577, "types": ["Logia", "Paramecia"], "name": "Dark-Dark Fruit & Tremor-Tremor Fruit"},
+   {"chapter": 440, "types": ["Logia"], "name": "Dark-Dark Fruit"}
+  ]
+ },
+
+ "Sabo": {
+  "_why": "The wiki tags his adult height 'after timeskip', but Sabo is not seen as an adult until Dressrosa. Before that the reader only knows the child from the chapter 583 flashback.",
+  "heightCm": [
+   {"value": 187, "chapter": 731},
+   {"value": 100, "chapter": 583}
+  ]
+ }
+}

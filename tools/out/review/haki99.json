@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "character": "Lindbergh",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": null,
+          "confidence": "high",
+          "evidence": "Haki section states he possesses Armament and Observation Haki with a single citation to the Vivre Card databook (card 1188). No manga chapter reference for any Haki use; his depicted combat is the Cool Shooter (ch. 904) and Laser Shooter (ch. 1083), neither described as Haki. Databank-only, so no reader-facing reveal chapter."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "high",
+          "evidence": "Same single Vivre Card citation covers both types; the article shows no manga scene of Observation Haki use. Databank-only, so no reader-facing reveal chapter."
+        }
+      ]
+    }
+  ]
+}

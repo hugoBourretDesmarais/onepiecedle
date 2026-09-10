@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "character": "Blueno",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "Never shown on-page; only source is his Vivre Card entry from the CP9 booster pack (June 2019, manga at ~ch. 946)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "Same Vivre Card CP9 entry; Blueno's last appearance (ch. 1083-1085 Levely) shows no Haki."
+        }
+      ],
+      "note": "Databook-only. Chapter is the serialization point when the Vivre Card CP9 pack shipped, not an in-story feat; null would also be defensible."
+    },
+    {
+      "character": "Chinjao",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 716,
+          "confidence": "high",
+          "evidence": "Hardens his fist with Armament Haki to clash evenly with Luffy in the C Block final."
+        },
+        {
+          "value": "Observation",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "Never demonstrated; only the Vivre Card 'Clash! Colosseum Fighters!!' pack (June 2019, manga at ~ch. 946) states it."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 715,
+          "confidence": "high",
+          "evidence": "Knocks out a crowd of C Block gladiators with Supreme King Haki without laying a finger on them."
+        }
+      ]
+    },
+    {
+      "character": "Figarland Shamrock",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 1139,
+          "confidence": "medium",
+          "evidence": "Scopper Gaban senses Shamrock's Haki on Elbaph and calls it abnormal (ch. 1139 p. 6)."
+        }
+      ],
+      "note": "His black-lightning arrival burst is drawn at ch. 1134, but it is only named as Haki at 1139; type is never specified in-manga."
+    },
+    {
+      "character": "Jaguar D. Saul",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1142,
+          "confidence": "high",
+          "evidence": "Smashes the Jormungandr construct into the ground with a Haki-coated fist at the Elbaph school."
+        }
+      ],
+      "note": "The blanket 'all Vice Admirals have Haki' statement is databook-sourced; 1142 is his first actual display."
+    },
+    {
+      "character": "Killer",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "No on-page Haki feat is credited to him even through Wano; source is the Vivre Card 'Alliance Formed!' pack (Sept 2021, manga at ~ch. 1025)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry (card 0517)."
+        }
+      ],
+      "note": "Databook-only despite heavy Wano screen time; chapter is the databook's serialization point."
+    },
+    {
+      "character": "Marcus Mars",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1112,
+          "confidence": "high",
+          "evidence": "Uses Observation Haki to detect the Den Den Mushi hidden inside Punk Records."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1115,
+          "confidence": "high",
+          "evidence": "Knocks several Den Den Mushi unconscious with Supreme King Haki."
+        }
+      ],
+      "note": "The Five Elders' black-lightning Haki burst at ch. 1110 is not broken down by type, so the per-type dates stand."
+    },
+    {
+      "character": "Portgas D. Ace",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 587,
+          "confidence": "high",
+          "evidence": "Marineford flashback: a 10-year-old Ace knocks out the Bluejam Pirates with an uncontrolled Haki outburst."
+        },
+        {
+          "value": "Armament",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; sourced only to the spin-off Novel A (fighting Vice Admiral Draw)."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; sourced only to the non-canon anime special Episode A."
+        }
+      ],
+      "note": "The wiki explicitly states Ace never uses Armament or Observation Haki in the manga, so a manga reader never learns either; both nulled. If the game wants a value anyway, ~ch. 910 (Novel A's 2018 release) would be the Armament guess."
+    },
+    {
+      "character": "Scratchmen Apoo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1032,
+          "confidence": "high",
+          "evidence": "Hardens his neck to survive Guernika's Shigan at Onigashima."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "Never demonstrated; only the Vivre Card 'Alliance Formed!' pack (Sept 2021, manga at ~ch. 1025) states it."
+        }
+      ]
+    },
+    {
+      "character": "Tashigi",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 661,
+          "confidence": "medium",
+          "evidence": "Smoker tells Law that Tashigi uses Haki but not well enough to counter him; her unambiguous Armament use, cutting Logia-user Monet, is ch. 686."
+        },
+        {
+          "value": "Observation",
+          "chapter": 938,
+          "confidence": "low",
+          "evidence": "Never demonstrated; only the Vivre Card 'The Menace of Punk Hazard!!' pack (April 2019, manga at ~ch. 938) states it."
+        }
+      ],
+      "note": "Armament pulled 25 chapters earlier than the scraped 686 hint because 661 already tells the reader she is a Haki user in a swordfight context; use 686 if you want the strictly unambiguous point."
+    }
+  ]
+}

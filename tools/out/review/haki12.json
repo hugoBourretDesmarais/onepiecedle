@@ -1,0 +1,162 @@
+{
+  "results": [
+    {
+      "character": "Boa Marigold",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 520,
+          "confidence": "medium",
+          "evidence": "In ch. 520 she emits Haki to deflect Luffy's attacks and stays unharmed while setting herself on fire."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No on-page display; only her Vivre Card databook entry lists Observation Haki."
+        }
+      ],
+      "note": "Her ch. 520 feats are only identifiable as Armament in hindsight (Haki types were named in ch. 597), but the arc already discusses Haki openly (ch. 519)."
+    },
+    {
+      "character": "Crocus",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "Never shown or stated in the manga; sourced only to his Vivre Card databook entry."
+        }
+      ],
+      "note": "Databook-only. 920 is an approximation of where the Vivre Card databook falls in serialization; consider null if the filter prefers hiding it outright."
+    },
+    {
+      "character": "Gol D. Roger",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 966,
+          "confidence": "medium",
+          "evidence": "Ch. 966 shows his Kamusari and his heaven-splitting clash with Whitebeard, his blade wreathed in black lightning."
+        },
+        {
+          "value": "Armament",
+          "chapter": 966,
+          "confidence": "medium",
+          "evidence": "Ch. 966 has him clash his Haki-imbued cutlass against Whitebeard's Murakumogiri and emit Armament from the blade."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No on-page display; only the Vivre Card states he could use all three Haki types."
+        }
+      ],
+      "note": "Conqueror hint of 1010 is the chapter that explains advanced Supreme King coating; the reader sees Roger's own display 44 chapters earlier at 966."
+    },
+    {
+      "character": "Jesus Burgess",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 737,
+          "confidence": "high",
+          "evidence": "He hardens his elbow armor against Sabo's Armament-infused attack in the Corrida Colosseum final."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No on-page display; sourced only to his Vivre Card databook entry."
+        }
+      ]
+    },
+    {
+      "character": "Kin'emon",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 788,
+          "confidence": "high",
+          "evidence": "He imbues his swords with Armament alongside Zoro and Kanjuro to hold back the Birdcage."
+        },
+        {
+          "value": "Observation",
+          "chapter": 656,
+          "confidence": "medium",
+          "evidence": "His severed legs say they can feel the 'aura' of people around them and attack accurately, in his debut."
+        }
+      ],
+      "note": "Observation dated to his debut; post-timeskip readers already knew Observation Haki, so the 'aura' line reads as such, but it is never named."
+    },
+    {
+      "character": "Marshall D. Teach",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 544,
+          "confidence": "high",
+          "evidence": "At Impel Down he tells Luffy his Haki has improved since Jaya, confirming he sensed it back then."
+        },
+        {
+          "value": "Armament",
+          "chapter": 1059,
+          "confidence": "high",
+          "evidence": "He hardens his arm to block S-Hawk's mountain-splitting slash on Amazon Lily."
+        }
+      ],
+      "note": "Observation hint of 223 is retroactive: the Jaya scene only becomes a Haki feat once ch. 544 states it, and Haki did not exist as a concept in 223."
+    },
+    {
+      "character": "Raizo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 987,
+          "confidence": "medium",
+          "evidence": "He cuts through Kaidou's skin with the Scabbards, an advanced Armament (Ryuo) feat."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No on-page display; sourced only to his Vivre Card databook entry."
+        }
+      ]
+    },
+    {
+      "character": "Sentomaru",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 511,
+          "confidence": "high",
+          "evidence": "At Sabaody he injures rubber-bodied Luffy without contact, the scene where Haki is first named in the story."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No on-page display; sourced only to his Vivre Card databook entry."
+        }
+      ]
+    },
+    {
+      "character": "Trafalgar D. Water Law",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 668,
+          "confidence": "high",
+          "evidence": "Luffy states on-page that Law can use Armament Haki, so he can fight Caesar."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1043,
+          "confidence": "medium",
+          "evidence": "During the Onigashima raid he senses that Luffy's voice has gone out after Kaidou beat him."
+        }
+      ]
+    }
+  ]
+}

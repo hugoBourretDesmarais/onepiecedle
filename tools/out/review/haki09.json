@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "character": "Black Maria",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1024,
+          "confidence": "low",
+          "evidence": "Never uses Haki on-panel; known only from her Vivre Card, estimated to the Beasts Pirates booster pack (Sep 2021, ~ch. 1024)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1024,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; the wiki states she has never been seen using either type in combat."
+        }
+      ],
+      "note": "Databook-only. Her whole fight (ch. 1020-1022) shows Devil Fruit and weapons, no Haki. Vivre Card pack could be a 2024 set instead, which would push this to ~1125."
+    },
+    {
+      "character": "Charlotte Smoothie",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "Vivre Card only; dated to the \"Emperor Big Mom Pirates!!\" booster pack (Aug 2019, ~ch. 950)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; no on-panel Haki use in the manga."
+        }
+      ],
+      "note": "Databook-only. Her on-panel feats (draining, deflecting cannon fire at ch. 930) are never framed as Haki."
+    },
+    {
+      "character": "Figarland Garling",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "No Haki section and no Haki attribution anywhere on his page; Haki is only mentioned as something used against him."
+        }
+      ],
+      "note": "The wiki says little is known of Garling's combat prowess. The only Haki reference is Rocks' Haki-infused slashes wounding him (ch. 1162). Returning null so the game hides it."
+    },
+    {
+      "character": "Jack",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1024,
+          "confidence": "low",
+          "evidence": "Vivre Card (\"Overwhelming Strength! Beasts Pirates!!\", Sep 2021, ~ch. 1024); never seen using it in combat."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1024,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; the wiki explicitly notes he relies on his Devil Fruit instead."
+        }
+      ],
+      "note": "Databook-only; the citation on his page names the Beasts Pirates booster pack, which fixes the release window."
+    },
+    {
+      "character": "Kikunojo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 987,
+          "confidence": "high",
+          "evidence": "Her Ryuo-infused sword pierces Kaidou's right hand during the Scabbards' assault."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1019,
+          "confidence": "low",
+          "evidence": "Vivre Card only; dated to the \"Nine Red Scabbards\" booster pack (Jul 2021, ~ch. 1019)."
+        }
+      ]
+    },
+    {
+      "character": "Marco",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 553,
+          "confidence": "medium",
+          "evidence": "He physically kicks the Logia admiral Kizaru away at Marineford, which the wiki cites as an Armament Haki feat."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1044,
+          "confidence": "medium",
+          "evidence": "He senses Luffy's awakening from across the Skull Dome during the Onigashima raid."
+        }
+      ],
+      "note": "Armament corrected earlier than the scraped 574 (where Akainu names their Haki); 553-554 and 566 are the actual displays. Observation also appears on his Vivre Card (Dec 2018, ~ch. 927), which predates the on-panel feat."
+    },
+    {
+      "character": "Pica",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 778,
+          "confidence": "high",
+          "evidence": "He coats his whole body in Armament Haki against Zoro, who cuts through it with Sanzen Sekai."
+        },
+        {
+          "value": "Observation",
+          "chapter": 940,
+          "confidence": "low",
+          "evidence": "Vivre Card only; dated to the \"Ruler of Fear! Donquixote Family!!\" booster pack (May 2019, ~ch. 940)."
+        }
+      ]
+    },
+    {
+      "character": "Scopper Gaban",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 1149,
+          "confidence": "medium",
+          "evidence": "Black lightning streaks off his axes as he fights Sommers, the standard Supreme King Haki infusion visual."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1139,
+          "confidence": "high",
+          "evidence": "In the chapter that reveals him as Scopper Gaban, he has sensed the Knights of God's abnormal Haki from a great distance."
+        },
+        {
+          "value": "Armament",
+          "chapter": 1140,
+          "confidence": "high",
+          "evidence": "He coats Loki's key in Haki and swings it as an improvised weapon against Luffy."
+        }
+      ],
+      "note": "The scraped 519 for Conqueror is a spurious citation (Daisy's generic remark on how rare Supreme King Haki users are). Ch. 1148 hints at it earlier when Sommers cannot regenerate the arm Gaban severs. He is only identified as Scopper Gaban in ch. 1139, so nothing is datable before that."
+    },
+    {
+      "character": "Stussy",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1091,
+          "confidence": "low",
+          "evidence": "Vivre Card only, with no on-panel use; dated to her first real on-panel combat moment."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1091,
+          "confidence": "high",
+          "evidence": "She alone senses Lucci's intent to kill Vegapunk and reacts in time to intercept him."
+        }
+      ],
+      "note": "Armament is databook-only and I could not pin down which Vivre Card pack her card (1032) belongs to, so I anchored it to the Observation chapter rather than guess a release date."
+    },
+    {
+      "character": "Yasopp",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1079,
+          "confidence": "medium",
+          "evidence": "He senses that the Kid Pirates have fully healed after the Onigashima raid."
+        }
+      ],
+      "note": "The \"4 Billion\" databook also lists him as a skilled Observation user, slightly earlier than the on-panel feat. The Film: Red display is non-canon and ignored."
+    }
+  ]
+}

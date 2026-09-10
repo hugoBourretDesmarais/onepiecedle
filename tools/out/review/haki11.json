@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "character": "Boa Hancock",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 519,
+          "confidence": "high",
+          "evidence": "Ch. 519 p.19: Sandersonia and Hancock herself state that Hancock can use Supreme King Haki."
+        },
+        {
+          "value": "Observation",
+          "chapter": 580,
+          "confidence": "high",
+          "evidence": "Ch. 580 p.7: she senses that Luffy and the Heart Pirates are still alive after the Marineford war."
+        },
+        {
+          "value": "Armament",
+          "chapter": 559,
+          "confidence": "high",
+          "evidence": "Ch. 559 p.15: she knocks Smoker away with a Haki-enhanced kick that bypasses his Logia intangibility."
+        }
+      ],
+      "note": "She has never displayed Conqueror's Haki on-panel; ch. 519 is the on-page verbal confirmation, which is what a reader would go by."
+    },
+    {
+      "character": "Crocodile",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No manga display; sourced only to his Vivre Card entry (card 0174), released around the ch. 918-925 period."
+        },
+        {
+          "value": "Observation",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No manga display; sourced only to his Vivre Card entry (card 0174), released around the ch. 918-925 period."
+        }
+      ],
+      "note": "Databook-only. Both chapters are an approximation of the Vivre Card release, not an in-story reveal; a manga-only reader never learns this."
+    },
+    {
+      "character": "Fukurou",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "No manga display; sourced only to his Vivre Card entry (card 0405), a 2019 booster set."
+        },
+        {
+          "value": "Observation",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "No manga display; sourced only to his Vivre Card entry (card 0405), a 2019 booster set."
+        }
+      ],
+      "note": "Databook-only. Fukurou's fights (ch. 400-406) predate Haki being a named concept, so the chapter is a Vivre Card release approximation."
+    },
+    {
+      "character": "Jaygarcia Saturn",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1114,
+          "confidence": "high",
+          "evidence": "Ch. 1114 p.8-9: Saturn uses Observation Haki to locate the hidden Den Den Mushi in the Labophase."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1115,
+          "confidence": "high",
+          "evidence": "Ch. 1115 p.6: he knocks the Den Den Mushi unconscious with Supreme King Haki."
+        }
+      ]
+    },
+    {
+      "character": "Killingham",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 1145,
+          "confidence": "medium",
+          "evidence": "Ch. 1145 p.15: Scopper Gaban senses the abnormal burst of Haki accompanying Killingham's arrival on Elbaph."
+        }
+      ],
+      "note": "The wiki only credits him with unspecified Haki (the black-lightning burst), never a named type."
+    },
+    {
+      "character": "Marguerite",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 516,
+          "confidence": "high",
+          "evidence": "Ch. 516 p.7: Marguerite explains the power she channels through her Kuja arrows, one of the first Haki demonstrations in the series."
+        }
+      ],
+      "note": "She fires the Haki-imbued arrows in ch. 515, but ch. 516 is where the power is explained on-page."
+    },
+    {
+      "character": "Queen",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1023,
+          "confidence": "high",
+          "evidence": "Ch. 1023 p.6-7: Queen hardens his arm with Armament Haki to block Sanji."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1050,
+          "confidence": "low",
+          "evidence": "No manga display; sourced only to his Vivre Card entry (card 1309), a late booster set."
+        }
+      ],
+      "note": "Observation is databook-only; the chapter is an approximation of the Vivre Card release."
+    },
+    {
+      "character": "Sengoku",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 594,
+          "confidence": "medium",
+          "evidence": "Ch. 594 p.7: Dr. Fishbonen states Haki is a power all Vice Admirals and above use, which covers ex-Fleet Admiral Sengoku."
+        },
+        {
+          "value": "Observation",
+          "chapter": 594,
+          "confidence": "medium",
+          "evidence": "Ch. 594 p.7: same blanket statement that every Marine of Vice Admiral rank or higher uses Haki."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 920,
+          "confidence": "low",
+          "evidence": "No manga display or mention; sourced only to his Vivre Card entry (card 0265)."
+        }
+      ],
+      "note": "The ch. 594 statement is generic (it does not name types), so it only implies the two basic Haki. Sengoku has never shown Conqueror's in the manga."
+    },
+    {
+      "character": "Topman Warcury",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1118,
+          "confidence": "high",
+          "evidence": "Ch. 1118 p.12-13: Warcury and Ju Peter sense Luffy's and Bonney's Nika transformations."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1111,
+          "confidence": "medium",
+          "evidence": "Ch. 1111 p.10-12: Warcury unleashes a Supreme King Haki-infused roar in his beast form on Egghead."
+        }
+      ]
+    }
+  ]
+}

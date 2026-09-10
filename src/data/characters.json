@@ -15,6 +15,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Thriller Bark Pirates",
+     "chapter": 444
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 444,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Clear-Clear Fruit"
+    }
+   ]
+  },
   "heightCm": 195,
   "origin": "West Blue",
   "firstChapter": 444,
@@ -36,6 +53,30 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shandia",
+     "chapter": 249
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 251
+    }
+   ],
+   "portrait": [
+    {
+     "value": "aisa.png",
+     "chapter": 598
+    },
+    {
+     "value": "aisa-pre.png",
+     "chapter": 249
+    }
+   ]
+  },
   "heightCm": 140,
   "origin": "Sky Island",
   "firstChapter": 249,
@@ -65,6 +106,31 @@
     "chapter": 264
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1058
+    },
+    {
+     "value": "Buggy Pirates",
+     "chapter": 97
+    },
+    {
+     "value": "Alvida Pirates",
+     "chapter": 2
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 98,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Slip-Slip Fruit"
+    }
+   ]
+  },
   "heightCm": 198,
   "origin": "East Blue",
   "firstChapter": 2,
@@ -97,6 +163,33 @@
     "chapter": 1087
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 905
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1053
+    },
+    {
+     "value": "Observation",
+     "chapter": 1055
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1052,
+     "types": [
+      "Logia"
+     ],
+     "name": "Woods-Woods Fruit"
+    }
+   ]
+  },
   "heightCm": 308,
   "origin": "South Blue",
   "firstChapter": 905,
@@ -124,6 +217,14 @@
     "chapter": 69
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Arlong Pirates",
+     "chapter": 69
+    }
+   ]
+  },
   "heightCm": 263,
   "origin": "Grand Line",
   "firstChapter": 69,
@@ -148,6 +249,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Nine Red Scabbards",
+     "chapter": 939
+    },
+    {
+     "value": "Mt. Atama Thieves",
+     "chapter": 920
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 986
+    },
+    {
+     "value": "Observation",
+     "chapter": 1008
+    }
+   ]
+  },
   "heightCm": 544,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -172,6 +295,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 1062
+    }
+   ]
+  },
   "heightCm": 729,
   "origin": "Grand Line",
   "firstChapter": 1062,
@@ -196,6 +327,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 575
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1080,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Isle-Isle Fruit"
+    }
+   ]
+  },
   "heightCm": 505,
   "origin": "North Blue",
   "firstChapter": 575,
@@ -219,6 +367,27 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Happo Navy",
+     "chapter": 800
+    },
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 682
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 682,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Arms-Arms Fruit"
+    }
+   ]
+  },
   "heightCm": 181,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -252,6 +421,37 @@
     "chapter": 234
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 513
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 950
+    },
+    {
+     "value": "Armament",
+     "chapter": 1103
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 473,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Paw-Paw Fruit"
+    }
+   ]
+  },
   "heightCm": 689,
   "origin": "South Blue",
   "firstChapter": 233,
@@ -285,6 +485,23 @@
     "chapter": 706
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Barto Club",
+     "chapter": 705
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 709,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Barrier-Barrier Fruit"
+    }
+   ]
+  },
   "heightCm": 220,
   "origin": "East Blue",
   "firstChapter": 705,
@@ -321,6 +538,43 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Hawkins Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 917
+    },
+    {
+     "value": "Armament",
+     "chapter": 917
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 508,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Straw-Straw Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "basil-hawkins.png",
+     "chapter": 598
+    },
+    {
+     "value": "basil-hawkins-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 210,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -343,6 +597,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cocoyasi Village",
+     "chapter": 77
+    }
+   ]
+  },
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 77,
@@ -379,6 +641,47 @@
     "chapter": 222
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 706
+    },
+    {
+     "value": "Bellamy Pirates",
+     "chapter": 222
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 708
+    },
+    {
+     "value": "Armament",
+     "chapter": 770
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 231,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Boing-Boing Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "bellamy.png",
+     "chapter": 598
+    },
+    {
+     "value": "bellamy-pre.png",
+     "chapter": 222
+    }
+   ]
+  },
   "heightCm": 240,
   "origin": "North Blue",
   "firstChapter": 222,
@@ -410,6 +713,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 904
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 904
+    },
+    {
+     "value": "Observation",
+     "chapter": 904
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 904,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Pump-Pump Fruit"
+    }
+   ]
+  },
   "heightCm": 196,
   "origin": "East Blue",
   "firstChapter": 904,
@@ -434,6 +764,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Red Hair Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 579
+    }
+   ]
+  },
   "heightCm": 206,
   "origin": "North Blue",
   "firstChapter": 1,
@@ -465,6 +809,27 @@
     "chapter": 372
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Newkama Land",
+     "chapter": 666
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 129
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 156,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Clone-Clone Fruit"
+    }
+   ]
+  },
   "heightCm": 238,
   "origin": "East Blue",
   "firstChapter": 129,
@@ -493,6 +858,14 @@
     "chapter": 660
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Heart Pirates",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 240,
   "origin": "Grand Line",
   "firstChapter": 498,
@@ -522,6 +895,33 @@
     "chapter": 977
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 977
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1024
+    },
+    {
+     "value": "Observation",
+     "chapter": 1024
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 997,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Spider-Spider Fruit, Rosamygale grauvogeli Model"
+    }
+   ]
+  },
   "heightCm": 820,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -546,6 +946,51 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 1083
+    },
+    {
+     "value": "CP9",
+     "chapter": 345
+    },
+    {
+     "value": "Water 7",
+     "chapter": 325
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 946
+    },
+    {
+     "value": "Observation",
+     "chapter": 946
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 345,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Door-Door Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "blueno.png",
+     "chapter": 598
+    },
+    {
+     "value": "blueno-pre.png",
+     "chapter": 325
+    }
+   ]
+  },
   "heightCm": 258,
   "origin": "North Blue",
   "firstChapter": 325,
@@ -584,6 +1029,37 @@
     "chapter": 522
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kuja Pirates",
+     "chapter": 516
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 519
+    },
+    {
+     "value": "Armament",
+     "chapter": 559
+    },
+    {
+     "value": "Observation",
+     "chapter": 580
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 516,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Love-Love Fruit"
+    }
+   ]
+  },
   "heightCm": 191,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -616,6 +1092,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kuja Pirates",
+     "chapter": 516
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 520
+    },
+    {
+     "value": "Observation",
+     "chapter": 920
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 518,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Snake-Snake Fruit, Model: King Cobra"
+    }
+   ]
+  },
   "heightCm": 432,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -648,6 +1151,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kuja Pirates",
+     "chapter": 516
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 519
+    },
+    {
+     "value": "Observation",
+     "chapter": 519
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 518,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Snake-Snake Fruit, Model: Anaconda"
+    }
+   ]
+  },
   "heightCm": 453,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -679,6 +1209,33 @@
     "chapter": 1087
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 504
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 564
+    },
+    {
+     "value": "Observation",
+     "chapter": 1094
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 504,
+     "types": [
+      "Logia"
+     ],
+     "name": "Glint-Glint Fruit"
+    }
+   ]
+  },
   "heightCm": 302,
   "origin": "North Blue",
   "firstChapter": 504,
@@ -710,6 +1267,14 @@
     "chapter": 118
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Giant Warrior Pirates",
+     "chapter": 115
+    }
+   ]
+  },
   "heightCm": 2130,
   "origin": "Grand Line",
   "firstChapter": 115,
@@ -747,6 +1312,47 @@
     "chapter": 489
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 489
+    },
+    {
+     "value": "Rumbar Pirates",
+     "chapter": 442
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 442,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Revive-Revive Fruit"
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 277.0,
+     "chapter": 598
+    },
+    {
+     "value": 266.0,
+     "chapter": 442
+    }
+   ],
+   "portrait": [
+    {
+     "value": "brook.png",
+     "chapter": 598
+    },
+    {
+     "value": "brook-pre.png",
+     "chapter": 442
+    }
+   ]
+  },
   "heightCm": 277,
   "origin": "West Blue",
   "firstChapter": 442,
@@ -780,6 +1386,31 @@
     "chapter": 96
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1056
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 700
+    },
+    {
+     "value": "Buggy Pirates",
+     "chapter": 9
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 9,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Chop-Chop Fruit"
+    }
+   ]
+  },
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 9,
@@ -810,6 +1441,31 @@
     "chapter": 664
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "NEO MADS",
+     "chapter": 1078
+    },
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 713
+    },
+    {
+     "value": "MADS",
+     "chapter": 658
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 658,
+     "types": [
+      "Logia"
+     ],
+     "name": "Gas-Gas Fruit"
+    }
+   ]
+  },
   "heightCm": 309,
   "origin": "Grand Line",
   "firstChapter": 658,
@@ -831,6 +1487,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Takoyaki 8",
+     "chapter": 195
+    }
+   ],
+   "portrait": [
+    {
+     "value": "camie.png",
+     "chapter": 598
+    },
+    {
+     "value": "camie-pre.png",
+     "chapter": 195
+    }
+   ]
+  },
   "heightCm": 197,
   "origin": "Grand Line",
   "firstChapter": 195,
@@ -868,6 +1542,33 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Tank Pirates",
+     "chapter": 498
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 507,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Castle-Castle Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "capone-bege.png",
+     "chapter": 598
+    },
+    {
+     "value": "capone-bege-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 166,
   "origin": "West Blue",
   "firstChapter": 498,
@@ -896,6 +1597,23 @@
     "chapter": 600
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Caribou Pirates",
+     "chapter": 600
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 603,
+     "types": [
+      "Logia"
+     ],
+     "name": "Swamp-Swamp Fruit"
+    }
+   ]
+  },
   "heightCm": 228,
   "origin": "North Blue",
   "firstChapter": 600,
@@ -915,6 +1633,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Mokomo Dukedom",
+     "chapter": 804
+    }
+   ]
+  },
   "heightCm": 161,
   "origin": "Grand Line",
   "firstChapter": 804,
@@ -939,6 +1665,33 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 575
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 925,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Dog-Dog Fruit, Model: Nine Tailed Fox"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "catarina-devon.png",
+     "chapter": 598
+    },
+    {
+     "value": "catarina-devon-pre.png",
+     "chapter": 575
+    }
+   ]
+  },
   "heightCm": 361,
   "origin": "South Blue",
   "firstChapter": 575,
@@ -974,6 +1727,24 @@
     "chapter": 704
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beautiful Pirates",
+     "chapter": 704
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 918
+    },
+    {
+     "value": "Observation",
+     "chapter": 918
+    }
+   ]
+  },
   "heightCm": 208,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -1000,6 +1771,24 @@
     "chapter": 661
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Brownbeard Pirates",
+     "chapter": 581
+    }
+   ],
+   "portrait": [
+    {
+     "value": "chadros-higelyges.png",
+     "chapter": 598
+    },
+    {
+     "value": "chadros-higelyges-pre.png",
+     "chapter": 581
+    }
+   ]
+  },
   "heightCm": 691,
   "origin": "Grand Line",
   "firstChapter": 581,
@@ -1023,6 +1812,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 155
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 196,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Dog-Dog Fruit, Model: Jackal"
+    }
+   ]
+  },
   "heightCm": 213,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -1047,6 +1853,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 831
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 831,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Mirror-Mirror Fruit"
+    }
+   ]
+  },
   "heightCm": 350,
   "origin": "Grand Line",
   "firstChapter": 831,
@@ -1068,6 +1891,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fire Tank Pirates",
+     "chapter": 825
+    }
+   ]
+  },
   "heightCm": 215,
   "origin": "Grand Line",
   "firstChapter": 825,
@@ -1101,6 +1932,33 @@
     "chapter": 836
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 835
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 837
+    },
+    {
+     "value": "Observation",
+     "chapter": 843
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 838,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Bis-Bis Fruit"
+    }
+   ]
+  },
   "heightCm": 307,
   "origin": "Grand Line",
   "firstChapter": 835,
@@ -1132,6 +1990,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 861
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 951
+    },
+    {
+     "value": "Observation",
+     "chapter": 951
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 861,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Puff-Puff Fruit"
+    }
+   ]
+  },
   "heightCm": 489,
   "origin": "Grand Line",
   "firstChapter": 861,
@@ -1165,6 +2050,37 @@
     "chapter": 860
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 860
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 860
+    },
+    {
+     "value": "Armament",
+     "chapter": 863
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 893
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 863,
+     "types": [
+      "Special Paramecia"
+     ],
+     "name": "Mochi-Mochi Fruit"
+    }
+   ]
+  },
   "heightCm": 509,
   "origin": "Grand Line",
   "firstChapter": 860,
@@ -1207,6 +2123,37 @@
     "chapter": 868
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 651
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 861
+    },
+    {
+     "value": "Armament",
+     "chapter": 871
+    },
+    {
+     "value": "Observation",
+     "chapter": 1002
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 829,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Soul-Soul Fruit"
+    }
+   ]
+  },
   "heightCm": 880,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -1234,6 +2181,24 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rolling Pirates",
+     "chapter": 476
+    }
+   ],
+   "portrait": [
+    {
+     "value": "charlotte-lola.png",
+     "chapter": 598
+    },
+    {
+     "value": "charlotte-lola-pre.png",
+     "chapter": 476
+    }
+   ]
+  },
   "heightCm": 215,
   "origin": "Grand Line",
   "firstChapter": 476,
@@ -1263,6 +2228,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 829
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 846,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Book-Book Fruit"
+    }
+   ]
+  },
   "heightCm": 260,
   "origin": "Grand Line",
   "firstChapter": 829,
@@ -1294,6 +2276,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 861
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 861
+    },
+    {
+     "value": "Observation",
+     "chapter": 861
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 861,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Heat-Heat Fruit"
+    }
+   ]
+  },
   "heightCm": 492,
   "origin": "Grand Line",
   "firstChapter": 861,
@@ -1325,6 +2334,33 @@
     "chapter": 877
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 834
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 950
+    },
+    {
+     "value": "Observation",
+     "chapter": 950
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 834,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Lick-Lick Fruit"
+    }
+   ]
+  },
   "heightCm": 333,
   "origin": "Grand Line",
   "firstChapter": 834,
@@ -1348,6 +2384,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 651
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 851,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Memo-Memo Fruit"
+    }
+   ]
+  },
   "heightCm": 166,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -1379,6 +2432,33 @@
     "chapter": 846
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 846
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 950
+    },
+    {
+     "value": "Observation",
+     "chapter": 950
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 846,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Wring-Wring Fruit"
+    }
+   ]
+  },
   "heightCm": 464,
   "origin": "Grand Line",
   "firstChapter": 846,
@@ -1398,6 +2478,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Water 7",
+     "chapter": 322
+    }
+   ],
+   "portrait": [
+    {
+     "value": "chimney.png",
+     "chapter": 598
+    },
+    {
+     "value": "chimney-pre.png",
+     "chapter": 322
+    }
+   ]
+  },
   "heightCm": 115,
   "origin": "Grand Line",
   "firstChapter": 322,
@@ -1429,6 +2527,28 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Chinjao Family",
+     "chapter": 704
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 715
+    },
+    {
+     "value": "Armament",
+     "chapter": 716
+    },
+    {
+     "value": "Observation",
+     "chapter": 946
+    }
+   ]
+  },
   "heightCm": 520,
   "origin": "West Blue",
   "firstChapter": 704,
@@ -1448,6 +2568,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Skypiea",
+     "chapter": 239
+    }
+   ],
+   "portrait": [
+    {
+     "value": "conis.png",
+     "chapter": 598
+    },
+    {
+     "value": "conis-pre.png",
+     "chapter": 239
+    }
+   ]
+  },
   "heightCm": 176,
   "origin": "Sky Island",
   "firstChapter": 239,
@@ -1485,6 +2623,37 @@
     "chapter": 155
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1058
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 126
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 920
+    },
+    {
+     "value": "Observation",
+     "chapter": 920
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 126,
+     "types": [
+      "Logia"
+     ],
+     "name": "Sand-Sand Fruit"
+    }
+   ]
+  },
   "heightCm": 253,
   "origin": "Grand Line",
   "firstChapter": 126,
@@ -1506,6 +2675,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Roger Pirates",
+     "chapter": 506
+    },
+    {
+     "value": "Twin Capes",
+     "chapter": 102
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 920
+    }
+   ]
+  },
   "heightCm": 203,
   "origin": "Grand Line",
   "firstChapter": 102,
@@ -1532,6 +2719,14 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Dadan Family",
+     "chapter": 440
+    }
+   ]
+  },
   "heightCm": 221,
   "origin": "East Blue",
   "firstChapter": 440,
@@ -1553,6 +2748,27 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sakura Kingdom",
+     "chapter": 243
+    },
+    {
+     "value": "Drum Kingdom",
+     "chapter": 132
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 135,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Ox-Ox Fruit, Bison Model"
+    }
+   ]
+  },
   "heightCm": 218,
   "origin": "Grand Line",
   "firstChapter": 132,
@@ -1583,6 +2799,27 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1058
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 160
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 190,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Dice-Dice Fruit"
+    }
+   ]
+  },
   "heightCm": 212,
   "origin": "West Blue",
   "firstChapter": 160,
@@ -1609,6 +2846,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 973
+    },
+    {
+     "value": "Kyoshiro Family",
+     "chapter": 919
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 992
+    },
+    {
+     "value": "Observation",
+     "chapter": 992
+    }
+   ]
+  },
   "heightCm": 306,
   "origin": "Grand Line",
   "firstChapter": 919,
@@ -1640,6 +2899,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 700
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 776
+    },
+    {
+     "value": "Observation",
+     "chapter": 776
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 736,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Ripple-Ripple Fruit"
+    }
+   ]
+  },
   "heightCm": 525,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -1669,6 +2955,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 223
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1063,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Sick-Sick Fruit"
+    }
+   ]
+  },
   "heightCm": 342,
   "origin": "North Blue",
   "firstChapter": 223,
@@ -1704,6 +3007,41 @@
     "chapter": 234
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 692
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 689
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 698
+    },
+    {
+     "value": "Observation",
+     "chapter": 918
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 233,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "String-String Fruit"
+    }
+   ]
+  },
   "heightCm": 305,
   "origin": "Red Line",
   "firstChapter": 233,
@@ -1729,6 +3067,27 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 764
+    },
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 761
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 764,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Calm-Calm Fruit"
+    }
+   ]
+  },
   "heightCm": 293,
   "origin": "Red Line",
   "firstChapter": 761,
@@ -1760,6 +3119,14 @@
     "chapter": 118
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Giant Warrior Pirates",
+     "chapter": 116
+    }
+   ]
+  },
   "heightCm": 2260,
   "origin": "Grand Line",
   "firstChapter": 116,
@@ -1791,6 +3158,28 @@
     "chapter": 1058
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1056
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 49
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 561
+    },
+    {
+     "value": "Armament",
+     "chapter": 779
+    }
+   ]
+  },
   "heightCm": 198,
   "origin": "Unknown",
   "firstChapter": 49,
@@ -1820,6 +3209,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baroque Works",
+     "chapter": 160
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 184,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Mole-Mole Fruit"
+    }
+   ]
+  },
   "heightCm": 156,
   "origin": "Grand Line",
   "firstChapter": 160,
@@ -1844,6 +3250,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 1065
+    }
+   ]
+  },
   "heightCm": 100,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -1876,6 +3290,37 @@
     "chapter": 957
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 159
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 557
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 570
+    },
+    {
+     "value": "Armament",
+     "chapter": 575
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 552,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Tremor-Tremor Fruit"
+    }
+   ]
+  },
   "heightCm": 666,
   "origin": "Grand Line",
   "firstChapter": 159,
@@ -1906,6 +3351,15 @@
     "chapter": 802
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 802
+    }
+   ],
+   "haki": []
+  },
   "heightCm": 680,
   "origin": "Grand Line",
   "firstChapter": 802,
@@ -1927,6 +3381,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Egghead",
+     "chapter": 1065
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1065,
@@ -1957,6 +3419,23 @@
     "chapter": 536
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 537
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 537,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Horm-Horm Fruit"
+    }
+   ]
+  },
   "heightCm": 449,
   "origin": "Grand Line",
   "firstChapter": 537,
@@ -1983,6 +3462,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "God's Army",
+     "chapter": 254
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 278
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 254,
+     "types": [
+      "Logia"
+     ],
+     "name": "Rumble-Rumble Fruit"
+    }
+   ]
+  },
   "heightCm": 266,
   "origin": "Sky Island",
   "firstChapter": 254,
@@ -2011,6 +3513,37 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1110
+    },
+    {
+     "value": "Observation",
+     "chapter": 1115
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1117
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1110,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -2053,6 +3586,47 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kid Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 924
+    },
+    {
+     "value": "Armament",
+     "chapter": 1025
+    },
+    {
+     "value": "Observation",
+     "chapter": 1043
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 504,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Magnet-Magnet Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "eustass-kid.png",
+     "chapter": 598
+    },
+    {
+     "value": "eustass-kid-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 205,
   "origin": "South Blue",
   "firstChapter": 498,
@@ -2076,6 +3650,19 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 1125
+    },
+    {
+     "value": "Knights of God",
+     "chapter": 1086
+    }
+   ],
+   "haki": []
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1086,
@@ -2099,6 +3686,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Knights of God",
+     "chapter": 907
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 1139
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "West Blue",
   "firstChapter": 907,
@@ -2127,6 +3728,14 @@
     "chapter": 622
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sun Pirates",
+     "chapter": 521
+    }
+   ]
+  },
   "heightCm": 520,
   "origin": "Grand Line",
   "firstChapter": 521,
@@ -2155,6 +3764,33 @@
     "chapter": 305
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Foxy Pirates",
+     "chapter": 305
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 305,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Slow-Slow Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "foxy.png",
+     "chapter": 598
+    },
+    {
+     "value": "foxy-pre.png",
+     "chapter": 305
+    }
+   ]
+  },
   "heightCm": 180,
   "origin": "South Blue",
   "firstChapter": 305,
@@ -2192,6 +3828,38 @@
     "chapter": 435
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 437
+    },
+    {
+     "value": "Franky Family",
+     "chapter": 329
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 240.0,
+     "chapter": 598
+    },
+    {
+     "value": 225.0,
+     "chapter": 329
+    }
+   ],
+   "portrait": [
+    {
+     "value": "franky.png",
+     "chapter": 598
+    },
+    {
+     "value": "franky-pre.png",
+     "chapter": 329
+    }
+   ]
+  },
   "heightCm": 240,
   "origin": "South Blue",
   "firstChapter": 329,
@@ -2211,6 +3879,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Neptune Family",
+     "chapter": 609
+    }
+   ]
+  },
   "heightCm": 604,
   "origin": "Grand Line",
   "firstChapter": 609,
@@ -2236,6 +3912,38 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 1083
+    },
+    {
+     "value": "CP9",
+     "chapter": 375
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 950
+    },
+    {
+     "value": "Observation",
+     "chapter": 950
+    }
+   ],
+   "portrait": [
+    {
+     "value": "fukurou.png",
+     "chapter": 598
+    },
+    {
+     "value": "fukurou-pre.png",
+     "chapter": 375
+    }
+   ]
+  },
   "heightCm": 331,
   "origin": "Grand Line",
   "firstChapter": 375,
@@ -2255,6 +3963,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Island of Rare Animals",
+     "chapter": 22
+    }
+   ]
+  },
   "heightCm": 130,
   "origin": "East Blue",
   "firstChapter": 22,
@@ -2284,6 +4000,31 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cross Guild",
+     "chapter": 1058
+    },
+    {
+     "value": "Buggy Pirates",
+     "chapter": 593
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 117
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 117,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Wax-Wax Fruit"
+    }
+   ]
+  },
   "heightCm": 179,
   "origin": "South Blue",
   "firstChapter": 117,
@@ -2307,6 +4048,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Skypiea",
+     "chapter": 237
+    }
+   ]
+  },
   "heightCm": 180,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -2337,6 +4086,27 @@
     "chapter": 455
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Thriller Bark Pirates",
+     "chapter": 581
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 449
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 449,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Shadow-Shadow Fruit"
+    }
+   ]
+  },
   "heightCm": 692,
   "origin": "West Blue",
   "firstChapter": 449,
@@ -2366,6 +4136,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baroque Works",
+     "chapter": 110
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 110,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Bomb-Bomb Fruit"
+    }
+   ]
+  },
   "heightCm": 197,
   "origin": "South Blue",
   "firstChapter": 110,
@@ -2385,6 +4172,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cocoyasi Village",
+     "chapter": 71
+    }
+   ],
+   "portrait": [
+    {
+     "value": "genzo.png",
+     "chapter": 598
+    },
+    {
+     "value": "genzo-pre.png",
+     "chapter": 71
+    }
+   ]
+  },
   "heightCm": 173,
   "origin": "East Blue",
   "firstChapter": 71,
@@ -2412,6 +4217,14 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Krieg Pirates",
+     "chapter": 44
+    }
+   ]
+  },
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 44,
@@ -2438,6 +4251,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 682
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 723,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Pop-Pop Fruit"
+    }
+   ]
+  },
   "heightCm": 260,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -2470,6 +4300,28 @@
     "chapter": 957
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Roger Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 920
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 966
+    },
+    {
+     "value": "Armament",
+     "chapter": 966
+    }
+   ]
+  },
   "heightCm": 274,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -2489,6 +4341,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Water 7",
+     "chapter": 322
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 322,
@@ -2516,6 +4376,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Knights of God",
+     "chapter": 1134
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 1139
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1134,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Arrow-Arrow Fruit"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "West Blue",
   "firstChapter": 1134,
@@ -2535,6 +4418,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "New Giant Warrior Pirates",
+     "chapter": 706
+    }
+   ]
+  },
   "heightCm": 2200,
   "origin": "Grand Line",
   "firstChapter": 706,
@@ -2558,6 +4449,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Elbaf Royal Family",
+     "chapter": 1136
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 1155
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 1136,
@@ -2585,6 +4490,18 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Takoyaki 8",
+     "chapter": 228
+    },
+    {
+     "value": "Arlong Pirates",
+     "chapter": 69
+    }
+   ]
+  },
   "heightCm": 220,
   "origin": "Grand Line",
   "firstChapter": 69,
@@ -2604,6 +4521,32 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 801
+    },
+    {
+     "value": "CP9",
+     "chapter": 345
+    },
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "portrait": [
+    {
+     "value": "hattori.png",
+     "chapter": 598
+    },
+    {
+     "value": "hattori-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 25,
   "origin": "Unknown",
   "firstChapter": 323,
@@ -2630,6 +4573,30 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 3
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1088
+    }
+   ],
+   "portrait": [
+    {
+     "value": "helmeppo.png",
+     "chapter": 598
+    },
+    {
+     "value": "helmeppo-pre.png",
+     "chapter": 3
+    }
+   ]
+  },
   "heightCm": 179,
   "origin": "Unknown",
   "firstChapter": 3,
@@ -2658,6 +4625,23 @@
     "chapter": 1133
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 171
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 217,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Bind-Bind Fruit"
+    }
+   ]
+  },
   "heightCm": 181,
   "origin": "West Blue",
   "firstChapter": 171,
@@ -2680,6 +4664,18 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sakura Kingdom",
+     "chapter": 243
+    },
+    {
+     "value": "Drum Kingdom",
+     "chapter": 141
+    }
+   ]
+  },
   "heightCm": 213,
   "origin": "Grand Line",
   "firstChapter": 141,
@@ -2702,6 +4698,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "New Fish-Man Pirates",
+     "chapter": 608
+    }
+   ]
+  },
   "heightCm": 331,
   "origin": "Grand Line",
   "firstChapter": 608,
@@ -2724,6 +4728,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Thriller Bark Pirates",
+     "chapter": 446
+    }
+   ]
+  },
   "heightCm": 223,
   "origin": "West Blue",
   "firstChapter": 446,
@@ -2751,6 +4763,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Wano Country",
+     "chapter": 926
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 939
+    },
+    {
+     "value": "Observation",
+     "chapter": 1044
+    }
+   ]
+  },
   "heightCm": 100,
   "origin": "Grand Line",
   "firstChapter": 926,
@@ -2772,6 +4802,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 199,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -2794,6 +4832,28 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 110
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 106
+    }
+   ],
+   "portrait": [
+    {
+     "value": "igaram.png",
+     "chapter": 598
+    },
+    {
+     "value": "igaram-pre.png",
+     "chapter": 106
+    }
+   ]
+  },
   "heightCm": 218,
   "origin": "Grand Line",
   "firstChapter": 106,
@@ -2823,6 +4883,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "World Government",
+     "chapter": 906
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1122
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1149
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1085,
+     "types": [
+      "Unknown"
+     ],
+     "name": "The Devil's Fruit"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 906,
@@ -2849,6 +4936,27 @@
     "chapter": 536
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 549
+    },
+    {
+     "value": "Newkama Land",
+     "chapter": 536
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 540,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Snip-Snip Fruit"
+    }
+   ]
+  },
   "heightCm": 228,
   "origin": "South Blue",
   "firstChapter": 536,
@@ -2876,6 +4984,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Mokomo Dukedom",
+     "chapter": 808
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 992
+    },
+    {
+     "value": "Observation",
+     "chapter": 992
+    }
+   ]
+  },
   "heightCm": 511,
   "origin": "Grand Line",
   "firstChapter": 808,
@@ -2907,6 +5033,33 @@
     "chapter": 1087
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 701
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 713
+    },
+    {
+     "value": "Armament",
+     "chapter": 752
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 701,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Press-Press Fruit"
+    }
+   ]
+  },
   "heightCm": 270,
   "origin": "Grand Line",
   "firstChapter": 701,
@@ -2936,6 +5089,38 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 962
+    },
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 553
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 992
+    },
+    {
+     "value": "Observation",
+     "chapter": 992
+    }
+   ],
+   "portrait": [
+    {
+     "value": "izou.png",
+     "chapter": 598
+    },
+    {
+     "value": "izou-pre.png",
+     "chapter": 553
+    }
+   ]
+  },
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 553,
@@ -2962,6 +5147,47 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 1083
+    },
+    {
+     "value": "CP9",
+     "chapter": 375
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 944
+    },
+    {
+     "value": "Observation",
+     "chapter": 944
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 401,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Mutt-Mutt Fruit, Model: Wolf"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "jabra.png",
+     "chapter": 598
+    },
+    {
+     "value": "jabra-pre.png",
+     "chapter": 375
+    }
+   ]
+  },
   "heightCm": 212,
   "origin": "North Blue",
   "firstChapter": 375,
@@ -2993,6 +5219,33 @@
     "chapter": 809
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 801
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1024
+    },
+    {
+     "value": "Observation",
+     "chapter": 1024
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 807,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Elephant-Elephant Fruit, Model: Mammoth"
+    }
+   ]
+  },
   "heightCm": 830,
   "origin": "Grand Line",
   "firstChapter": 801,
@@ -3017,6 +5270,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Walrus School",
+     "chapter": 1133
+    },
+    {
+     "value": "Marines",
+     "chapter": 392
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1142
+    }
+   ]
+  },
   "heightCm": 1950,
   "origin": "South Blue",
   "firstChapter": 392,
@@ -3049,6 +5320,18 @@
     "chapter": 136
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 172
+    },
+    {
+     "value": "Black Cat Pirates",
+     "chapter": 25
+    }
+   ]
+  },
   "heightCm": 207,
   "origin": "East Blue",
   "firstChapter": 25,
@@ -3076,6 +5359,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1114
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1115
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1085,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -3109,6 +5419,43 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 222
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 737
+    },
+    {
+     "value": "Observation",
+     "chapter": 920
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1063,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Strong-Strong Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "jesus-burgess.png",
+     "chapter": 598
+    },
+    {
+     "value": "jesus-burgess-pre.png",
+     "chapter": 222
+    }
+   ]
+  },
   "heightCm": 355,
   "origin": "Grand Line",
   "firstChapter": 222,
@@ -3145,6 +5492,39 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Bonney Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1119
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 507,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Age-Age Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "jewelry-bonney.png",
+     "chapter": 598
+    },
+    {
+     "value": "jewelry-bonney-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 174,
   "origin": "Red Line",
   "firstChapter": 498,
@@ -3188,6 +5568,32 @@
     "chapter": 622
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 976
+    },
+    {
+     "value": "Sun Pirates",
+     "chapter": 620
+    },
+    {
+     "value": "Seven Warlords of the Sea",
+     "chapter": 528
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 864
+    },
+    {
+     "value": "Observation",
+     "chapter": 1055
+    }
+   ]
+  },
   "heightCm": 301,
   "origin": "Grand Line",
   "firstChapter": 528,
@@ -3209,6 +5615,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Bounty Hunters",
+     "chapter": 42
+    }
+   ],
+   "portrait": [
+    {
+     "value": "johnny.png",
+     "chapter": 598
+    },
+    {
+     "value": "johnny-pre.png",
+     "chapter": 42
+    }
+   ]
+  },
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 42,
@@ -3235,6 +5659,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 234
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 560
+    },
+    {
+     "value": "Observation",
+     "chapter": 918
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 553,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Twinkle-Twinkle Fruit"
+    }
+   ]
+  },
   "heightCm": 503,
   "origin": "West Blue",
   "firstChapter": 234,
@@ -3273,6 +5724,37 @@
     "chapter": 1049
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 795
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 951
+    },
+    {
+     "value": "Armament",
+     "chapter": 1009
+    },
+    {
+     "value": "Observation",
+     "chapter": 1009
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 921,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)"
+    }
+   ]
+  },
   "heightCm": 710,
   "origin": "Grand Line",
   "firstChapter": 795,
@@ -3299,6 +5781,51 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 907
+    },
+    {
+     "value": "CP9",
+     "chapter": 345
+    },
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 943
+    },
+    {
+     "value": "Armament",
+     "chapter": 1072
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 385,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Ox-Ox Fruit Giraffe Model"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "kaku.png",
+     "chapter": 598
+    },
+    {
+     "value": "kaku-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 193,
   "origin": "East Blue",
   "firstChapter": 323,
@@ -3323,6 +5850,15 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shandia",
+     "chapter": 286
+    }
+   ],
+   "haki": []
+  },
   "heightCm": 222,
   "origin": "Grand Line",
   "firstChapter": 286,
@@ -3347,6 +5883,42 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 1083
+    },
+    {
+     "value": "CP9",
+     "chapter": 345
+    },
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "haki": [],
+   "devilFruit": [
+    {
+     "chapter": 408,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Bubble-Bubble Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "kalifa.png",
+     "chapter": 598
+    },
+    {
+     "value": "kalifa-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 185,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -3376,6 +5948,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 593
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 904
+    },
+    {
+     "value": "Observation",
+     "chapter": 904
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 904,
+     "types": [
+      "Logia"
+     ],
+     "name": "Soot-Soot Fruit"
+    }
+   ]
+  },
   "heightCm": 265,
   "origin": "North Blue",
   "firstChapter": 593,
@@ -3397,6 +5996,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 109
+    }
+   ],
+   "portrait": [
+    {
+     "value": "karoo.png",
+     "chapter": 598
+    },
+    {
+     "value": "karoo-pre.png",
+     "chapter": 109
+    }
+   ]
+  },
   "heightCm": 150,
   "origin": "Grand Line",
   "firstChapter": 109,
@@ -3422,6 +6039,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 920
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 948
+    },
+    {
+     "value": "Observation",
+     "chapter": 1018
+    }
+   ]
+  },
   "heightCm": 271,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -3441,6 +6076,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Syrup Village",
+     "chapter": 23
+    }
+   ],
+   "portrait": [
+    {
+     "value": "kaya.png",
+     "chapter": 598
+    },
+    {
+     "value": "kaya-pre.png",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 169,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -3467,6 +6120,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 913
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 987
+    },
+    {
+     "value": "Observation",
+     "chapter": 1019
+    }
+   ]
+  },
   "heightCm": 287,
   "origin": "Grand Line",
   "firstChapter": 913,
@@ -3501,6 +6172,24 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kid Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1025
+    },
+    {
+     "value": "Observation",
+     "chapter": 1025
+    }
+   ]
+  },
   "heightCm": 195,
   "origin": "South Blue",
   "firstChapter": 498,
@@ -3526,6 +6215,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Knights of God",
+     "chapter": 1140
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 1145
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1140,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Kirin"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1140,
@@ -3554,6 +6266,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 656
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 656
+    },
+    {
+     "value": "Armament",
+     "chapter": 788
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 656,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Garb-Garb Fruit"
+    }
+   ]
+  },
   "heightCm": 295,
   "origin": "Grand Line",
   "firstChapter": 656,
@@ -3587,6 +6326,33 @@
     "chapter": 920
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 920
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1032
+    },
+    {
+     "value": "Observation",
+     "chapter": 1036
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 930,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Pteranodon"
+    }
+   ]
+  },
   "heightCm": 613,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -3606,6 +6372,18 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 731
+    },
+    {
+     "value": "Sun Pirates",
+     "chapter": 622
+    }
+   ]
+  },
   "heightCm": 160,
   "origin": "Unknown",
   "firstChapter": 622,
@@ -3635,6 +6413,38 @@
     "chapter": 1080
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 7
+    },
+    {
+     "value": "Alvida Pirates",
+     "chapter": 2
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 579
+    },
+    {
+     "value": "Armament",
+     "chapter": 1088
+    }
+   ],
+   "portrait": [
+    {
+     "value": "koby.png",
+     "chapter": 598
+    },
+    {
+     "value": "koby-pre.png",
+     "chapter": 2
+    }
+   ]
+  },
   "heightCm": 167,
   "origin": "East Blue",
   "firstChapter": 2,
@@ -3656,6 +6466,18 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Tom's Workers",
+     "chapter": 353
+    },
+    {
+     "value": "Water 7",
+     "chapter": 322
+    }
+   ]
+  },
   "heightCm": 168,
   "origin": "Grand Line",
   "firstChapter": 322,
@@ -3677,6 +6499,32 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 638
+    },
+    {
+     "value": "Rebel Army",
+     "chapter": 164
+    },
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 163
+    }
+   ],
+   "portrait": [
+    {
+     "value": "koza.png",
+     "chapter": 598
+    },
+    {
+     "value": "koza-pre.png",
+     "chapter": 163
+    }
+   ]
+  },
   "heightCm": 177,
   "origin": "Grand Line",
   "firstChapter": 163,
@@ -3700,6 +6548,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 909
+    }
+   ]
+  },
   "heightCm": 170,
   "origin": "Grand Line",
   "firstChapter": 909,
@@ -3727,6 +6583,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 684
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1008
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 684,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)"
+    }
+   ]
+  },
   "heightCm": 322,
   "origin": "Grand Line",
   "firstChapter": 684,
@@ -3753,6 +6632,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 920
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 924
+    },
+    {
+     "value": "Armament",
+     "chapter": 955
+    },
+    {
+     "value": "Observation",
+     "chapter": 972
+    }
+   ]
+  },
   "heightCm": 382,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -3778,6 +6679,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 919
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 919,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Time-Time Fruit"
+    }
+   ]
+  },
   "heightCm": 190,
   "origin": "Unknown",
   "firstChapter": 919,
@@ -3805,6 +6723,14 @@
     "chapter": 96
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Krieg Pirates",
+     "chapter": 45
+    }
+   ]
+  },
   "heightCm": 243,
   "origin": "East Blue",
   "firstChapter": 45,
@@ -3826,6 +6752,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shimotsuki Family",
+     "chapter": 5
+    }
+   ]
+  },
   "heightCm": 150,
   "origin": "East Blue",
   "firstChapter": 5,
@@ -3848,6 +6782,38 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 1083
+    },
+    {
+     "value": "CP9",
+     "chapter": 375
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 946
+    },
+    {
+     "value": "Observation",
+     "chapter": 946
+    }
+   ],
+   "portrait": [
+    {
+     "value": "kumadori.png",
+     "chapter": 598
+    },
+    {
+     "value": "kumadori-pre.png",
+     "chapter": 375
+    }
+   ]
+  },
   "heightCm": 338,
   "origin": "South Blue",
   "firstChapter": 375,
@@ -3870,6 +6836,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Sakura Kingdom",
+     "chapter": 134
+    }
+   ]
+  },
   "heightCm": 188,
   "origin": "Grand Line",
   "firstChapter": 134,
@@ -3898,6 +6872,14 @@
     "chapter": 264
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Black Cat Pirates",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 207,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -3925,6 +6907,41 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kurozumi Family",
+     "chapter": 974
+    },
+    {
+     "value": "Kozuki Family",
+     "chapter": 817
+    },
+    {
+     "value": "Wano Country",
+     "chapter": 700
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 788
+    },
+    {
+     "value": "Observation",
+     "chapter": 788
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 755,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Brush-Brush Fruit"
+    }
+   ]
+  },
   "heightCm": 347,
   "origin": "Grand Line",
   "firstChapter": 700,
@@ -3949,6 +6966,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kurozumi Family",
+     "chapter": 927
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 927,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Snake-Snake Fruit, Model: Eight Headed Serpent"
+    }
+   ]
+  },
   "heightCm": 350,
   "origin": "Grand Line",
   "firstChapter": 927,
@@ -3974,6 +7008,27 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kurozumi Family",
+     "chapter": 1065
+    },
+    {
+     "value": "Wano Country",
+     "chapter": 911
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 911,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Millet-Millet Fruit"
+    }
+   ]
+  },
   "heightCm": 108,
   "origin": "Grand Line",
   "firstChapter": 911,
@@ -4000,6 +7055,43 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 793
+    },
+    {
+     "value": "Marines",
+     "chapter": 303
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 564
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 319,
+     "types": [
+      "Logia"
+     ],
+     "name": "Ice-Ice Fruit (Chilly-Chilly Fruit)"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "kuzan.png",
+     "chapter": 598
+    },
+    {
+     "value": "kuzan-pre.png",
+     "chapter": 303
+    }
+   ]
+  },
   "heightCm": 298,
   "origin": "South Blue",
   "firstChapter": 303,
@@ -4022,6 +7114,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Riku Family",
+     "chapter": 702
+    }
+   ]
+  },
   "heightCm": 298,
   "origin": "Grand Line",
   "firstChapter": 702,
@@ -4049,6 +7149,14 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 234
+    }
+   ]
+  },
   "heightCm": 340,
   "origin": "West Blue",
   "firstChapter": 234,
@@ -4070,6 +7178,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Tontatta Pirates",
+     "chapter": 710
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 710,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Sew-Sew Fruit (Stitch-Stitch Power)"
+    }
+   ]
+  },
   "heightCm": 23,
   "origin": "Grand Line",
   "firstChapter": 710,
@@ -4093,6 +7218,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 1061
+    }
+   ]
+  },
   "heightCm": 204,
   "origin": "Grand Line",
   "firstChapter": 1061,
@@ -4122,6 +7255,15 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 904
+    }
+   ],
+   "haki": []
+  },
   "heightCm": 149,
   "origin": "South Blue",
   "firstChapter": 904,
@@ -4154,6 +7296,33 @@
     "chapter": 1131
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Elbaf Royal Family",
+     "chapter": 1130
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 1152
+    },
+    {
+     "value": "Observation",
+     "chapter": 1179
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1170,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Nidhöggr"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 1130,
@@ -4177,6 +7346,30 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Red Hair Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1055
+    }
+   ],
+   "portrait": [
+    {
+     "value": "lucky-roux.png",
+     "chapter": 598
+    },
+    {
+     "value": "lucky-roux-pre.png",
+     "chapter": 1
+    }
+   ]
+  },
   "heightCm": 241,
   "origin": "South Blue",
   "firstChapter": 1,
@@ -4198,6 +7391,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Impel Down",
+     "chapter": 528
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 528,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Venom-Venom Fruit"
+    }
+   ]
+  },
   "heightCm": 491,
   "origin": "Grand Line",
   "firstChapter": 528,
@@ -4231,6 +7441,43 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 234
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 553
+    },
+    {
+     "value": "Observation",
+     "chapter": 1044
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 553,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Bird-Bird Fruit, Model: Phoenix"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "marco.png",
+     "chapter": 598
+    },
+    {
+     "value": "marco-pre.png",
+     "chapter": 234
+    }
+   ]
+  },
   "heightCm": 203,
   "origin": "Grand Line",
   "firstChapter": 234,
@@ -4258,6 +7505,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1112
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1115
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1085,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -4281,6 +7555,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kuja Pirates",
+     "chapter": 598
+    },
+    {
+     "value": "Kuja Tribe",
+     "chapter": 514
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 516
+    }
+   ]
+  },
   "heightCm": 178,
   "origin": "Calm Belt",
   "firstChapter": 514,
@@ -4318,6 +7610,51 @@
     "chapter": 925
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 223
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 544
+    },
+    {
+     "value": "Armament",
+     "chapter": 1059
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 577,
+     "types": [
+      "Logia",
+      "Paramecia"
+     ],
+     "name": "Dark-Dark Fruit & Tremor-Tremor Fruit"
+    },
+    {
+     "chapter": 440,
+     "types": [
+      "Logia"
+     ],
+     "name": "Dark-Dark Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "marshall-d-teach.png",
+     "chapter": 598
+    },
+    {
+     "value": "marshall-d-teach-pre.png",
+     "chapter": 223
+    }
+   ]
+  },
   "heightCm": 344,
   "origin": "Grand Line",
   "firstChapter": 223,
@@ -4347,6 +7684,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baroque Works",
+     "chapter": 110
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 110,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Kilo-Kilo Fruit"
+    }
+   ]
+  },
   "heightCm": 177,
   "origin": "West Blue",
   "firstChapter": 110,
@@ -4368,6 +7722,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 657
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 681,
+     "types": [
+      "Logia"
+     ],
+     "name": "Snow-Snow Fruit"
+    }
+   ]
+  },
   "heightCm": 227,
   "origin": "North Blue",
   "firstChapter": 657,
@@ -4392,6 +7763,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 100
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 570
+    }
+   ]
+  },
   "heightCm": 256,
   "origin": "East Blue",
   "firstChapter": 100,
@@ -4424,6 +7809,28 @@
     "chapter": 1087
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 92
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 567
+    },
+    {
+     "value": "Observation",
+     "chapter": 594
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1080
+    }
+   ]
+  },
   "heightCm": 287,
   "origin": "East Blue",
   "firstChapter": 92,
@@ -4484,6 +7891,65 @@
     "chapter": 96
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 495
+    },
+    {
+     "value": "Observation",
+     "chapter": 599
+    },
+    {
+     "value": "Armament",
+     "chapter": 601
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1044,
+     "types": [
+      "Mythical Zoan",
+      "Paramecia"
+     ],
+     "name": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)"
+    },
+    {
+     "chapter": 1,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Gum-Gum Fruit"
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 174.0,
+     "chapter": 598
+    },
+    {
+     "value": 172.0,
+     "chapter": 1
+    }
+   ],
+   "portrait": [
+    {
+     "value": "monkey-d-luffy.png",
+     "chapter": 598
+    },
+    {
+     "value": "monkey-d-luffy-pre.png",
+     "chapter": 1
+    }
+   ]
+  },
   "heightCm": 174,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -4511,6 +7977,24 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Saruyama Alliance",
+     "chapter": 227
+    }
+   ],
+   "portrait": [
+    {
+     "value": "mont-blanc-cricket.png",
+     "chapter": 598
+    },
+    {
+     "value": "mont-blanc-cricket-pre.png",
+     "chapter": 227
+    }
+   ]
+  },
   "heightCm": 242,
   "origin": "North Blue",
   "firstChapter": 227,
@@ -4534,6 +8018,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Lvneel Kingdom",
+     "chapter": 286
+    }
+   ]
+  },
   "heightCm": 220,
   "origin": "North Blue",
   "firstChapter": 286,
@@ -4556,6 +8048,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 4
+    }
+   ]
+  },
   "heightCm": 285,
   "origin": "Unknown",
   "firstChapter": 4,
@@ -4580,6 +8080,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "World Economy News Paper",
+     "chapter": 860
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 860,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Bird-Bird Fruit, Model: Albatross"
+    }
+   ]
+  },
   "heightCm": 305,
   "origin": "Grand Line",
   "firstChapter": 860,
@@ -4609,6 +8126,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 904
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1083
+    },
+    {
+     "value": "Observation",
+     "chapter": 1083
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 904,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Push-Push Fruit"
+    }
+   ]
+  },
   "heightCm": 1253,
   "origin": "West Blue",
   "firstChapter": 904,
@@ -4632,6 +8176,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Franky Family",
+     "chapter": 329
+    }
+   ]
+  },
   "heightCm": 187,
   "origin": "Grand Line",
   "firstChapter": 329,
@@ -4667,6 +8219,42 @@
     "chapter": 435
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 95
+    },
+    {
+     "value": "Arlong Pirates",
+     "chapter": 49
+    },
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 8
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 170.0,
+     "chapter": 598
+    },
+    {
+     "value": 169.0,
+     "chapter": 8
+    }
+   ],
+   "portrait": [
+    {
+     "value": "nami.png",
+     "chapter": 598
+    },
+    {
+     "value": "nami-pre.png",
+     "chapter": 8
+    }
+   ]
+  },
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 8,
@@ -4688,6 +8276,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 552
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 552,
@@ -4710,6 +8306,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 651
+    }
+   ]
+  },
   "heightCm": 848,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -4732,6 +8336,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 142
+    }
+   ],
+   "portrait": [
+    {
+     "value": "nefertari-cobra.png",
+     "chapter": 598
+    },
+    {
+     "value": "nefertari-cobra-pre.png",
+     "chapter": 142
+    }
+   ]
+  },
   "heightCm": 182,
   "origin": "Grand Line",
   "firstChapter": 142,
@@ -4754,6 +8376,28 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 110
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 103
+    }
+   ],
+   "portrait": [
+    {
+     "value": "nefertari-vivi.png",
+     "chapter": 598
+    },
+    {
+     "value": "nefertari-vivi-pre.png",
+     "chapter": 103
+    }
+   ]
+  },
   "heightCm": 169,
   "origin": "Grand Line",
   "firstChapter": 103,
@@ -4780,6 +8424,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Mokomo Dukedom",
+     "chapter": 809
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 948
+    },
+    {
+     "value": "Observation",
+     "chapter": 948
+    }
+   ]
+  },
   "heightCm": 522,
   "origin": "Grand Line",
   "firstChapter": 809,
@@ -4803,6 +8465,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Ryugu Kingdom",
+     "chapter": 611
+    }
+   ]
+  },
   "heightCm": 1220,
   "origin": "Grand Line",
   "firstChapter": 611,
@@ -4846,6 +8516,37 @@
     "chapter": 201
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 218
+    },
+    {
+     "value": "Baroque Works",
+     "chapter": 114
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 114,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Flower-Flower Fruit (Hana Hana no Mi)"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "nico-robin.png",
+     "chapter": 598
+    },
+    {
+     "value": "nico-robin-pre.png",
+     "chapter": 114
+    }
+   ]
+  },
   "heightCm": 188,
   "origin": "West Blue",
   "firstChapter": 114,
@@ -4865,6 +8566,28 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Usopp Security Force",
+     "chapter": 130
+    },
+    {
+     "value": "Usopp Pirates",
+     "chapter": 23
+    }
+   ],
+   "portrait": [
+    {
+     "value": "ninjin.png",
+     "chapter": 598
+    },
+    {
+     "value": "ninjin-pre.png",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 127,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -4884,6 +8607,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Cocoyasi Village",
+     "chapter": 70
+    }
+   ],
+   "portrait": [
+    {
+     "value": "nojiko.png",
+     "chapter": 598
+    },
+    {
+     "value": "nojiko-pre.png",
+     "chapter": 70
+    }
+   ]
+  },
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 70,
@@ -4906,6 +8647,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shandia",
+     "chapter": 255
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 255,
@@ -4928,6 +8677,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Thriller Bark Pirates",
+     "chapter": 456
+    }
+   ]
+  },
   "heightCm": 6700,
   "origin": "North Blue",
   "firstChapter": 456,
@@ -4959,6 +8716,14 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Yonta Maria Grand Fleet",
+     "chapter": 704
+    }
+   ]
+  },
   "heightCm": 480,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -4982,6 +8747,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Neptune Family",
+     "chapter": 621
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 621
+    }
+   ]
+  },
   "heightCm": 224,
   "origin": "Grand Line",
   "firstChapter": 621,
@@ -5013,6 +8792,29 @@
     "chapter": 929
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 929
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 983
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 929,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Spinosaurus"
+    }
+   ]
+  },
   "heightCm": 171,
   "origin": "Grand Line",
   "firstChapter": 929,
@@ -5034,6 +8836,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Takoyaki 8",
+     "chapter": 195
+    }
+   ],
+   "portrait": [
+    {
+     "value": "pappag.png",
+     "chapter": 598
+    },
+    {
+     "value": "pappag-pre.png",
+     "chapter": 195
+    }
+   ]
+  },
   "heightCm": 50,
   "origin": "Grand Line",
   "firstChapter": 195,
@@ -5053,6 +8873,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baratie",
+     "chapter": 44
+    }
+   ],
+   "portrait": [
+    {
+     "value": "patty.png",
+     "chapter": 598
+    },
+    {
+     "value": "patty-pre.png",
+     "chapter": 44
+    }
+   ]
+  },
   "heightCm": 204,
   "origin": "East Blue",
   "firstChapter": 44,
@@ -5074,6 +8912,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "portrait": [
+    {
+     "value": "paulie.png",
+     "chapter": 598
+    },
+    {
+     "value": "paulie-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 195,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -5104,6 +8960,24 @@
     "chapter": 850
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Mokomo Dukedom",
+     "chapter": 805
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 805
+    },
+    {
+     "value": "Observation",
+     "chapter": 805
+    }
+   ]
+  },
   "heightCm": 233,
   "origin": "Grand Line",
   "firstChapter": 805,
@@ -5125,6 +8999,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "portrait": [
+    {
+     "value": "peepley-lulu.png",
+     "chapter": 598
+    },
+    {
+     "value": "peepley-lulu-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 206,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -5156,6 +9048,33 @@
     "chapter": 652
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Big Mom Pirates",
+     "chapter": 651
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 652
+    },
+    {
+     "value": "Observation",
+     "chapter": 948
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 652,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Turtle-Turtle Fruit"
+    }
+   ]
+  },
   "heightCm": 232,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -5179,6 +9098,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Alabasta Kingdom",
+     "chapter": 155
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 169,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Tweet-Tweet Fruit, Model: Falcon (Bird-Bird Fruit, Model: Falcon)"
+    }
+   ]
+  },
   "heightCm": 189,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -5202,6 +9138,33 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Thriller Bark Pirates",
+     "chapter": 443
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 443,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Hollow-Hollow Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "perona.png",
+     "chapter": 598
+    },
+    {
+     "value": "perona-pre.png",
+     "chapter": 443
+    }
+   ]
+  },
   "heightCm": 160,
   "origin": "West Blue",
   "firstChapter": 443,
@@ -5231,6 +9194,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 700
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 778
+    },
+    {
+     "value": "Observation",
+     "chapter": 940
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 736,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Stone-Stone Fruit"
+    }
+   ]
+  },
   "heightCm": 470,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -5252,6 +9242,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Skypiea",
+     "chapter": 237
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 237,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Horse-Horse Fruit"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -5273,6 +9280,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Usopp Pirates",
+     "chapter": 23
+    }
+   ],
+   "portrait": [
+    {
+     "value": "piiman.png",
+     "chapter": 598
+    },
+    {
+     "value": "piiman-pre.png",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 120,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -5312,6 +9337,29 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 154
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 587
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 154,
+     "types": [
+      "Logia"
+     ],
+     "name": "Flame-Flame Fruit"
+    }
+   ]
+  },
   "heightCm": 185,
   "origin": "South Blue",
   "firstChapter": 154,
@@ -5336,6 +9384,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 1065
+    }
+   ]
+  },
   "heightCm": 341,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -5368,6 +9424,33 @@
     "chapter": 935
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 920
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1023
+    },
+    {
+     "value": "Observation",
+     "chapter": 1050
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 945,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Brachiosaurus"
+    }
+   ]
+  },
   "heightCm": 612,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -5394,6 +9477,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 817
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 920
+    },
+    {
+     "value": "Armament",
+     "chapter": 987
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 817,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Scroll-Scroll Fruit"
+    }
+   ]
+  },
   "heightCm": 311,
   "origin": "Grand Line",
   "firstChapter": 817,
@@ -5418,6 +9528,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Dressrosa",
+     "chapter": 704
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 725
+    }
+   ]
+  },
   "heightCm": 171,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -5441,6 +9565,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Riku Family",
+     "chapter": 706
+    }
+   ]
+  },
   "heightCm": 261,
   "origin": "Grand Line",
   "firstChapter": 706,
@@ -5468,6 +9600,51 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 801
+    },
+    {
+     "value": "CP9",
+     "chapter": 345
+    },
+    {
+     "value": "Galley-La Company",
+     "chapter": 323
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1069
+    },
+    {
+     "value": "Observation",
+     "chapter": 1094
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 349,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Cat-Cat Fruit, Model: Leopard"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "rob-lucci.png",
+     "chapter": 598
+    },
+    {
+     "value": "rob-lucci-pre.png",
+     "chapter": 323
+    }
+   ]
+  },
   "heightCm": 212,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -5494,6 +9671,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Rocks Pirates",
+     "chapter": 957
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 1155
+    },
+    {
+     "value": "Armament",
+     "chapter": 1165
+    }
+   ]
+  },
   "heightCm": 435,
   "origin": "West Blue",
   "firstChapter": 957,
@@ -5518,6 +9713,14 @@
     "chapter": 234
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Red Hair Pirates",
+     "chapter": 234
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 234,
@@ -5563,6 +9766,48 @@
     "chapter": 213
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 3
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 650
+    },
+    {
+     "value": "Armament",
+     "chapter": 668
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1010
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 181.0,
+     "chapter": 598
+    },
+    {
+     "value": 178.0,
+     "chapter": 3
+    }
+   ],
+   "portrait": [
+    {
+     "value": "roronoa-zoro.png",
+     "chapter": 598
+    },
+    {
+     "value": "roronoa-zoro-pre.png",
+     "chapter": 3
+    }
+   ]
+  },
   "heightCm": 181,
   "origin": "East Blue",
   "firstChapter": 3,
@@ -5595,6 +9840,47 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Revolutionary Army",
+     "chapter": 744
+    },
+    {
+     "value": "Dadan Family",
+     "chapter": 583
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 737
+    },
+    {
+     "value": "Observation",
+     "chapter": 946
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 744,
+     "types": [
+      "Logia"
+     ],
+     "name": "Flame-Flame Fruit"
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 187,
+     "chapter": 731
+    },
+    {
+     "value": 100,
+     "chapter": 583
+    }
+   ]
+  },
   "heightCm": 187,
   "origin": "East Blue",
   "firstChapter": 583,
@@ -5624,6 +9910,24 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Happo Navy",
+     "chapter": 704
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 771
+    },
+    {
+     "value": "Observation",
+     "chapter": 771
+    }
+   ]
+  },
   "heightCm": 242,
   "origin": "West Blue",
   "firstChapter": 704,
@@ -5656,6 +9960,39 @@
     "chapter": 1133
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 397
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 564
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 554,
+     "types": [
+      "Logia"
+     ],
+     "name": "Mag-Mag Fruit (Magma-Magma Fruit)"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "sakazuki.png",
+     "chapter": 598
+    },
+    {
+     "value": "sakazuki-pre.png",
+     "chapter": 397
+    }
+   ]
+  },
   "heightCm": 306,
   "origin": "North Blue",
   "firstChapter": 397,
@@ -5699,6 +10036,48 @@
     "chapter": 435
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 68
+    },
+    {
+     "value": "Baratie",
+     "chapter": 43
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 650
+    },
+    {
+     "value": "Armament",
+     "chapter": 668
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 180.0,
+     "chapter": 598
+    },
+    {
+     "value": 177.0,
+     "chapter": 43
+    }
+   ],
+   "portrait": [
+    {
+     "value": "sanji.png",
+     "chapter": 598
+    },
+    {
+     "value": "sanji-pre.png",
+     "chapter": 43
+    }
+   ]
+  },
   "heightCm": 180,
   "origin": "North Blue",
   "firstChapter": 43,
@@ -5723,6 +10102,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 575
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 575,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Huge-Huge Fruit"
+    }
+   ]
+  },
   "heightCm": 18000,
   "origin": "West Blue",
   "firstChapter": 575,
@@ -5752,6 +10148,33 @@
     "chapter": 977
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 977
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1025
+    },
+    {
+     "value": "Observation",
+     "chapter": 1025
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 998,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Triceratops Model"
+    }
+   ]
+  },
   "heightCm": 318,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -5778,6 +10201,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Roger Pirates",
+     "chapter": 19
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1139
+    },
+    {
+     "value": "Armament",
+     "chapter": 1140
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1149
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 19,
@@ -5814,6 +10259,43 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "On Air Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1025
+    },
+    {
+     "value": "Armament",
+     "chapter": 1032
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 498,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Tone-Tone Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "scratchmen-apoo.png",
+     "chapter": 598
+    },
+    {
+     "value": "scratchmen-apoo-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 256,
   "origin": "Grand Line",
   "firstChapter": 498,
@@ -5842,6 +10324,47 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 234
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 594
+    },
+    {
+     "value": "Observation",
+     "chapter": 594
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 920
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 570,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Human-Human Fruit, Model: Buddha"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "sengoku.png",
+     "chapter": 598
+    },
+    {
+     "value": "sengoku-pre.png",
+     "chapter": 234
+    }
+   ]
+  },
   "heightCm": 278,
   "origin": "South Blue",
   "firstChapter": 234,
@@ -5870,6 +10393,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 702
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 735,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Swim-Swim Fruit"
+    }
+   ]
+  },
   "heightCm": 244,
   "origin": "North Blue",
   "firstChapter": 702,
@@ -5897,6 +10437,24 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 497
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 511
+    },
+    {
+     "value": "Observation",
+     "chapter": 920
+    }
+   ]
+  },
   "heightCm": 279,
   "origin": "Grand Line",
   "firstChapter": 497,
@@ -5921,6 +10479,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 1062
+    }
+   ]
+  },
   "heightCm": 220,
   "origin": "Grand Line",
   "firstChapter": 1062,
@@ -5944,6 +10510,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shakky's Rip-off Bar",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 1059
+    }
+   ]
+  },
   "heightCm": 186,
   "origin": "Unknown",
   "firstChapter": 498,
@@ -5979,6 +10559,28 @@
     "chapter": 1058
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Red Hair Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 1
+    },
+    {
+     "value": "Armament",
+     "chapter": 579
+    },
+    {
+     "value": "Observation",
+     "chapter": 1054
+    }
+   ]
+  },
   "heightCm": 199,
   "origin": "West Blue",
   "firstChapter": 1,
@@ -6006,6 +10608,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1118
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1085,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -6030,6 +10655,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Wano Country",
+     "chapter": 1023
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1023
+    }
+   ]
+  },
   "heightCm": 179,
   "origin": "Grand Line",
   "firstChapter": 1023,
@@ -6051,6 +10690,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Kozuki Family",
+     "chapter": 921
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 921,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Ripe-Ripe Fruit"
+    }
+   ]
+  },
   "heightCm": 180,
   "origin": "Grand Line",
   "firstChapter": 921,
@@ -6075,6 +10731,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Neptune Family",
+     "chapter": 612
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 930
+    }
+   ]
+  },
   "heightCm": 1187,
   "origin": "Grand Line",
   "firstChapter": 612,
@@ -6101,6 +10771,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 549
+    },
+    {
+     "value": "Impel Down",
+     "chapter": 538
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1087
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 925,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Clear-Clear Fruit"
+    }
+   ]
+  },
   "heightCm": 340,
   "origin": "Grand Line",
   "firstChapter": 538,
@@ -6127,6 +10824,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Roger Pirates",
+     "chapter": 19
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 503
+    },
+    {
+     "value": "Armament",
+     "chapter": 504
+    },
+    {
+     "value": "Observation",
+     "chapter": 591
+    }
+   ]
+  },
   "heightCm": 188,
   "origin": "Unknown",
   "firstChapter": 19,
@@ -6159,6 +10878,43 @@
     "chapter": 1133
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 97
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 661
+    },
+    {
+     "value": "Armament",
+     "chapter": 684
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 97,
+     "types": [
+      "Logia"
+     ],
+     "name": "Smoke-Smoke Fruit (Plume-Plume Fruit)"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "smoker.png",
+     "chapter": 598
+    },
+    {
+     "value": "smoker-pre.png",
+     "chapter": 97
+    }
+   ]
+  },
   "heightCm": 209,
   "origin": "Grand Line",
   "firstChapter": 97,
@@ -6185,6 +10941,29 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Knights of God",
+     "chapter": 1140
+    }
+   ],
+   "haki": [
+    {
+     "value": "Unknown",
+     "chapter": 1145
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1143,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Thorn-Thorn Fruit"
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1140,
@@ -6204,6 +10983,32 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 801
+    },
+    {
+     "value": "CP9",
+     "chapter": 358
+    },
+    {
+     "value": "CP5",
+     "chapter": 355
+    }
+   ],
+   "portrait": [
+    {
+     "value": "spandam.png",
+     "chapter": 598
+    },
+    {
+     "value": "spandam-pre.png",
+     "chapter": 355
+    }
+   ]
+  },
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 355,
@@ -6230,6 +11035,37 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "CP0",
+     "chapter": 871
+    },
+    {
+     "value": "Underworld",
+     "chapter": 860
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1091
+    },
+    {
+     "value": "Observation",
+     "chapter": 1091
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1072,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Bat-Bat Fruit"
+    }
+   ]
+  },
   "heightCm": 179,
   "origin": "Unknown",
   "firstChapter": 860,
@@ -6251,6 +11087,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 682
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 731,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Hobby-Hobby Fruit"
+    }
+   ]
+  },
   "heightCm": 110,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -6272,6 +11125,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Usopp Pirates",
+     "chapter": 23
+    }
+   ],
+   "portrait": [
+    {
+     "value": "tamanegi.png",
+     "chapter": 598
+    },
+    {
+     "value": "tamanegi-pre.png",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 124,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -6299,6 +11170,34 @@
     "chapter": 1133
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 96
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 661
+    },
+    {
+     "value": "Observation",
+     "chapter": 938
+    }
+   ],
+   "portrait": [
+    {
+     "value": "tashigi.png",
+     "chapter": 598
+    },
+    {
+     "value": "tashigi-pre.png",
+     "chapter": 96
+    }
+   ]
+  },
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 96,
@@ -6318,6 +11217,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 440
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "North Blue",
   "firstChapter": 440,
@@ -6337,6 +11244,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Tom's Workers",
+     "chapter": 352
+    }
+   ]
+  },
   "heightCm": 296,
   "origin": "Grand Line",
   "firstChapter": 352,
@@ -6370,6 +11285,33 @@
     "chapter": 801
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 134
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 138,
+     "types": [
+      "Zoan"
+     ],
+     "name": "Human-Human Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "tony-tony-chopper.png",
+     "chapter": 598
+    },
+    {
+     "value": "tony-tony-chopper-pre.png",
+     "chapter": 134
+    }
+   ]
+  },
   "heightCm": 90,
   "origin": "Grand Line",
   "firstChapter": 134,
@@ -6397,6 +11339,33 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Five Elders",
+     "chapter": 233
+    }
+   ],
+   "haki": [
+    {
+     "value": "Conqueror",
+     "chapter": 1111
+    },
+    {
+     "value": "Observation",
+     "chapter": 1118
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1085,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -6446,6 +11415,43 @@
     "chapter": 880
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Heart Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 668
+    },
+    {
+     "value": "Observation",
+     "chapter": 1043
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 498,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Op-Op Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "trafalgar-d-water-law.png",
+     "chapter": 598
+    },
+    {
+     "value": "trafalgar-d-water-law-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 191,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -6475,6 +11481,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 700
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 782
+    },
+    {
+     "value": "Observation",
+     "chapter": 782
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 726,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Stick-Stick Fruit (Sticky-Sticky Fruit)"
+    }
+   ]
+  },
   "heightCm": 349,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -6506,6 +11539,33 @@
     "chapter": 1133
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 234
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 594
+    },
+    {
+     "value": "Observation",
+     "chapter": 594
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 556,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Wash-Wash Fruit"
+    }
+   ]
+  },
   "heightCm": 204,
   "origin": "North Blue",
   "firstChapter": 234,
@@ -6535,6 +11595,33 @@
     "chapter": 977
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 977
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 983
+    },
+    {
+     "value": "Armament",
+     "chapter": 983
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 983,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Pachycephalosaurus Model"
+    }
+   ]
+  },
   "heightCm": 173,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -6563,6 +11650,23 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Fallen Monk Pirates",
+     "chapter": 498
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 508,
+     "types": [
+      "Paramecia"
+     ],
+     "name": null
+    }
+   ]
+  },
   "heightCm": 388,
   "origin": "Sky Island",
   "firstChapter": 498,
@@ -6601,6 +11705,44 @@
     "chapter": 435
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Straw Hat Pirates",
+     "chapter": 41
+    },
+    {
+     "value": "Usopp Pirates",
+     "chapter": 23
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 758
+    }
+   ],
+   "heightCm": [
+    {
+     "value": 176.0,
+     "chapter": 598
+    },
+    {
+     "value": 174.0,
+     "chapter": 23
+    }
+   ],
+   "portrait": [
+    {
+     "value": "usopp.png",
+     "chapter": 598
+    },
+    {
+     "value": "usopp-pre.png",
+     "chapter": 23
+    }
+   ]
+  },
   "heightCm": 176,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -6630,6 +11772,33 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 222
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1063,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Warp-Warp Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "van-augur.png",
+     "chapter": 598
+    },
+    {
+     "value": "van-augur-pre.png",
+     "chapter": 222
+    }
+   ]
+  },
   "heightCm": 340,
   "origin": "East Blue",
   "firstChapter": 222,
@@ -6654,6 +11823,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Flying Pirates",
+     "chapter": 606
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 606,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Mark-Mark Fruit"
+    }
+   ]
+  },
   "heightCm": 352,
   "origin": "Grand Line",
   "firstChapter": 606,
@@ -6677,6 +11863,33 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Blackbeard Pirates",
+     "chapter": 575
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1087,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Glug-Glug Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "vasco-shot.png",
+     "chapter": 598
+    },
+    {
+     "value": "vasco-shot-pre.png",
+     "chapter": 575
+    }
+   ]
+  },
   "heightCm": 573,
   "origin": "South Blue",
   "firstChapter": 575,
@@ -6701,6 +11914,23 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 684
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 1067,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Brain-Brain Fruit"
+    }
+   ]
+  },
   "heightCm": 314,
   "origin": "Grand Line",
   "firstChapter": 684,
@@ -6726,6 +11956,28 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 673
+    },
+    {
+     "value": "Marines",
+     "chapter": 671
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 672
+    },
+    {
+     "value": "Observation",
+     "chapter": 941
+    }
+   ]
+  },
   "heightCm": 247,
   "origin": "North Blue",
   "firstChapter": 671,
@@ -6748,6 +12000,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Vinsmoke Family",
+     "chapter": 828
+    }
+   ]
+  },
   "heightCm": 186,
   "origin": "North Blue",
   "firstChapter": 828,
@@ -6770,6 +12030,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Vinsmoke Family",
+     "chapter": 832
+    }
+   ]
+  },
   "heightCm": 272,
   "origin": "North Blue",
   "firstChapter": 832,
@@ -6792,6 +12060,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Vinsmoke Family",
+     "chapter": 828
+    }
+   ]
+  },
   "heightCm": 185,
   "origin": "North Blue",
   "firstChapter": 828,
@@ -6814,6 +12090,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Vinsmoke Family",
+     "chapter": 826
+    }
+   ]
+  },
   "heightCm": 173,
   "origin": "North Blue",
   "firstChapter": 826,
@@ -6836,6 +12120,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Vinsmoke Family",
+     "chapter": 825
+    }
+   ]
+  },
   "heightCm": 194,
   "origin": "North Blue",
   "firstChapter": 825,
@@ -6859,6 +12151,31 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Riku Family",
+     "chapter": 728
+    },
+    {
+     "value": "Donquixote Pirates",
+     "chapter": 712
+    },
+    {
+     "value": "Dressrosa",
+     "chapter": 703
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 712,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Glare-Glare Fruit"
+    }
+   ]
+  },
   "heightCm": 178,
   "origin": "Grand Line",
   "firstChapter": 703,
@@ -6884,6 +12201,24 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Whitebeard Pirates",
+     "chapter": 552
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 574
+    },
+    {
+     "value": "Observation",
+     "chapter": 574
+    }
+   ]
+  },
   "heightCm": 328,
   "origin": "North Blue",
   "firstChapter": 552,
@@ -6903,6 +12238,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Mokomo Dukedom",
+     "chapter": 804
+    }
+   ]
+  },
   "heightCm": 181,
   "origin": "Grand Line",
   "firstChapter": 804,
@@ -6926,6 +12269,41 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Evil Black Drum Kingdom",
+     "chapter": 635
+    },
+    {
+     "value": "Drum Kingdom",
+     "chapter": 133
+    },
+    {
+     "value": "Bliking Pirates",
+     "chapter": 131
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 131,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Munch-Munch Fruit"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "wapol.png",
+     "chapter": 598
+    },
+    {
+     "value": "wapol-pre.png",
+     "chapter": 131
+    }
+   ]
+  },
   "heightCm": 207,
   "origin": "Grand Line",
   "firstChapter": 131,
@@ -6958,6 +12336,29 @@
     "chapter": 977
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Beasts Pirates",
+     "chapter": 977
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 1018
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 998,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Cat-Cat Fruit, Saber-Toothed Tiger Model"
+    }
+   ]
+  },
   "heightCm": 336,
   "origin": "North Blue",
   "firstChapter": 977,
@@ -6977,6 +12378,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Foosha Village",
+     "chapter": 1
+    }
+   ],
+   "portrait": [
+    {
+     "value": "woop-slap.png",
+     "chapter": 598
+    },
+    {
+     "value": "woop-slap-pre.png",
+     "chapter": 1
+    }
+   ]
+  },
   "heightCm": null,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -6999,6 +12418,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Shandia",
+     "chapter": 237
+    }
+   ],
+   "portrait": [
+    {
+     "value": "wyper.png",
+     "chapter": 598
+    },
+    {
+     "value": "wyper-pre.png",
+     "chapter": 237
+    }
+   ]
+  },
   "heightCm": 183,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -7032,6 +12469,51 @@
     "chapter": 498
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Marines",
+     "chapter": 956
+    },
+    {
+     "value": "Beasts Pirates",
+     "chapter": 793
+    },
+    {
+     "value": "Drake Pirates",
+     "chapter": 498
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 990
+    },
+    {
+     "value": "Observation",
+     "chapter": 990
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 509,
+     "types": [
+      "Ancient Zoan"
+     ],
+     "name": "Dragon-Dragon Fruit, Model: Allosaurus"
+    }
+   ],
+   "portrait": [
+    {
+     "value": "x-drake.png",
+     "chapter": 598
+    },
+    {
+     "value": "x-drake-pre.png",
+     "chapter": 498
+    }
+   ]
+  },
   "heightCm": 233,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -7061,6 +12543,37 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Wano Country",
+     "chapter": 971
+    }
+   ],
+   "haki": [
+    {
+     "value": "Armament",
+     "chapter": 996
+    },
+    {
+     "value": "Conqueror",
+     "chapter": 1024
+    },
+    {
+     "value": "Observation",
+     "chapter": 1059
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 996,
+     "types": [
+      "Mythical Zoan"
+     ],
+     "name": "Dog-Dog Fruit, Model: Okuchi-no-Makami"
+    }
+   ]
+  },
   "heightCm": 263,
   "origin": "Unknown",
   "firstChapter": 971,
@@ -7084,6 +12597,20 @@
   ],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Red Hair Pirates",
+     "chapter": 1
+    }
+   ],
+   "haki": [
+    {
+     "value": "Observation",
+     "chapter": 1079
+    }
+   ]
+  },
   "heightCm": 183,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -7107,6 +12634,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "World Government",
+     "chapter": 1065
+    }
+   ]
+  },
   "heightCm": 482,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -7128,6 +12663,24 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Bounty Hunters",
+     "chapter": 42
+    }
+   ],
+   "portrait": [
+    {
+     "value": "yosaku.png",
+     "chapter": 598
+    },
+    {
+     "value": "yosaku-pre.png",
+     "chapter": 42
+    }
+   ]
+  },
   "heightCm": 185,
   "origin": "East Blue",
   "firstChapter": 42,
@@ -7158,6 +12711,23 @@
     "chapter": 918
    }
   ],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baroque Works",
+     "chapter": 155
+    }
+   ],
+   "devilFruit": [
+    {
+     "chapter": 190,
+     "types": [
+      "Paramecia"
+     ],
+     "name": "Spike-Spike Fruit"
+    }
+   ]
+  },
   "heightCm": 187,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -7177,6 +12747,28 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Galley-La Company",
+     "chapter": 657
+    },
+    {
+     "value": "Franky Family",
+     "chapter": 324
+    }
+   ],
+   "portrait": [
+    {
+     "value": "zambai.png",
+     "chapter": 598
+    },
+    {
+     "value": "zambai-pre.png",
+     "chapter": 324
+    }
+   ]
+  },
   "heightCm": 227,
   "origin": "Grand Line",
   "firstChapter": 324,
@@ -7199,6 +12791,14 @@
   "haki": [],
   "bounty": null,
   "bounties": [],
+  "history": {
+   "affiliation": [
+    {
+     "value": "Baratie",
+     "chapter": 43
+    }
+   ]
+  },
   "heightCm": 189,
   "origin": "East Blue",
   "firstChapter": 43,

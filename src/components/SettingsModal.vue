@@ -51,10 +51,10 @@ function apply() {
       </p>
 
       <div class="warn">
-        <b>One caveat:</b> bounties rewind with the limit — you see the figure that was known by
-        the end of that arc, not the character's final one. The other properties don't: they are
-        always the latest from the wiki, so a character you met early can still show a crew or
-        haki they only gained later on.
+        Cards rewind with the limit: bounty, crew, haki, devil fruit, height and portrait all show
+        what was known by the end of that arc rather than the character's final state. Where the
+        wiki never records when something was revealed, the card keeps the earlier value rather
+        than risking the later one.
       </div>
 
       <p class="note">
