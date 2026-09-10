@@ -141,9 +141,24 @@ const pendingWin = computed(() => (daily.won && daily.answer
   }
   : null))
 
+// null until the server has ruled on today's win.
+const dailyRanked = ref(null)
+const unrankedNote = computed(() => (dailyRanked.value === false && arcLimit.value
+  ? 'Not ranked — the leaderboard only counts games played with no spoiler limit.'
+  : ''))
+
+async function recordDailyWin(acct) {
+  const w = pendingWin.value
+  if (!acct || !w) return null
+  const r = await submitResult(acct, w.day, w.arcLimit, w.guesses, w.name)
+  if (typeof r?.ranked === 'boolean') dailyRanked.value = r.ranked
+  return r
+}
+
 function restoreDaily() {
   revealing.value = false
   celebrating.value = false
+  dailyRanked.value = null
   daily.answer = pool.value[dailyIndex(pool.value.length)]
   daily.guesses = []
   daily.won = false
@@ -204,7 +219,7 @@ function submitGuess(char) {
       reportSolve(localDateString(), arcLimit.value, char.name).then(r => {
         if (r) solveCount.value = r.count
       })
-      submitResult(account.value, localDateString(), arcLimit.value, g.guesses.length, char.name)
+      recordDailyWin(account.value)
     }
   }
   if (isDaily) persistDaily()
@@ -248,10 +263,7 @@ onMounted(() => {
   newPractice()
   refreshCount()
   // Retries a win the server never got; /result ignores a day it already has.
-  if (account.value && pendingWin.value) {
-    const w = pendingWin.value
-    submitResult(account.value, w.day, w.arcLimit, w.guesses, w.name)
-  }
+  recordDailyWin(account.value)
   tick()
   timer = setInterval(tick, 1000)
   if (!localStorage.getItem('opdle:visited')) {
@@ -357,6 +369,7 @@ const base = import.meta.env.BASE_URL
         <WinPanel
           v-if="game.won && !revealing" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
           :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
+          :note="unrankedNote"
           @practice="mode = 'practice'"
           @replay="newPractice" />
 
@@ -401,7 +414,8 @@ const base = import.meta.env.BASE_URL
       @close="galleryPick = null" />
     <LeaderboardModal
       v-if="showBoard" :account="account" :day="localDateString()" :pending-win="pendingWin"
-      @account="setAccount" @close="showBoard = false" />
+      :note="unrankedNote"
+      @account="setAccount" @ranked="dailyRanked = $event" @close="showBoard = false" />
     <SettingsModal
       v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"
       @update:arc-limit="applyArcLimit" @close="showSettings = false" />

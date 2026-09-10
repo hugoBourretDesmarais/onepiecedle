@@ -9,6 +9,7 @@ const props = defineProps({
   countdown: { type: String, required: true },
   guesses: { type: Array, required: true },
   dailyNumber: { type: Number, required: true },
+  note: { type: String, default: '' },
 })
 const emit = defineEmits(['practice', 'replay'])
 
@@ -43,6 +44,7 @@ async function share() {
       Found in <b>{{ tries }}</b> {{ tries === 1 ? 'try' : 'tries' }}
     </p>
     <template v-if="mode === 'daily'">
+      <p v-if="note" class="win-unranked">{{ note }}</p>
       <p class="win-next">Next character in <b class="countdown">{{ countdown }}</b></p>
       <div class="win-actions">
         <button class="win-btn" @click="share"><Icon name='share' :size='16' /> {{ copied ? 'Copied!' : 'Share' }}</button>
@@ -100,6 +102,16 @@ h2 {
   color: var(--brown);
 }
 .win-tries { margin: 0 0 6px; }
+.win-unranked {
+  margin: 0 0 8px;
+  padding: 7px 10px;
+  border: 2px solid var(--tan);
+  border-radius: 8px;
+  background: var(--parchment-dark);
+  color: var(--brown);
+  font-size: 14px;
+  font-weight: 700;
+}
 .win-next { margin: 0; color: var(--brown); }
 .countdown { font-variant-numeric: tabular-nums; }
 .win-actions {

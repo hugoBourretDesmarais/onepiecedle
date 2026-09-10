@@ -9,8 +9,9 @@ const props = defineProps({
   day: { type: String, required: true },
   // Today's daily win, if it was solved before this account existed.
   pendingWin: { type: Object, default: null },
+  note: { type: String, default: '' },
 })
-const emit = defineEmits(['close', 'account'])
+const emit = defineEmits(['close', 'account', 'ranked'])
 
 const sort = ref('streak')
 const entries = ref([])
@@ -64,7 +65,8 @@ async function submit() {
   emit('account', account)
   if (props.pendingWin) {
     const w = props.pendingWin
-    await submitResult(account, w.day, w.arcLimit, w.guesses, w.name)
+    const res = await submitResult(account, w.day, w.arcLimit, w.guesses, w.name)
+    if (typeof res?.ranked === 'boolean') emit('ranked', res.ranked)
   }
   load()
 }
@@ -123,6 +125,7 @@ function signOut() {
         avg {{ me.avg ?? '—' }}
         <template v-if="myRank"> · rank #{{ myRank }}</template>
       </p>
+      <p v-if="account && note" class="unranked">{{ note }}</p>
 
       <div class="tabs sort-tabs">
         <button
@@ -234,6 +237,18 @@ h2 { margin-bottom: 12px; }
   font-size: 13px;
   color: var(--brown-dark);
   font-weight: 700;
+}
+
+.unranked {
+  margin: 6px 0 0;
+  padding: 7px 10px;
+  border: 2px solid var(--tan);
+  border-radius: 8px;
+  background: var(--parchment-dark);
+  color: var(--brown);
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .board { width: 100%; border-collapse: collapse; font-size: 14px; }
