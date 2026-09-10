@@ -165,6 +165,11 @@ unrevealed bounty already reads as ฿0.
 `api/` is a Cloudflare Worker backed by a D1 database. It powers the
 “N people already found out!” counter and the 🏆 leaderboard.
 
+Accounts are shared with [AvatarDle](https://github.com/hugoBourretDesmarais/avatardle): its worker binds this
+same D1 database, using the common `players` and `sessions` tables and its own `av_`-prefixed game
+tables, and both sites keep the session under the same `dle:account` localStorage key on their
+shared origin. A landing page linking the two lives at https://hugobourretdesmarais.github.io/.
+
 Accounts are a pseudonym plus a password — no email, no third-party auth. Workers Free allows
 only 10ms CPU per request, far too little for a real KDF, so the 600k-iteration PBKDF2 runs in
 the browser and the server stores a salted SHA-256 of the derived key. The password therefore

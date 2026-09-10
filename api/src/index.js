@@ -264,6 +264,9 @@ export default {
       if (!isKnownArc(arcLimit)) return json({ error: 'bad arc' }, 400, headers)
       if (name !== answerFor(day, arcLimit)) return json({ error: 'wrong answer' }, 403, headers)
 
+      // A player who signed up on AvatarDle has no row here yet.
+      await env.DB.prepare('INSERT OR IGNORE INTO standings (player_id) VALUES (?)').bind(player.id).run()
+
       const existing = await env.DB.prepare(
         'SELECT day FROM results WHERE player_id = ? AND day = ?'
       ).bind(player.id, day).first()

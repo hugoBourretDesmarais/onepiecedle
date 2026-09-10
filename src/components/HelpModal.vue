@@ -58,6 +58,12 @@ const emit = defineEmits(['close'])
         Straw Hat with no haki and a plain Gum-Gum Fruit, and Robin is still Baroque Works.
       </p>
 
+      <h3>Also play AvatarDle</h3>
+      <p>
+        The same account works on <a href="https://hugobourretdesmarais.github.io/avatardle/">AvatarDle</a>:
+        sign in on one game and you're signed in on the other. Rankings stay separate per game.
+      </p>
+
       <p class="note">Data from the One Piece Wiki — with no spoiler limit set, current story spoilers are included!</p>
     </div>
   </div>

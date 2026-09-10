@@ -410,6 +410,9 @@ const base = import.meta.env.BASE_URL
       </template>
 
       <footer class="footer">
+        <a href="https://hugobourretdesmarais.github.io/">All games</a>
+        · also play <a href="https://hugobourretdesmarais.github.io/avatardle/">AvatarDle</a>
+        <br />
         Fan-made recreation of <a href="https://onepiecedle.net" target="_blank" rel="noreferrer">onepiecedle.net</a>
         · data from the <a href="https://onepiece.fandom.com" target="_blank" rel="noreferrer">One Piece Wiki</a>
         · One Piece © Eiichiro Oda / Shueisha
