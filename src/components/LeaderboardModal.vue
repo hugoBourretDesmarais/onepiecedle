@@ -108,6 +108,24 @@ function signOut() {
 
 <style scoped>
 h2 { margin-bottom: 12px; }
+
+.tabs { display: flex; gap: 8px; margin-bottom: 10px; }
+.tabs button {
+  flex: 1;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 13px;
+  padding: 7px;
+  border-radius: 8px;
+  border: 2px solid var(--tan);
+  background: var(--parchment);
+  color: var(--brown);
+}
+.tabs button.on {
+  background: var(--parchment-dark);
+  color: var(--brown-dark);
+  border-color: var(--brown);
+}
 .sort-tabs { margin-top: 14px; }
 
 .who-actions button {
