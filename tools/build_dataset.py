@@ -68,7 +68,7 @@ AFFILIATION_RENAMES = {
 # the first release and is clamped to the character's debut on use.
 SOURCE_CHAPTER = {
     "data=vivre card": 918,          # Vivre Card Databook, from Sept 2018
-    "special=marinebounties": 1133,  # Oda's Cross Guild Q&A, Volume 111
+    "special=marinebounties": 1056,  # Cross Guild puts bounties on the Marines; amounts from the Volume 111 Q&A
     "data=blue": 250,                # One Piece Blue, Aug 2002
     "data=red": 264,                 # One Piece Red, Dec 2002
     "data=yellow": 410,              # One Piece Yellow, Apr 2006
