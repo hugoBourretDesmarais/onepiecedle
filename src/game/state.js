@@ -57,17 +57,28 @@ function save(key, value) {
 }
 
 // Guesses are only meaningful against the answer they were made on, and the
-// answer depends on the spoiler limit, so a saved board is scoped to both.
-export function loadDailyState(arcLimit) {
-  const s = load('daily', null)
-  if (!s || s.date !== localDateString() || s.arcLimit !== arcLimit) {
-    return { date: localDateString(), arcLimit, guesses: [], won: false }
+// answer depends on the spoiler limit, so today's boards are kept per limit.
+function arcKey(arcLimit) {
+  return arcLimit ?? '*'
+}
+
+function loadDailyBoards() {
+  const all = load('daily', null)
+  if (!all || all.date !== localDateString() || !all.boards) {
+    return { date: localDateString(), boards: {} }
   }
-  return s
+  return all
+}
+
+export function loadDailyState(arcLimit) {
+  const s = loadDailyBoards().boards[arcKey(arcLimit)]
+  return s ?? { date: localDateString(), arcLimit, guesses: [], won: false }
 }
 
 export function saveDailyState(s) {
-  save('daily', s)
+  const all = loadDailyBoards()
+  all.boards[arcKey(s.arcLimit)] = s
+  save('daily', all)
 }
 
 // null = no limit (full roster)
