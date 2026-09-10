@@ -1,0 +1,5 @@
+{
+ "_comment": "Reviewed reveal chapters for bounties whose wiki citation names no chapter and no machine-readable source, keyed 'Character|amount'. Everything else is dated by fetch_bounties.py from the {{Qref}} chap=/cover= parameter, or by SOURCE_CHAPTER in build_dataset.py for databook, film, exhibition and novel figures.",
+ "Orlumbus|148000000": 918,
+ "Bepo|500": 660
+}

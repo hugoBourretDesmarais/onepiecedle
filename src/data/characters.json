@@ -14,6 +14,7 @@
   "dfName": "Clear-Clear Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 195,
   "origin": "West Blue",
   "firstChapter": 444,
@@ -34,6 +35,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 140,
   "origin": "Sky Island",
   "firstChapter": 249,
@@ -57,6 +59,12 @@
   "dfName": "Slip-Slip Fruit",
   "haki": [],
   "bounty": 5000000,
+  "bounties": [
+   {
+    "amount": 5000000,
+    "chapter": 264
+   }
+  ],
   "heightCm": 198,
   "origin": "East Blue",
   "firstChapter": 2,
@@ -83,6 +91,12 @@
    "Observation"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1087
+   }
+  ],
   "heightCm": 308,
   "origin": "South Blue",
   "firstChapter": 905,
@@ -104,6 +118,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 20000000,
+  "bounties": [
+   {
+    "amount": 20000000,
+    "chapter": 69
+   }
+  ],
   "heightCm": 263,
   "origin": "Grand Line",
   "firstChapter": 69,
@@ -127,6 +147,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 544,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -150,6 +171,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 729,
   "origin": "Grand Line",
   "firstChapter": 1062,
@@ -173,6 +195,7 @@
   "dfName": "Isle-Isle Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 505,
   "origin": "North Blue",
   "firstChapter": 575,
@@ -195,6 +218,7 @@
   "dfName": "Arms-Arms Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 181,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -222,6 +246,12 @@
    "Observation"
   ],
   "bounty": 296000000,
+  "bounties": [
+   {
+    "amount": 296000000,
+    "chapter": 234
+   }
+  ],
   "heightCm": 689,
   "origin": "South Blue",
   "firstChapter": 233,
@@ -245,6 +275,16 @@
   "dfName": "Barrier-Barrier Fruit",
   "haki": [],
   "bounty": 200000000,
+  "bounties": [
+   {
+    "amount": 200000000,
+    "chapter": 801
+   },
+   {
+    "amount": 150000000,
+    "chapter": 706
+   }
+  ],
   "heightCm": 220,
   "origin": "East Blue",
   "firstChapter": 705,
@@ -271,6 +311,16 @@
    "Observation"
   ],
   "bounty": 320000000,
+  "bounties": [
+   {
+    "amount": 320000000,
+    "chapter": 677
+   },
+   {
+    "amount": 249000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 210,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -292,6 +342,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 77,
@@ -318,6 +369,16 @@
    "Observation"
   ],
   "bounty": 195000000,
+  "bounties": [
+   {
+    "amount": 195000000,
+    "chapter": 706
+   },
+   {
+    "amount": 55000000,
+    "chapter": 222
+   }
+  ],
   "heightCm": 240,
   "origin": "North Blue",
   "firstChapter": 222,
@@ -343,6 +404,12 @@
    "Observation"
   ],
   "bounty": 457000000,
+  "bounties": [
+   {
+    "amount": 457000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 196,
   "origin": "East Blue",
   "firstChapter": 904,
@@ -366,6 +433,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 206,
   "origin": "North Blue",
   "firstChapter": 1,
@@ -391,6 +459,12 @@
   "dfName": "Clone-Clone Fruit",
   "haki": [],
   "bounty": 32000000,
+  "bounties": [
+   {
+    "amount": 32000000,
+    "chapter": 372
+   }
+  ],
   "heightCm": 238,
   "origin": "East Blue",
   "firstChapter": 129,
@@ -409,6 +483,16 @@
   "dfName": null,
   "haki": [],
   "bounty": 1500,
+  "bounties": [
+   {
+    "amount": 1500,
+    "chapter": 918
+   },
+   {
+    "amount": 500,
+    "chapter": 660
+   }
+  ],
   "heightCm": 240,
   "origin": "Grand Line",
   "firstChapter": 498,
@@ -432,6 +516,12 @@
    "Observation"
   ],
   "bounty": 480000000,
+  "bounties": [
+   {
+    "amount": 480000000,
+    "chapter": 977
+   }
+  ],
   "heightCm": 820,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -455,6 +545,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 258,
   "origin": "North Blue",
   "firstChapter": 325,
@@ -483,6 +574,16 @@
    "Conqueror"
   ],
   "bounty": 1659000000,
+  "bounties": [
+   {
+    "amount": 1659000000,
+    "chapter": 1059
+   },
+   {
+    "amount": 80000000,
+    "chapter": 522
+   }
+  ],
   "heightCm": 191,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -509,6 +610,12 @@
    "Observation"
   ],
   "bounty": 40000000,
+  "bounties": [
+   {
+    "amount": 40000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 432,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -535,6 +642,12 @@
    "Observation"
   ],
   "bounty": 40000000,
+  "bounties": [
+   {
+    "amount": 40000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 453,
   "origin": "Calm Belt",
   "firstChapter": 516,
@@ -560,6 +673,12 @@
    "Observation"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1087
+   }
+  ],
   "heightCm": 302,
   "origin": "North Blue",
   "firstChapter": 504,
@@ -581,6 +700,16 @@
   "dfName": null,
   "haki": [],
   "bounty": 1800000000,
+  "bounties": [
+   {
+    "amount": 1800000000,
+    "chapter": 1130
+   },
+   {
+    "amount": 100000000,
+    "chapter": 118
+   }
+  ],
   "heightCm": 2130,
   "origin": "Grand Line",
   "firstChapter": 115,
@@ -604,6 +733,20 @@
   "dfName": "Revive-Revive Fruit",
   "haki": [],
   "bounty": 383000000,
+  "bounties": [
+   {
+    "amount": 383000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 83000000,
+    "chapter": 801
+   },
+   {
+    "amount": 33000000,
+    "chapter": 489
+   }
+  ],
   "heightCm": 277,
   "origin": "West Blue",
   "firstChapter": 442,
@@ -627,6 +770,16 @@
   "dfName": "Chop-Chop Fruit",
   "haki": [],
   "bounty": 3189000000,
+  "bounties": [
+   {
+    "amount": 3189000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 15000000,
+    "chapter": 96
+   }
+  ],
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 9,
@@ -651,6 +804,12 @@
   "dfName": "Gas-Gas Fruit",
   "haki": [],
   "bounty": 300000000,
+  "bounties": [
+   {
+    "amount": 300000000,
+    "chapter": 664
+   }
+  ],
   "heightCm": 309,
   "origin": "Grand Line",
   "firstChapter": 658,
@@ -671,6 +830,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 197,
   "origin": "Grand Line",
   "firstChapter": 195,
@@ -694,6 +854,20 @@
   "dfName": "Castle-Castle Fruit",
   "haki": [],
   "bounty": 350000000,
+  "bounties": [
+   {
+    "amount": 350000000,
+    "chapter": 966
+   },
+   {
+    "amount": 300000000,
+    "chapter": 812
+   },
+   {
+    "amount": 138000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 166,
   "origin": "West Blue",
   "firstChapter": 498,
@@ -716,6 +890,12 @@
   "dfName": "Swamp-Swamp Fruit",
   "haki": [],
   "bounty": 210000000,
+  "bounties": [
+   {
+    "amount": 210000000,
+    "chapter": 600
+   }
+  ],
   "heightCm": 228,
   "origin": "North Blue",
   "firstChapter": 600,
@@ -734,6 +914,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 161,
   "origin": "Grand Line",
   "firstChapter": 804,
@@ -757,6 +938,7 @@
   "dfName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 361,
   "origin": "South Blue",
   "firstChapter": 575,
@@ -782,6 +964,16 @@
    "Observation"
   ],
   "bounty": 330000000,
+  "bounties": [
+   {
+    "amount": 330000000,
+    "chapter": 801
+   },
+   {
+    "amount": 280000000,
+    "chapter": 704
+   }
+  ],
   "heightCm": 208,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -802,6 +994,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 80060000,
+  "bounties": [
+   {
+    "amount": 80060000,
+    "chapter": 661
+   }
+  ],
   "heightCm": 691,
   "origin": "Grand Line",
   "firstChapter": 581,
@@ -824,6 +1022,7 @@
   "dfName": "Dog-Dog Fruit, Model: Jackal",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 213,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -847,6 +1046,7 @@
   "dfName": "Mirror-Mirror Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 350,
   "origin": "Grand Line",
   "firstChapter": 831,
@@ -867,6 +1067,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 215,
   "origin": "Grand Line",
   "firstChapter": 825,
@@ -894,6 +1095,12 @@
    "Observation"
   ],
   "bounty": 860000000,
+  "bounties": [
+   {
+    "amount": 860000000,
+    "chapter": 836
+   }
+  ],
   "heightCm": 307,
   "origin": "Grand Line",
   "firstChapter": 835,
@@ -919,6 +1126,12 @@
    "Observation"
   ],
   "bounty": 300000000,
+  "bounties": [
+   {
+    "amount": 300000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 489,
   "origin": "Grand Line",
   "firstChapter": 861,
@@ -946,6 +1159,12 @@
    "Conqueror"
   ],
   "bounty": 1057000000,
+  "bounties": [
+   {
+    "amount": 1057000000,
+    "chapter": 860
+   }
+  ],
   "heightCm": 509,
   "origin": "Grand Line",
   "firstChapter": 860,
@@ -974,6 +1193,20 @@
    "Conqueror"
   ],
   "bounty": 4388000000,
+  "bounties": [
+   {
+    "amount": 4388000000,
+    "chapter": 957
+   },
+   {
+    "amount": 500000000,
+    "chapter": 868
+   },
+   {
+    "amount": 50000000,
+    "chapter": 868
+   }
+  ],
   "heightCm": 880,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -995,6 +1228,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 24000000,
+  "bounties": [
+   {
+    "amount": 24000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 215,
   "origin": "Grand Line",
   "firstChapter": 476,
@@ -1018,6 +1257,12 @@
   "dfName": "Book-Book Fruit",
   "haki": [],
   "bounty": 120000000,
+  "bounties": [
+   {
+    "amount": 120000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 260,
   "origin": "Grand Line",
   "firstChapter": 829,
@@ -1043,6 +1288,12 @@
    "Observation"
   ],
   "bounty": 300000000,
+  "bounties": [
+   {
+    "amount": 300000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 492,
   "origin": "Grand Line",
   "firstChapter": 861,
@@ -1068,6 +1319,12 @@
    "Observation"
   ],
   "bounty": 700000000,
+  "bounties": [
+   {
+    "amount": 700000000,
+    "chapter": 877
+   }
+  ],
   "heightCm": 333,
   "origin": "Grand Line",
   "firstChapter": 834,
@@ -1090,6 +1347,7 @@
   "dfName": "Memo-Memo Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 166,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -1115,6 +1373,12 @@
    "Observation"
   ],
   "bounty": 932000000,
+  "bounties": [
+   {
+    "amount": 932000000,
+    "chapter": 846
+   }
+  ],
   "heightCm": 464,
   "origin": "Grand Line",
   "firstChapter": 846,
@@ -1133,6 +1397,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 115,
   "origin": "Grand Line",
   "firstChapter": 322,
@@ -1158,6 +1423,12 @@
    "Conqueror"
   ],
   "bounty": 542000000,
+  "bounties": [
+   {
+    "amount": 542000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 520,
   "origin": "West Blue",
   "firstChapter": 704,
@@ -1176,6 +1447,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 176,
   "origin": "Sky Island",
   "firstChapter": 239,
@@ -1203,6 +1475,16 @@
    "Observation"
   ],
   "bounty": 1965000000,
+  "bounties": [
+   {
+    "amount": 1965000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 81000000,
+    "chapter": 155
+   }
+  ],
   "heightCm": 253,
   "origin": "Grand Line",
   "firstChapter": 126,
@@ -1223,6 +1505,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 203,
   "origin": "Grand Line",
   "firstChapter": 102,
@@ -1243,6 +1526,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 7800000,
+  "bounties": [
+   {
+    "amount": 7800000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 221,
   "origin": "East Blue",
   "firstChapter": 440,
@@ -1263,6 +1552,7 @@
   "dfName": "Ox-Ox Fruit, Bison Model",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 218,
   "origin": "Grand Line",
   "firstChapter": 132,
@@ -1287,6 +1577,12 @@
   "dfName": "Dice-Dice Fruit",
   "haki": [],
   "bounty": 75000000,
+  "bounties": [
+   {
+    "amount": 75000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 212,
   "origin": "West Blue",
   "firstChapter": 160,
@@ -1312,6 +1608,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 306,
   "origin": "Grand Line",
   "firstChapter": 919,
@@ -1337,6 +1634,12 @@
    "Observation"
   ],
   "bounty": 99000000,
+  "bounties": [
+   {
+    "amount": 99000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 525,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -1360,6 +1663,12 @@
   "dfName": "Sick-Sick Fruit",
   "haki": [],
   "bounty": 72000000,
+  "bounties": [
+   {
+    "amount": 72000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 342,
   "origin": "North Blue",
   "firstChapter": 223,
@@ -1389,6 +1698,12 @@
    "Conqueror"
   ],
   "bounty": 340000000,
+  "bounties": [
+   {
+    "amount": 340000000,
+    "chapter": 234
+   }
+  ],
   "heightCm": 305,
   "origin": "Red Line",
   "firstChapter": 233,
@@ -1413,6 +1728,7 @@
   "dfName": "Calm-Calm Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 293,
   "origin": "Red Line",
   "firstChapter": 761,
@@ -1434,6 +1750,16 @@
   "dfName": null,
   "haki": [],
   "bounty": 1800000000,
+  "bounties": [
+   {
+    "amount": 1800000000,
+    "chapter": 1130
+   },
+   {
+    "amount": 100000000,
+    "chapter": 118
+   }
+  ],
   "heightCm": 2260,
   "origin": "Grand Line",
   "firstChapter": 116,
@@ -1459,6 +1785,12 @@
    "Observation"
   ],
   "bounty": 3590000000,
+  "bounties": [
+   {
+    "amount": 3590000000,
+    "chapter": 1058
+   }
+  ],
   "heightCm": 198,
   "origin": "Unknown",
   "firstChapter": 49,
@@ -1482,6 +1814,12 @@
   "dfName": "Mole-Mole Fruit",
   "haki": [],
   "bounty": 14000000,
+  "bounties": [
+   {
+    "amount": 14000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 156,
   "origin": "Grand Line",
   "firstChapter": 160,
@@ -1505,6 +1843,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 100,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -1531,6 +1870,12 @@
    "Conqueror"
   ],
   "bounty": 5046000000,
+  "bounties": [
+   {
+    "amount": 5046000000,
+    "chapter": 957
+   }
+  ],
   "heightCm": 666,
   "origin": "Grand Line",
   "firstChapter": 159,
@@ -1555,6 +1900,12 @@
    "Observation"
   ],
   "bounty": 480000000,
+  "bounties": [
+   {
+    "amount": 480000000,
+    "chapter": 802
+   }
+  ],
   "heightCm": 680,
   "origin": "Grand Line",
   "firstChapter": 802,
@@ -1575,6 +1926,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1065,
@@ -1599,6 +1951,12 @@
   "dfName": "Horm-Horm Fruit",
   "haki": [],
   "bounty": 100000000,
+  "bounties": [
+   {
+    "amount": 100000000,
+    "chapter": 536
+   }
+  ],
   "heightCm": 449,
   "origin": "Grand Line",
   "firstChapter": 537,
@@ -1624,6 +1982,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 266,
   "origin": "Sky Island",
   "firstChapter": 254,
@@ -1651,6 +2010,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -1679,6 +2039,20 @@
    "Conqueror"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1053
+   },
+   {
+    "amount": 470000000,
+    "chapter": 677
+   },
+   {
+    "amount": 315000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 205,
   "origin": "South Blue",
   "firstChapter": 498,
@@ -1701,6 +2075,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1086,
@@ -1723,6 +2098,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "West Blue",
   "firstChapter": 907,
@@ -1745,6 +2121,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 230000000,
+  "bounties": [
+   {
+    "amount": 230000000,
+    "chapter": 622
+   }
+  ],
   "heightCm": 520,
   "origin": "Grand Line",
   "firstChapter": 521,
@@ -1767,6 +2149,12 @@
   "dfName": "Slow-Slow Fruit",
   "haki": [],
   "bounty": 24000000,
+  "bounties": [
+   {
+    "amount": 24000000,
+    "chapter": 305
+   }
+  ],
   "heightCm": 180,
   "origin": "South Blue",
   "firstChapter": 305,
@@ -1790,6 +2178,20 @@
   "dfName": null,
   "haki": [],
   "bounty": 394000000,
+  "bounties": [
+   {
+    "amount": 394000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 94000000,
+    "chapter": 801
+   },
+   {
+    "amount": 44000000,
+    "chapter": 435
+   }
+  ],
   "heightCm": 240,
   "origin": "South Blue",
   "firstChapter": 329,
@@ -1808,6 +2210,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 604,
   "origin": "Grand Line",
   "firstChapter": 609,
@@ -1832,6 +2235,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 331,
   "origin": "Grand Line",
   "firstChapter": 375,
@@ -1850,6 +2254,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 130,
   "origin": "East Blue",
   "firstChapter": 22,
@@ -1873,6 +2278,12 @@
   "dfName": "Wax-Wax Fruit",
   "haki": [],
   "bounty": 24000000,
+  "bounties": [
+   {
+    "amount": 24000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 179,
   "origin": "South Blue",
   "firstChapter": 117,
@@ -1895,6 +2306,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 180,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -1919,6 +2331,12 @@
   "dfName": "Shadow-Shadow Fruit",
   "haki": [],
   "bounty": 320000000,
+  "bounties": [
+   {
+    "amount": 320000000,
+    "chapter": 455
+   }
+  ],
   "heightCm": 692,
   "origin": "West Blue",
   "firstChapter": 449,
@@ -1942,6 +2360,12 @@
   "dfName": "Bomb-Bomb Fruit",
   "haki": [],
   "bounty": 10000000,
+  "bounties": [
+   {
+    "amount": 10000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 197,
   "origin": "South Blue",
   "firstChapter": 110,
@@ -1960,6 +2384,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 173,
   "origin": "East Blue",
   "firstChapter": 71,
@@ -1981,6 +2406,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 12000000,
+  "bounties": [
+   {
+    "amount": 12000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 44,
@@ -2001,6 +2432,12 @@
   "dfName": "Pop-Pop Fruit",
   "haki": [],
   "bounty": 31000000,
+  "bounties": [
+   {
+    "amount": 31000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 260,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -2027,6 +2464,12 @@
    "Conqueror"
   ],
   "bounty": 5564800000,
+  "bounties": [
+   {
+    "amount": 5564800000,
+    "chapter": 957
+   }
+  ],
   "heightCm": 274,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -2045,6 +2488,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 322,
@@ -2071,6 +2515,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "West Blue",
   "firstChapter": 1134,
@@ -2089,6 +2534,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 2200,
   "origin": "Grand Line",
   "firstChapter": 706,
@@ -2111,6 +2557,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 1136,
@@ -2132,6 +2579,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 8000000,
+  "bounties": [
+   {
+    "amount": 8000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 220,
   "origin": "Grand Line",
   "firstChapter": 69,
@@ -2150,6 +2603,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 25,
   "origin": "Unknown",
   "firstChapter": 323,
@@ -2170,6 +2624,12 @@
    "Armament"
   ],
   "bounty": 100000000,
+  "bounties": [
+   {
+    "amount": 100000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 179,
   "origin": "Unknown",
   "firstChapter": 3,
@@ -2192,6 +2652,12 @@
   "dfName": "Bind-Bind Fruit",
   "haki": [],
   "bounty": 200000000,
+  "bounties": [
+   {
+    "amount": 200000000,
+    "chapter": 1133
+   }
+  ],
   "heightCm": 181,
   "origin": "West Blue",
   "firstChapter": 171,
@@ -2213,6 +2679,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 213,
   "origin": "Grand Line",
   "firstChapter": 141,
@@ -2234,6 +2701,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 331,
   "origin": "Grand Line",
   "firstChapter": 608,
@@ -2255,6 +2723,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 223,
   "origin": "West Blue",
   "firstChapter": 446,
@@ -2281,6 +2750,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 100,
   "origin": "Grand Line",
   "firstChapter": 926,
@@ -2301,6 +2771,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 199,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -2322,6 +2793,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 218,
   "origin": "Grand Line",
   "firstChapter": 106,
@@ -2350,6 +2822,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 906,
@@ -2376,6 +2849,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 511,
   "origin": "Grand Line",
   "firstChapter": 808,
@@ -2401,6 +2875,12 @@
    "Observation"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1087
+   }
+  ],
   "heightCm": 270,
   "origin": "Grand Line",
   "firstChapter": 701,
@@ -2424,6 +2904,12 @@
    "Observation"
   ],
   "bounty": 510000000,
+  "bounties": [
+   {
+    "amount": 510000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 553,
@@ -2449,6 +2935,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 212,
   "origin": "North Blue",
   "firstChapter": 375,
@@ -2474,6 +2961,12 @@
    "Observation"
   ],
   "bounty": 1000000000,
+  "bounties": [
+   {
+    "amount": 1000000000,
+    "chapter": 809
+   }
+  ],
   "heightCm": 830,
   "origin": "Grand Line",
   "firstChapter": 801,
@@ -2497,6 +2990,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 1950,
   "origin": "South Blue",
   "firstChapter": 392,
@@ -2519,6 +3013,16 @@
   "dfName": null,
   "haki": [],
   "bounty": 1000000,
+  "bounties": [
+   {
+    "amount": 1000000,
+    "chapter": 1133
+   },
+   {
+    "amount": 9000000,
+    "chapter": 136
+   }
+  ],
   "heightCm": 207,
   "origin": "East Blue",
   "firstChapter": 25,
@@ -2545,6 +3049,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -2572,6 +3077,12 @@
    "Observation"
   ],
   "bounty": 20000000,
+  "bounties": [
+   {
+    "amount": 20000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 355,
   "origin": "Grand Line",
   "firstChapter": 222,
@@ -2598,6 +3109,16 @@
    "Armament"
   ],
   "bounty": 320000000,
+  "bounties": [
+   {
+    "amount": 320000000,
+    "chapter": 1060
+   },
+   {
+    "amount": 140000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 174,
   "origin": "Red Line",
   "firstChapter": 498,
@@ -2623,6 +3144,24 @@
    "Observation"
   ],
   "bounty": 1100000000,
+  "bounties": [
+   {
+    "amount": 1100000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 438000000,
+    "chapter": 976
+   },
+   {
+    "amount": 250000000,
+    "chapter": 528
+   },
+   {
+    "amount": 76000000,
+    "chapter": 622
+   }
+  ],
   "heightCm": 301,
   "origin": "Grand Line",
   "firstChapter": 528,
@@ -2643,6 +3182,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 186,
   "origin": "East Blue",
   "firstChapter": 42,
@@ -2668,6 +3208,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 503,
   "origin": "West Blue",
   "firstChapter": 234,
@@ -2696,6 +3237,16 @@
    "Conqueror"
   ],
   "bounty": 4611100000,
+  "bounties": [
+   {
+    "amount": 4611100000,
+    "chapter": 957
+   },
+   {
+    "amount": 70000000,
+    "chapter": 1049
+   }
+  ],
   "heightCm": 710,
   "origin": "Grand Line",
   "firstChapter": 795,
@@ -2721,6 +3272,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 193,
   "origin": "East Blue",
   "firstChapter": 323,
@@ -2744,6 +3296,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 222,
   "origin": "Grand Line",
   "firstChapter": 286,
@@ -2767,6 +3320,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 185,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -2790,6 +3344,12 @@
    "Observation"
   ],
   "bounty": 400000000,
+  "bounties": [
+   {
+    "amount": 400000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 265,
   "origin": "North Blue",
   "firstChapter": 593,
@@ -2810,6 +3370,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 150,
   "origin": "Grand Line",
   "firstChapter": 109,
@@ -2834,6 +3395,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 271,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -2852,6 +3414,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 169,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -2877,6 +3440,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 287,
   "origin": "Grand Line",
   "firstChapter": 913,
@@ -2901,6 +3465,16 @@
    "Observation"
   ],
   "bounty": 200000000,
+  "bounties": [
+   {
+    "amount": 200000000,
+    "chapter": 677
+   },
+   {
+    "amount": 162000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 195,
   "origin": "South Blue",
   "firstChapter": 498,
@@ -2925,6 +3499,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1140,
@@ -2952,6 +3527,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 295,
   "origin": "Grand Line",
   "firstChapter": 656,
@@ -2979,6 +3555,12 @@
    "Observation"
   ],
   "bounty": 1390000000,
+  "bounties": [
+   {
+    "amount": 1390000000,
+    "chapter": 920
+   }
+  ],
   "heightCm": 613,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -2997,6 +3579,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 160,
   "origin": "Unknown",
   "firstChapter": 622,
@@ -3020,6 +3603,12 @@
    "Observation"
   ],
   "bounty": 500000000,
+  "bounties": [
+   {
+    "amount": 500000000,
+    "chapter": 1080
+   }
+  ],
   "heightCm": 167,
   "origin": "East Blue",
   "firstChapter": 2,
@@ -3040,6 +3629,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 168,
   "origin": "Grand Line",
   "firstChapter": 322,
@@ -3060,6 +3650,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 177,
   "origin": "Grand Line",
   "firstChapter": 163,
@@ -3082,6 +3673,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 170,
   "origin": "Grand Line",
   "firstChapter": 909,
@@ -3108,6 +3700,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 322,
   "origin": "Grand Line",
   "firstChapter": 684,
@@ -3133,6 +3726,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 382,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -3157,6 +3751,7 @@
   "dfName": "Time-Time Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 190,
   "origin": "Unknown",
   "firstChapter": 919,
@@ -3178,6 +3773,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 17000000,
+  "bounties": [
+   {
+    "amount": 17000000,
+    "chapter": 96
+   }
+  ],
   "heightCm": 243,
   "origin": "East Blue",
   "firstChapter": 45,
@@ -3198,6 +3799,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 150,
   "origin": "East Blue",
   "firstChapter": 5,
@@ -3219,6 +3821,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 338,
   "origin": "South Blue",
   "firstChapter": 375,
@@ -3240,6 +3843,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 188,
   "origin": "Grand Line",
   "firstChapter": 134,
@@ -3262,6 +3866,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 16000000,
+  "bounties": [
+   {
+    "amount": 16000000,
+    "chapter": 264
+   }
+  ],
   "heightCm": 207,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -3288,6 +3898,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 347,
   "origin": "Grand Line",
   "firstChapter": 700,
@@ -3311,6 +3922,7 @@
   "dfName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 350,
   "origin": "Grand Line",
   "firstChapter": 927,
@@ -3335,6 +3947,7 @@
   "dfName": "Millet-Millet Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 108,
   "origin": "Grand Line",
   "firstChapter": 911,
@@ -3360,6 +3973,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 298,
   "origin": "South Blue",
   "firstChapter": 303,
@@ -3381,6 +3995,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 298,
   "origin": "Grand Line",
   "firstChapter": 702,
@@ -3402,6 +4017,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 42200000,
+  "bounties": [
+   {
+    "amount": 42200000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 340,
   "origin": "West Blue",
   "firstChapter": 234,
@@ -3422,6 +4043,7 @@
   "dfName": "Sew-Sew Fruit (Stitch-Stitch Power)",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 23,
   "origin": "Grand Line",
   "firstChapter": 710,
@@ -3444,6 +4066,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 204,
   "origin": "Grand Line",
   "firstChapter": 1061,
@@ -3470,6 +4093,12 @@
    "Conqueror"
   ],
   "bounty": 2600000000,
+  "bounties": [
+   {
+    "amount": 2600000000,
+    "chapter": 1131
+   }
+  ],
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 1130,
@@ -3492,6 +4121,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 241,
   "origin": "South Blue",
   "firstChapter": 1,
@@ -3512,6 +4142,7 @@
   "dfName": "Venom-Venom Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 491,
   "origin": "Grand Line",
   "firstChapter": 528,
@@ -3539,6 +4170,12 @@
    "Observation"
   ],
   "bounty": 1374000000,
+  "bounties": [
+   {
+    "amount": 1374000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 203,
   "origin": "Grand Line",
   "firstChapter": 234,
@@ -3565,6 +4202,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -3587,6 +4225,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 178,
   "origin": "Calm Belt",
   "firstChapter": 514,
@@ -3614,6 +4253,16 @@
    "Observation"
   ],
   "bounty": 3996000000,
+  "bounties": [
+   {
+    "amount": 3996000000,
+    "chapter": 1059
+   },
+   {
+    "amount": 2247600000,
+    "chapter": 925
+   }
+  ],
   "heightCm": 344,
   "origin": "Grand Line",
   "firstChapter": 223,
@@ -3637,6 +4286,12 @@
   "dfName": "Kilo-Kilo Fruit",
   "haki": [],
   "bounty": 7500000,
+  "bounties": [
+   {
+    "amount": 7500000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 177,
   "origin": "West Blue",
   "firstChapter": 110,
@@ -3657,6 +4312,7 @@
   "dfName": "Snow-Snow Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 227,
   "origin": "North Blue",
   "firstChapter": 657,
@@ -3680,6 +4336,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 256,
   "origin": "East Blue",
   "firstChapter": 100,
@@ -3706,6 +4363,12 @@
    "Conqueror"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1087
+   }
+  ],
   "heightCm": 287,
   "origin": "East Blue",
   "firstChapter": 92,
@@ -3736,6 +4399,36 @@
    "Conqueror"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1053
+   },
+   {
+    "amount": 1500000000,
+    "chapter": 903
+   },
+   {
+    "amount": 500000000,
+    "chapter": 800
+   },
+   {
+    "amount": 400000000,
+    "chapter": 601
+   },
+   {
+    "amount": 300000000,
+    "chapter": 435
+   },
+   {
+    "amount": 100000000,
+    "chapter": 213
+   },
+   {
+    "amount": 30000000,
+    "chapter": 96
+   }
+  ],
   "heightCm": 174,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -3757,6 +4450,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 25000000,
+  "bounties": [
+   {
+    "amount": 25000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 242,
   "origin": "North Blue",
   "firstChapter": 227,
@@ -3779,6 +4478,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 220,
   "origin": "North Blue",
   "firstChapter": 286,
@@ -3800,6 +4500,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 285,
   "origin": "Unknown",
   "firstChapter": 4,
@@ -3823,6 +4524,7 @@
   "dfName": "Bird-Bird Fruit, Model: Albatross",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 305,
   "origin": "Grand Line",
   "firstChapter": 860,
@@ -3846,6 +4548,12 @@
    "Observation"
   ],
   "bounty": 293000000,
+  "bounties": [
+   {
+    "amount": 293000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 1253,
   "origin": "West Blue",
   "firstChapter": 904,
@@ -3868,6 +4576,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 187,
   "origin": "Grand Line",
   "firstChapter": 329,
@@ -3889,6 +4598,20 @@
   "dfName": null,
   "haki": [],
   "bounty": 366000000,
+  "bounties": [
+   {
+    "amount": 366000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 66000000,
+    "chapter": 801
+   },
+   {
+    "amount": 16000000,
+    "chapter": 435
+   }
+  ],
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 8,
@@ -3909,6 +4632,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Grand Line",
   "firstChapter": 552,
@@ -3930,6 +4654,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 848,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -3951,6 +4676,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 182,
   "origin": "Grand Line",
   "firstChapter": 142,
@@ -3972,6 +4698,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 169,
   "origin": "Grand Line",
   "firstChapter": 103,
@@ -3997,6 +4724,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 522,
   "origin": "Grand Line",
   "firstChapter": 809,
@@ -4019,6 +4747,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 1220,
   "origin": "Grand Line",
   "firstChapter": 611,
@@ -4044,6 +4773,24 @@
   "dfName": "Flower-Flower Fruit (Hana Hana no Mi)",
   "haki": [],
   "bounty": 930000000,
+  "bounties": [
+   {
+    "amount": 930000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 130000000,
+    "chapter": 801
+   },
+   {
+    "amount": 80000000,
+    "chapter": 435
+   },
+   {
+    "amount": 79000000,
+    "chapter": 201
+   }
+  ],
   "heightCm": 188,
   "origin": "West Blue",
   "firstChapter": 114,
@@ -4062,6 +4809,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 127,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -4080,6 +4828,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 70,
@@ -4101,6 +4850,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 255,
@@ -4122,6 +4872,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 6700,
   "origin": "North Blue",
   "firstChapter": 456,
@@ -4143,6 +4894,16 @@
   "dfName": null,
   "haki": [],
   "bounty": 148000000,
+  "bounties": [
+   {
+    "amount": 148000000,
+    "chapter": 918
+   },
+   {
+    "amount": 98000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 480,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -4165,6 +4926,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 224,
   "origin": "Grand Line",
   "firstChapter": 621,
@@ -4190,6 +4952,12 @@
    "Observation"
   ],
   "bounty": 290000000,
+  "bounties": [
+   {
+    "amount": 290000000,
+    "chapter": 929
+   }
+  ],
   "heightCm": 171,
   "origin": "Grand Line",
   "firstChapter": 929,
@@ -4210,6 +4978,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 50,
   "origin": "Grand Line",
   "firstChapter": 195,
@@ -4228,6 +4997,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 204,
   "origin": "East Blue",
   "firstChapter": 44,
@@ -4248,6 +5018,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 195,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -4272,6 +5043,12 @@
    "Observation"
   ],
   "bounty": 382000000,
+  "bounties": [
+   {
+    "amount": 382000000,
+    "chapter": 850
+   }
+  ],
   "heightCm": 233,
   "origin": "Grand Line",
   "firstChapter": 805,
@@ -4292,6 +5069,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 206,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -4317,6 +5095,12 @@
    "Observation"
   ],
   "bounty": 330000000,
+  "bounties": [
+   {
+    "amount": 330000000,
+    "chapter": 652
+   }
+  ],
   "heightCm": 232,
   "origin": "Grand Line",
   "firstChapter": 651,
@@ -4339,6 +5123,7 @@
   "dfName": "Tweet-Tweet Fruit, Model: Falcon (Bird-Bird Fruit, Model: Falcon)",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 189,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -4361,6 +5146,7 @@
   "dfName": "Hollow-Hollow Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 160,
   "origin": "West Blue",
   "firstChapter": 443,
@@ -4384,6 +5170,12 @@
    "Observation"
   ],
   "bounty": 99000000,
+  "bounties": [
+   {
+    "amount": 99000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 470,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -4404,6 +5196,7 @@
   "dfName": "Horse-Horse Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -4424,6 +5217,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 120,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -4453,6 +5247,16 @@
    "Conqueror"
   ],
   "bounty": 550000000,
+  "bounties": [
+   {
+    "amount": 550000000,
+    "chapter": 660
+   },
+   {
+    "amount": 100000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 185,
   "origin": "South Blue",
   "firstChapter": 154,
@@ -4476,6 +5280,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 341,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -4502,6 +5307,12 @@
    "Observation"
   ],
   "bounty": 1320000000,
+  "bounties": [
+   {
+    "amount": 1320000000,
+    "chapter": 935
+   }
+  ],
   "heightCm": 612,
   "origin": "Grand Line",
   "firstChapter": 920,
@@ -4527,6 +5338,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 311,
   "origin": "Grand Line",
   "firstChapter": 817,
@@ -4550,6 +5362,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 171,
   "origin": "Grand Line",
   "firstChapter": 704,
@@ -4572,6 +5385,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 261,
   "origin": "Grand Line",
   "firstChapter": 706,
@@ -4598,6 +5412,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 212,
   "origin": "Grand Line",
   "firstChapter": 323,
@@ -4623,6 +5438,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 435,
   "origin": "West Blue",
   "firstChapter": 957,
@@ -4641,6 +5457,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 94000000,
+  "bounties": [
+   {
+    "amount": 94000000,
+    "chapter": 234
+   }
+  ],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 234,
@@ -4668,6 +5490,24 @@
    "Conqueror"
   ],
   "bounty": 1111000000,
+  "bounties": [
+   {
+    "amount": 1111000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 320000000,
+    "chapter": 801
+   },
+   {
+    "amount": 120000000,
+    "chapter": 435
+   },
+   {
+    "amount": 60000000,
+    "chapter": 213
+   }
+  ],
   "heightCm": 181,
   "origin": "East Blue",
   "firstChapter": 3,
@@ -4694,6 +5534,12 @@
    "Observation"
   ],
   "bounty": 602000000,
+  "bounties": [
+   {
+    "amount": 602000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 187,
   "origin": "East Blue",
   "firstChapter": 583,
@@ -4717,6 +5563,12 @@
    "Observation"
   ],
   "bounty": 210000000,
+  "bounties": [
+   {
+    "amount": 210000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 242,
   "origin": "West Blue",
   "firstChapter": 704,
@@ -4743,6 +5595,12 @@
    "Observation"
   ],
   "bounty": 5000000000,
+  "bounties": [
+   {
+    "amount": 5000000000,
+    "chapter": 1133
+   }
+  ],
   "heightCm": 306,
   "origin": "North Blue",
   "firstChapter": 397,
@@ -4768,6 +5626,24 @@
    "Observation"
   ],
   "bounty": 1032000000,
+  "bounties": [
+   {
+    "amount": 1032000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 330000000,
+    "chapter": 903
+   },
+   {
+    "amount": 177000000,
+    "chapter": 801
+   },
+   {
+    "amount": 77000000,
+    "chapter": 435
+   }
+  ],
   "heightCm": 180,
   "origin": "North Blue",
   "firstChapter": 43,
@@ -4791,6 +5667,7 @@
   "dfName": "Huge-Huge Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 18000,
   "origin": "West Blue",
   "firstChapter": 575,
@@ -4814,6 +5691,12 @@
    "Observation"
   ],
   "bounty": 472000000,
+  "bounties": [
+   {
+    "amount": 472000000,
+    "chapter": 977
+   }
+  ],
   "heightCm": 318,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -4839,6 +5722,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 19,
@@ -4865,6 +5749,16 @@
    "Observation"
   ],
   "bounty": 350000000,
+  "bounties": [
+   {
+    "amount": 350000000,
+    "chapter": 677
+   },
+   {
+    "amount": 198000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 256,
   "origin": "Grand Line",
   "firstChapter": 498,
@@ -4892,6 +5786,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 278,
   "origin": "South Blue",
   "firstChapter": 234,
@@ -4914,6 +5809,12 @@
   "dfName": "Swim-Swim Fruit",
   "haki": [],
   "bounty": 58000000,
+  "bounties": [
+   {
+    "amount": 58000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 244,
   "origin": "North Blue",
   "firstChapter": 702,
@@ -4935,6 +5836,12 @@
    "Observation"
   ],
   "bounty": 500000000,
+  "bounties": [
+   {
+    "amount": 500000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 279,
   "origin": "Grand Line",
   "firstChapter": 497,
@@ -4958,6 +5865,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 220,
   "origin": "Grand Line",
   "firstChapter": 1062,
@@ -4980,6 +5888,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 186,
   "origin": "Unknown",
   "firstChapter": 498,
@@ -5005,6 +5914,16 @@
    "Conqueror"
   ],
   "bounty": 4048900000,
+  "bounties": [
+   {
+    "amount": 4048900000,
+    "chapter": 957
+   },
+   {
+    "amount": 1040000000,
+    "chapter": 1058
+   }
+  ],
   "heightCm": 199,
   "origin": "West Blue",
   "firstChapter": 1,
@@ -5031,6 +5950,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -5054,6 +5974,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 179,
   "origin": "Grand Line",
   "firstChapter": 1023,
@@ -5074,6 +5995,7 @@
   "dfName": "Ripe-Ripe Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 180,
   "origin": "Grand Line",
   "firstChapter": 921,
@@ -5097,6 +6019,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 1187,
   "origin": "Grand Line",
   "firstChapter": 612,
@@ -5122,6 +6045,7 @@
    "Armament"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 340,
   "origin": "Grand Line",
   "firstChapter": 538,
@@ -5147,6 +6071,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 188,
   "origin": "Unknown",
   "firstChapter": 19,
@@ -5173,6 +6098,12 @@
    "Observation"
   ],
   "bounty": 500000000,
+  "bounties": [
+   {
+    "amount": 500000000,
+    "chapter": 1133
+   }
+  ],
   "heightCm": 209,
   "origin": "Grand Line",
   "firstChapter": 97,
@@ -5198,6 +6129,7 @@
    "Unknown"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 1140,
@@ -5216,6 +6148,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 192,
   "origin": "Grand Line",
   "firstChapter": 355,
@@ -5241,6 +6174,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 179,
   "origin": "Unknown",
   "firstChapter": 860,
@@ -5261,6 +6195,7 @@
   "dfName": "Hobby-Hobby Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 110,
   "origin": "North Blue",
   "firstChapter": 682,
@@ -5281,6 +6216,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 124,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -5302,6 +6238,12 @@
    "Observation"
   ],
   "bounty": 100000000,
+  "bounties": [
+   {
+    "amount": 100000000,
+    "chapter": 1133
+   }
+  ],
   "heightCm": 170,
   "origin": "East Blue",
   "firstChapter": 96,
@@ -5320,6 +6262,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "North Blue",
   "firstChapter": 440,
@@ -5338,6 +6281,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 296,
   "origin": "Grand Line",
   "firstChapter": 352,
@@ -5361,6 +6305,16 @@
   "dfName": "Human-Human Fruit",
   "haki": [],
   "bounty": 1000,
+  "bounties": [
+   {
+    "amount": 1000,
+    "chapter": 1058
+   },
+   {
+    "amount": 100,
+    "chapter": 801
+   }
+  ],
   "heightCm": 90,
   "origin": "Grand Line",
   "firstChapter": 134,
@@ -5387,6 +6341,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "Unknown",
   "firstChapter": 233,
@@ -5414,6 +6369,28 @@
    "Observation"
   ],
   "bounty": 3000000000,
+  "bounties": [
+   {
+    "amount": 3000000000,
+    "chapter": 1053
+   },
+   {
+    "amount": 500000000,
+    "chapter": 801
+   },
+   {
+    "amount": 440000000,
+    "chapter": 659
+   },
+   {
+    "amount": 200000000,
+    "chapter": 498
+   },
+   {
+    "amount": 80000000,
+    "chapter": 880
+   }
+  ],
   "heightCm": 191,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -5437,6 +6414,12 @@
    "Observation"
   ],
   "bounty": 99000000,
+  "bounties": [
+   {
+    "amount": 99000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 349,
   "origin": "North Blue",
   "firstChapter": 700,
@@ -5462,6 +6445,12 @@
    "Observation"
   ],
   "bounty": 500000000,
+  "bounties": [
+   {
+    "amount": 500000000,
+    "chapter": 1133
+   }
+  ],
   "heightCm": 204,
   "origin": "North Blue",
   "firstChapter": 234,
@@ -5485,6 +6474,12 @@
    "Observation"
   ],
   "bounty": 400000000,
+  "bounties": [
+   {
+    "amount": 400000000,
+    "chapter": 977
+   }
+  ],
   "heightCm": 173,
   "origin": "Grand Line",
   "firstChapter": 977,
@@ -5507,6 +6502,12 @@
   "dfName": null,
   "haki": [],
   "bounty": 108000000,
+  "bounties": [
+   {
+    "amount": 108000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 388,
   "origin": "Sky Island",
   "firstChapter": 498,
@@ -5531,6 +6532,20 @@
    "Observation"
   ],
   "bounty": 500000000,
+  "bounties": [
+   {
+    "amount": 500000000,
+    "chapter": 1058
+   },
+   {
+    "amount": 200000000,
+    "chapter": 801
+   },
+   {
+    "amount": 30000000,
+    "chapter": 435
+   }
+  ],
   "heightCm": 176,
   "origin": "East Blue",
   "firstChapter": 23,
@@ -5554,6 +6569,12 @@
   "dfName": "Warp-Warp Fruit",
   "haki": [],
   "bounty": 64000000,
+  "bounties": [
+   {
+    "amount": 64000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 340,
   "origin": "East Blue",
   "firstChapter": 222,
@@ -5577,6 +6598,7 @@
   "dfName": "Mark-Mark Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 352,
   "origin": "Grand Line",
   "firstChapter": 606,
@@ -5599,6 +6621,7 @@
   "dfName": "Glug-Glug Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 573,
   "origin": "South Blue",
   "firstChapter": 575,
@@ -5622,6 +6645,7 @@
   "dfName": "Brain-Brain Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 314,
   "origin": "Grand Line",
   "firstChapter": 684,
@@ -5646,6 +6670,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 247,
   "origin": "North Blue",
   "firstChapter": 671,
@@ -5667,6 +6692,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 186,
   "origin": "North Blue",
   "firstChapter": 828,
@@ -5688,6 +6714,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 272,
   "origin": "North Blue",
   "firstChapter": 832,
@@ -5709,6 +6736,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 185,
   "origin": "North Blue",
   "firstChapter": 828,
@@ -5730,6 +6758,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 173,
   "origin": "North Blue",
   "firstChapter": 826,
@@ -5751,6 +6780,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 194,
   "origin": "North Blue",
   "firstChapter": 825,
@@ -5773,6 +6803,7 @@
   "dfName": "Glare-Glare Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 178,
   "origin": "Grand Line",
   "firstChapter": 703,
@@ -5797,6 +6828,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 328,
   "origin": "North Blue",
   "firstChapter": 552,
@@ -5815,6 +6847,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 181,
   "origin": "Grand Line",
   "firstChapter": 804,
@@ -5837,6 +6870,7 @@
   "dfName": "Munch-Munch Fruit",
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 207,
   "origin": "Grand Line",
   "firstChapter": 131,
@@ -5863,6 +6897,12 @@
    "Observation"
   ],
   "bounty": 546000000,
+  "bounties": [
+   {
+    "amount": 546000000,
+    "chapter": 977
+   }
+  ],
   "heightCm": 336,
   "origin": "North Blue",
   "firstChapter": 977,
@@ -5881,6 +6921,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": null,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -5902,6 +6943,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 183,
   "origin": "Sky Island",
   "firstChapter": 237,
@@ -5929,6 +6971,12 @@
    "Observation"
   ],
   "bounty": 222000000,
+  "bounties": [
+   {
+    "amount": 222000000,
+    "chapter": 498
+   }
+  ],
   "heightCm": 233,
   "origin": "North Blue",
   "firstChapter": 498,
@@ -5957,6 +7005,7 @@
    "Conqueror"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 263,
   "origin": "Unknown",
   "firstChapter": 971,
@@ -5979,6 +7028,7 @@
    "Observation"
   ],
   "bounty": null,
+  "bounties": [],
   "heightCm": 183,
   "origin": "East Blue",
   "firstChapter": 1,
@@ -6001,6 +7051,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 482,
   "origin": "Grand Line",
   "firstChapter": 1065,
@@ -6021,6 +7072,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 185,
   "origin": "East Blue",
   "firstChapter": 42,
@@ -6045,6 +7097,12 @@
   "dfName": "Spike-Spike Fruit",
   "haki": [],
   "bounty": 35000000,
+  "bounties": [
+   {
+    "amount": 35000000,
+    "chapter": 918
+   }
+  ],
   "heightCm": 187,
   "origin": "Grand Line",
   "firstChapter": 155,
@@ -6063,6 +7121,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 227,
   "origin": "Grand Line",
   "firstChapter": 324,
@@ -6084,6 +7143,7 @@
   "dfName": null,
   "haki": [],
   "bounty": null,
+  "bounties": [],
   "heightCm": 189,
   "origin": "East Blue",
   "firstChapter": 43,

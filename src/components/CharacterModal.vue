@@ -4,6 +4,8 @@ import { formatBounty, formatHeight } from '../game/compare.js'
 
 const props = defineProps({
   character: { type: Object, required: true },
+  // The arc the player has read up to, or null for the whole story.
+  limitArc: { type: Object, default: null },
 })
 const emit = defineEmits(['close'])
 
@@ -24,6 +26,18 @@ const haki = computed(() => {
   if (!h.length) return 'None'
   if (h.includes('Unknown')) return 'Unknown'
   return h.map(t => `${HAKI_ICONS[t]} ${t}`).join(', ')
+})
+
+const bountyText = computed(() => {
+  const b = c.value.bounty
+  return b == null ? '฿0 (none known)' : `${formatBounty(b)} (${b.toLocaleString('en-US')} berries)`
+})
+
+// Only the raises the player has read; the rest of the history is a spoiler.
+const bountyHistory = computed(() => {
+  const cap = props.limitArc?.endChapter
+  return (c.value.bounties ?? []).filter(
+    b => b.chapter != null && (cap == null || b.chapter <= cap))
 })
 
 const heightText = computed(() => {
@@ -74,7 +88,19 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
             </td>
           </tr>
           <tr><td>Haki</td><td>{{ haki }}</td></tr>
-          <tr><td>Last Bounty</td><td>{{ c.bounty == null ? '฿0 (none known)' : formatBounty(c.bounty) + ' (' + c.bounty.toLocaleString('en-US') + ' berries)' }}</td></tr>
+          <tr>
+            <td>Last Bounty</td>
+            <td>
+              {{ bountyText }}
+              <span v-if="limitArc" class="sub">— as of {{ limitArc.name }}</span>
+              <div v-if="bountyHistory.length > 1" class="history">
+                previously
+                <span v-for="b in bountyHistory.slice(1)" :key="b.chapter" class="history-item">
+                  {{ formatBounty(b.amount) }}<span class="chap">ch. {{ b.chapter }}</span>
+                </span>
+              </div>
+            </td>
+          </tr>
           <tr><td>Height</td><td>{{ heightText }}</td></tr>
           <tr><td>Origin</td><td>{{ c.origin }}</td></tr>
           <tr><td>First arc</td><td>{{ c.firstArc ?? 'Unknown' }}</td></tr>
@@ -146,6 +172,23 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   width: 38%;
 }
 .sub { color: var(--brown); }
+
+.history {
+  margin-top: 4px;
+  font-size: 12.5px;
+  color: var(--brown);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px;
+}
+.history-item {
+  background: var(--parchment-dark);
+  border-radius: 8px;
+  padding: 1px 7px;
+  white-space: nowrap;
+}
+.chap { opacity: .75; margin-left: 4px; font-size: 11px; }
 
 .wiki-link {
   display: inline-block;

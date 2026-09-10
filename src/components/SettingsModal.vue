@@ -51,9 +51,10 @@ function apply() {
       </p>
 
       <div class="warn">
-        <b>One caveat:</b> this filters <i>which</i> characters appear, but their properties are
-        always the latest known from the wiki. A character you met early can still show a bounty,
-        crew or haki they only gained later on.
+        <b>One caveat:</b> bounties rewind with the limit — you see the figure that was known by
+        the end of that arc, not the character's final one. The other properties don't: they are
+        always the latest from the wiki, so a character you met early can still show a crew or
+        haki they only gained later on.
       </div>
 
       <p class="note">

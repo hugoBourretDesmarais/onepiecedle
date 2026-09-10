@@ -1,0 +1,537 @@
+{
+ "no_charbox": [],
+ "entries_without_chapter": {
+  "Alvida": [
+   {
+    "amount": 5000000,
+    "chapter": null,
+    "source": "data=red",
+    "struck": false,
+    "raw": "{{B}}5,000,000{{Qref|data=red|page=155|Alvida's bounty is revealed.}}"
+   }
+  ],
+  "Belo Betty": [
+   {
+    "amount": 457000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}457,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Bepo": [
+   {
+    "amount": 1500,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}1,500{{Qref|name=vc2|data=vivre card|card=0520|Bepo's Vivre Card entry (ver. \"Breakthrough! Pioneers of the New Genesis!!\")}}"
+   },
+   {
+    "amount": 500,
+    "chapter": null,
+    "source": null,
+    "struck": true,
+    "raw": "{{B}}<s>500</s>{{Qref|name=bounty|''[[One Piece Exhibition]]'' — Bepo's bounty is revealed.}}"
+   }
+  ],
+  "Black Maria": [
+   {
+    "amount": 480000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}480,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Boa Marigold": [
+   {
+    "amount": 40000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}40,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Boa Sandersonia": [
+   {
+    "amount": 40000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}40,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Charlotte Daifuku": [
+   {
+    "amount": 300000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}300,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Charlotte Lola": [
+   {
+    "amount": 24000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B|S}}24,000,000{{Qref|name=vivre card|data=vivre card|card=0477|Lola's Vivre Card entry.}}"
+   }
+  ],
+  "Charlotte Mont-d'Or": [
+   {
+    "amount": 120000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}120,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Charlotte Oven": [
+   {
+    "amount": 300000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}300,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Chinjao": [
+   {
+    "amount": 542000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}542,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Curly Dadan": [
+   {
+    "amount": 7800000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}7,800,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Daz Bonez": [
+   {
+    "amount": 75000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}75,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Diamante": [
+   {
+    "amount": 99000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Doc Q": [
+   {
+    "amount": 72000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "At least {{B}}72,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Drophy": [
+   {
+    "amount": 14000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}14,000,000{{Qref|name=vivre card|data=vivre card|card=0179|Information about Drophy is revealed.}}"
+   }
+  ],
+  "Galdino": [
+   {
+    "amount": 24000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}24,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Gem": [
+   {
+    "amount": 10000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}10,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Gin": [
+   {
+    "amount": 12000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}12,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Gladius": [
+   {
+    "amount": 31000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}31,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Hatchan": [
+   {
+    "amount": 8000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}8,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Helmeppo": [
+   {
+    "amount": 100000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "★ ({{B}}100,000,000){{Qref|name=vc2|data=vivre card|card=0034|Helmeppo's Vivre Card entry (ver. \"The Fierce Battle of Pirate Island! Marines vs. Blackbeard!!\").}}"
+   }
+  ],
+  "Hina": [
+   {
+    "amount": 200000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "(At least {{B|s}}200,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Izou": [
+   {
+    "amount": 510000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}510,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Jango": [
+   {
+    "amount": 1000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "(At least {{B|s}}1,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Jesus Burgess": [
+   {
+    "amount": 20000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "At least {{B}}20,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Karasu": [
+   {
+    "amount": 400000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}400,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "King": [
+   {
+    "amount": 1390000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}1,390,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Kuro": [
+   {
+    "amount": 16000000,
+    "chapter": null,
+    "source": "data=red",
+    "struck": false,
+    "raw": "{{B}}16,000,000{{Qref|data=red|page=165|Kuro's bounty is revealed.}}{{Qref|name=log|[[One Piece Exhibition#Pamphlets and Catalogues|Memories －Eternal Log－]], Kuro's poster is no longer crossed out.}}"
+   }
+  ],
+  "Laffitte": [
+   {
+    "amount": 42200000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "At least {{B}}42,200,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Marco": [
+   {
+    "amount": 1374000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}1,374,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Mikita": [
+   {
+    "amount": 7500000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}7,500,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Mont Blanc Cricket": [
+   {
+    "amount": 25000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}25,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Morley": [
+   {
+    "amount": 293000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}293,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Orlumbus": [
+   {
+    "amount": 148000000,
+    "chapter": null,
+    "source": null,
+    "struck": false,
+    "raw": "{{B}}148,000,000"
+   },
+   {
+    "amount": 98000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "{{B}}<s>98,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Page One": [
+   {
+    "amount": 290000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}290,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Pica": [
+   {
+    "amount": 99000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Portgas D. Ace": [
+   {
+    "amount": 550000000,
+    "chapter": null,
+    "source": "other=OP10",
+    "struck": true,
+    "raw": "<s>{{B}}550,000,000</s>{{Qref|other=OP10|Ace's bounty prior to his death is shown on his wanted poster.}}"
+   },
+   {
+    "amount": 100000000,
+    "chapter": null,
+    "source": "novel=a2",
+    "struck": true,
+    "raw": "{{B}}<s>At least {{B}}100,000,000</s>{{Qref|novel=a2|nchap=1|page=43|Ace's bounty is stated to be over {{B|s}}100,000,000.}}"
+   }
+  ],
+  "Sabo": [
+   {
+    "amount": 602000000,
+    "chapter": null,
+    "source": "magazine=3",
+    "struck": true,
+    "raw": "{{B}}<s>602,000,000</s>{{Qref|magazine=3|page=170|Sabo's bounty is revealed.}}"
+   }
+  ],
+  "Sai": [
+   {
+    "amount": 210000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}210,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Sakazuki": [
+   {
+    "amount": 5000000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "({{B|s}}5,000,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Sasaki": [
+   {
+    "amount": 472000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}472,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Senor Pink": [
+   {
+    "amount": 58000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}58,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Sentomaru": [
+   {
+    "amount": 500000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "({{B}}500,000,000){{Qref|name=vc2}}"
+   }
+  ],
+  "Shanks": [
+   {
+    "amount": 1040000000,
+    "chapter": null,
+    "source": "movie=15",
+    "struck": true,
+    "raw": "{{B}}<s>1,040,000,000</s>{{Qref|name=filmred|movie=15}}"
+   }
+  ],
+  "Smoker": [
+   {
+    "amount": 500000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "(At least {{B|s}}500,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Tashigi": [
+   {
+    "amount": 100000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "(At least {{B|s}}100,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Trafalgar D. Water Law": [
+   {
+    "amount": 80000000,
+    "chapter": null,
+    "source": "novel=kikoku",
+    "struck": true,
+    "raw": "{{B}}<s>80,000,000</s>{{Status|noncanon}}{{Qref|novel=kikoku|nchap=1}}"
+   }
+  ],
+  "Trebol": [
+   {
+    "amount": 99000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": true,
+    "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+   }
+  ],
+  "Tsuru": [
+   {
+    "amount": 500000000,
+    "chapter": null,
+    "source": "special=marinebounties",
+    "struck": false,
+    "raw": "(At least {{B|s}}500,000,000){{Qref|special=marinebounties}}"
+   }
+  ],
+  "Ulti": [
+   {
+    "amount": 400000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}400,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Van Augur": [
+   {
+    "amount": 64000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "At least {{B}}64,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Who's-Who": [
+   {
+    "amount": 546000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}546,000,000{{Qref|name=vivre card}}"
+   }
+  ],
+  "Zala": [
+   {
+    "amount": 35000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}35,000,000{{Qref|name=vivre card}}"
+   }
+  ]
+ },
+ "notes": [
+  "Avalo Pizarro: unknown amount in '{{B}}Unknown{{Qref|[[Home Video Releases/Movies And Specials'",
+  "Benn Beckman: unknown amount in '{{B}}Unknown{{Qref|Eternal Log, Beckman has a bounty, but pa'",
+  "Bepo: ref 'bounty' is defined here without a chapter",
+  "Catarina Devon: unknown amount in '{{B}}Unknown{{Qref|Eternal Log}}'",
+  "Crocus: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Jozu: unknown amount in '{{B}}Unknown{{Qref|Eternal Log}}'",
+  "Koala: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Kozuki Oden: unknown amount in '<s>{{B}}Unknown</s>{{Qref|chap=965|page=4|ep=964|It is menti'",
+  "Kuro: ref 'log' is defined here without a chapter",
+  "Kyros: unknown amount in '<s>{{B}}Unknown</s> (as Thunder Soldier){{Qref|chap=721|page'",
+  "Lucky Roux: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Monkey D. Dragon: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Rocks D. Xebec: unknown amount in '{{B|S}}<s>Unknown</s>{{Qref|name=c1154|chap=1154|page=16-17|'",
+  "Roronoa Zoro: ref 'Post-Wano Bounty' is defined here without a chapter",
+  "Sabo: unknown amount in '{{B}}Unknown{{Qref|name=vc egg|data=vivre card|card=0659|Sab'",
+  "Sanjuan Wolf: unknown amount in '{{B}}Unknown{{Qref|Eternal Log}}'",
+  "Shiryu: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Silvers Rayleigh: unknown amount in '{{B}}Unknown{{Qref|name=Bounty|chap=512|ep=404|page=2|Kizaru'",
+  "Vander Decken IX: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Vasco Shot: unknown amount in '{{B}}Unknown{{Qref|[[One Piece Exhibition#Pamphlets and Cata'",
+  "Vista: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'",
+  "Yasopp: unknown amount in '{{B}}Unknown{{Qref|Eternal Log, Yasopp has a bounty, but it '",
+  "Zeff: unknown amount in '{{B}}Unknown{{Qref|name=vivre card}}'"
+ ]
+}

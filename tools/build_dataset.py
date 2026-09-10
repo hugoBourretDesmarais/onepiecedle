@@ -6,6 +6,8 @@ Inputs:
   out/corrections.json   (from the verification workflow)
   out/arcs.json          (from the verification workflow)
   out/portraits.json
+  out/bounties.json      (from fetch_bounties.py)
+  out/bounty_dates.json  (reviewed dates for bounties the wiki doesn't date)
 Outputs:
   ../src/data/characters.json
   ../src/data/arcs.json
@@ -58,6 +60,27 @@ AFFILIATION_RENAMES = {
     "Spiders Cafe": "Baroque Works",
 }
 
+# Most bounties past the Straw Hats' were never printed in a chapter — they come
+# from a databook, an exhibition, a film or a novel. Those still have a moment
+# the reader could know them: publication. Each value below is the chapter being
+# serialised then, so the spoiler limit hides the figure until the player has
+# read that far. The Vivre Card boosters ran from 2018 into 2023, so its date is
+# the first release and is clamped to the character's debut on use.
+SOURCE_CHAPTER = {
+    "data=vivre card": 918,          # Vivre Card Databook, from Sept 2018
+    "special=marinebounties": 1133,  # Oda's Cross Guild Q&A, Volume 111
+    "data=blue": 250,                # One Piece Blue, Aug 2002
+    "data=red": 264,                 # One Piece Red, Dec 2002
+    "data=yellow": 410,              # One Piece Yellow, Apr 2006
+    "data=green": 605,               # One Piece Green, Nov 2010
+    "data=blue deep": 688,           # One Piece Blue Deep, Nov 2012
+    "magazine=3": 918,               # One Piece Magazine Vol.3, Sept 2018
+    "novel=a2": 918,                 # Novel A vol.2, 2018
+    "novel=kikoku": 880,             # Novel Law: The Hour of Kikoku, 2017
+    "other=OP10": 660,               # the One Piece Exhibition, March 2012
+    "movie=15": 1058,                # Film Red, Aug 2022
+}
+
 VALID_GENDER = {"Male", "Female", "Other", "Unknown"}
 VALID_DF = {"Paramecia", "Special Paramecia", "Zoan", "Ancient Zoan", "Mythical Zoan",
             "Logia", "Unknown"}
@@ -71,6 +94,8 @@ def main():
     corrections = {c["requested"]: c for c in json.loads((OUT / "corrections.json").read_text())}
     arcs = json.loads((OUT / "arcs.json").read_text())
     portraits = json.loads((OUT / "portraits.json").read_text())
+    bounties = json.loads((OUT / "bounties.json").read_text())
+    bounty_dates = json.loads((OUT / "bounty_dates.json").read_text())
 
     arc_names = [a["name"] for a in arcs]
 
@@ -127,6 +152,27 @@ def main():
         bounty = pick("bounty")
         height = pick("heightCm")
 
+        # Newest first, as the wiki lists them. A missing chapter means we could
+        # not work out when the reader learned the figure, so a spoiler-limited
+        # board has to leave it out rather than risk showing it too early.
+        history = []
+        for e in bounties.get(req, []):
+            ch = e["chapter"]
+            if ch is None:
+                ch = bounty_dates.get(f"{req}|{e['amount']}")
+            if ch is None and e.get("source"):
+                ch = SOURCE_CHAPTER.get(e["source"])
+                # A databook can't have told you a bounty before you met them.
+                if ch is not None and chapter is not None:
+                    ch = max(ch, chapter)
+            if ch is None:
+                problems.append(
+                    f"{req}: undated bounty ฿{e['amount']:,} ({e.get('source') or 'no source'})"
+                    " — hidden under a spoiler limit")
+            history.append({"amount": e["amount"], "chapter": ch})
+        if history and history[0]["amount"] != bounty:
+            problems.append(f"{req}: latest bounty {bounty} != history head {history[0]['amount']}")
+
         aliases = c.get("aliases", [])
         if d["name"] != req and d["name"] not in aliases:
             aliases = aliases + [d["name"]]
@@ -149,6 +195,7 @@ def main():
             "dfName": pick("dfName"),
             "haki": haki,
             "bounty": bounty if bounty is None else int(bounty),
+            "bounties": history,
             "heightCm": height,
             "origin": origin,
             "firstChapter": chapter,

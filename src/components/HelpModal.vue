@@ -22,7 +22,7 @@ const emit = defineEmits(['close'])
           <tr><td>Affiliation</td><td>Main crew or organization (e.g. Straw Hat Pirates, Marines)</td></tr>
           <tr><td>Devil Fruit</td><td>Fruit type: Paramecia, Zoan, Ancient Zoan, Mythical Zoan, Logia, Special Paramecia, None or Unknown</td></tr>
           <tr><td>Haki</td><td>Confirmed haki: 👑 Conqueror, 💪 Armament, 👀 Observation — ✖ none, ? unknown. Yellow when you share at least one type but not all of them</td></tr>
-          <tr><td>Last Bounty</td><td>Latest known bounty (0 if none)</td></tr>
+          <tr><td>Last Bounty</td><td>Latest known bounty (0 if none). With a spoiler limit set, the latest one revealed by the end of that arc</td></tr>
           <tr><td>Height</td><td>Latest known height</td></tr>
           <tr><td>Origin</td><td>Sea of origin (East Blue, Grand Line, …)</td></tr>
           <tr><td>First Arc</td><td>Story arc of first appearance, arrows follow story order</td></tr>
@@ -53,8 +53,9 @@ const emit = defineEmits(['close'])
       <p>
         Not caught up? Open <b>⚙️ Settings</b> and set how far you've read. Only characters who have
         appeared by the end of that arc will show up as the answer, in the guess suggestions, or in
-        the gallery. Note that character <i>properties</i> are always the latest known, so someone you
-        met early can still show a crew or bounty they only got later.
+        the gallery, and each one's <b>bounty rewinds</b> to the figure revealed by then — Luffy is
+        worth ฿30M in Loguetown, not ฿3B. The other properties don't rewind, so someone you met
+        early can still show a crew or haki they only got later.
       </p>
 
       <p class="note">Data from the One Piece Wiki — with no spoiler limit set, current story spoilers are included!</p>

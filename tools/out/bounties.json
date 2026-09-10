@@ -1,0 +1,1420 @@
+{
+ "Alvida": [
+  {
+   "amount": 5000000,
+   "chapter": null,
+   "source": "data=red",
+   "struck": false,
+   "raw": "{{B}}5,000,000{{Qref|data=red|page=155|Alvida's bounty is revealed.}}"
+  }
+ ],
+ "Aramaki": [
+  {
+   "amount": 3000000000,
+   "chapter": 1087,
+   "source": null,
+   "struck": false,
+   "raw": "({{B|s}}3,000,000,000){{Qref|name=c1087|chap=1087|page=10|ep=1121|The admirals' bounties are revealed.}}"
+  }
+ ],
+ "Arlong": [
+  {
+   "amount": 20000000,
+   "chapter": 69,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}20,000,000</s>{{Qref|name=c69|chap=69|page=10|ep=31|Arlong's bounty is seen in a flashback when Nami gazes at his wanted poster.}}{{Qref|chap=96|page=6|ep=45}}"
+  }
+ ],
+ "Bartholomew Kuma": [
+  {
+   "amount": 296000000,
+   "chapter": 234,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}296,000,000{{Qref|name=c234|chap=234|page=5|ep=151|Kuma's bounty is revealed.}}"
+  }
+ ],
+ "Bartolomeo": [
+  {
+   "amount": 200000000,
+   "chapter": 801,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}200,000,000{{Qref|name=c801|chap=801|page=17|ep=746|Bartolomeo's bounty is increased after the Dressrosa Arc.}}"
+  },
+  {
+   "amount": 150000000,
+   "chapter": 706,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>150,000,000</s>{{Qref|chap=706|page=2|ep=636|Bartolomeo's bounty is revealed.}}"
+  }
+ ],
+ "Basil Hawkins": [
+  {
+   "amount": 320000000,
+   "chapter": 677,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}320,000,000{{Qref|name=Timeskip}}"
+  },
+  {
+   "amount": 249000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>249,000,000</s>{{Qref|chap=498|page=18|ep=392|The 9 big time rookies revealed.}}"
+  }
+ ],
+ "Bellamy": [
+  {
+   "amount": 195000000,
+   "chapter": 706,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}195,000,000{{Qref|name=c706}}"
+  },
+  {
+   "amount": 55000000,
+   "chapter": 222,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>55,000,000</s>{{Qref|name=c222}}"
+  }
+ ],
+ "Belo Betty": [
+  {
+   "amount": 457000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}457,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Bentham": [
+  {
+   "amount": 32000000,
+   "chapter": 372,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}32,000,000</s>{{Qref|name=Meet Baroque|cover=372|Bon Kurei's wanted poster, depicting his bounty and romanized alias. Note that the VIZ translation re-letters the poster to ''Bon Clay''.}}"
+  }
+ ],
+ "Bepo": [
+  {
+   "amount": 1500,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}1,500{{Qref|name=vc2|data=vivre card|card=0520|Bepo's Vivre Card entry (ver. \"Breakthrough! Pioneers of the New Genesis!!\")}}"
+  },
+  {
+   "amount": 500,
+   "chapter": null,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>500</s>{{Qref|name=bounty|''[[One Piece Exhibition]]'' — Bepo's bounty is revealed.}}"
+  }
+ ],
+ "Black Maria": [
+  {
+   "amount": 480000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}480,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Boa Hancock": [
+  {
+   "amount": 1659000000,
+   "chapter": 1059,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,659,000,000{{Qref|name=c1059p12|chap=1059|page=12|ep=1087|Hancock's current bounty is revealed.}}"
+  },
+  {
+   "amount": 80000000,
+   "chapter": 522,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>80,000,000</s>{{Qref|name=bounty|chap=522|page=6|ep=416|Hancock's former bounty is revealed.}}"
+  }
+ ],
+ "Boa Marigold": [
+  {
+   "amount": 40000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}40,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Boa Sandersonia": [
+  {
+   "amount": 40000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}40,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Borsalino": [
+  {
+   "amount": 3000000000,
+   "chapter": 1087,
+   "source": null,
+   "struck": false,
+   "raw": "({{B|s}}3,000,000,000){{Qref|name=c1087|chap=1087|page=10|ep=1121|The admiral bounties are revealed.}}"
+  }
+ ],
+ "Brogy": [
+  {
+   "amount": 1800000000,
+   "chapter": 1130,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,800,000,000{{Qref|name=c1130p8|chap=1130|page=8|ep=1160|Dorry and Brogy's bounties after Egghead.}}"
+  },
+  {
+   "amount": 100000000,
+   "chapter": 118,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>100,000,000</s>{{Qref|chap=118|page=16|ep=71}}"
+  }
+ ],
+ "Brook": [
+  {
+   "amount": 383000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}383,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 83000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>83,000,000</s>{{Qref|name=Post-Dressrosa Bounties}}"
+  },
+  {
+   "amount": 33000000,
+   "chapter": 489,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>33,000,000</s>{{Qref|name=Knight}}"
+  }
+ ],
+ "Buggy": [
+  {
+   "amount": 3189000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,189,000,000{{Qref|name=Cross Guild Bounties|chap=1058|page=13-14|ep=1086|The bounties of the Cross Guild members are revealed.}}"
+  },
+  {
+   "amount": 15000000,
+   "chapter": 96,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>15,000,000</s>{{Qref|name=c96|chap=96|page=6|ep=45|Buggy's bounty is revealed.}}"
+  }
+ ],
+ "Caesar Clown": [
+  {
+   "amount": 300000000,
+   "chapter": 664,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}300,000,000{{Qref|name=c664|chap=664|ep=589|Caesar is introduced and is fully seen for the first time.}}"
+  }
+ ],
+ "Capone Bege": [
+  {
+   "amount": 350000000,
+   "chapter": 966,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}350,000,000{{Qref|name=newbounty|cover=966|Bege's new wanted poster is seen.}}"
+  },
+  {
+   "amount": 300000000,
+   "chapter": 812,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>300,000,000</s>{{Qref|name=Bounty|chap=812|page=13|ep=763}}"
+  },
+  {
+   "amount": 138000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>138,000,000</s>{{Qref|chap=498|ep=392|page=18|The 9 big time rookies revealed.}}"
+  }
+ ],
+ "Caribou": [
+  {
+   "amount": 210000000,
+   "chapter": 600,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}210,000,000{{Qref|name=infobox}}"
+  }
+ ],
+ "Cavendish": [
+  {
+   "amount": 330000000,
+   "chapter": 801,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}330,000,000{{Qref|chap=801|page=17|ep=746|Cavendish's bounty is increased after the Dressrosa Arc.}}"
+  },
+  {
+   "amount": 280000000,
+   "chapter": 704,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>280,000,000</s>{{Qref|name=c704p10}}"
+  }
+ ],
+ "Chadros Higelyges": [
+  {
+   "amount": 80060000,
+   "chapter": 661,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}80,060,000</s>{{Qref|name=c661}}"
+  }
+ ],
+ "Charlotte Cracker": [
+  {
+   "amount": 860000000,
+   "chapter": 836,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}860,000,000{{Qref|name=Epithet}}"
+  }
+ ],
+ "Charlotte Daifuku": [
+  {
+   "amount": 300000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}300,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Charlotte Katakuri": [
+  {
+   "amount": 1057000000,
+   "chapter": 860,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,057,000,000{{Qref|name=intro}}"
+  }
+ ],
+ "Charlotte Linlin": [
+  {
+   "amount": 4388000000,
+   "chapter": 957,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}4,388,000,000{{Qref|name=bounties2|chap=957|page=15|ep=958|Linlin's current bounty is revealed.}}"
+  },
+  {
+   "amount": 500000000,
+   "chapter": 868,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>500,000,000</s>{{Qref|name=bounties|chap=868|page=9|ep=838|Linlin's first and second bounties are revealed.}}"
+  },
+  {
+   "amount": 50000000,
+   "chapter": 868,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>50,000,000</s>{{Qref|name=bounties}}"
+  }
+ ],
+ "Charlotte Lola": [
+  {
+   "amount": 24000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B|S}}24,000,000{{Qref|name=vivre card|data=vivre card|card=0477|Lola's Vivre Card entry.}}"
+  }
+ ],
+ "Charlotte Mont-d'Or": [
+  {
+   "amount": 120000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}120,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Charlotte Oven": [
+  {
+   "amount": 300000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}300,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Charlotte Perospero": [
+  {
+   "amount": 700000000,
+   "chapter": 877,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}700,000,000{{Qref|name=c877p16|chap=877|page=16|ep=849|Perospero announces his bounty.}}"
+  }
+ ],
+ "Charlotte Smoothie": [
+  {
+   "amount": 932000000,
+   "chapter": 846,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}932,000,000{{Qref|name=debut}}"
+  }
+ ],
+ "Chinjao": [
+  {
+   "amount": 542000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}542,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Crocodile": [
+  {
+   "amount": 1965000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,965,000,000{{Qref|name=Cross Guild Bounties|chap=1058|page=13-14|ep=1086|The bounties of the Cross Guild members are revealed.}}"
+  },
+  {
+   "amount": 81000000,
+   "chapter": 155,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}81,000,000</s>{{Qref|name=Crocodile first and finally clearly seen}}"
+  }
+ ],
+ "Curly Dadan": [
+  {
+   "amount": 7800000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}7,800,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Daz Bonez": [
+  {
+   "amount": 75000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}75,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Diamante": [
+  {
+   "amount": 99000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Doc Q": [
+  {
+   "amount": 72000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "At least {{B}}72,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Donquixote Doflamingo": [
+  {
+   "amount": 340000000,
+   "chapter": 234,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}340,000,000</s>{{Qref|chap=234|page=5|ep=151|Doflamingo's bounty is revealed.}}"
+  }
+ ],
+ "Dorry": [
+  {
+   "amount": 1800000000,
+   "chapter": 1130,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,800,000,000{{Qref|name=c1130p8|chap=1130|page=8|ep=1160|Dorry and Brogy's bounties after Egghead.}}"
+  },
+  {
+   "amount": 100000000,
+   "chapter": 118,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>100,000,000</s>{{Qref|chap=118|page=16|ep=71}}"
+  }
+ ],
+ "Dracule Mihawk": [
+  {
+   "amount": 3590000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,590,000,000{{Qref|name=Cross Guild Bounties|chap=1058|page=13-14|ep=1086|The bounties of the Cross Guild members are revealed.}}"
+  }
+ ],
+ "Drophy": [
+  {
+   "amount": 14000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}14,000,000{{Qref|name=vivre card|data=vivre card|card=0179|Information about Drophy is revealed.}}"
+  }
+ ],
+ "Edward Newgate": [
+  {
+   "amount": 5046000000,
+   "chapter": 957,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}5,046,000,000</s>{{Qref|name=bounty|chap=957|page=17|ep=958|Newgate's bounty is revealed.}}"
+  }
+ ],
+ "Edward Weevil": [
+  {
+   "amount": 480000000,
+   "chapter": 802,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}480,000,000</s>{{Qref|name=c802p8}}"
+  }
+ ],
+ "Emporio Ivankov": [
+  {
+   "amount": 100000000,
+   "chapter": 536,
+   "source": null,
+   "struck": false,
+   "raw": "At least {{B}}100,000,000{{Qref|name=Iva rumors|chap=536|ep=438|Mr. 2 is told of the rumors of Iva.}}"
+  }
+ ],
+ "Eustass Kid": [
+  {
+   "amount": 3000000000,
+   "chapter": 1053,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,000,000,000{{Qref|name=c1053|chap=1053|page=4-5|ep=1080|Kid's current bounty is revealed.}}"
+  },
+  {
+   "amount": 470000000,
+   "chapter": 677,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>470,000,000</s>{{Qref|name=c677p3|chap=677|page=3|ep=603|Kid seen after the timeskip.}}"
+  },
+  {
+   "amount": 315000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>315,000,000</s>{{Qref|name=debut}}"
+  }
+ ],
+ "Fisher Tiger": [
+  {
+   "amount": 230000000,
+   "chapter": 622,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}230,000,000</s>{{Qref|name=Bounty|chap=622|page=14|ep=541|Tiger's bounty is revealed.}}"
+  }
+ ],
+ "Foxy": [
+  {
+   "amount": 24000000,
+   "chapter": 305,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}24,000,000{{Qref|name=Debut}}"
+  }
+ ],
+ "Franky": [
+  {
+   "amount": 394000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}394,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 94000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>94,000,000</s>{{Qref|name=Post-Dressrosa Bounties|chap=801|page=15-17|ep=746|The Straw Hat Pirates are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  },
+  {
+   "amount": 44000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>44,000,000</s>{{Qref|name=Cyborg Wanted}}"
+  }
+ ],
+ "Galdino": [
+  {
+   "amount": 24000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}24,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Gecko Moria": [
+  {
+   "amount": 320000000,
+   "chapter": 455,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}320,000,000{{Qref|name=infobox|chap=455|page=13|Moria's former bounty, motto and favorite phrase are revealed in his infobox.}}{{Qref|name=c925p4|chap=925|page=4|ep=917|Moria's name is romanized.}}"
+  }
+ ],
+ "Gem": [
+  {
+   "amount": 10000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}10,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Gin": [
+  {
+   "amount": 12000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}12,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Gladius": [
+  {
+   "amount": 31000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}31,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Gol D. Roger": [
+  {
+   "amount": 5564800000,
+   "chapter": 957,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}5,564,800,000</s>{{Qref|name=bounty|chap=957|page=17|ep=958|Roger's bounty is revealed.}}"
+  }
+ ],
+ "Hatchan": [
+  {
+   "amount": 8000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}8,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Helmeppo": [
+  {
+   "amount": 100000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "★ ({{B}}100,000,000){{Qref|name=vc2|data=vivre card|card=0034|Helmeppo's Vivre Card entry (ver. \"The Fierce Battle of Pirate Island! Marines vs. Blackbeard!!\").}}"
+  }
+ ],
+ "Hina": [
+  {
+   "amount": 200000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "(At least {{B|s}}200,000,000){{Qref|special=marinebounties}}"
+  }
+ ],
+ "Issho": [
+  {
+   "amount": 3000000000,
+   "chapter": 1087,
+   "source": null,
+   "struck": false,
+   "raw": "({{B|s}}3,000,000,000){{Qref|name=c1087|chap=1087|page=10|ep=1121|The admiral bounties are revealed.}}"
+  }
+ ],
+ "Izou": [
+  {
+   "amount": 510000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}510,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Jack": [
+  {
+   "amount": 1000000000,
+   "chapter": 809,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,000,000,000{{Qref|name=Bounty|chap=809|page=13|ep=759|Jack's bounty is revealed.}}"
+  }
+ ],
+ "Jango": [
+  {
+   "amount": 1000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "(At least {{B|s}}1,000,000){{Qref|special=marinebounties}}"
+  },
+  {
+   "amount": 9000000,
+   "chapter": 136,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}9,000,000</s>{{Qref|cover=136|A bounty of Jango is seen at a Marine's hand.}}"
+  }
+ ],
+ "Jesus Burgess": [
+  {
+   "amount": 20000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "At least {{B}}20,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Jewelry Bonney": [
+  {
+   "amount": 320000000,
+   "chapter": 1060,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}320,000,000{{Qref|name=c1060|chap=1060|page=17-19|ep=1089|The Straw Hats encounter Bonney inside a warm eddy.}}"
+  },
+  {
+   "amount": 140000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>140,000,000</s>{{Qref|name=debut}}"
+  }
+ ],
+ "Jinbe": [
+  {
+   "amount": 1100000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,100,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 438000000,
+   "chapter": 976,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>438,000,000</s>{{Qref|name=c976|chap=976|page=19|ep=980|Jinbe's former bounty seen in his infobox.}}"
+  },
+  {
+   "amount": 250000000,
+   "chapter": 528,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>250,000,000</s>{{Qref|name=second bounty|chap=528|page=18|ep=430|Jinbe's former bounty seen in his infobox.}}"
+  },
+  {
+   "amount": 76000000,
+   "chapter": 622,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>76,000,000</s>{{Qref|chap=622|page=14|ep=541|Jinbe's first bounty seen on his wanted poster.}}"
+  }
+ ],
+ "Kaidou": [
+  {
+   "amount": 4611100000,
+   "chapter": 957,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}4,611,100,000{{Qref|name=bounty|chap=957|page=16|ep=958|Kaidou's bounty is revealed.}}"
+  },
+  {
+   "amount": 70000000,
+   "chapter": 1049,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>70,000,000</s>{{Qref|name=past}}"
+  }
+ ],
+ "Karasu": [
+  {
+   "amount": 400000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}400,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Killer": [
+  {
+   "amount": 200000000,
+   "chapter": 677,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}200,000,000{{Qref|name=c677p3|chap=677|page=3|ep=603|Killer seen after the timeskip.}}"
+  },
+  {
+   "amount": 162000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>162,000,000</s>{{Qref|name=intro}}"
+  }
+ ],
+ "King": [
+  {
+   "amount": 1390000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}1,390,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Koby": [
+  {
+   "amount": 500000000,
+   "chapter": 1080,
+   "source": null,
+   "struck": false,
+   "raw": "({{B|s}}500,000,000){{Qref|name=c1080p2|chap=1080|page=2|ep=1113|Koby's bounty is revealed.}}"
+  }
+ ],
+ "Krieg": [
+  {
+   "amount": 17000000,
+   "chapter": 96,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}17,000,000{{Qref|chap=96|page=6|ep=45|Krieg's bounty before being defeated by Luffy is revealed.}}"
+  }
+ ],
+ "Kuro": [
+  {
+   "amount": 16000000,
+   "chapter": null,
+   "source": "data=red",
+   "struck": false,
+   "raw": "{{B}}16,000,000{{Qref|data=red|page=165|Kuro's bounty is revealed.}}{{Qref|name=log|[[One Piece Exhibition#Pamphlets and Catalogues|Memories －Eternal Log－]], Kuro's poster is no longer crossed out.}}"
+  }
+ ],
+ "Laffitte": [
+  {
+   "amount": 42200000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "At least {{B}}42,200,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Loki": [
+  {
+   "amount": 2600000000,
+   "chapter": 1131,
+   "source": null,
+   "struck": false,
+   "raw": "{{B|s}}2,600,000,000{{Qref|name=c1131p3|chap=1131|page=3|ep=1161|Loki's bounty is revealed.}}"
+  }
+ ],
+ "Marco": [
+  {
+   "amount": 1374000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}1,374,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Marshall D. Teach": [
+  {
+   "amount": 3996000000,
+   "chapter": 1059,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,996,000,000{{Qref|name=new bounty|chap=1059|page=12-13|ep=1087|Teach's current bounty is revealed.}}"
+  },
+  {
+   "amount": 2247600000,
+   "chapter": 925,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>2,247,600,000</s>{{Qref|name=c925b|chap=925|page=10|ep=917|Teach's former bounty is revealed.}}"
+  }
+ ],
+ "Mikita": [
+  {
+   "amount": 7500000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}7,500,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Monkey D. Garp": [
+  {
+   "amount": 3000000000,
+   "chapter": 1087,
+   "source": null,
+   "struck": false,
+   "raw": "({{B|s}}3,000,000,000){{Qref|name=bounty|chap=1087|page=10|ep=1121|Garp's bounty is revealed.}}"
+  }
+ ],
+ "Monkey D. Luffy": [
+  {
+   "amount": 3000000000,
+   "chapter": 1053,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,000,000,000{{Qref|name=c1053|chap=1053|page=4-5|ep=1080|Luffy's bounty as one of the new Four Emperors.}}"
+  },
+  {
+   "amount": 1500000000,
+   "chapter": 903,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>1,500,000,000</s>{{Qref|name=c903|chap=903|page=16-17|ep=879|Luffy's sixth bounty after Whole Cake Island.}}"
+  },
+  {
+   "amount": 500000000,
+   "chapter": 800,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>500,000,000</s>{{Qref|name=c800|chap=800|page=7|ep=745|Luffy's bounty is stated to have risen after Dressrosa.}}"
+  },
+  {
+   "amount": 400000000,
+   "chapter": 601,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>400,000,000</s>{{Qref|name=c601|chap=601|page=12|ep=521|Luffy's fourth bounty after the Summit War of Marineford.}}"
+  },
+  {
+   "amount": 300000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>300,000,000</s>{{Qref|name=c435|chap=435|page=16-17|ep=320|The crew members' bounties for attacking Enies Lobby are revealed.}}"
+  },
+  {
+   "amount": 100000000,
+   "chapter": 213,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>100,000,000</s>{{Qref|name=c213|chap=213|page=22|ep=128|Luffy's bounty is raised after Arabasta.}}"
+  },
+  {
+   "amount": 30000000,
+   "chapter": 96,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>30,000,000</s>{{Qref|name=c96|chap=96|page=6|ep=45|Luffy's first bounty is put by Brannew in the wanted list.}}"
+  }
+ ],
+ "Mont Blanc Cricket": [
+  {
+   "amount": 25000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}25,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Morley": [
+  {
+   "amount": 293000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}293,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Nami": [
+  {
+   "amount": 366000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}366,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 66000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>66,000,000</s>{{Qref|name=Post-Dressrosa Bounties|chap=801|page=15-17|ep=746|The Straw Hat Pirates are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  },
+  {
+   "amount": 16000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>16,000,000</s>{{Qref|name=Enies Lobby Bounty}}"
+  }
+ ],
+ "Nico Robin": [
+  {
+   "amount": 930000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}930,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 130000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>130,000,000</s>{{Qref|name=Post-Dressrosa Bounties|chap=801|page=15-17|ep=746|The Straw Hat Pirates are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  },
+  {
+   "amount": 80000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>80,000,000</s>{{Qref|name=Enies Lobby Bounty}}"
+  },
+  {
+   "amount": 79000000,
+   "chapter": 201,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>79,000,000</s>{{Qref|chap=201|page=14|ep=122|The origins of Robin's first bounty is revealed.}}"
+  }
+ ],
+ "Orlumbus": [
+  {
+   "amount": 148000000,
+   "chapter": null,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}148,000,000"
+  },
+  {
+   "amount": 98000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "{{B}}<s>98,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Page One": [
+  {
+   "amount": 290000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}290,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Pedro": [
+  {
+   "amount": 382000000,
+   "chapter": 850,
+   "source": null,
+   "struck": true,
+   "raw": "<s>{{B}}382,000,000</s>{{Qref|name=Fight|chap=850|page=7-11|ep=816|Pedro fight against Tamago and reminisce about his past.}}"
+  }
+ ],
+ "Pekoms": [
+  {
+   "amount": 330000000,
+   "chapter": 652,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}330,000,000{{Qref|name=c652p13|chap=652|page=13|ep=572}}"
+  }
+ ],
+ "Pica": [
+  {
+   "amount": 99000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Portgas D. Ace": [
+  {
+   "amount": 550000000,
+   "chapter": null,
+   "source": "other=OP10",
+   "struck": true,
+   "raw": "<s>{{B}}550,000,000</s>{{Qref|other=OP10|Ace's bounty prior to his death is shown on his wanted poster.}}"
+  },
+  {
+   "amount": 100000000,
+   "chapter": null,
+   "source": "novel=a2",
+   "struck": true,
+   "raw": "{{B}}<s>At least {{B}}100,000,000</s>{{Qref|novel=a2|nchap=1|page=43|Ace's bounty is stated to be over {{B|s}}100,000,000.}}"
+  }
+ ],
+ "Queen": [
+  {
+   "amount": 1320000000,
+   "chapter": 935,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,320,000,000{{Qref|name=bounty|chap=935|page=8-9|ep=930|Queen's bounty is revealed.}}"
+  }
+ ],
+ "Rockstar": [
+  {
+   "amount": 94000000,
+   "chapter": 234,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}94,000,000{{qref|name=debut}}"
+  }
+ ],
+ "Roronoa Zoro": [
+  {
+   "amount": 1111000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,111,000,000{{Qref|name=c1058}}{{Web ref|name=Post-Wano Bounty|url=https://twitter.com/Eiichiro_Staff/status/1563924260242206720|title=【訂正】本日発売の週刊少年ジャンプ39号に掲載されている1058話で表記に誤りがありました。|user=Eiichiro_Staff|date=August 28, 2022|website=twitter.com|access-date=July 9, 2026|lang=ja|trans-title=[Correction] There was an error in the notation in Chapter 1058, which was published in ''Weekly Shonen Jump'' Issue 39, released today.|archive=https://web.archive.org/web/20220828171640/https://twitter.com/Eiichiro_Staff/status/1563924260242206720|archive-date=August 28, 2022}}"
+  },
+  {
+   "amount": 320000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>320,000,000</s>{{Qref|name=c801|chap=801|page=15-17|ep=746|The Straw Hat Pirates are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  },
+  {
+   "amount": 120000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>120,000,000</s>{{Qref|chap=435|ep=320|page=16-17|The crew members' bounties for attacking Enies Lobby are revealed.}}"
+  },
+  {
+   "amount": 60000000,
+   "chapter": 213,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>60,000,000</s>{{Qref|name=firstbounty|chap=213|ep=128|page=22|Luffy's and Zoro's bounties after Arabasta.}}"
+  }
+ ],
+ "Sabo": [
+  {
+   "amount": 602000000,
+   "chapter": null,
+   "source": "magazine=3",
+   "struck": true,
+   "raw": "{{B}}<s>602,000,000</s>{{Qref|magazine=3|page=170|Sabo's bounty is revealed.}}"
+  }
+ ],
+ "Sai": [
+  {
+   "amount": 210000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}210,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Sakazuki": [
+  {
+   "amount": 5000000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "({{B|s}}5,000,000,000){{Qref|special=marinebounties}}"
+  }
+ ],
+ "Sanji": [
+  {
+   "amount": 1032000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,032,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 330000000,
+   "chapter": 903,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>330,000,000</s>{{Qref|name=Post-Whole Cake Bounty|chap=903|page=4-5|ep=878|Sanji's bounty after [[Whole Cake Island Arc|Whole Cake Island]].}}"
+  },
+  {
+   "amount": 177000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>177,000,000 (Only Alive)</s>{{Qref|name=Post-Dressrosa Bounty|chap=801|page=15-17|ep=746|The Straw Hats are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  },
+  {
+   "amount": 77000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>77,000,000</s>{{Qref|name=Enies Lobby Bounty}}"
+  }
+ ],
+ "Sasaki": [
+  {
+   "amount": 472000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}472,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Scratchmen Apoo": [
+  {
+   "amount": 350000000,
+   "chapter": 677,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}350,000,000{{Qref|name=c677p4-5|chap=677|page=4-5|ep=603|Apoo seen after the timeskip.}}"
+  },
+  {
+   "amount": 198000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>198,000,000</s>{{Qref|name=Apoo intro}}"
+  }
+ ],
+ "Senor Pink": [
+  {
+   "amount": 58000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}58,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Sentomaru": [
+  {
+   "amount": 500000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "({{B}}500,000,000){{Qref|name=vc2}}"
+  }
+ ],
+ "Shanks": [
+  {
+   "amount": 4048900000,
+   "chapter": 957,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}4,048,900,000{{Qref|name=bounty|chap=957|page=14|ep=958|Shanks' bounty is revealed.}}"
+  },
+  {
+   "amount": 1040000000,
+   "chapter": null,
+   "source": "movie=15",
+   "struck": true,
+   "raw": "{{B}}<s>1,040,000,000</s>{{Qref|name=filmred|movie=15}}"
+  }
+ ],
+ "Smoker": [
+  {
+   "amount": 500000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "(At least {{B|s}}500,000,000){{Qref|special=marinebounties}}"
+  }
+ ],
+ "Tashigi": [
+  {
+   "amount": 100000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "(At least {{B|s}}100,000,000){{Qref|special=marinebounties}}"
+  }
+ ],
+ "Tony Tony Chopper": [
+  {
+   "amount": 1000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}1,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 100,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>100</s>{{Qref|name=Post-Dressrosa Bounties|chap=801|page=15-17|ep=746|The Straw Hat Pirates are given new bounties after [[Dressrosa Arc|Dressrosa]].}}"
+  }
+ ],
+ "Trafalgar D. Water Law": [
+  {
+   "amount": 3000000000,
+   "chapter": 1053,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}3,000,000,000{{Qref|name=c1053|chap=1053|page=4-5|ep=1080|Law's current bounty is revealed.}}"
+  },
+  {
+   "amount": 500000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>500,000,000</s>{{Qref|name=c801|chap=801|page=15|ep=746|Law's bounty reactivated and raised.}}"
+  },
+  {
+   "amount": 440000000,
+   "chapter": 659,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>440,000,000</s>{{Qref|chap=659|page=18|ep=584|Law's post-timeskip bounty is revealed.}}"
+  },
+  {
+   "amount": 200000000,
+   "chapter": 498,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>200,000,000</s>{{Qref|name=c498}}"
+  },
+  {
+   "amount": 80000000,
+   "chapter": null,
+   "source": "novel=kikoku",
+   "struck": true,
+   "raw": "{{B}}<s>80,000,000</s>{{Status|noncanon}}{{Qref|novel=kikoku|nchap=1}}"
+  }
+ ],
+ "Trebol": [
+  {
+   "amount": 99000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": true,
+   "raw": "<s>{{B}}99,000,000</s>{{Qref|name=vivre card}}"
+  }
+ ],
+ "Tsuru": [
+  {
+   "amount": 500000000,
+   "chapter": null,
+   "source": "special=marinebounties",
+   "struck": false,
+   "raw": "(At least {{B|s}}500,000,000){{Qref|special=marinebounties}}"
+  }
+ ],
+ "Ulti": [
+  {
+   "amount": 400000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}400,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Urouge": [
+  {
+   "amount": 108000000,
+   "chapter": 498,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}108,000,000{{Qref|name=debut}}"
+  }
+ ],
+ "Usopp": [
+  {
+   "amount": 500000000,
+   "chapter": 1058,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}500,000,000{{Qref|name=c1058}}"
+  },
+  {
+   "amount": 200000000,
+   "chapter": 801,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>200,000,000</s>{{Qref|name=Post-Dressrosa Bounties}}"
+  },
+  {
+   "amount": 30000000,
+   "chapter": 435,
+   "source": null,
+   "struck": true,
+   "raw": "{{B}}<s>30,000,000</s>{{Qref|name=Enies Lobby Bounty}}"
+  }
+ ],
+ "Van Augur": [
+  {
+   "amount": 64000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "At least {{B}}64,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "Who's-Who": [
+  {
+   "amount": 546000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}546,000,000{{Qref|name=vivre card}}"
+  }
+ ],
+ "X Drake": [
+  {
+   "amount": 222000000,
+   "chapter": 498,
+   "source": null,
+   "struck": false,
+   "raw": "{{B}}222,000,000{{Qref|name=c498}}"
+  }
+ ],
+ "Zala": [
+  {
+   "amount": 35000000,
+   "chapter": null,
+   "source": "data=vivre card",
+   "struck": false,
+   "raw": "{{B}}35,000,000{{Qref|name=vivre card}}"
+  }
+ ]
+}

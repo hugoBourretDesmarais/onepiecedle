@@ -23,6 +23,7 @@ Built with Vue 3 + Vite. Fully responsive — all nine columns fit on a phone sc
 
 - **Spoiler limit** (⚙️) — tell it how far you've read and the roster is capped to characters who have
   debuted by the end of that arc, across the daily answer, the guess suggestions and the gallery.
+  Bounties rewind with it: at a Loguetown limit Luffy is worth ฿30,000,000, not ฿3,000,000,000.
 
 ⚠️ With no spoiler limit set, the data includes **current manga spoilers**.
 
@@ -89,6 +90,7 @@ Character data is generated from the wiki, not hand-written. The scripts live in
 
 ```bash
 python3 tools/fetch_wiki.py         # pull infoboxes + haki categories -> tools/out/characters.draft.json
+python3 tools/fetch_bounties.py     # full bounty history + reveal chapters -> tools/out/bounties.json
 python3 tools/dump_dossiers.py      # per-character source excerpts for review
 python3 tools/download_portraits.py # portraits -> public/portraits/
 python3 tools/download_backgrounds.py # backdrops -> public/backgrounds/
@@ -99,6 +101,27 @@ python3 tools/build_dataset.py      # merge + validate -> src/data/characters.js
 `tools/roster.json` is the character list. `tools/out/corrections.json` holds the reviewed field
 overrides that `build_dataset.py` merges over the raw parse; `tools/out/final_report.txt` reports the
 resulting value vocabularies and anything that needed attention.
+
+### Dating bounties
+
+The spoiler limit needs to know *when the reader learned* each figure, not when the raise happened
+in-story, so every bounty carries the chapter its wiki citation points at. Three wrinkles:
+
+- The wiki lists bounties newest-first, and the app picks a value by scanning that list top-down for
+  the first entry the reader has reached. Taking the highest chapter instead would break on
+  retroactive reveals — Kaidou's rookie ฿70,000,000 surfaces in chapter 1049, long after his current
+  one, and Shanks's former ฿1,040,000,000 comes from a 2022 film.
+- Citations are often `{{Qref|name=...}}` back-references. Those are page-scoped, so they resolve
+  against the character's own page only; a bare name like `bounty` or `infobox` means something
+  different on every page.
+- Most bounties past the Straw Hats' were never printed in a chapter at all — they come from the
+  Vivre Card databook, an exhibition, a film or a novel. Those are dated to the chapter that was
+  being serialised when that thing was published (`SOURCE_CHAPTER` in `build_dataset.py`), so the
+  limit hides them until the player has read that far. `tools/out/bounty_dates.json` holds the
+  handful of hand-reviewed dates for citations with no machine-readable source at all.
+
+With no limit set, the card shows the latest bounty as before — the history only comes into play
+once you cap the story.
 
 ## Backend (solve counter + leaderboard)
 

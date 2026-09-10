@@ -2,7 +2,7 @@
 import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
 import characters from './data/characters.json'
 import arcs from './data/arcs.json'
-import { COLUMNS, compareGuess } from './game/compare.js'
+import { COLUMNS, atChapter, compareGuess } from './game/compare.js'
 import {
   dailyIndex, dailyNumber, loadDailyState, loadArcLimit, loadExcluded, localDateString,
   loadAccount, msUntilMidnight, randomIndex, recordGuess, recordPracticeStart, recordWin,
@@ -26,7 +26,6 @@ import CharacterModal from './components/CharacterModal.vue'
 import SettingsModal from './components/SettingsModal.vue'
 
 const arcOrder = arcs.map(a => a.name)
-const byName = new Map(characters.map(c => [c.name, c]))
 
 const mode = ref('daily') // 'daily' | 'practice' | 'gallery'
 const showHelp = ref(false)
@@ -79,13 +78,21 @@ async function refreshCount() {
   if (r) solveCount.value = r.count
 }
 
-// Everything the player can meet — answers, suggestions, gallery — comes from here.
+const limitArc = computed(
+  () => (arcLimit.value ? arcs.find(a => a.name === arcLimit.value) ?? null : null))
+
+// Everything the player can meet — answers, suggestions, gallery — comes from
+// here, and each card is rewound to how the character was known at the limit,
+// so a bounty raised later in the story doesn't leak onto an early board.
 const pool = computed(() => {
-  if (!arcLimit.value) return characters
-  const arc = arcs.find(a => a.name === arcLimit.value)
+  const arc = limitArc.value
   if (!arc) return characters
-  return characters.filter(c => c.firstChapter <= arc.endChapter)
+  return characters
+    .filter(c => c.firstChapter <= arc.endChapter)
+    .map(c => atChapter(c, arc.endChapter))
 })
+
+const byName = computed(() => new Map(pool.value.map(c => [c.name, c])))
 
 // Exclusions only narrow practice; the daily stays shared between players.
 const practicePool = computed(() => pool.value.filter(c => !excluded.value.has(c.name)))
@@ -123,6 +130,17 @@ const yesterdayAnswer = computed(
 const game = computed(() => (mode.value === 'practice' ? practice : daily))
 const guessedNames = computed(() => new Set(game.value.guesses.map(g => g.char.name)))
 
+// The daily can only be won once, and the win is reported as it lands, so
+// signing in afterwards would otherwise leave that day unranked forever.
+const pendingWin = computed(() => (daily.won && daily.answer
+  ? {
+    day: localDateString(),
+    arcLimit: arcLimit.value,
+    guesses: daily.triesAtWin || daily.guesses.length,
+    name: daily.answer.name,
+  }
+  : null))
+
 function restoreDaily() {
   revealing.value = false
   celebrating.value = false
@@ -131,7 +149,7 @@ function restoreDaily() {
   daily.won = false
   const s = loadDailyState(arcLimit.value)
   for (const name of s.guesses) {
-    const char = byName.get(name)
+    const char = byName.value.get(name)
     if (char) daily.guesses.unshift({ char, cells: compareGuess(char, daily.answer, arcOrder), animate: false })
   }
   daily.won = s.won
@@ -229,6 +247,11 @@ onMounted(() => {
   restoreDaily()
   newPractice()
   refreshCount()
+  // Retries a win the server never got; /result ignores a day it already has.
+  if (account.value && pendingWin.value) {
+    const w = pendingWin.value
+    submitResult(account.value, w.day, w.arcLimit, w.guesses, w.name)
+  }
   tick()
   timer = setInterval(tick, 1000)
   if (!localStorage.getItem('opdle:visited')) {
@@ -373,9 +396,11 @@ const base = import.meta.env.BASE_URL
     <Confetti v-if="celebrating" />
     <HelpModal v-if="showHelp" @close="showHelp = false" />
     <StatsModal v-if="showStats" :characters="characters" @close="showStats = false" />
-    <CharacterModal v-if="galleryPick" :character="galleryPick" @close="galleryPick = null" />
+    <CharacterModal
+      v-if="galleryPick" :character="galleryPick" :limit-arc="limitArc"
+      @close="galleryPick = null" />
     <LeaderboardModal
-      v-if="showBoard" :account="account" :day="localDateString()"
+      v-if="showBoard" :account="account" :day="localDateString()" :pending-win="pendingWin"
       @account="setAccount" @close="showBoard = false" />
     <SettingsModal
       v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"

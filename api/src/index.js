@@ -188,8 +188,13 @@ export default {
           ).bind(id, name, nameKey, salt, await hashKey(salt, key), now, now),
           env.DB.prepare('INSERT INTO standings (player_id) VALUES (?)').bind(id),
         ])
-      } catch {
-        return json({ error: 'That name is already taken.' }, 409, headers)
+      } catch (err) {
+        // Only the name_key collision means the name is taken; reporting every
+        // failure that way hides schema and database errors behind it.
+        if (/UNIQUE/i.test(String(err?.message || err))) {
+          return json({ error: 'That name is already taken.' }, 409, headers)
+        }
+        return json({ error: 'Could not create that account. Please try again.' }, 500, headers)
       }
       return json({ id, name, token: await newSession(env, id) }, 200, headers)
     }

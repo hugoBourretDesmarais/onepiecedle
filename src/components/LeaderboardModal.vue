@@ -1,10 +1,14 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue'
-import { MIN_PASSWORD, fetchLeaderboard, fetchMe, loginPlayer, logoutPlayer, registerPlayer } from '../game/api.js'
+import {
+  MIN_PASSWORD, fetchLeaderboard, fetchMe, loginPlayer, logoutPlayer, registerPlayer, submitResult,
+} from '../game/api.js'
 
 const props = defineProps({
   account: { type: Object, default: null },
   day: { type: String, required: true },
+  // Today's daily win, if it was solved before this account existed.
+  pendingWin: { type: Object, default: null },
 })
 const emit = defineEmits(['close', 'account'])
 
@@ -56,7 +60,12 @@ async function submit() {
     return
   }
   passwordInput.value = ''
-  emit('account', { id: r.id, name: r.name, token: r.token })
+  const account = { id: r.id, name: r.name, token: r.token }
+  emit('account', account)
+  if (props.pendingWin) {
+    const w = props.pendingWin
+    await submitResult(account, w.day, w.arcLimit, w.guesses, w.name)
+  }
   load()
 }
 

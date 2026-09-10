@@ -63,6 +63,27 @@ export function compareGuess(guess, answer, arcOrder) {
   return cells
 }
 
+// `bounties` is newest-first in story order, each entry dated by the chapter the
+// reader learned the figure. Scan top-down rather than taking the highest
+// chapter: a rookie bounty revealed late in a flashback (Kaidou's, chapter 1049)
+// must not override the current one.
+export function bountyAt(c, maxChapter) {
+  if (maxChapter == null) return c.bounty ?? null
+  if (!c.bounties?.length) return null
+  for (const b of c.bounties) {
+    if (b.chapter != null && b.chapter <= maxChapter) return b.amount
+  }
+  return null
+}
+
+// A character as they were known at `maxChapter`, so a spoiler-limited board
+// never shows a number from further ahead than the player has read.
+export function atChapter(c, maxChapter) {
+  if (maxChapter == null) return c
+  const bounty = bountyAt(c, maxChapter)
+  return bounty === c.bounty ? c : { ...c, bounty }
+}
+
 export function formatBounty(b) {
   if (b == null) return '฿0'
   if (b === 0) return '฿0'
