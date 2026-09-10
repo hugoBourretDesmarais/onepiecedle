@@ -23,14 +23,14 @@ const emit = defineEmits(['close'])
           <tr><td>Devil Fruit</td><td>Fruit type: Paramecia, Zoan, Ancient Zoan, Mythical Zoan, Logia, Special Paramecia, None or Unknown</td></tr>
           <tr><td>Haki</td><td>Confirmed haki: 👑 Conqueror, 💪 Armament, 👀 Observation — ✖ none, ? unknown. Yellow when you share at least one type but not all of them</td></tr>
           <tr><td>Last Bounty</td><td>Latest known bounty (0 if none). With a spoiler limit set, the latest one revealed by the end of that arc</td></tr>
-          <tr><td>Height</td><td>Latest known height</td></tr>
+          <tr><td>Height</td><td>Latest known height. With a spoiler limit set, the height as of that arc — the Straw Hats are shorter before the timeskip</td></tr>
           <tr><td>Origin</td><td>Sea of origin (East Blue, Grand Line, …)</td></tr>
           <tr><td>First Arc</td><td>Story arc of first appearance, arrows follow story order</td></tr>
         </tbody>
       </table>
 
       <h3>Clues</h3>
-      <p>Stuck? After several guesses you unlock the <b>First Appearance</b> clue (arc/episode) and the <b>Devil Fruit</b> clue (fruit name).</p>
+      <p>Stuck? After several guesses you unlock the <b>First Appearance</b> clue (arc/episode), the <b>Devil Fruit</b> clue (fruit name) and, after 10 guesses, the <b>Affiliation</b> clue (crew or group).</p>
       <h3>Modes</h3>
       <table class="props">
         <tbody>

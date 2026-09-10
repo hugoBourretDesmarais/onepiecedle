@@ -10,18 +10,23 @@ const props = defineProps({
 
 const FIRST_AT = 5
 const FRUIT_AT = 8
+const AFF_AT = 10
 
 const showFirst = ref(false)
 const showFruit = ref(false)
+const showAff = ref(false)
 watch(() => props.answer, () => {
   showFirst.value = false
   showFruit.value = false
+  showAff.value = false
 })
 
 const firstUnlocked = computed(() => props.won || props.tries >= FIRST_AT)
 const fruitUnlocked = computed(() => props.won || props.tries >= FRUIT_AT)
 const firstLeft = computed(() => Math.max(0, FIRST_AT - props.tries))
 const fruitLeft = computed(() => Math.max(0, FRUIT_AT - props.tries))
+const affUnlocked = computed(() => props.won || props.tries >= AFF_AT)
+const affLeft = computed(() => Math.max(0, AFF_AT - props.tries))
 
 const fruitText = computed(() => {
   const a = props.answer
@@ -49,6 +54,14 @@ const fruitText = computed(() => {
         <span v-if="!fruitUnlocked" class="clue-lock">in {{ fruitLeft }} {{ fruitLeft === 1 ? 'try' : 'tries' }}</span>
       </button>
       <p v-if="showFruit && fruitUnlocked" class="clue-value">{{ fruitText }}</p>
+    </div>
+    <div class="clue">
+      <button class="clue-btn" :disabled="!affUnlocked" @click="showAff = !showAff">
+        <Icon class="clue-ico" name="ship" :size="30" />
+        <span class="clue-label">Affiliation Clue</span>
+        <span v-if="!affUnlocked" class="clue-lock">in {{ affLeft }} {{ affLeft === 1 ? 'try' : 'tries' }}</span>
+      </button>
+      <p v-if="showAff && affUnlocked" class="clue-value">{{ answer.affiliation || 'Unknown affiliation' }}</p>
     </div>
   </div>
 </template>

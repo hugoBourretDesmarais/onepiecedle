@@ -93,6 +93,18 @@ defineProps({
       <path d="M9.6 11.6c.6 1.9.6 3.8 0 5.6" opacity=".6" />
     </g>
 
+    <!-- Pirate ship: affiliation clue -->
+    <g v-else-if="name === 'ship'">
+      <path d="M3.5 15.5h17l-2.2 4H6z" fill="currentColor" stroke="none" opacity=".2" />
+      <path d="M3.5 15.5h17l-2.2 4H6z" />
+      <path d="M12 15.5V3.2" />
+      <path d="M12 4.8h5.6l-1.6 3.2 1.6 3.2H12z" fill="currentColor" stroke="none" opacity=".2" />
+      <path d="M12 4.8h5.6l-1.6 3.2 1.6 3.2H12" />
+      <path d="M12 6.4c-3.4.4-5.2 2.6-5.6 5.2H12" />
+      <circle cx="9.2" cy="9.6" r="1.1" />
+      <path d="M8.7 10.8v.7M9.7 10.8v.7" />
+    </g>
+
     <!-- Target: random starter -->
     <g v-else-if="name === 'target'">
       <circle cx="12" cy="12" r="8.4" />
