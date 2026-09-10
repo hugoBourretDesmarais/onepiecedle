@@ -67,7 +67,19 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
           <feDropShadow dx="0" dy="2" stdDeviation="1" flood-color="#000" flood-opacity=".4" />
         </filter>
 
+        <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="#fff" stop-opacity="0" />
+          <stop offset=".42" stop-color="#fff" stop-opacity=".35" />
+          <stop offset=".5" stop-color="#fff" stop-opacity=".9" />
+          <stop offset=".58" stop-color="#fff" stop-opacity=".35" />
+          <stop offset="1" stop-color="#fff" stop-opacity="0" />
+        </linearGradient>
+
         <mask id="wordMask">
+          <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
+        </mask>
+        <mask id="shineMask">
+          <circle cx="70" cy="70.6" r="48" fill="#fff" />
           <text class="t" :x="TX" y="112" fill="#fff">{{ WORD }}</text>
         </mask>
       </defs>
@@ -76,6 +88,7 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
            inner one doesn't override the placement transform -->
       <g transform="translate(13.75 14.35) scale(1.125)" filter="url(#cast)">
         <g class="mark">
+          <circle cx="50" cy="50" r="50" fill="#101828" />
           <circle cx="50" cy="50" r="48" fill="url(#ringG)" />
           <circle cx="50" cy="50" r="43" fill="url(#markDisc)" />
           <ellipse cx="37" cy="27" rx="23" ry="13" fill="#fff" opacity=".09" />
@@ -130,11 +143,19 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
         <g mask="url(#wordMask)">
           <!-- straight alpha, no blend modes: the group is isolated, so overlay
                and soft-light would blend against nothing and grey the letters -->
-          <rect width="784" height="150" fill="url(#wear)" opacity=".55" />
+          <g class="grain">
+            <rect x="-260" y="-260" width="1304" height="670" fill="url(#wear)" opacity=".55" />
+          </g>
           <!-- thickness: shadow pooling toward the base of each glyph -->
           <rect width="784" height="150" fill="url(#depth)" />
           <!-- a narrow lit edge along the top, not a full plastic gloss -->
           <rect width="784" height="150" fill="url(#topLight)" />
+        </g>
+      </g>
+
+      <g mask="url(#shineMask)">
+        <g class="shine">
+          <rect x="-90" y="-40" width="180" height="230" fill="url(#shine)" transform="skewX(-20)" />
         </g>
       </g>
     </svg>
@@ -167,7 +188,13 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
   animation: mark-in .6s cubic-bezier(.2, .9, .3, 1.5) both, sway 6s ease-in-out 1.1s infinite;
 }
 .letters {
-  animation: word-in .55s cubic-bezier(.2, .85, .3, 1.35) both .1s;
+  animation: word-in .55s cubic-bezier(.2, .85, .3, 1.35) both .1s, float 6s ease-in-out 1.1s infinite;
+}
+.grain {
+  animation: drift 32s linear infinite;
+}
+.shine {
+  animation: sweep 7s ease-in 1.8s infinite;
 }
 .t {
   font-family: 'Lilita One', cursive;
@@ -195,8 +222,22 @@ const fillFor = i => (i % 2 === 0 ? 'url(#gRed)' : 'url(#gBlue)')
   0%, 100% { transform: rotate(-3deg); }
   50% { transform: rotate(3deg); }
 }
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+/* one pattern tile per loop in each axis, so the wrap is seamless */
+@keyframes drift {
+  from { transform: translate(0, 0); }
+  to { transform: translate(260px, 260px); }
+}
+@keyframes sweep {
+  0% { transform: translateX(-160px); }
+  22%, 100% { transform: translateX(900px); }
+}
 
 @media (prefers-reduced-motion: reduce) {
-  .mark, .letters { animation: none; }
+  .mark, .letters, .grain { animation: none; }
+  .shine { display: none; }
 }
 </style>
