@@ -30,7 +30,7 @@ const emit = defineEmits(['close'])
       </table>
 
       <h3>Clues</h3>
-      <p>Stuck? After several guesses you unlock the <b>First Appearance</b> clue (chapter/episode) and the <b>Devil Fruit</b> clue (fruit name).</p>
+      <p>Stuck? After several guesses you unlock the <b>First Appearance</b> clue (arc/episode) and the <b>Devil Fruit</b> clue (fruit name).</p>
       <h3>Modes</h3>
       <table class="props">
         <tbody>

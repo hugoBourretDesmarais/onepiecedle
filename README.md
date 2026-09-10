@@ -51,7 +51,7 @@ Type a character name and submit. Each guess reveals a row of tiles:
 On a win the row flips one tile at a time before the result panel appears, followed by confetti;
 both are skipped under `prefers-reduced-motion`.
 
-Clues unlock as you guess: **First Appearance** (chapter/episode) after 5 tries, **Devil Fruit** (fruit name)
+Clues unlock as you guess: **First Appearance** (arc/episode) after 5 tries, **Devil Fruit** (fruit name)
 after 8. The daily character resets at local midnight; stats live in `localStorage`.
 
 📊 tracks classic and practice separately — games played, wins, win rate, total guesses, average

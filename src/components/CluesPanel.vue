@@ -39,7 +39,7 @@ const fruitText = computed(() => {
         <span v-if="!firstUnlocked" class="clue-lock">in {{ firstLeft }} {{ firstLeft === 1 ? 'try' : 'tries' }}</span>
       </button>
       <p v-if="showFirst && firstUnlocked" class="clue-value">
-        Chapter {{ answer.firstChapter ?? '?' }} / Episode {{ answer.firstEpisode ?? '—' }}
+        {{ answer.firstArc ?? 'Unknown arc' }} / Episode {{ answer.firstEpisode ?? '—' }}
       </p>
     </div>
     <div class="clue">
