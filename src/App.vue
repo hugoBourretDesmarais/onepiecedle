@@ -7,6 +7,7 @@ import {
   dailyIndex, dailyNumber, loadDailyState, loadArcLimit, loadExcluded, localDateString,
   loadAccount, msUntilMidnight, randomIndex, recordGuess, recordPracticeStart, recordWin,
   saveAccount, saveArcLimit, saveDailyState, saveExcluded, currentStreak,
+  loadPromptedDay, savePromptedDay,
 } from './game/state.js'
 import GuessInput from './components/GuessInput.vue'
 import GuessRow from './components/GuessRow.vue'
@@ -17,6 +18,7 @@ import CluesPanel from './components/CluesPanel.vue'
 import { apiEnabled, fetchCount, reportSolve, submitResult } from './game/api.js'
 import GalleryPanel from './components/GalleryPanel.vue'
 import LeaderboardModal from './components/LeaderboardModal.vue'
+import WinPrompt from './components/WinPrompt.vue'
 import Confetti from './components/Confetti.vue'
 import ArtBackground from './components/ArtBackground.vue'
 import GameLogo from './components/GameLogo.vue'
@@ -33,6 +35,7 @@ const showStats = ref(false)
 const showSettings = ref(false)
 const galleryPick = ref(null)
 const showBoard = ref(false)
+const showWinPrompt = ref(false)
 const account = ref(loadAccount())
 const streak = ref(currentStreak())
 const arcLimit = ref(loadArcLimit())
@@ -54,6 +57,7 @@ function finishReveal() {
   revealing.value = false
   celebrating.value = true
   setTimeout(() => (celebrating.value = false), 3000)
+  maybePromptSignIn()
 }
 
 function startCelebration() {
@@ -61,6 +65,7 @@ function startCelebration() {
   if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) {
     revealing.value = false
     celebrating.value = false
+    maybePromptSignIn()
     return
   }
   revealing.value = true
@@ -141,24 +146,25 @@ const pendingWin = computed(() => (daily.won && daily.answer
   }
   : null))
 
-// null until the server has ruled on today's win.
-const dailyRanked = ref(null)
-const unrankedNote = computed(() => (dailyRanked.value === false && arcLimit.value
-  ? 'Not ranked — the leaderboard only counts games played with no spoiler limit.'
-  : ''))
-
-async function recordDailyWin(acct) {
+function recordDailyWin(acct) {
   const w = pendingWin.value
   if (!acct || !w) return null
-  const r = await submitResult(acct, w.day, w.arcLimit, w.guesses, w.name)
-  if (typeof r?.ranked === 'boolean') dailyRanked.value = r.ranked
-  return r
+  return submitResult(acct, w.day, w.arcLimit, w.guesses, w.name)
+}
+
+// Invite a signed-out winner to save the day's result. Held until the reveal
+// has finished so the pop-up doesn't land on top of the flipping row.
+function maybePromptSignIn() {
+  if (!apiEnabled || account.value || mode.value !== 'daily' || !daily.won) return
+  const today = localDateString()
+  if (loadPromptedDay() === today) return
+  savePromptedDay(today)
+  setTimeout(() => { showWinPrompt.value = true }, 900)
 }
 
 function restoreDaily() {
   revealing.value = false
   celebrating.value = false
-  dailyRanked.value = null
   daily.answer = pool.value[dailyIndex(pool.value.length)]
   daily.guesses = []
   daily.won = false
@@ -183,6 +189,11 @@ function persistDaily() {
 function setAccount(next) {
   account.value = next
   saveAccount(next)
+}
+
+function onPromptAccount(next) {
+  setAccount(next)
+  showWinPrompt.value = false
 }
 
 function applyArcLimit(next) {
@@ -369,7 +380,6 @@ const base = import.meta.env.BASE_URL
         <WinPanel
           v-if="game.won && !revealing" :answer="game.answer" :tries="game.guesses.length" :mode="mode"
           :countdown="countdown" :guesses="game.guesses" :daily-number="daily.number"
-          :note="unrankedNote"
           @practice="mode = 'practice'"
           @replay="newPractice" />
 
@@ -412,10 +422,13 @@ const base = import.meta.env.BASE_URL
     <CharacterModal
       v-if="galleryPick" :character="galleryPick" :limit-arc="limitArc"
       @close="galleryPick = null" />
+    <WinPrompt
+      v-if="showWinPrompt && daily.answer" :answer="daily.answer.name"
+      :tries="daily.triesAtWin || daily.guesses.length" :pending-win="pendingWin"
+      @account="onPromptAccount" @close="showWinPrompt = false" />
     <LeaderboardModal
       v-if="showBoard" :account="account" :day="localDateString()" :pending-win="pendingWin"
-      :note="unrankedNote"
-      @account="setAccount" @ranked="dailyRanked = $event" @close="showBoard = false" />
+      @account="setAccount" @close="showBoard = false" />
     <SettingsModal
       v-if="showSettings" :arcs="arcs" :characters="characters" :arc-limit="arcLimit"
       @update:arc-limit="applyArcLimit" @close="showSettings = false" />

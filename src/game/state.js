@@ -90,6 +90,16 @@ export function saveAccount(account) {
   else localStorage.removeItem(`${KEY}:account`)
 }
 
+// The day a signed-out winner was last invited to sign up, so the prompt comes
+// back tomorrow rather than on every reload of a day already won.
+export function loadPromptedDay() {
+  return load('promptedDay', null)
+}
+
+export function savePromptedDay(day) {
+  save('promptedDay', day)
+}
+
 // Stored as exclusions so characters added to the roster later default to in.
 export function loadExcluded() {
   return new Set(load('excluded', []))

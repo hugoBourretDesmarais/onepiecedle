@@ -67,6 +67,10 @@ function cleanName(raw) {
   return NAME_RE.test(name) ? name : null
 }
 
+// poolFor() falls back to the full roster for a name it doesn't know, so an
+// unrecognised limit would pass the answer check and then be stored and shown.
+const isKnownArc = a => !a || ARCS.some(([name]) => name === a)
+
 function previousDay(day) {
   const t = Date.parse(day + 'T00:00:00Z')
   return new Date(t - 86400000).toISOString().slice(0, 10)
@@ -135,6 +139,7 @@ export default {
       const arcLimit = String(body.arcLimit || '')
       const name = String(body.name || '')
       if (!dayIsPlausible(day)) return json({ error: 'bad day' }, 400, headers)
+      if (!isKnownArc(arcLimit)) return json({ error: 'bad arc' }, 400, headers)
       // Only a correct answer counts, so the tally can't be inflated by
       // anyone who hasn't actually solved it.
       if (name !== answerFor(day, arcLimit)) {
@@ -256,13 +261,8 @@ export default {
       if (!Number.isInteger(guesses) || guesses < 1 || guesses > 500) {
         return json({ error: 'bad guesses' }, 400, headers)
       }
+      if (!isKnownArc(arcLimit)) return json({ error: 'bad arc' }, 400, headers)
       if (name !== answerFor(day, arcLimit)) return json({ error: 'wrong answer' }, 403, headers)
-
-      // A spoiler limit shrinks the roster, so those wins are far easier and
-      // are deliberately kept out of the standings.
-      if (arcLimit) {
-        return json({ ranked: false, reason: 'spoiler-limited games are not ranked' }, 200, headers)
-      }
 
       const existing = await env.DB.prepare(
         'SELECT day FROM results WHERE player_id = ? AND day = ?'
@@ -275,16 +275,19 @@ export default {
 
       await env.DB.prepare(
         `INSERT INTO results (player_id, day, arc_limit, guesses, solved_at)
-         VALUES (?, ?, '', ?, ?)`
-      ).bind(player.id, day, guesses, new Date().toISOString()).run()
+         VALUES (?, ?, ?, ?, ?)`
+      ).bind(player.id, day, arcLimit, guesses, new Date().toISOString()).run()
 
       // Derive the streak from the stored days rather than incrementing a
       // counter, so a result that arrives out of order still lands correctly.
       const recent = await env.DB.prepare(
-        'SELECT day FROM results WHERE player_id = ? ORDER BY day DESC LIMIT 90'
+        'SELECT day, arc_limit FROM results WHERE player_id = ? ORDER BY day DESC LIMIT 90'
       ).bind(player.id).all()
       const days = (recent.results || []).map(r => r.day)
       const latest = days[0]
+      // Belongs to the newest day, not to this request — a backfilled older
+      // result must not relabel the board.
+      const latestArc = recent.results?.[0]?.arc_limit ?? ''
       let streak = 0
       let cursor = latest
       for (const d of days) {
@@ -296,10 +299,12 @@ export default {
 
       await env.DB.prepare(
         `UPDATE standings SET wins = wins + 1, total_guesses = total_guesses + ?,
-           streak = ?, max_streak = ?, last_win_day = ?
+           streak = ?, max_streak = ?, last_win_day = ?, last_arc_limit = ?
          WHERE player_id = ?`
-      ).bind(guesses, streak, maxStreak, latest, player.id).run()
-      return json({ ranked: true, wins: (st.wins || 0) + 1, streak, maxStreak }, 200, headers)
+      ).bind(guesses, streak, maxStreak, latest, latestArc, player.id).run()
+      return json(
+        { ranked: true, wins: (st.wins || 0) + 1, streak, maxStreak, arcLimit: latestArc || null },
+        200, headers)
     }
 
     // GET /leaderboard?sort=streak|wins|avg&day=YYYY-MM-DD
@@ -315,7 +320,8 @@ export default {
       // Averages need a floor of games to be meaningful.
       const having = sort === 'avg' ? 'AND st.wins >= 3' : ''
       const rows = await env.DB.prepare(
-        `SELECT p.name, st.wins, st.total_guesses, st.streak, st.max_streak, st.last_win_day
+        `SELECT p.name, st.wins, st.total_guesses, st.streak, st.max_streak, st.last_win_day,
+                st.last_arc_limit
          FROM standings st JOIN players p ON p.id = st.player_id
          WHERE st.wins > 0 ${having}
          ORDER BY ${order} LIMIT 50`
@@ -328,6 +334,7 @@ export default {
         wins: r.wins,
         avg: r.wins ? +(r.total_guesses / r.wins).toFixed(2) : null,
         maxStreak: r.max_streak,
+        arcLimit: r.last_arc_limit || null,
         // A stored streak is only live if the last win was today or yesterday.
         streak: today && (r.last_win_day === today || r.last_win_day === yesterday) ? r.streak : 0,
       }))

@@ -171,10 +171,12 @@ the browser and the server stores a salted SHA-256 of the derived key. The passw
 never leaves the device, and a database dump isn't directly replayable. The browser holds a
 session token, never the password. There is no password reset yet.
 
-Only unlimited classic games are ranked; a spoiler limit shrinks the roster enough to make
-those wins incomparable. Streaks are derived from the stored result days rather than
-incremented, so a result arriving out of order still lands correctly. Ranked averages need
-3+ wins. Local 📊 stats are per-device and deliberately separate from the ranked record —
+Every verified classic win is ranked, whatever the spoiler limit, and the board shows the
+limit each player last won under — a capped roster is a much smaller pool, so the column is
+there to make that visible rather than to exclude anyone. Streaks are derived from the
+stored result days rather than incremented, so a result arriving out of order still lands
+correctly, and the shown limit follows the newest day rather than the last write. Ranked
+averages need 3+ wins. Local 📊 stats are per-device and deliberately separate from the ranked record —
 they can't be verified, so they're never backfilled into it.
 
 The worker recomputes the day's answer itself from a generated copy of the dataset, and only
@@ -186,6 +188,14 @@ is salted with a Worker secret and hashed, never stored.
 node api/tools/gen_data.mjs                          # after changing characters.json / arcs.json
 cd api && npx wrangler d1 execute onepiecedle --remote --file=./schema.sql
 cd api && npx wrangler deploy
+```
+
+`schema.sql` is all `CREATE TABLE IF NOT EXISTS`, so it only ever builds a database from
+empty — running it against a live one changes nothing. Changes to an existing schema go in
+`api/migrations/` as numbered files, applied in order and before the deploy that needs them:
+
+```bash
+cd api && npx wrangler d1 execute onepiecedle --remote --file=./migrations/001_standings_arc_limit.sql
 ```
 
 `VITE_API_URL` in `.env.production` points the site at the worker. It's a public endpoint, so

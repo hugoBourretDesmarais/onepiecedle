@@ -67,6 +67,9 @@ CREATE TABLE IF NOT EXISTS standings (
   streak        INTEGER NOT NULL DEFAULT 0,
   max_streak    INTEGER NOT NULL DEFAULT 0,
   last_win_day  TEXT,
+  -- Spoiler limit of the most recent win, shown as a column on the board so
+  -- the roster a record was set against is visible.
+  last_arc_limit TEXT NOT NULL DEFAULT '',
   FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE
 );
 

@@ -1,28 +1,20 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue'
-import {
-  MIN_PASSWORD, fetchLeaderboard, fetchMe, loginPlayer, logoutPlayer, registerPlayer, submitResult,
-} from '../game/api.js'
+import { fetchLeaderboard, fetchMe, logoutPlayer } from '../game/api.js'
+import AccountForm from './AccountForm.vue'
 
 const props = defineProps({
   account: { type: Object, default: null },
   day: { type: String, required: true },
   // Today's daily win, if it was solved before this account existed.
   pendingWin: { type: Object, default: null },
-  note: { type: String, default: '' },
 })
-const emit = defineEmits(['close', 'account', 'ranked'])
+const emit = defineEmits(['close', 'account'])
 
 const sort = ref('streak')
 const entries = ref([])
 const loading = ref(true)
 const me = ref(null)
-
-const mode = ref('join') // 'join' | 'restore'
-const nameInput = ref('')
-const passwordInput = ref('')
-const busy = ref(false)
-const error = ref('')
 
 const SORTS = [
   { key: 'streak', label: 'Streak' },
@@ -47,27 +39,8 @@ const myRank = computed(() => {
   return hit?.rank ?? null
 })
 
-const canSubmit = computed(
-  () => nameInput.value.trim().length >= 2 && passwordInput.value.length >= MIN_PASSWORD)
-
-async function submit() {
-  error.value = ''
-  busy.value = true
-  const fn = mode.value === 'join' ? registerPlayer : loginPlayer
-  const r = await fn(nameInput.value, passwordInput.value)
-  busy.value = false
-  if (r?.error) {
-    error.value = r.error
-    return
-  }
-  passwordInput.value = ''
-  const account = { id: r.id, name: r.name, token: r.token }
+function onAccount(account) {
   emit('account', account)
-  if (props.pendingWin) {
-    const w = props.pendingWin
-    const res = await submitResult(account, w.day, w.arcLimit, w.guesses, w.name)
-    if (typeof res?.ranked === 'boolean') emit('ranked', res.ranked)
-  }
   load()
 }
 
@@ -85,32 +58,7 @@ function signOut() {
       <h2>Leaderboard</h2>
 
       <!-- Signed out: create an account or sign in -->
-      <div v-if="!account" class="join">
-        <div class="tabs">
-          <button :class="{ on: mode === 'join' }" @click="mode = 'join'; error = ''">Create account</button>
-          <button :class="{ on: mode === 'restore' }" @click="mode = 'restore'; error = ''">Sign in</button>
-        </div>
-        <p class="join-note">
-          A pseudonym and a password — no email needed. Sign in with the same two on any device
-          and your record follows you.
-        </p>
-        <form @submit.prevent="canSubmit && submit()">
-          <input
-            v-model="nameInput" placeholder="Pseudonym" maxlength="20"
-            autocomplete="username" autocapitalize="off" />
-          <input
-            v-model="passwordInput" type="password" :placeholder="`Password (${MIN_PASSWORD}+ characters)`"
-            :autocomplete="mode === 'join' ? 'new-password' : 'current-password'" />
-          <p v-if="error" class="error">{{ error }}</p>
-          <button class="primary" type="submit" :disabled="busy || !canSubmit">
-            {{ busy ? 'Working\u2026' : mode === 'join' ? 'Create account' : 'Sign in' }}
-          </button>
-        </form>
-        <p v-if="mode === 'join'" class="warn">
-          There is no password reset yet \u2014 if you forget it the account can't be recovered.
-          Please don't reuse an important password.
-        </p>
-      </div>
+      <AccountForm v-if="!account" :pending-win="pendingWin" @account="onAccount" />
 
       <!-- Signed in -->
       <div v-else class="signed-in">
@@ -125,7 +73,6 @@ function signOut() {
         avg {{ me.avg ?? '—' }}
         <template v-if="myRank"> · rank #{{ myRank }}</template>
       </p>
-      <p v-if="account && note" class="unranked">{{ note }}</p>
 
       <div class="tabs sort-tabs">
         <button
@@ -136,12 +83,15 @@ function signOut() {
       <p v-if="loading" class="empty">Loading…</p>
       <table v-else-if="entries.length" class="board">
         <thead>
-          <tr><th>#</th><th>Player</th><th>Streak</th><th>Wins</th><th>Avg</th></tr>
+          <tr><th>#</th><th>Player</th><th>Arc</th><th>Streak</th><th>Wins</th><th>Avg</th></tr>
         </thead>
         <tbody>
           <tr v-for="e in entries" :key="e.name" :class="{ mine: account && e.name === account.name }">
             <td>{{ e.rank }}</td>
             <td class="p-name">{{ e.name }}</td>
+            <td class="p-arc" :title="e.arcLimit ? `Spoiler limit: ${e.arcLimit}` : 'No spoiler limit'">
+              <span>{{ e.arcLimit ?? '—' }}</span>
+            </td>
             <td>{{ e.streak }}<span class="best"> / {{ e.maxStreak }}</span></td>
             <td>{{ e.wins }}</td>
             <td>{{ e.avg ?? '—' }}</td>
@@ -158,49 +108,7 @@ function signOut() {
 
 <style scoped>
 h2 { margin-bottom: 12px; }
-.tabs { display: flex; gap: 8px; margin-bottom: 10px; }
-.tabs button {
-  flex: 1;
-  font-family: inherit;
-  font-weight: 700;
-  font-size: 13px;
-  padding: 7px;
-  border-radius: 8px;
-  border: 2px solid var(--tan);
-  background: var(--parchment);
-  color: var(--brown);
-}
-.tabs button.on {
-  background: var(--parchment-dark);
-  color: var(--brown-dark);
-  border-color: var(--brown);
-}
 .sort-tabs { margin-top: 14px; }
-
-.join { display: flex; flex-direction: column; gap: 8px; }
-.join-note { margin: 0; font-size: 13px; color: var(--brown); }
-.join input {
-  font-family: inherit;
-  font-size: 16px;
-  padding: 10px 12px;
-  border-radius: 8px;
-  border: 2px solid var(--tan);
-  background: #fffdf5;
-  color: var(--ink);
-  outline: none;
-}
-.primary {
-  font-family: inherit;
-  font-weight: 700;
-  font-size: 15px;
-  padding: 11px;
-  border-radius: 8px;
-  border: 2px solid var(--brown);
-  background: var(--parchment-dark);
-  color: var(--brown-dark);
-}
-.primary:disabled { opacity: .55; cursor: default; }
-.error { margin: 0; color: var(--red); font-size: 13px; font-weight: 700; }
 
 .who-actions button {
   font-family: inherit;
@@ -211,15 +119,6 @@ h2 { margin-bottom: 12px; }
   border: 2px solid var(--tan);
   background: var(--parchment);
   color: var(--brown-dark);
-}
-
-.join form { display: flex; flex-direction: column; gap: 8px; }
-.warn {
-  margin: 0;
-  font-size: 12px;
-  color: var(--brown);
-  font-style: italic;
-  line-height: 1.4;
 }
 
 .signed-in {
@@ -239,18 +138,6 @@ h2 { margin-bottom: 12px; }
   font-weight: 700;
 }
 
-.unranked {
-  margin: 6px 0 0;
-  padding: 7px 10px;
-  border: 2px solid var(--tan);
-  border-radius: 8px;
-  background: var(--parchment-dark);
-  color: var(--brown);
-  font-size: 13px;
-  font-weight: 700;
-  line-height: 1.4;
-}
-
 .board { width: 100%; border-collapse: collapse; font-size: 14px; }
 .board th {
   text-align: left;
@@ -263,6 +150,25 @@ h2 { margin-bottom: 12px; }
 .board td { padding: 6px; border-top: 1px solid var(--tan); }
 .board tr.mine { background: var(--parchment-dark); }
 .p-name { font-weight: 700; color: var(--brown-dark); overflow-wrap: anywhere; }
+.p-arc { font-size: 12px; color: var(--brown); }
+/* Auto table layout ignores max-width on a cell, so the clamp lives on a
+   block inside it. */
+.p-arc span {
+  display: block;
+  max-width: 90px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Six columns don't fit a phone at the default padding; trimming the gutters
+   keeps every value readable rather than truncating the arc to nothing. */
+@media (max-width: 480px) {
+  .board { font-size: 13px; }
+  .board th { padding: 4px 3px; }
+  .board td { padding: 6px 3px; }
+  .p-arc span { max-width: 74px; }
+}
 .best { color: var(--brown); font-size: 12px; }
 
 .empty { text-align: center; font-style: italic; color: var(--brown); margin: 18px 0; }
