@@ -3964,6 +3964,24 @@
   "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest?cb=20230517025343"
  },
  {
+  "name": "Inazuma",
+  "requested": "Inazuma",
+  "gender": null,
+  "affiliation": "Kamabakka Kingdom",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Snip-Snip Fruit (Shear-Shear Fruit (One Piece Official YouTube Channel)",
+  "haki": [],
+  "bounty": 100000000,
+  "heightCm": 228.0,
+  "origin": "South Blue",
+  "firstChapter": 536,
+  "firstEpisode": 438,
+  "firstArc": "Impel Down",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest?cb=20221031183404"
+ },
+ {
   "name": "Yasopp",
   "requested": "Yasopp",
   "gender": "Male",
@@ -4530,7 +4548,7 @@
   "firstChapter": 1140,
   "firstEpisode": 1170,
   "firstArc": "Elbaf",
-  "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Rimoshifu_Killingham_Anime_Infobox.png/revision/latest?cb=20260831033721"
+  "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Rimoshifu_Killingham_Anime_Infobox.png/revision/latest?cb=20260906163722"
  },
  {
   "name": "Loki",

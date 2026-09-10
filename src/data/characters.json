@@ -2832,6 +2832,32 @@
   "wikiPage": "Nerona Imu"
  },
  {
+  "name": "Inazuma",
+  "codename": null,
+  "aliases": [],
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Snip-Snip Fruit",
+  "haki": [],
+  "bounty": 100000000,
+  "bounties": [
+   {
+    "amount": 100000000,
+    "chapter": 536
+   }
+  ],
+  "heightCm": 228,
+  "origin": "South Blue",
+  "firstChapter": 536,
+  "firstEpisode": 438,
+  "firstArc": "Impel Down",
+  "portrait": "inazuma.png",
+  "wikiPage": "Inazuma"
+ },
+ {
   "name": "Inuarashi",
   "codename": null,
   "aliases": [

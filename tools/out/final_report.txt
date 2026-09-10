@@ -1,4 +1,4 @@
-266 characters, 33 arcs
+267 characters, 33 arcs
 
 == affiliation vocabulary ==
    23  Marines
@@ -8,8 +8,8 @@
    10  Donquixote Pirates
    10  CP0
    10  Straw Hat Pirates
+    9  Revolutionary Army
     9  Beasts Pirates
-    8  Revolutionary Army
     7  Alabasta Kingdom
     7  Whitebeard Pirates
     6  Cross Guild
@@ -93,7 +93,7 @@
    35  North Blue
    24  Unknown
    20  West Blue
-   16  South Blue
+   17  South Blue
     7  Sky Island
     4  Calm Belt
     3  Red Line
@@ -120,11 +120,11 @@
     5  Levely
     5  Little Garden
     5  Amazon Lily
+    5  Impel Down
     5  Enies Lobby
     5  Whisky Peak
     5  Elbaf
     4  Orange Town
-    4  Impel Down
     3  Post-War
     3  Loguetown
     2  Reverse Mountain
@@ -213,6 +213,7 @@
   note Shinobu: Cleaned malformed dfName to the simple English name Ripe-Ripe Fruit.
   note Kozuki Toki: Cleaned malformed dfName to Time-Time Fruit and set origin to Unknown since the wiki infobox states no origin.
   note Morley: Set gender from null to Other since Morley is an okama giant.
+  note Inazuma: Gender set to Other (newkama, switches between male and female; draft had null), matching Ivankov and Morley. Affiliation taken from the Revolutionary Army rather than the infobox's first entry, Kamabakka Kingdom. dfName cleaned to the VIZ/Funimation name; the draft merged in the YouTube channel's Shear-Shear Fruit. Bounty is 'at least' 100,000,000 per Chapter 536.
   note Scopper Gaban: Set origin from null to Unknown since the wiki infobox states no origin; firstEpisode 0 is the Strong World Episode 0 special listed as his anime debut.
   note Crocus: Cleaned affiliation from the malformed 'Roger Pirates , Laboon' to the canonical Roger Pirates (his last crew; now the Twin Cape lighthouse keeper).
   note Sanjuan Wolf: Height changed from null: wiki infobox states 180 m (maximum), i.e. 18000 cm.

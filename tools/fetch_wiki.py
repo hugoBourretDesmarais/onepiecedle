@@ -85,13 +85,14 @@ def fetch_content(titles):
 def fetch_categories(titles):
     """Return {resolved_title: [category names]}"""
     result = {}
-    for bi, batch in enumerate(chunks(titles, 20)):
+    for batch in chunks(titles, 20):
+        bh = hashlib.md5("|".join(batch).encode()).hexdigest()[:10]
         cont = {}
         while True:
             d = api_get({
                 "action": "query", "titles": "|".join(batch),
                 "prop": "categories", "cllimit": "max", "redirects": 1, **cont,
-            }, f"cats_{bi:03d}_{cont.get('clcontinue','0').replace('|','_')[:40]}")
+            }, f"cats_{bh}_{cont.get('clcontinue','0').replace('|','_')[:40]}")
             for pid, p in d["query"]["pages"].items():
                 cats = [c["title"].replace("Category:", "") for c in p.get("categories", [])]
                 result.setdefault(p["title"], []).extend(cats)
@@ -105,11 +106,12 @@ def fetch_categories(titles):
 def fetch_images(titles):
     """Return {resolved_title: image_url}"""
     result = {}
-    for bi, batch in enumerate(chunks(titles, 20)):
+    for batch in chunks(titles, 20):
+        bh = hashlib.md5("|".join(batch).encode()).hexdigest()[:10]
         d = api_get({
             "action": "query", "titles": "|".join(batch),
             "prop": "pageimages", "piprop": "original", "redirects": 1,
-        }, f"img_{bi:03d}")
+        }, f"img_{bh}")
         for pid, p in d["query"]["pages"].items():
             orig = p.get("original", {}).get("source")
             if orig:

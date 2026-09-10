@@ -5286,5 +5286,22 @@
    "St. Topman Warcury"
   ],
   "notes": "Added Mythical Zoan (unnamed Fengxi fruit) missing from draft per the wiki Devil Fruit section; origin set to Unknown as the wiki states only Mary Geoise residence."
+ },
+ {
+  "requested": "Inazuma",
+  "gender": "Other",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [
+   "Paramecia"
+  ],
+  "dfName": "Snip-Snip Fruit",
+  "haki": [],
+  "bounty": 100000000,
+  "heightCm": 228,
+  "origin": "South Blue",
+  "firstChapter": 536,
+  "firstEpisode": 438,
+  "aliases": [],
+  "notes": "Gender set to Other (newkama, switches between male and female; draft had null), matching Ivankov and Morley. Affiliation taken from the Revolutionary Army rather than the infobox's first entry, Kamabakka Kingdom. dfName cleaned to the VIZ/Funimation name; the draft merged in the YouTube channel's Shear-Shear Fruit. Bounty is 'at least' 100,000,000 per Chapter 536."
  }
 ]

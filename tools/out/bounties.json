@@ -661,6 +661,15 @@
    "raw": "(At least {{B|s}}200,000,000){{Qref|special=marinebounties}}"
   }
  ],
+ "Inazuma": [
+  {
+   "amount": 100000000,
+   "chapter": 536,
+   "source": null,
+   "struck": false,
+   "raw": "At least {{B}}100,000,000{{Qref|name=c536}}"
+  }
+ ],
  "Issho": [
   {
    "amount": 3000000000,
