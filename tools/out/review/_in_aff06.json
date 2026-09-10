@@ -1,0 +1,544 @@
+[
+ {
+  "character": "Ashura Doji",
+  "wikiPage": "Ashura Doji",
+  "debutChapter": 920,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Nine Red Scabbards",
+  "affiliationCandidates": [
+   {
+    "value": "Mt. Atama Thieves",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": 917,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 925,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Bepo",
+  "wikiPage": "Bepo",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Heart Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Heart Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Capone Bege",
+  "wikiPage": "Capone Bege",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Fire Tank Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Fire Tank Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 807,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Castle-Castle Fruit",
+   "assumedRevealChapter": 498,
+   "sectionHint": 507
+  }
+ },
+ {
+  "character": "Charlotte Linlin",
+  "wikiPage": "Charlotte Linlin",
+  "debutChapter": 651,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 957,
+    "former": true
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": 432,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Soul-Soul Fruit",
+   "assumedRevealChapter": 651,
+   "sectionHint": 829
+  }
+ },
+ {
+  "character": "Curly Dadan",
+  "wikiPage": "Curly Dadan",
+  "debutChapter": 440,
+  "debutArc": "Post-Enies Lobby",
+  "currentAffiliation": "Dadan Family",
+  "affiliationCandidates": [
+   {
+    "value": "Dadan Family",
+    "chapter": 568,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Edward Newgate",
+  "wikiPage": "Edward Newgate",
+  "debutChapter": 159,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Whitebeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 432,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Tremor-Tremor Fruit",
+   "assumedRevealChapter": 159,
+   "sectionHint": 552
+  }
+ },
+ {
+  "character": "Fukaboshi",
+  "wikiPage": "Fukaboshi",
+  "debutChapter": 609,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Neptune Family",
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Gunko",
+  "wikiPage": "Manmayer Gunko",
+  "debutChapter": 1134,
+  "debutArc": "Elbaf",
+  "currentAffiliation": "Knights of God",
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1136,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Arrow-Arrow Fruit",
+   "assumedRevealChapter": 1134,
+   "sectionHint": 1146
+  }
+ },
+ {
+  "character": "Igaram",
+  "wikiPage": "Igaram",
+  "debutChapter": 106,
+  "debutArc": "Whisky Peak",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 107,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Jewelry Bonney",
+  "wikiPage": "Jewelry Bonney",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Bonney Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Bonney Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Age-Age Fruit",
+   "assumedRevealChapter": 498,
+   "sectionHint": 507
+  }
+ },
+ {
+  "character": "Kikunojo",
+  "wikiPage": "Kikunojo",
+  "debutChapter": 913,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 919,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kozuki Toki",
+  "wikiPage": "Kouzuki Toki",
+  "debutChapter": 919,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Amatsuki Family",
+    "chapter": 919,
+    "former": false
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 964,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Time-Time Fruit",
+   "assumedRevealChapter": 919,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Leo",
+  "wikiPage": "Leo",
+  "debutChapter": 710,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Tontatta Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Tontatta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 711,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Sew-Sew Fruit (Stitch-Stitch Power)",
+   "assumedRevealChapter": 710,
+   "sectionHint": 711
+  }
+ },
+ {
+  "character": "Monkey D. Garp",
+  "wikiPage": "Monkey D. Garp",
+  "debutChapter": 92,
+  "debutArc": "Arlong Park",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 92,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 594,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Nefertari Vivi",
+  "wikiPage": "Nefertari Vivi",
+  "debutChapter": 103,
+  "debutArc": "Reverse Mountain",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 110,
+    "former": false
+   },
+   {
+    "value": "Sand-Sand Clan",
+    "chapter": 163,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Patty",
+  "wikiPage": "Patty",
+  "debutChapter": 44,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Baratie",
+  "affiliationCandidates": [
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Queen",
+  "wikiPage": "Queen",
+  "debutChapter": 920,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "MADS",
+    "chapter": 1017,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+   "assumedRevealChapter": 920,
+   "sectionHint": 947
+  }
+ },
+ {
+  "character": "Sanjuan Wolf",
+  "wikiPage": "Sanjuan Wolf",
+  "debutChapter": 575,
+  "debutArc": "Marineford",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Huge-Huge Fruit",
+   "assumedRevealChapter": 575,
+   "sectionHint": 595
+  }
+ },
+ {
+  "character": "Shinobu",
+  "wikiPage": "Shinobu",
+  "debutChapter": 921,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Ripe-Ripe Fruit",
+   "assumedRevealChapter": 921,
+   "sectionHint": 1021
+  }
+ },
+ {
+  "character": "Tom",
+  "wikiPage": "Tom",
+  "debutChapter": 352,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Tom's Workers",
+  "affiliationCandidates": [
+   {
+    "value": "Tom's Workers",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Vegapunk",
+  "wikiPage": "Vegapunk",
+  "debutChapter": 684,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "MADS",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 840,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Brain-Brain Fruit",
+   "assumedRevealChapter": 684,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Woop Slap",
+  "wikiPage": "Woop Slap",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Foosha Village",
+  "affiliationCandidates": [
+   {
+    "value": "Foosha Village",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ }
+]

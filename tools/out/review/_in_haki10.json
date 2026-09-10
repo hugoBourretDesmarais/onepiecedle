@@ -1,0 +1,155 @@
+[
+ {
+  "character": "Blueno",
+  "wikiPage": "Blueno",
+  "debutChapter": 325,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Chinjao",
+  "wikiPage": "Chinjao",
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Figarland Shamrock",
+  "wikiPage": "Figarland Shamrock",
+  "debutChapter": 907,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jaguar D. Saul",
+  "wikiPage": "Jaguar D. Saul",
+  "debutChapter": 392,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Killer",
+  "wikiPage": "Killer",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Marcus Mars",
+  "wikiPage": "Marcus Mars",
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1112,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1115,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Portgas D. Ace",
+  "wikiPage": "Portgas D. Ace",
+  "debutChapter": 154,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 587,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Scratchmen Apoo",
+  "wikiPage": "Scratchmen Apoo",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1032,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Tashigi",
+  "wikiPage": "Tashigi",
+  "debutChapter": 96,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 686,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

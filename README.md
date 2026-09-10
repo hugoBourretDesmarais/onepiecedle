@@ -7,7 +7,7 @@ Built with Vue 3 + Vite. Fully responsive — all nine columns fit on a phone sc
 
 ## Differences from the original
 
-- **267 characters** instead of 193 — the original roster plus the characters it is missing
+- **268 characters** instead of 193 — the original roster plus the characters it is missing
   (Egghead / Elbaf arcs, the Five Elders, the Knights of God, Vegapunk's satellites, the Blackbeard
   and Red Hair crews, and more).
 - All property data is re-derived from the [One Piece Wiki](https://onepiece.fandom.com), so bounties

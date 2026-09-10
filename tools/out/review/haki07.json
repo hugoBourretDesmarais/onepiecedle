@@ -1,0 +1,190 @@
+{
+  "results": [
+    {
+      "character": "Belo Betty",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 904,
+          "confidence": "low",
+          "evidence": "Never shown using Haki in the manga; Vivre Card #1187 is the only source, so dated to her chapter 904 introduction as Revolutionary East Army commander."
+        },
+        {
+          "value": "Observation",
+          "chapter": 904,
+          "confidence": "low",
+          "evidence": "Vivre Card #1187 only; no on-page display, dated to her chapter 904 introduction."
+        }
+      ],
+      "note": "Databook-only for both types. She has no combat scenes at all, so 904 (debut as an executive) is the earliest point a reader could plausibly attribute Haki to her."
+    },
+    {
+      "character": "Charlotte Oven",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 861,
+          "confidence": "low",
+          "evidence": "Vivre Card #1088 only; he fights repeatedly in chapters 886-900 without any Haki being shown, so dated to his debut."
+        },
+        {
+          "value": "Observation",
+          "chapter": 861,
+          "confidence": "low",
+          "evidence": "Vivre Card #1088 only; no on-page display, dated to his debut."
+        }
+      ],
+      "note": "Databook-only for both types. His feats are attributed to raw strength, durability and the Netsu Netsu no Mi, never to Haki."
+    },
+    {
+      "character": "Ethanbaron V. Nusjuro",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1110,
+          "confidence": "high",
+          "evidence": "Chapter 1110: on arriving at Egghead he imbues and hardens his sword with Armament Haki."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1117,
+          "confidence": "high",
+          "evidence": "Chapter 1117: black lightning erupts from his clash with Zoro, the established sign of two Supreme King users colliding."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1115,
+          "confidence": "medium",
+          "evidence": "Chapter 1115: he senses the life signs inside Egghead's Labophase."
+        }
+      ],
+      "note": "Corrected the scraped hints: Armament is visible at 1110 rather than 1117, and Observation is 1115 rather than null. His chapter 233 'debut' is an unnamed Elder silhouette. The black-lightning burst accompanying his 1110 arrival could be read as an earlier Conqueror hint, but it is only confirmed as such at the 1117 clash."
+    },
+    {
+      "character": "Izou",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 992,
+          "confidence": "high",
+          "evidence": "Chapter 992: his Dangirigan shot imbues bullets with Haki and pierces Kaidou's skin."
+        },
+        {
+          "value": "Observation",
+          "chapter": 992,
+          "confidence": "low",
+          "evidence": "Vivre Card #0614 only; dated to 992, the chapter where readers first see Izou established as a Haki user."
+        }
+      ],
+      "note": "Observation is databook-only. Izou disarms King with one shot at 986, which is an arguable earlier Armament hint, but 992 is the first explicit Haki-imbued attack."
+    },
+    {
+      "character": "Karasu",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 904,
+          "confidence": "low",
+          "evidence": "Vivre Card #1189 only; dated to chapter 904, his proper introduction as Revolutionary North Army commander."
+        },
+        {
+          "value": "Observation",
+          "chapter": 904,
+          "confidence": "low",
+          "evidence": "Vivre Card #1189 only; no on-page display, dated to his chapter 904 introduction."
+        }
+      ],
+      "note": "Databook-only for both types. His chapter 593 debut is a shadowed cameo. He fights Admiral Fujitora evenly in chapter 1083, which implies Haki but never names it."
+    },
+    {
+      "character": "Loki",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 1152,
+          "confidence": "medium",
+          "evidence": "Chapter 1152: Scopper Gaban reveals that Loki killed the immortal Harald with a Supreme King Haki-infused Ragnir."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1179,
+          "confidence": "medium",
+          "evidence": "Chapter 1179: he senses Imu's arrival on Elbaph and identifies the Haki as the same one from earlier."
+        }
+      ],
+      "note": "Both scraped hints held up. The killing blow itself is only depicted later, in the chapter 1169-1170 flashback, so 1152 is where the reader first learns it. Loki also feels a distant Haki burst at 1151 and 1177, but the wiki attributes his Observation specifically to 1179."
+    },
+    {
+      "character": "Pedro",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 805,
+          "confidence": "low",
+          "evidence": "Vivre Card #0977 only; the wiki states outright that he was never seen using either type in combat, so dated to his debut."
+        },
+        {
+          "value": "Observation",
+          "chapter": 805,
+          "confidence": "low",
+          "evidence": "Vivre Card #0977 only; no on-page display, dated to his debut."
+        }
+      ],
+      "note": "Databook-only for both types, and explicitly never displayed. He relies on Electro and swordsmanship throughout Zou and Whole Cake Island."
+    },
+    {
+      "character": "Sanji",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 650,
+          "confidence": "medium",
+          "evidence": "Chapter 650: Sanji senses Caribou hiding in Ryugu Palace, alongside Luffy and Zoro."
+        },
+        {
+          "value": "Armament",
+          "chapter": 668,
+          "confidence": "high",
+          "evidence": "Chapter 668: Luffy names Sanji as one of the crew able to use Armament Haki against Caesar."
+        }
+      ],
+      "note": "Both scraped hints held up. Sanji's first confirmed on-panel Armament use is much later, chapter 833 against Judge, but the on-page statement at 668 is when the reader learns it."
+    },
+    {
+      "character": "Smoker",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 661,
+          "confidence": "low",
+          "evidence": "Vivre Card is the actual source; chapter 661 is the first on-page moment he reads Haki strength, warning Tashigi hers is too weak for Law."
+        },
+        {
+          "value": "Armament",
+          "chapter": 684,
+          "confidence": "high",
+          "evidence": "Chapter 684: he punches Vergo with his hand and arm fully blackened by Hardening."
+        }
+      ],
+      "note": "Chapter 559 establishes that Smoker could not use Haki before the timeskip, so both types are post-timeskip. Observation is effectively databook-only; 661 is a weak anchor."
+    },
+    {
+      "character": "X Drake",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 990,
+          "confidence": "medium",
+          "evidence": "Chapter 990: after turning on the Beasts Pirates he imbues his axes with Armament Haki to strike down the Number Juki."
+        },
+        {
+          "value": "Observation",
+          "chapter": 990,
+          "confidence": "low",
+          "evidence": "Vivre Card #0515 only; dated to 990, the chapter where readers first see Drake confirmed as a Haki user."
+        }
+      ],
+      "note": "The wiki also cites the chapter 725/727 cover story, where Drake wounds the Logia Caribou, as an indirect earlier hint at Armament Haki; it is too implicit for a reader to conclude from, so 990 is used."
+    }
+  ]
+}

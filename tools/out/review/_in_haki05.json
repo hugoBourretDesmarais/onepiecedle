@@ -1,0 +1,162 @@
+[
+ {
+  "character": "Basil Hawkins",
+  "wikiPage": "Basil Hawkins",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 917,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Charlotte Katakuri",
+  "wikiPage": "Charlotte Katakuri",
+  "debutChapter": 860,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 883,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 894,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Edward Weevil",
+  "wikiPage": "Edward Weevil",
+  "debutChapter": 802,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Inuarashi",
+  "wikiPage": "Inuarashi",
+  "debutChapter": 808,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kalgara",
+  "wikiPage": "Kalgara",
+  "debutChapter": 286,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kurozumi Kanjuro",
+  "wikiPage": "Kurozumi Kanjuro",
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 788,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Otohime",
+  "wikiPage": "Otohime",
+  "debutChapter": 621,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sai",
+  "wikiPage": "Sai",
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 771,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Shiryu",
+  "wikiPage": "Shiryu",
+  "debutChapter": 538,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Vista",
+  "wikiPage": "Vista",
+  "debutChapter": 552,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 574,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

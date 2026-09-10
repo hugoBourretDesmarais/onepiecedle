@@ -1,0 +1,535 @@
+[
+ {
+  "character": "Bartholomew Kuma",
+  "wikiPage": "Bartholomew Kuma",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Freedom Fighters",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Pacifista",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Sorbet Kingdom",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Paw-Paw Fruit",
+   "assumedRevealChapter": 233,
+   "sectionHint": 473
+  }
+ },
+ {
+  "character": "Boa Marigold",
+  "wikiPage": "Boa Marigold",
+  "debutChapter": 516,
+  "debutArc": "Amazon Lily",
+  "currentAffiliation": "Kuja Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Snake-Snake Fruit, Model: King Cobra",
+   "assumedRevealChapter": 516,
+   "sectionHint": 520
+  }
+ },
+ {
+  "character": "Cavendish",
+  "wikiPage": "Cavendish",
+  "debutChapter": 704,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Beautiful Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beautiful Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 704,
+    "former": false
+   },
+   {
+    "value": "Bourgeois Kingdom",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Charlotte Perospero",
+  "wikiPage": "Charlotte Perospero",
+  "debutChapter": 834,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 834,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Lick-Lick Fruit",
+   "assumedRevealChapter": 834,
+   "sectionHint": 860
+  }
+ },
+ {
+  "character": "Diamante",
+  "wikiPage": "Diamante",
+  "debutChapter": 700,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Ripple-Ripple Fruit",
+   "assumedRevealChapter": 700,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Enel",
+  "wikiPage": "Enel",
+  "debutChapter": 254,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "God's Army",
+  "affiliationCandidates": [
+   {
+    "value": "God's Army",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Automata",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Rumble-Rumble Fruit",
+   "assumedRevealChapter": 254,
+   "sectionHint": 241
+  }
+ },
+ {
+  "character": "Gan Fall",
+  "wikiPage": "Gan Fall",
+  "debutChapter": 237,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Skypiea",
+  "affiliationCandidates": [
+   {
+    "value": "Skypiea",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Hattori",
+  "wikiPage": "Hattori",
+  "debutChapter": 323,
+  "debutArc": "Water 7",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Issho",
+  "wikiPage": "Issho",
+  "debutChapter": 701,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 700,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Press-Press Fruit",
+   "assumedRevealChapter": 701,
+   "sectionHint": 717
+  }
+ },
+ {
+  "character": "Kaidou",
+  "wikiPage": "Kaidou",
+  "debutChapter": 795,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": 808,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 432,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)",
+   "assumedRevealChapter": 795,
+   "sectionHint": 921
+  }
+ },
+ {
+  "character": "King",
+  "wikiPage": "King",
+  "debutChapter": 920,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Pteranodon",
+   "assumedRevealChapter": 920,
+   "sectionHint": 1027
+  }
+ },
+ {
+  "character": "Kureha",
+  "wikiPage": "Kureha",
+  "debutChapter": 134,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Sakura Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Isshi-100",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Magellan",
+  "wikiPage": "Magellan",
+  "debutChapter": 528,
+  "debutArc": "Impel Down",
+  "currentAffiliation": "Impel Down",
+  "affiliationCandidates": [
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Venom-Venom Fruit",
+   "assumedRevealChapter": 528,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Morgan",
+  "wikiPage": "Morgan",
+  "debutChapter": 4,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Ninjin",
+  "wikiPage": "Ninjin",
+  "debutChapter": 23,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Usopp Security Force",
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pekoms",
+  "wikiPage": "Pekoms",
+  "debutChapter": 651,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nox Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Turtle-Turtle Fruit",
+   "assumedRevealChapter": 651,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Rob Lucci",
+  "wikiPage": "Rob Lucci",
+  "debutChapter": 323,
+  "debutArc": "Water 7",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Cat-Cat Fruit, Model: Leopard",
+   "assumedRevealChapter": 323,
+   "sectionHint": 349
+  }
+ },
+ {
+  "character": "Sengoku",
+  "wikiPage": "Sengoku",
+  "debutChapter": 234,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 234,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Human-Human Fruit, Model: Buddha",
+   "assumedRevealChapter": 234,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Smoker",
+  "wikiPage": "Smoker",
+  "debutChapter": 97,
+  "debutArc": "Loguetown",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "G-5",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Loguetown Marine Base",
+    "chapter": 98,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Smoke-Smoke Fruit (Plume-Plume Fruit)",
+   "assumedRevealChapter": 97,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Trebol",
+  "wikiPage": "Trebol",
+  "debutChapter": 700,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Stick-Stick Fruit (Sticky-Sticky Fruit)",
+   "assumedRevealChapter": 700,
+   "sectionHint": 726
+  }
+ },
+ {
+  "character": "Vinsmoke Niji",
+  "wikiPage": "Vinsmoke Niji",
+  "debutChapter": 828,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Vinsmoke Family",
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Yasopp",
+  "wikiPage": "Yasopp",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Red Hair Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ }
+]

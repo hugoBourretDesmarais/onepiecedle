@@ -1,0 +1,219 @@
+{
+  "results": [
+    {
+      "character": "Alvida",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 2}
+      ],
+      "devilFruitRevealChapter": 98,
+      "confidence": "medium",
+      "note": "Vocabulary has no Alvida Pirates/Buggy Pirates, so her whole career collapses onto Cross Guild; she has no Devil Fruit at debut and first appears transformed in ch. 98."
+    },
+    {
+      "character": "Belo Betty",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 904}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Buggy",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Seven Warlords of the Sea", "chapter": 700},
+        {"value": "Cross Guild", "chapter": 9}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Buggy Pirates is not in the vocabulary, so the pre-Warlord era falls back to Cross Guild; Warlord invitation shown ch. 700, Cross Guild and Emperor status ch. 1058."
+    },
+    {
+      "character": "Charlotte Cracker",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 835}
+      ],
+      "devilFruitRevealChapter": 838,
+      "confidence": "medium",
+      "note": "Oda deliberately misled readers into thinking Cracker had a limb-multiplying power; the Bis-Bis Fruit is revealed and explained in ch. 838."
+    },
+    {
+      "character": "Conis",
+      "affiliationTimeline": [
+        {"value": "Skypiea", "chapter": 239}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Dracule Mihawk",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1056},
+        {"value": "Seven Warlords of the Sea", "chapter": 49}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Warlord status is first stated in ch. 69, but the entry is anchored at his ch. 49 debut so the timeline covers it."
+    },
+    {
+      "character": "Fisher Tiger",
+      "affiliationTimeline": [
+        {"value": "Sun Pirates", "chapter": 521}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Only named by Hancock in ch. 521; he is properly introduced as the Sun Pirates' captain in ch. 620."
+    },
+    {
+      "character": "Gladius",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 682}
+      ],
+      "devilFruitRevealChapter": 723,
+      "confidence": "high",
+      "note": "His Pop-Pop Fruit stays hidden from his Punk Hazard debut until his hat swells in ch. 723."
+    },
+    {
+      "character": "Hogback",
+      "affiliationTimeline": [
+        {"value": "Thriller Bark Pirates", "chapter": 446}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Jango",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 172},
+        {"value": "Black Cat Pirates", "chapter": 25}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "He enlists in the Marines at the end of his cover story, on the cover of ch. 172."
+    },
+    {
+      "character": "Karoo",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 109}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Technically a Baroque Works duck for one chapter before Vivi's identity is exposed in ch. 110, too short to encode as a switch."
+    },
+    {
+      "character": "Kozuki Hiyori",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 909}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Kuzan",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 793},
+        {"value": "Marines", "chapter": 303}
+      ],
+      "devilFruitRevealChapter": 319,
+      "confidence": "high",
+      "note": "Resignation is reported in ch. 650 but the Blackbeard tie is only revealed by the Five Elders in ch. 793; he is a shadowed silhouette at his ch. 303 debut and first uses ice in ch. 319."
+    },
+    {
+      "character": "Mikita",
+      "affiliationTimeline": [
+        {"value": "Baroque Works", "chapter": 110}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Kilo-Kilo Fruit is demonstrated two chapters after debut, still inside Whisky Peak."
+    },
+    {
+      "character": "Namur",
+      "affiliationTimeline": [
+        {"value": "Whitebeard Pirates", "chapter": 552}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Otohime",
+      "affiliationTimeline": [
+        {"value": "Neptune Family", "chapter": 621}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Piiman",
+      "affiliationTimeline": [
+        {"value": "Usopp Pirates", "chapter": 23}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Sai",
+      "affiliationTimeline": [
+        {"value": "Happo Navy", "chapter": 704}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as a Colosseum silhouette; his Happo Navy leadership is spelled out around ch. 715."
+    },
+    {
+      "character": "Shanks",
+      "affiliationTimeline": [
+        {"value": "Red Hair Pirates", "chapter": 1}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Tamanegi",
+      "affiliationTimeline": [
+        {"value": "Usopp Pirates", "chapter": 23}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Van Augur",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 222}
+      ],
+      "devilFruitRevealChapter": 1063,
+      "confidence": "high",
+      "note": "Crew name is confirmed in ch. 234; his Warp-Warp Fruit stays secret for 800+ chapters until ch. 1063."
+    },
+    {
+      "character": "Wanda",
+      "affiliationTimeline": [
+        {"value": "Mokomo Dukedom", "chapter": 804}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Zeff",
+      "affiliationTimeline": [
+        {"value": "Baratie", "chapter": 43}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Alvida",
+      "wanted": ["Alvida Pirates", "Buggy Pirates"],
+      "used": "Cross Guild",
+      "explanation": "She captains the Alvida Pirates from ch. 2 and rides with Buggy's crew from ch. 98 onward. Neither name exists in the vocabulary, so her entire pre-1058 career had to be labelled Cross Guild, which reads as an anachronism for early-manga readers."
+    },
+    {
+      "character": "Buggy",
+      "wanted": ["Buggy Pirates", "Four Emperors"],
+      "used": "Cross Guild",
+      "explanation": "Buggy Pirates is the headline affiliation from ch. 9 to ch. 700; without it the debut entry has to fall back to Cross Guild. Four Emperors is also absent, though Cross Guild covers the modern era adequately."
+    }
+  ]
+}

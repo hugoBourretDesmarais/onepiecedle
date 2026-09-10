@@ -3982,6 +3982,25 @@
   "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest?cb=20221031183404"
  },
  {
+  "name": "Lindbergh",
+  "requested": "Lindbergh",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 316000000,
+  "heightCm": 149.0,
+  "origin": null,
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Lindbergh_Anime_Infobox.png/revision/latest?cb=20190414113604"
+ },
+ {
   "name": "Yasopp",
   "requested": "Yasopp",
   "gender": "Male",

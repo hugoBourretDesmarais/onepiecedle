@@ -1,0 +1,594 @@
+[
+ {
+  "character": "Atlas",
+  "wikiPage": "Vegapunk/Atlas",
+  "debutChapter": 1062,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Black Maria",
+  "wikiPage": "Black Maria",
+  "debutChapter": 977,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
+   "assumedRevealChapter": 977,
+   "sectionHint": 1005
+  }
+ },
+ {
+  "character": "Caribou",
+  "wikiPage": "Caribou",
+  "debutChapter": 600,
+  "debutArc": "Return to Sabaody",
+  "currentAffiliation": "Caribou Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Caribou Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Fake Straw Hat Crew",
+    "chapter": 600,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 598,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Swamp-Swamp Fruit",
+   "assumedRevealChapter": 600,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Charlotte Lola",
+  "wikiPage": "Charlotte Lola",
+  "debutChapter": 476,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Rolling Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Rolling Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Thriller Bark Victim's Association",
+    "chapter": 835,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Dalton",
+  "wikiPage": "Dalton",
+  "debutChapter": 132,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Sakura Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": 243,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Ox-Ox Fruit, Bison Model",
+   "assumedRevealChapter": 132,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Edward Weevil",
+  "wikiPage": "Edward Weevil",
+  "debutChapter": 802,
+  "debutArc": "Zou",
+  "currentAffiliation": "Seven Warlords of the Sea",
+  "affiliationCandidates": [
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 802,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Fukurou",
+  "wikiPage": "Fukurou",
+  "debutChapter": 375,
+  "debutArc": "Enies Lobby",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 375,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Hajrudin",
+  "wikiPage": "Hajrudin",
+  "debutChapter": 706,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "New Giant Warrior Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "New Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 803,
+    "former": false
+   },
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Imu",
+  "wikiPage": "Nerona Imu",
+  "debutChapter": 906,
+  "debutArc": "Levely",
+  "currentAffiliation": "World Government",
+  "affiliationCandidates": [
+   {
+    "value": "World Government",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "First Twenty",
+    "chapter": 1179,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Unknown"
+   ],
+   "name": "The Devil's Fruit",
+   "assumedRevealChapter": 906,
+   "sectionHint": 1162
+  }
+ },
+ {
+  "character": "Jinbe",
+  "wikiPage": "Jinbe",
+  "debutChapter": 528,
+  "debutArc": "Impel Down",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": 620,
+    "former": true
+   },
+   {
+    "value": "Ally of the Big Mom Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 69,
+    "former": true
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 621,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Killer",
+  "wikiPage": "Killer",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Kid Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Kid Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kurozumi Orochi",
+    "chapter": 498,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 937,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Krieg",
+  "wikiPage": "Krieg",
+  "debutChapter": 45,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Krieg Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Krieg Pirates",
+    "chapter": 44,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Lilith",
+  "wikiPage": "Vegapunk/Lilith",
+  "debutChapter": 1061,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Monkey D. Luffy",
+  "wikiPage": "Monkey D. Luffy",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan",
+    "Paramecia"
+   ],
+   "name": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
+   "assumedRevealChapter": 1,
+   "sectionHint": 1
+  }
+ },
+ {
+  "character": "Nekomamushi",
+  "wikiPage": "Nekomamushi",
+  "debutChapter": 809,
+  "debutArc": "Zou",
+  "currentAffiliation": "Mokomo Dukedom",
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Guardians",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 817,
+    "former": true
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 939,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 820,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Paulie",
+  "wikiPage": "Paulie",
+  "debutChapter": 323,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Galley-La Company",
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": 323,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Raizo",
+  "wikiPage": "Raizo",
+  "debutChapter": 817,
+  "debutArc": "Zou",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 817,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 935,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Scroll-Scroll Fruit",
+   "assumedRevealChapter": 817,
+   "sectionHint": 992
+  }
+ },
+ {
+  "character": "Sasaki",
+  "wikiPage": "Sasaki",
+  "debutChapter": 977,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sasaki Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Triceratops Model",
+   "assumedRevealChapter": 977,
+   "sectionHint": 1004
+  }
+ },
+ {
+  "character": "Shirahoshi",
+  "wikiPage": "Shirahoshi",
+  "debutChapter": 612,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Neptune Family",
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 612,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Tony Tony Chopper",
+  "wikiPage": "Tony Tony Chopper",
+  "debutChapter": 134,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Foxy Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Human-Human Fruit",
+   "assumedRevealChapter": 134,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Vergo",
+  "wikiPage": "Vergo",
+  "debutChapter": 671,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 673,
+    "former": false
+   },
+   {
+    "value": "Marine G-5",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Wyper",
+  "wikiPage": "Wyper",
+  "debutChapter": 237,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Shandia",
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "God's Guards",
+    "chapter": 648,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ }
+]

@@ -45,6 +45,15 @@ const heightText = computed(() => {
   return cm == null ? 'Unknown' : `${formatHeight(cm)} (${cm} cm)`
 })
 
+// True when the card is showing an older value than the wiki's latest, so only
+// the rows that actually moved get flagged rather than every row on the card.
+function rewound(field) {
+  const cap = props.limitArc?.endChapter
+  if (cap == null) return false
+  const list = field === 'bounty' ? c.value.bounties : c.value.history?.[field]
+  return (list ?? []).some(e => e.chapter == null || e.chapter > cap)
+}
+
 const debut = computed(() => {
   const x = c.value
   const ch = x.firstChapter != null ? `Chapter ${x.firstChapter}` : 'Unknown chapter'
@@ -76,23 +85,35 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
         </div>
       </div>
 
+      <p v-if="limitArc" class="as-of">
+        Shown as known by the end of <b>{{ limitArc.name }}</b>. Rows marked
+        <span class="flag">then</span> changed later in the story.
+      </p>
+
       <table class="details">
         <tbody>
           <tr><td>Gender</td><td>{{ c.gender }}</td></tr>
-          <tr><td>Affiliation</td><td>{{ c.affiliation }}</td></tr>
+          <tr>
+            <td>Affiliation</td>
+            <td>{{ c.affiliation }}<span v-if="rewound('affiliation')" class="flag">then</span></td>
+          </tr>
           <tr>
             <td>Devil Fruit</td>
             <td>
               {{ devilFruit.type }}
               <span v-if="devilFruit.name" class="sub">— {{ devilFruit.name }}</span>
+              <span v-if="rewound('devilFruit')" class="flag">then</span>
             </td>
           </tr>
-          <tr><td>Haki</td><td>{{ haki }}</td></tr>
+          <tr>
+            <td>Haki</td>
+            <td>{{ haki }}<span v-if="rewound('haki')" class="flag">then</span></td>
+          </tr>
           <tr>
             <td>Last Bounty</td>
             <td>
               {{ bountyText }}
-              <span v-if="limitArc" class="sub">— as of {{ limitArc.name }}</span>
+              <span v-if="rewound('bounty')" class="flag">then</span>
               <div v-if="bountyHistory.length > 1" class="history">
                 previously
                 <span v-for="b in bountyHistory.slice(1)" :key="b.chapter" class="history-item">
@@ -101,7 +122,10 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
               </div>
             </td>
           </tr>
-          <tr><td>Height</td><td>{{ heightText }}</td></tr>
+          <tr>
+            <td>Height</td>
+            <td>{{ heightText }}<span v-if="rewound('heightCm')" class="flag">then</span></td>
+          </tr>
           <tr><td>Origin</td><td>{{ c.origin }}</td></tr>
           <tr><td>First arc</td><td>{{ c.firstArc ?? 'Unknown' }}</td></tr>
           <tr><td>Debut</td><td>{{ debut }}</td></tr>
@@ -172,6 +196,29 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   width: 38%;
 }
 .sub { color: var(--brown); }
+
+.as-of {
+  margin: 0 0 10px;
+  font-size: 12.5px;
+  color: var(--brown);
+  background: var(--parchment-dark);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+.flag {
+  display: inline-block;
+  margin-left: 6px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: #6b4f27;
+  background: var(--parchment-dark);
+  border: 1px solid var(--tan);
+  border-radius: 6px;
+  padding: 0 5px;
+  vertical-align: 1px;
+}
 
 .history {
   margin-top: 4px;

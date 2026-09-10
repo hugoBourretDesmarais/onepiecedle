@@ -1,0 +1,155 @@
+[
+ {
+  "character": "Boa Marigold",
+  "wikiPage": "Boa Marigold",
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 520,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Crocus",
+  "wikiPage": "Crocus",
+  "debutChapter": 102,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Gol D. Roger",
+  "wikiPage": "Gol D. Roger",
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1010,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jesus Burgess",
+  "wikiPage": "Jesus Burgess",
+  "debutChapter": 222,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kin'emon",
+  "wikiPage": "Kin'emon",
+  "debutChapter": 656,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 788,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Marshall D. Teach",
+  "wikiPage": "Marshall D. Teach",
+  "debutChapter": 223,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 223,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 1059,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Raizo",
+  "wikiPage": "Raizo",
+  "debutChapter": 817,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 987,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sentomaru",
+  "wikiPage": "Sentomaru",
+  "debutChapter": 497,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 511,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Trafalgar D. Water Law",
+  "wikiPage": "Trafalgar D. Water Law",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 668,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1043,
+    "source": "section"
+   }
+  ]
+ }
+]

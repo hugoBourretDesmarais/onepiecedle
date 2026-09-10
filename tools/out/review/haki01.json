@@ -1,0 +1,183 @@
+{
+  "results": [
+    {
+      "character": "Aisa",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 251,
+          "confidence": "medium",
+          "evidence": "Aisa tells Wyper that her Mantra felt two voices go silent, ch 251."
+        }
+      ],
+      "note": "Earlier than the wiki Haki section's first citation (ch 264-265); Mantra is Skypiea's name for Observation Haki, so a reader at ch 251 sees the ability but not the later 'Haki' terminology."
+    },
+    {
+      "character": "Borsalino",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 564,
+          "confidence": "medium",
+          "evidence": "Kizaru, Aokiji and Akainu combine emitted Haki to disperse Whitebeard's quake shockwave, ch 564."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1094,
+          "confidence": "medium",
+          "evidence": "Kizaru senses Jaygarcia Saturn's arrival on Egghead, ch 1094."
+        }
+      ],
+      "note": "The ch 564 shield is only retroactively labelled advanced Armament Haki; the on-page text there just calls it Haki. Observation is otherwise Vivre Card-only before 1094."
+    },
+    {
+      "character": "Diamante",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 776,
+          "confidence": "low",
+          "evidence": "No on-panel use; Vivre Card only, anchored to the end of his fight with Kyros, ch 776."
+        },
+        {
+          "value": "Observation",
+          "chapter": 776,
+          "confidence": "low",
+          "evidence": "No on-panel use; Vivre Card only, anchored to the end of his fight with Kyros, ch 776."
+        }
+      ],
+      "note": "Databook-only for both types. Diamante is shown recognizing others' Haki (ch 716) but never using his own, so 776 (his defeat, the last of his combat screen time) is a fallback anchor, not a real reveal."
+    },
+    {
+      "character": "Harald",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 1155,
+          "confidence": "medium",
+          "evidence": "Flashback clash of Harald's Supreme King Haki with Rocks D. Xebec's, knocking out everyone within five kilometers, ch 1155."
+        }
+      ],
+      "note": "Only citation in his Haki section; nothing between his ch 1136 debut and 1155 shows it."
+    },
+    {
+      "character": "Jinbe",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 864,
+          "confidence": "medium",
+          "evidence": "Jinbe hardens his arms to defend against the Big Mom Pirates, ch 864."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1055,
+          "confidence": "medium",
+          "evidence": "Jinbe senses the burst of Shanks' Supreme King Haki from Wano, ch 1055."
+        }
+      ]
+    },
+    {
+      "character": "Koby",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 579,
+          "confidence": "medium",
+          "evidence": "At Marineford Koby involuntarily hears the combatants' presences vanish as they die, ch 579."
+        },
+        {
+          "value": "Armament",
+          "chapter": 1088,
+          "confidence": "high",
+          "evidence": "Koby shatters Avalo Pizarro's island hand with a Haki-infused Honesty Impact, ch 1088."
+        }
+      ],
+      "note": "Observation is displayed at 579 but only named as Haki at 594, when Dr. Fishbonen explains it; use 594 instead if the filter should key on the naming."
+    },
+    {
+      "character": "Monkey D. Garp",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 567,
+          "confidence": "medium",
+          "evidence": "Garp punches and hurts Marco despite his regenerative phoenix form, ch 567."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1080,
+          "confidence": "high",
+          "evidence": "Garp's Galaxy Impact shows Supreme King Haki infused into his fist as black lightning, ch 1080."
+        },
+        {
+          "value": "Observation",
+          "chapter": 594,
+          "confidence": "medium",
+          "evidence": "Dr. Fishbonen states all vice admirals use Haki and points Koby to Garp to master his new Observation Haki, ch 594."
+        }
+      ],
+      "note": "The unambiguous Haki-vs-Haki Armament feat is the Chinjao flashback at ch 719; 567 is the earliest published display. Garp's clearest Observation display (catching invisible Shiryu's strike) is ch 1087."
+    },
+    {
+      "character": "Rob Lucci",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1069,
+          "confidence": "medium",
+          "evidence": "Awakened Lucci hardens his fists and clashes with Luffy, ch 1069 p10-11."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1094,
+          "confidence": "medium",
+          "evidence": "Lucci senses Jaygarcia Saturn's arrival on Egghead, ch 1094."
+        }
+      ],
+      "note": "Armament is one chapter earlier than the scraped hint (1070, the Sentomaru feat)."
+    },
+    {
+      "character": "Shanks",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 1,
+          "confidence": "medium",
+          "evidence": "Shanks drives off the Lord of the Coast with a single glare, ch 1."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1054,
+          "confidence": "high",
+          "evidence": "Shanks senses a 'weird presence' (Ryokugyu) from miles outside Wano, ch 1054."
+        },
+        {
+          "value": "Armament",
+          "chapter": 579,
+          "confidence": "high",
+          "evidence": "Shanks blocks Akainu's magma fist with Haki-imbued Gryphon to save Koby, ch 579."
+        }
+      ],
+      "note": "The ch 1 glare is a display before Haki is named; it is explicitly confirmed as Supreme King Haki at ch 570 (and shown knocking out Whitebeard's crew at ch 434) if a stricter threshold is wanted."
+    },
+    {
+      "character": "Tsuru",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 594,
+          "confidence": "low",
+          "evidence": "Dr. Fishbonen states Haki is a power all vice admirals use, ch 594; the specific type is Vivre Card only."
+        },
+        {
+          "value": "Observation",
+          "chapter": 594,
+          "confidence": "low",
+          "evidence": "Dr. Fishbonen states Haki is a power all vice admirals use, ch 594; the specific type is Vivre Card only."
+        }
+      ],
+      "note": "Tsuru never uses either type on panel. Ch 594 is the blanket vice-admiral statement, which tells a reader she has Haki but not which types."
+    }
+  ]
+}

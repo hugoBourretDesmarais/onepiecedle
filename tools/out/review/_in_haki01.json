@@ -1,0 +1,172 @@
+[
+ {
+  "character": "Aisa",
+  "wikiPage": "Aisa",
+  "debutChapter": 249,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Borsalino",
+  "wikiPage": "Borsalino",
+  "debutChapter": 504,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 564,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1094,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Diamante",
+  "wikiPage": "Diamante",
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Harald",
+  "wikiPage": "Harald",
+  "debutChapter": 1136,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jinbe",
+  "wikiPage": "Jinbe",
+  "debutChapter": 528,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 864,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1055,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Koby",
+  "wikiPage": "Koby",
+  "debutChapter": 2,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 594,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Monkey D. Garp",
+  "wikiPage": "Monkey D. Garp",
+  "debutChapter": 92,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 567,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1080,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Rob Lucci",
+  "wikiPage": "Rob Lucci",
+  "debutChapter": 323,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1070,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1094,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Shanks",
+  "wikiPage": "Shanks",
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1054,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Tsuru",
+  "wikiPage": "Tsuru",
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

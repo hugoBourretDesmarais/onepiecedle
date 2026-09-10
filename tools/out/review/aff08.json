@@ -1,0 +1,218 @@
+{
+  "results": [
+    {
+      "character": "Avalo Pizarro",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 575}
+      ],
+      "devilFruitRevealChapter": 1080,
+      "confidence": "high",
+      "note": "Freed from Impel Down off-panel; he is already a Blackbeard crewmate when the reader first sees him, and the Shima Shima no Mi only appears in ch. 1080."
+    },
+    {
+      "character": "Blueno",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 325}
+      ],
+      "devilFruitRevealChapter": 345,
+      "confidence": "medium",
+      "note": "Reader learns the masked man is Blueno of CP9 only in ch. 345; vocabulary has no CP9 value so CP0 covers both eras."
+    },
+    {
+      "character": "Carrot",
+      "affiliationTimeline": [
+        {"value": "Mokomo Dukedom", "chapter": 804}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Charlotte Mont-d'Or",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 829}
+      ],
+      "devilFruitRevealChapter": 846,
+      "confidence": "high",
+      "note": "Buku Buku no Mi first used in ch. 846; he is visibly a Big Mom subordinate from his debut."
+    },
+    {
+      "character": "Daz Bonez",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Baroque Works", "chapter": 160}
+      ],
+      "devilFruitRevealChapter": 190,
+      "confidence": "high",
+      "note": "Supa Supa no Mi shown mid-fight with Zoro in ch. 190, not at his Mr. 1 debut."
+    },
+    {
+      "character": "Emet",
+      "affiliationTimeline": [
+        {"value": "Egghead", "chapter": 1065}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as the unnamed Iron Giant on Egghead; no crew affiliation was ever attached to it."
+    },
+    {
+      "character": "Gaimon",
+      "affiliationTimeline": [
+        {"value": "Island of Rare Animals", "chapter": 22}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Harald",
+      "affiliationTimeline": [
+        {"value": "Elbaf Royal Family", "chapter": 1136}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His secret Knights of God membership surfaces in ch. 1167, but he is still headlined as Elbaf's late king."
+    },
+    {
+      "character": "Inazuma",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 549},
+        {"value": "Newkama Land", "chapter": 536}
+      ],
+      "devilFruitRevealChapter": 540,
+      "confidence": "medium",
+      "note": "Ivankov calls Inazuma 'a very important revolutionary' in ch. 549; the Choki Choki no Mi is explained in ch. 540."
+    },
+    {
+      "character": "Johnny",
+      "affiliationTimeline": [
+        {"value": "Bounty Hunters", "chapter": 42}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Killingham",
+      "affiliationTimeline": [
+        {"value": "Knights of God", "chapter": 1140}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Already in partial qilin form at his debut."
+    },
+    {
+      "character": "Kuina",
+      "affiliationTimeline": [
+        {"value": "Shimotsuki Family", "chapter": 5}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Loki",
+      "affiliationTimeline": [
+        {"value": "Elbaf Royal Family", "chapter": 1130}
+      ],
+      "devilFruitRevealChapter": 1170,
+      "confidence": "high",
+      "note": "Known to be a Devil Fruit user (seastone chains) long before the Nidhoggr fruit itself is shown in the ch. 1170 flashback."
+    },
+    {
+      "character": "Mont Blanc Cricket",
+      "affiliationTimeline": [
+        {"value": "Saruyama Alliance", "chapter": 227}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Neptune",
+      "affiliationTimeline": [
+        {"value": "Ryugu Kingdom", "chapter": 611}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Pedro",
+      "affiliationTimeline": [
+        {"value": "Mokomo Dukedom", "chapter": 805}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Rebecca",
+      "affiliationTimeline": [
+        {"value": "Dressrosa", "chapter": 704}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Scopper Gaban",
+      "affiliationTimeline": [
+        {"value": "Roger Pirates", "chapter": 19}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Debut is a single panel in Buggy's flashback."
+    },
+    {
+      "character": "Shiryu",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 549},
+        {"value": "Impel Down", "chapter": 538}
+      ],
+      "devilFruitRevealChapter": 925,
+      "confidence": "high",
+      "note": "Takes the Suke Suke no Mi from Absalom's corpse in ch. 925, fourteen years of publication after his debut."
+    },
+    {
+      "character": "Topman Warcury",
+      "affiliationTimeline": [
+        {"value": "Five Elders", "chapter": 233}
+      ],
+      "devilFruitRevealChapter": 1085,
+      "confidence": "high",
+      "note": "Elders first transform into their beast forms in ch. 1085; the fengxi is named in ch. 1110."
+    },
+    {
+      "character": "Vinsmoke Ichiji",
+      "affiliationTimeline": [
+        {"value": "Vinsmoke Family", "chapter": 828}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "X Drake",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 956},
+        {"value": "Beasts Pirates", "chapter": 793},
+        {"value": "Marines", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": 509,
+      "confidence": "medium",
+      "note": "At 498 the reader knows him only as the Drake Pirates captain, which the vocabulary lacks; 'Marines' is a placeholder there and leaks the ch. 956 SWORD twist."
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Blueno",
+      "wanted": "CP9",
+      "used": "CP0",
+      "explanation": "Blueno is CP9 from ch. 345 until the timeskip and only becomes CP0 afterwards. The vocabulary has CP0 but no CP9, so both eras collapse into one entry."
+    },
+    {
+      "character": "X Drake",
+      "wanted": "Drake Pirates",
+      "used": "Marines",
+      "explanation": "From his ch. 498 debut to ch. 792 the reader knows Drake purely as captain of the Drake Pirates. That crew is missing from the vocabulary even though peer Supernova crews (Kid Pirates, Hawkins Pirates, On Air Pirates, Bonney Pirates) are present, so the debut entry had to fall back on 'Marines', which spoils the SWORD reveal."
+    },
+    {
+      "character": "Harald",
+      "wanted": "n/a",
+      "used": "Elbaf Royal Family",
+      "explanation": "Minor: the vocabulary spells it 'Elbaf Royal Family' while the wiki infobox uses 'Elbaph Royal Family'. Flagging only so the spelling mismatch in the input's affiliationCandidates is not read as a missing value."
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+[
+ {
+  "character": "Basil Hawkins",
+  "wikiPage": "Basil Hawkins",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Hawkins Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Hawkins Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 911,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Straw-Straw Fruit",
+   "assumedRevealChapter": 498,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Borsalino",
+  "wikiPage": "Borsalino",
+  "debutChapter": 504,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 319,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Glint-Glint Fruit",
+   "assumedRevealChapter": 504,
+   "sectionHint": 511
+  }
+ },
+ {
+  "character": "Chaka",
+  "wikiPage": "Chaka",
+  "debutChapter": 155,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Dog-Dog Fruit, Model: Jackal",
+   "assumedRevealChapter": 155,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Charlotte Smoothie",
+  "wikiPage": "Charlotte Smoothie",
+  "debutChapter": 846,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Wring-Wring Fruit",
+   "assumedRevealChapter": 846,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Donquixote Doflamingo",
+  "wikiPage": "Donquixote Doflamingo",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Underworld",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Government",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Dressrosa",
+    "chapter": 682,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "String-String Fruit",
+   "assumedRevealChapter": 233,
+   "sectionHint": 560
+  }
+ },
+ {
+  "character": "Eustass Kid",
+  "wikiPage": "Eustass Kid",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Kid Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Kid Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Magnet-Magnet Fruit",
+   "assumedRevealChapter": 498,
+   "sectionHint": 504
+  }
+ },
+ {
+  "character": "Gem",
+  "wikiPage": "Gem",
+  "debutChapter": 110,
+  "debutArc": "Whisky Peak",
+  "currentAffiliation": "Baroque Works",
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 110,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Bomb-Bomb Fruit",
+   "assumedRevealChapter": 110,
+   "sectionHint": 111
+  }
+ },
+ {
+  "character": "Hina",
+  "wikiPage": "Hina",
+  "debutChapter": 171,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 215,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Bind-Bind Fruit",
+   "assumedRevealChapter": 171,
+   "sectionHint": 217
+  }
+ },
+ {
+  "character": "Jabra",
+  "wikiPage": "Jabra",
+  "debutChapter": 375,
+  "debutArc": "Enies Lobby",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 375,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Mutt-Mutt Fruit, Model: Wolf",
+   "assumedRevealChapter": 375,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Kalgara",
+  "wikiPage": "Kalgara",
+  "debutChapter": 286,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Shandia",
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Koby",
+  "wikiPage": "Koby",
+  "debutChapter": 2,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines , Marine 153rd Branch",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Alvida Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kurozumi Kanjuro",
+  "wikiPage": "Kurozumi Kanjuro",
+  "debutChapter": 700,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Kurozumi Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kurozumi Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": 974,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 817,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Brush-Brush Fruit",
+   "assumedRevealChapter": 700,
+   "sectionHint": 1014
+  }
+ },
+ {
+  "character": "Marcus Mars",
+  "wikiPage": "Marcus Mars",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Five Elders",
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": null,
+   "assumedRevealChapter": 233,
+   "sectionHint": 1085
+  }
+ },
+ {
+  "character": "Morley",
+  "wikiPage": "Morley",
+  "debutChapter": 904,
+  "debutArc": "Levely",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": 904,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Push-Push Fruit",
+   "assumedRevealChapter": 904,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Nola",
+  "wikiPage": "Nola",
+  "debutChapter": 255,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Shandia",
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wagomuland",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Perona",
+  "wikiPage": "Perona",
+  "debutChapter": 443,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Thriller Bark Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dracule Mihawk",
+    "chapter": 455,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Hollow-Hollow Fruit",
+   "assumedRevealChapter": 443,
+   "sectionHint": 443
+  }
+ },
+ {
+  "character": "Rockstar",
+  "wikiPage": "Rockstar",
+  "debutChapter": 234,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Red Hair Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Sentomaru",
+  "wikiPage": "Sentomaru",
+  "debutChapter": 497,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Spandam",
+  "wikiPage": "Spandam",
+  "debutChapter": 355,
+  "debutArc": "Water 7",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 358,
+    "former": true
+   },
+   {
+    "value": "CP5",
+    "chapter": 355,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Ulti",
+  "wikiPage": "Ulti",
+  "debutChapter": 977,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Yamato",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 1146,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+   "assumedRevealChapter": 977,
+   "sectionHint": 983
+  }
+ },
+ {
+  "character": "Vinsmoke Yonji",
+  "wikiPage": "Vinsmoke Yonji",
+  "debutChapter": 825,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Vinsmoke Family",
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 826,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Yosaku",
+  "wikiPage": "Yosaku",
+  "debutChapter": 42,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Bounty Hunters",
+  "affiliationCandidates": [
+   {
+    "value": "Johnny",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roronoa Zoro's band",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ }
+]

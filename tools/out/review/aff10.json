@@ -1,0 +1,209 @@
+{
+  "results": [
+    {
+      "character": "Bartholomew Kuma",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 513},
+        {"value": "Seven Warlords of the Sea", "chapter": 233}
+      ],
+      "devilFruitRevealChapter": 473,
+      "confidence": "high",
+      "note": "Kuma tells Rayleigh he works for the Revolutionary Army in ch. 513; paw pads first shown at Thriller Bark ch. 473."
+    },
+    {
+      "character": "Boa Marigold",
+      "affiliationTimeline": [
+        {"value": "Kuja Pirates", "chapter": 516}
+      ],
+      "devilFruitRevealChapter": 518,
+      "confidence": "medium",
+      "note": "First half-snake transformation is ch. 518, two chapters after her debut."
+    },
+    {
+      "character": "Cavendish",
+      "affiliationTimeline": [
+        {"value": "Beautiful Pirates", "chapter": 704}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Charlotte Perospero",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 834}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "His debut infobox in ch. 834 already names the Pero Pero no Mi."
+    },
+    {
+      "character": "Diamante",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 700}
+      ],
+      "devilFruitRevealChapter": 736,
+      "confidence": "high",
+      "note": "Hira Hira no Mi first used against the Block D losers in ch. 736."
+    },
+    {
+      "character": "Enel",
+      "affiliationTimeline": [
+        {"value": "God's Army", "chapter": 254}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Lightning is shown from an unseen Enel as early as ch. 241, so no later reveal than his ch. 254 debut."
+    },
+    {
+      "character": "Gan Fall",
+      "affiliationTimeline": [
+        {"value": "Skypiea", "chapter": 237}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Hattori",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 801},
+        {"value": "World Government", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Middle entry should read CP9 (revealed ch. 345); vocabulary has no CP9 value."
+    },
+    {
+      "character": "Issho",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 701}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Gravity powers used on-panel in his ch. 701 debut."
+    },
+    {
+      "character": "Kaidou",
+      "affiliationTimeline": [
+        {"value": "Beasts Pirates", "chapter": 795}
+      ],
+      "devilFruitRevealChapter": 921,
+      "confidence": "high",
+      "note": "Dragon form first seen descending over Kuri at the end of ch. 921."
+    },
+    {
+      "character": "King",
+      "affiliationTimeline": [
+        {"value": "Beasts Pirates", "chapter": 920}
+      ],
+      "devilFruitRevealChapter": 930,
+      "confidence": "medium",
+      "note": "Ch. 920 is only a shadowed flashback cameo; he is identified as an All-Star in ch. 925 and flies as a pteranodon in ch. 930."
+    },
+    {
+      "character": "Kureha",
+      "affiliationTimeline": [
+        {"value": "Sakura Kingdom", "chapter": 134}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Her country was called Drum Kingdom until it was renamed in ch. 153; same polity, not an allegiance change."
+    },
+    {
+      "character": "Magellan",
+      "affiliationTimeline": [
+        {"value": "Impel Down", "chapter": 528}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Morgan",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 4}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Ninjin",
+      "affiliationTimeline": [
+        {"value": "Usopp Security Force", "chapter": 130},
+        {"value": "Usopp Pirates", "chapter": 23}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "The Security Force is shown on the ch. 130 cover story."
+    },
+    {
+      "character": "Pekoms",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 651}
+      ],
+      "devilFruitRevealChapter": 652,
+      "confidence": "medium",
+      "note": "Turtle form first shown one chapter after debut, when Caribou shoots him."
+    },
+    {
+      "character": "Rob Lucci",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 801},
+        {"value": "World Government", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "devilFruitRevealChapter": 349,
+      "confidence": "high",
+      "note": "Middle entry should read CP9 (revealed ch. 345); vocabulary has no CP9 value."
+    },
+    {
+      "character": "Sengoku",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 234}
+      ],
+      "devilFruitRevealChapter": 570,
+      "confidence": "high",
+      "note": "Buddha form first shown at Marineford in ch. 570."
+    },
+    {
+      "character": "Smoker",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 97}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Trebol",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 700}
+      ],
+      "devilFruitRevealChapter": 726,
+      "confidence": "medium",
+      "note": "Snot is visible at his ch. 700 debut but the first clear power use is enveloping Sai in ch. 726."
+    },
+    {
+      "character": "Vinsmoke Niji",
+      "affiliationTimeline": [
+        {"value": "Vinsmoke Family", "chapter": 828}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Yasopp",
+      "affiliationTimeline": [
+        {"value": "Red Hair Pirates", "chapter": 1}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "characters": ["Rob Lucci", "Hattori"],
+      "wanted": "CP9",
+      "used": "World Government",
+      "explanation": "Between ch. 345 and ch. 801 both are headlined as CP9, the Cipher Pol assassin unit. The vocabulary has CP0 but no CP9, so the broader World Government was used to avoid the spoiler of showing CP0 early."
+    }
+  ]
+}

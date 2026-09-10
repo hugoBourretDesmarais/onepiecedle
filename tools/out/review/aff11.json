@@ -1,0 +1,224 @@
+{
+  "results": [
+    {
+      "character": "Bartolomeo",
+      "affiliationTimeline": [
+        {"value": "Barto Club", "chapter": 705}
+      ],
+      "devilFruitRevealChapter": 709,
+      "confidence": "high",
+      "note": "Invisible barrier used in ch 708; the Bari Bari no Mi is explicitly revealed in ch 709."
+    },
+    {
+      "character": "Boa Sandersonia",
+      "affiliationTimeline": [
+        {"value": "Kuja Pirates", "chapter": 516}
+      ],
+      "devilFruitRevealChapter": 518,
+      "confidence": "high",
+      "note": "Snake-hybrid transformation first shown two chapters after her debut."
+    },
+    {
+      "character": "Chadros Higelyges",
+      "affiliationTimeline": [
+        {"value": "Brownbeard Pirates", "chapter": 581}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His ch 661 stint as Caesar's Centaur Patrol Unit boss has no vocabulary value, so only the pirate crew is listed."
+    },
+    {
+      "character": "Charlotte Pudding",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 651}
+      ],
+      "devilFruitRevealChapter": 851,
+      "confidence": "high",
+      "note": "Memo Memo no Mi first used on Reiju's memories in ch 851."
+    },
+    {
+      "character": "Doc Q",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 223}
+      ],
+      "devilFruitRevealChapter": 1063,
+      "confidence": "high",
+      "note": "Shiku Shiku no Mi stayed hidden for roughly 840 chapters, first used against the Heart Pirates."
+    },
+    {
+      "character": "Ethanbaron V. Nusjuro",
+      "affiliationTimeline": [
+        {"value": "Five Elders", "chapter": 233}
+      ],
+      "devilFruitRevealChapter": 1110,
+      "confidence": "high",
+      "note": "Debuts as an unnamed Elder silhouette; his Mythical Zoan is only shown on Egghead."
+    },
+    {
+      "character": "Gecko Moria",
+      "affiliationTimeline": [
+        {"value": "Thriller Bark Pirates", "chapter": 581},
+        {"value": "Seven Warlords of the Sea", "chapter": 449}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Introduced as a Warlord (ch 448-449); Doflamingo confirms the title was revoked in ch 581."
+    },
+    {
+      "character": "Helmeppo",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 3}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "At debut he is only Captain Morgan's son at the Marine base; he enlists as a chore boy in the ch 102+ cover story."
+    },
+    {
+      "character": "Izou",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 962},
+        {"value": "Whitebeard Pirates", "chapter": 553}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as a Whitebeard commander; revealed as Oden's retainer and Kikunojo's brother in ch 962."
+    },
+    {
+      "character": "Kaku",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "devilFruitRevealChapter": 385,
+      "confidence": "medium",
+      "note": "CP9 is unmasked in ch 345 and he moves to CP0 by ch 907, but the vocabulary only offers CP0."
+    },
+    {
+      "character": "Koala",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 731},
+        {"value": "Sun Pirates", "chapter": 622}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Kuro",
+      "affiliationTimeline": [
+        {"value": "Black Cat Pirates", "chapter": 23}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "The Klahadore disguise is an identity reveal (ch 25), not a change of allegiance."
+    },
+    {
+      "character": "Marco",
+      "affiliationTimeline": [
+        {"value": "Whitebeard Pirates", "chapter": 234}
+      ],
+      "devilFruitRevealChapter": 553,
+      "confidence": "high",
+      "note": "Phoenix form first shown at Marineford when he shields Whitebeard from Kizaru."
+    },
+    {
+      "character": "Morgans",
+      "affiliationTimeline": [
+        {"value": "World Economy News Paper", "chapter": 860}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Visibly an albatross-man from his debut, though the fruit is only named in supplementary material."
+    },
+    {
+      "character": "Nojiko",
+      "affiliationTimeline": [
+        {"value": "Cocoyasi Village", "chapter": 70}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Pell",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 155}
+      ],
+      "devilFruitRevealChapter": 169,
+      "confidence": "medium",
+      "note": "Wiki cites ch 169 as where Pell demonstrates his falcon transformation."
+    },
+    {
+      "character": "Rocks D. Xebec",
+      "affiliationTimeline": [
+        {"value": "Rocks Pirates", "chapter": 957}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Senor Pink",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 702}
+      ],
+      "devilFruitRevealChapter": 735,
+      "confidence": "high",
+      "note": "Sui Sui no Mi first demonstrated in ch 735."
+    },
+    {
+      "character": "Sommers",
+      "affiliationTimeline": [
+        {"value": "Knights of God", "chapter": 1140}
+      ],
+      "devilFruitRevealChapter": 1143,
+      "confidence": "high",
+      "note": "Iba Iba no Mi debuts three chapters after he does."
+    },
+    {
+      "character": "Tsuru",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 234}
+      ],
+      "devilFruitRevealChapter": 556,
+      "confidence": "high",
+      "note": "Woshu Woshu no Mi first seen at Marineford in ch 556."
+    },
+    {
+      "character": "Vinsmoke Reiju",
+      "affiliationTimeline": [
+        {"value": "Vinsmoke Family", "chapter": 826}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "York",
+      "affiliationTimeline": [
+        {"value": "World Government", "chapter": 1065}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Her ch 1078 betrayal reveals loyalty to the Five Elders but keeps her inside the same organization."
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Kaku",
+      "wanted": "CP9",
+      "explanation": "From ch 345 to 907 a reader would name Kaku by CP9; the vocabulary only has CP0, so both Cipher Pol spans were merged under CP0 starting at ch 345."
+    },
+    {
+      "character": "Chadros Higelyges",
+      "wanted": "Centaur Patrol Unit",
+      "explanation": "From ch 661 to 674 a reader would name Brownbeard by Caesar Clown's Centaur Patrol Unit on Punk Hazard, not by his disbanded pirate crew. Fell back to Brownbeard Pirates."
+    },
+    {
+      "character": "Helmeppo",
+      "wanted": "no affiliation / civilian",
+      "explanation": "At his ch 3 debut he is Captain Morgan's spoiled son, not a Marine; he only enlists as a chore boy around ch 102. Used Marines for the whole span."
+    },
+    {
+      "character": "Izou",
+      "wanted": "Nine Red Scabbards is present but Izou is not a Scabbard",
+      "explanation": "Kozuki Family covers him, but the vocabulary spells it 'Kozuki Family' while the wiki uses 'Kouzuki Family' - matched the vocabulary spelling."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+[
+ {
+  "character": "Boa Sandersonia",
+  "wikiPage": "Boa Sandersonia",
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 519,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 520,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Denjiro",
+  "wikiPage": "Denjiro",
+  "debutChapter": 919,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Gunko",
+  "wikiPage": "Manmayer Gunko",
+  "debutChapter": 1134,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jewelry Bonney",
+  "wikiPage": "Jewelry Bonney",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "King",
+  "wikiPage": "King",
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Monkey D. Dragon",
+  "wikiPage": "Monkey D. Dragon",
+  "debutChapter": 100,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Rebecca",
+  "wikiPage": "Rebecca",
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Shakuyaku",
+  "wikiPage": "Shakuyaku",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Trebol",
+  "wikiPage": "Trebol",
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

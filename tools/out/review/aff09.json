@@ -1,0 +1,221 @@
+{
+  "results": [
+    {
+      "character": "Baby 5",
+      "affiliationTimeline": [
+        {"value": "Happo Navy", "chapter": 800},
+        {"value": "Donquixote Pirates", "chapter": 682}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Leaves Doflamingo with Sai at the end of Dressrosa; wiki dates the Happo Navy affiliation to chapter 800."
+    },
+    {
+      "character": "Boa Hancock",
+      "affiliationTimeline": [
+        {"value": "Kuja Pirates", "chapter": 516}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Also a Warlord from her debut until the system was abolished, but Kuja Pirates captain is her headline identity throughout."
+    },
+    {
+      "character": "Catarina Devon",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 575}
+      ],
+      "devilFruitRevealChapter": 925,
+      "confidence": "high",
+      "note": "Fruit power stays hidden from her Marineford debut until she shape-shifts in Wano."
+    },
+    {
+      "character": "Charlotte Oven",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 861}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Denjiro",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 973},
+        {"value": "Kurozumi Family", "chapter": 919}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as the yakuza boss Kyoshiro serving Orochi; revealed as the Kozuki retainer Denjiro in chapter 973."
+    },
+    {
+      "character": "Emporio Ivankov",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 537}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Revolutionary membership stated two chapters after his debut, so no separate Newkama Land entry."
+    },
+    {
+      "character": "Galdino",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Baroque Works", "chapter": 117}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His long Buggy-crew period (chapters 593-1057) has no matching vocabulary value, so it is omitted."
+    },
+    {
+      "character": "Hatchan",
+      "affiliationTimeline": [
+        {"value": "Takoyaki 8", "chapter": 228},
+        {"value": "Arlong Pirates", "chapter": 69}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Takoyaki 8 first shown in the chapter 228 cover story."
+    },
+    {
+      "character": "Inuarashi",
+      "affiliationTimeline": [
+        {"value": "Mokomo Dukedom", "chapter": 808}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Jozu",
+      "affiliationTimeline": [
+        {"value": "Whitebeard Pirates", "chapter": 234}
+      ],
+      "devilFruitRevealChapter": 553,
+      "confidence": "high",
+      "note": "Diamond form and the epithet both first appear at Marineford, chapter 553."
+    },
+    {
+      "character": "Kin'emon",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 656}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Never switches allegiance; the Kozuki link is only spelled out around chapter 819."
+    },
+    {
+      "character": "Kumadori",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 375}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He is CP9 until chapter 1083, but CP9 is not in the vocabulary so CP0 stands in for both."
+    },
+    {
+      "character": "Lucky Roux",
+      "affiliationTimeline": [
+        {"value": "Red Hair Pirates", "chapter": 1}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Mont Blanc Noland",
+      "affiliationTimeline": [
+        {"value": "Lvneel Kingdom", "chapter": 286}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Nico Robin",
+      "affiliationTimeline": [
+        {"value": "Straw Hat Pirates", "chapter": 218},
+        {"value": "Baroque Works", "chapter": 114}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "She stows away and joins in chapter 218; the Water 7 departure is a fake-out and is not modeled."
+    },
+    {
+      "character": "Peepley Lulu",
+      "affiliationTimeline": [
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Riku Doldo III",
+      "affiliationTimeline": [
+        {"value": "Riku Family", "chapter": 706}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts disguised as the gladiator Ricky; his identity as the Riku king is confirmed in chapter 726."
+    },
+    {
+      "character": "Scratchmen Apoo",
+      "affiliationTimeline": [
+        {"value": "On Air Pirates", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Captain of his own crew throughout; the Kaido alliance never displaces that."
+    },
+    {
+      "character": "Silvers Rayleigh",
+      "affiliationTimeline": [
+        {"value": "Roger Pirates", "chapter": 19}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Chapter 19 is only a flashback cameo; he is formally introduced at chapter 500 and named as Roger's first mate at 506."
+    },
+    {
+      "character": "Trafalgar D. Water Law",
+      "affiliationTimeline": [
+        {"value": "Heart Pirates", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Captain of the Heart Pirates the whole time; the Warlord seat and Donquixote past are secondary."
+    },
+    {
+      "character": "Vinsmoke Judge",
+      "affiliationTimeline": [
+        {"value": "Vinsmoke Family", "chapter": 832}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Yamato",
+      "affiliationTimeline": [
+        {"value": "Wano Country", "chapter": 971}
+      ],
+      "devilFruitRevealChapter": 996,
+      "confidence": "medium",
+      "note": "Never a true Beasts Pirate; fruit power first shown in chapter 996."
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Denjiro",
+      "wanted": "Kyoshiro Family",
+      "used": "Kurozumi Family",
+      "explanation": "From chapters 919 to 973 the reader knows him as Kyoshiro, boss of the Kyoshiro Family. That value is missing from the vocabulary, so his undercover service to Orochi's Kurozumi Family is used instead."
+    },
+    {
+      "character": "Galdino",
+      "wanted": "Buggy Pirates",
+      "used": "(omitted)",
+      "explanation": "Between Impel Down and the Cross Guild reveal he is a Buggy Pirates / Buggy's Delivery officer for roughly 460 chapters. Neither Buggy Pirates nor Buggy and Alvida Alliance exists in the vocabulary, so that stretch has no entry."
+    },
+    {
+      "character": "Kumadori",
+      "wanted": "CP9",
+      "used": "CP0",
+      "explanation": "He is a CP9 agent from chapter 375 and only confirmed as CP0 in chapter 1083. CP9 is absent from the vocabulary, so CP0 covers the whole timeline."
+    }
+  ]
+}

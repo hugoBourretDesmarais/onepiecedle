@@ -1,0 +1,498 @@
+[
+ {
+  "character": "Absalom",
+  "wikiPage": "Absalom",
+  "debutChapter": 444,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Thriller Bark Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": 455,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Clear-Clear Fruit",
+   "assumedRevealChapter": 444,
+   "sectionHint": 457
+  }
+ },
+ {
+  "character": "Bell-mère",
+  "wikiPage": "Bell-mère",
+  "debutChapter": 77,
+  "debutArc": "Arlong Park",
+  "currentAffiliation": "Cocoyasi Village",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Brogy",
+  "wikiPage": "Brogy",
+  "debutChapter": 115,
+  "debutArc": "Little Garden",
+  "currentAffiliation": "Giant Warrior Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Charlotte Brûlée",
+  "wikiPage": "Charlotte Brûlée",
+  "debutChapter": 831,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Mirror-Mirror Fruit",
+   "assumedRevealChapter": 831,
+   "sectionHint": 832
+  }
+ },
+ {
+  "character": "Chimney",
+  "wikiPage": "Chimney",
+  "debutChapter": 322,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Water 7",
+  "affiliationCandidates": [
+   {
+    "value": "Kokoro",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Donquixote Rosinante",
+  "wikiPage": "Donquixote Rosinante",
+  "debutChapter": 761,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 749,
+    "former": false
+   },
+   {
+    "value": "World Government",
+    "chapter": 766,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Calm-Calm Fruit",
+   "assumedRevealChapter": 761,
+   "sectionHint": 765
+  }
+ },
+ {
+  "character": "Figarland Garling",
+  "wikiPage": "Figarland Garling",
+  "debutChapter": 1086,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Five Elders",
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Knights of God",
+    "chapter": 1125,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Genzo",
+  "wikiPage": "Genzo",
+  "debutChapter": 71,
+  "debutArc": "Arlong Park",
+  "currentAffiliation": "Cocoyasi Village",
+  "affiliationCandidates": [
+   {
+    "value": "Cocoyasi Village",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Hiriluk",
+  "wikiPage": "Hiriluk",
+  "debutChapter": 141,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Sakura Kingdom",
+  "affiliationCandidates": [],
+  "devilFruit": null
+ },
+ {
+  "character": "Jack",
+  "wikiPage": "Jack",
+  "debutChapter": 801,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": 808,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Elephant-Elephant Fruit, Model: Mammoth",
+   "assumedRevealChapter": 801,
+   "sectionHint": 990
+  }
+ },
+ {
+  "character": "Kalifa",
+  "wikiPage": "Kalifa",
+  "debutChapter": 323,
+  "debutArc": "Water 7",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 326,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Bubble-Bubble Fruit",
+   "assumedRevealChapter": 323,
+   "sectionHint": 385
+  }
+ },
+ {
+  "character": "Kokoro",
+  "wikiPage": "Kokoro",
+  "debutChapter": 322,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Tom's Workers",
+  "affiliationCandidates": [
+   {
+    "value": "Tom's Workers",
+    "chapter": 353,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kurozumi Orochi",
+  "wikiPage": "Kurozumi Orochi",
+  "debutChapter": 927,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kurozumi Family",
+  "affiliationCandidates": [
+   {
+    "value": "Wano Country",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+   "assumedRevealChapter": 927,
+   "sectionHint": 933
+  }
+ },
+ {
+  "character": "Marguerite",
+  "wikiPage": "Marguerite",
+  "debutChapter": 514,
+  "debutArc": "Amazon Lily",
+  "currentAffiliation": "Kuja Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": 598,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Mozu and Kiwi",
+  "wikiPage": "Mozu and Kiwi",
+  "debutChapter": 329,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Franky Family",
+  "affiliationCandidates": [
+   {
+    "value": "Franky Family",
+    "chapter": 335,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Oars",
+  "wikiPage": "Oars",
+  "debutChapter": 456,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Thriller Bark Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pica",
+  "wikiPage": "Pica",
+  "debutChapter": 700,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 722,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Stone-Stone Fruit",
+   "assumedRevealChapter": 700,
+   "sectionHint": 737
+  }
+ },
+ {
+  "character": "Roronoa Zoro",
+  "wikiPage": "Roronoa Zoro",
+  "debutChapter": 3,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Shaka",
+  "wikiPage": "Vegapunk/Shaka",
+  "debutChapter": 1062,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Stussy",
+  "wikiPage": "Stussy",
+  "debutChapter": 860,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "Vegapunk",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP0",
+    "chapter": 1073,
+    "former": true
+   },
+   {
+    "value": "Underworld",
+    "chapter": 871,
+    "former": false
+   },
+   {
+    "value": "MADS",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Bat-Bat Fruit",
+   "assumedRevealChapter": 860,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Urouge",
+  "wikiPage": "Urouge",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Fallen Monk Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Fallen Monk Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": null,
+   "assumedRevealChapter": 498,
+   "sectionHint": 508
+  }
+ },
+ {
+  "character": "Viola",
+  "wikiPage": "Viola",
+  "debutChapter": 703,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Riku Family",
+  "affiliationCandidates": [
+   {
+    "value": "Riku Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 712,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Glare-Glare Fruit",
+   "assumedRevealChapter": 703,
+   "sectionHint": 712
+  }
+ },
+ {
+  "character": "Zala",
+  "wikiPage": "Zala",
+  "debutChapter": 155,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Baroque Works",
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 160,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Spike-Spike Fruit",
+   "assumedRevealChapter": 155,
+   "sectionHint": 190
+  }
+ }
+]

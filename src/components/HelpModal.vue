@@ -52,10 +52,10 @@ const emit = defineEmits(['close'])
       <h3>Avoiding spoilers</h3>
       <p>
         Not caught up? Open <b>⚙️ Settings</b> and set how far you've read. Only characters who have
-        appeared by the end of that arc will show up as the answer, in the guess suggestions, or in
-        the gallery, and each one's <b>bounty rewinds</b> to the figure revealed by then — Luffy is
-        worth ฿30M in Loguetown, not ฿3B. The other properties don't rewind, so someone you met
-        early can still show a crew or haki they only got later.
+        appeared by the end of that arc show up as the answer, in the guess suggestions or in the
+        gallery — and each card <b>rewinds</b> to what was known by then. Bounty, crew, haki, devil
+        fruit, height and even the portrait all follow the story: in Alabasta, Luffy is a ฿100M
+        Straw Hat with no haki and a plain Gum-Gum Fruit, and Robin is still Baroque Works.
       </p>
 
       <p class="note">Data from the One Piece Wiki — with no spoiler limit set, current story spoilers are included!</p>

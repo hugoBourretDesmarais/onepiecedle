@@ -1,0 +1,182 @@
+{
+  "results": [
+    {
+      "character": "Bartholomew Kuma",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1103,
+          "confidence": "high",
+          "evidence": "Kuma hardens his fist with Haki in the Egghead flashback (ch. 1103, p. 17) before flooring Saturn in 1104."
+        },
+        {
+          "value": "Observation",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; sourced only to Kuma's Vivre Card databook entry, whose booster run ran through 2019."
+        }
+      ],
+      "note": "Observation is databook-only (the wiki cites a second Vivre Card printing whose release date I could not pin down), so the chapter is a Vivre-Card-era estimate, not a story event. Consider null if a strict manga-only rule is preferred."
+    },
+    {
+      "character": "Charlotte Daifuku",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 951,
+          "confidence": "low",
+          "evidence": "No manga display; stated only on Daifuku's Vivre Card, from the \"Emperor Big Mom Pirates!!\" booster (Aug 2, 2019)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 951,
+          "confidence": "low",
+          "evidence": "Same single Vivre Card line that grants him Armament; he never uses either on-page."
+        }
+      ],
+      "note": "Both types are databook-only. Chapters are the manga chapter contemporaneous with that Vivre Card booster's release, not an in-story reveal."
+    },
+    {
+      "character": "Edward Newgate",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 570,
+          "confidence": "high",
+          "evidence": "Fossa says Luffy's Supreme King Haki is the same as Whitebeard's and Shanks's (ch. 570, p. 2)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 557,
+          "confidence": "medium",
+          "evidence": "He foresees Crocodile's surprise attack at Marineford and deliberately does not move, trusting Luffy to block it (ch. 557, p. 13-14)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 575,
+          "confidence": "medium",
+          "evidence": "He lands solid blows on the Logia Akainu (ch. 575, p. 6-7) right after Marco and Vista's Armament attacks failed in 574."
+        }
+      ],
+      "note": "The scraped 434 for Conqueror is the Shanks sky-splitting clash, which predates Haki existing as a concept for the reader; 570 is the first on-page statement. Armament and Observation are reader inferences at Marineford; both are only stated outright much later in the Oden/Roger flashbacks (ch. 963, 966)."
+    },
+    {
+      "character": "Imu",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 1149,
+          "confidence": "high",
+          "evidence": "On taking over Gunko's body, Imu radiates waves of Haki shaped like black lightning (ch. 1149, p. 18-19); he flattens Elbaph's giants with it in 1150."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1122,
+          "confidence": "medium",
+          "evidence": "From Mary Geoise he senses and identifies Joy Boy's Supreme King Haki being unleashed at Egghead (ch. 1122, p. 14)."
+        }
+      ],
+      "note": "Scraped 1151 for Conqueror is two chapters late. Observation is only labelled as such later (ch. 1163, sensing Eris and infant Teach at God Valley), so 1122 is the earliest a reader could infer it."
+    },
+    {
+      "character": "Kaku",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1072,
+          "confidence": "high",
+          "evidence": "In his Awakened form he hardens his nose and clashes with Zoro on Egghead (ch. 1072, p. 14)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 943,
+          "confidence": "low",
+          "evidence": "Never demonstrated; only Kaku's Vivre Card entry, printed in the mid-2019 Galley-La / CP9 boosters."
+        }
+      ]
+    },
+    {
+      "character": "Kumadori",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "No manga display; single Vivre Card line from the \"Enforcers of the Dark Justice! CP9!!\" booster (Jun 4, 2019)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "Same CP9 Vivre Card line; Kumadori has never used either type on-page."
+        }
+      ],
+      "note": "Both types are databook-only; the chapter is the Vivre Card booster's release point, not a story event."
+    },
+    {
+      "character": "Nekomamushi",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 948,
+          "confidence": "low",
+          "evidence": "No manga display; sourced to the official Vivre Card corrections list following the Mink Tribe booster (Jul 4, 2019)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 948,
+          "confidence": "low",
+          "evidence": "Same Vivre Card correction entry; his on-page fighting is Electro and Sulong, never labelled Haki."
+        }
+      ],
+      "note": "Both types come from a post-release correction to the Vivre Card databook, so the chapter is an estimate of when that was published."
+    },
+    {
+      "character": "Sabo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 737,
+          "confidence": "high",
+          "evidence": "At the Colosseum he uses Haki-strengthened fingers to break Burgess's Haki-hardened arm armor and shatters Diamante's weapon with his Haki-clad pipe (ch. 737)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 946,
+          "confidence": "low",
+          "evidence": "Manga never shows it; only Sabo's Vivre Card entry (mid-2019 boosters), plus anime-only feats in episodes 729 and 737."
+        }
+      ],
+      "note": "Scraped 743 for Armament is six chapters late; the wiki's own first Armament citation is a named ref pointing at 737."
+    },
+    {
+      "character": "Shirahoshi",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 930,
+          "confidence": "low",
+          "evidence": "The wiki states outright she has never demonstrated it; the only source is her Vivre Card from the Fish-Man Island booster (Jan/Feb 2019)."
+        }
+      ],
+      "note": "Purely databook. Since she never uses it in the manga, null would also be defensible if the game prefers to hide unshown abilities."
+    },
+    {
+      "character": "Vergo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 672,
+          "confidence": "high",
+          "evidence": "Vergo hardens his bamboo stick with Armament Haki on his first proper appearance (ch. 672, p. 4)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 941,
+          "confidence": "low",
+          "evidence": "No manga display; only Vergo's Vivre Card entry from the spring 2019 Punk Hazard / Donquixote Family boosters."
+        }
+      ]
+    }
+  ]
+}

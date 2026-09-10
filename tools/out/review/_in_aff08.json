@@ -1,0 +1,520 @@
+[
+ {
+  "character": "Avalo Pizarro",
+  "wikiPage": "Avalo Pizarro",
+  "debutChapter": 575,
+  "debutArc": "Marineford",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Isle-Isle Fruit",
+   "assumedRevealChapter": 575,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Blueno",
+  "wikiPage": "Blueno",
+  "debutChapter": 325,
+  "debutArc": "Water 7",
+  "currentAffiliation": "CP0",
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Door-Door Fruit",
+   "assumedRevealChapter": 325,
+   "sectionHint": 385
+  }
+ },
+ {
+  "character": "Carrot",
+  "wikiPage": "Carrot",
+  "debutChapter": 804,
+  "debutArc": "Zou",
+  "currentAffiliation": "Mokomo Dukedom",
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom, Inuarashi Musketeer Squad",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 809,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Charlotte Mont-d'Or",
+  "wikiPage": "Charlotte Mont-d'Or",
+  "debutChapter": 829,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Book-Book Fruit",
+   "assumedRevealChapter": 829,
+   "sectionHint": 846
+  }
+ },
+ {
+  "character": "Daz Bonez",
+  "wikiPage": "Daz Bonez",
+  "debutChapter": 160,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Cross Guild",
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 1058,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Dice-Dice Fruit",
+   "assumedRevealChapter": 160,
+   "sectionHint": 190
+  }
+ },
+ {
+  "character": "Emet",
+  "wikiPage": "Emet",
+  "debutChapter": 1065,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Egghead",
+  "affiliationCandidates": [],
+  "devilFruit": null
+ },
+ {
+  "character": "Gaimon",
+  "wikiPage": "Gaimon",
+  "debutChapter": 22,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Island of Rare Animals",
+  "affiliationCandidates": [],
+  "devilFruit": null
+ },
+ {
+  "character": "Harald",
+  "wikiPage": "Harald",
+  "debutChapter": 1136,
+  "debutArc": "Elbaf",
+  "currentAffiliation": "Elbaf Royal Family",
+  "affiliationCandidates": [
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Knights of God",
+    "chapter": 1167,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Inazuma",
+  "wikiPage": "Inazuma",
+  "debutChapter": 536,
+  "debutArc": "Impel Down",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Kamabakka Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Newkama Land",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Snip-Snip Fruit",
+   "assumedRevealChapter": 536,
+   "sectionHint": 540
+  }
+ },
+ {
+  "character": "Johnny",
+  "wikiPage": "Johnny",
+  "debutChapter": 42,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Bounty Hunters",
+  "affiliationCandidates": [
+   {
+    "value": "Yosaku",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roronoa Zoro's band",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Killingham",
+  "wikiPage": "Rimoshifu Killingham",
+  "debutChapter": 1140,
+  "debutArc": "Elbaf",
+  "currentAffiliation": "Knights of God",
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Kirin",
+   "assumedRevealChapter": 1140,
+   "sectionHint": 1142
+  }
+ },
+ {
+  "character": "Kuina",
+  "wikiPage": "Shimotsuki Kuina",
+  "debutChapter": 5,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Shimotsuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Loki",
+  "wikiPage": "Loki",
+  "debutChapter": 1130,
+  "debutArc": "Elbaf",
+  "currentAffiliation": "Elbaf Royal Family",
+  "affiliationCandidates": [
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Nidhöggr",
+   "assumedRevealChapter": 1130,
+   "sectionHint": 1170
+  }
+ },
+ {
+  "character": "Mont Blanc Cricket",
+  "wikiPage": "Mont Blanc Cricket",
+  "debutChapter": 227,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Saruyama Alliance",
+  "affiliationCandidates": [
+   {
+    "value": "Saruyama Alliance",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Mont Blanc Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "His original crew",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Neptune",
+  "wikiPage": "Neptune",
+  "debutChapter": 611,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Ryugu Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 610,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pedro",
+  "wikiPage": "Pedro",
+  "debutChapter": 805,
+  "debutArc": "Zou",
+  "currentAffiliation": "Mokomo Dukedom",
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Guardians",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nox Expedition Party\\Pirates",
+    "chapter": 849,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Rebecca",
+  "wikiPage": "Rebecca",
+  "debutChapter": 704,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Dressrosa",
+  "affiliationCandidates": [
+   {
+    "value": "Dressrosa",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Corrida Colosseum",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Scopper Gaban",
+  "wikiPage": "Scopper Gaban",
+  "debutChapter": 19,
+  "debutArc": "Orange Town",
+  "currentAffiliation": "Roger Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Shiryu",
+  "wikiPage": "Shiryu",
+  "debutChapter": 538,
+  "debutArc": "Impel Down",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 542,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Clear-Clear Fruit",
+   "assumedRevealChapter": 538,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Topman Warcury",
+  "wikiPage": "Topman Warcury",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Five Elders",
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": null,
+   "assumedRevealChapter": 233,
+   "sectionHint": 1000
+  }
+ },
+ {
+  "character": "Vinsmoke Ichiji",
+  "wikiPage": "Vinsmoke Ichiji",
+  "debutChapter": 828,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Vinsmoke Family",
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "X Drake",
+  "wikiPage": "X Drake",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Drake Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Barrels Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Allosaurus",
+   "assumedRevealChapter": 498,
+   "sectionHint": null
+  }
+ }
+]

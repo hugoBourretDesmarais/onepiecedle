@@ -1,0 +1,181 @@
+{
+  "results": [
+    {
+      "character": "Aramaki",
+      "affiliationTimeline": [{"value": "Marines", "chapter": 905}],
+      "devilFruitRevealChapter": 1052,
+      "confidence": "high",
+      "note": "Introduced as an admiral in 905 but his plant powers are first seen in 1052."
+    },
+    {
+      "character": "Benn Beckman",
+      "affiliationTimeline": [{"value": "Red Hair Pirates", "chapter": 1}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Caesar Clown",
+      "affiliationTimeline": [
+        {"value": "NEO MADS", "chapter": 1078},
+        {"value": "Donquixote Pirates", "chapter": 658}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "At debut he reads as an independent scientist; the Joker/Doflamingo link only becomes explicit around chapter 681, and NEO MADS is founded in the chapter 1078 cover story."
+    },
+    {
+      "character": "Charlotte Daifuku",
+      "affiliationTimeline": [{"value": "Big Mom Pirates", "chapter": 861}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Fruit shown in 864, three chapters into the same arc, so debut is close enough."
+    },
+    {
+      "character": "Crocodile",
+      "affiliationTimeline": [
+        {"value": "Cross Guild", "chapter": 1058},
+        {"value": "Baroque Works", "chapter": 126}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Sand power is hinted in 127 and fully shown in 155; his Warlord title ran concurrently with Baroque Works so it is not a separate headline."
+    },
+    {
+      "character": "Drophy",
+      "affiliationTimeline": [{"value": "Baroque Works", "chapter": 160}],
+      "devilFruitRevealChapter": 184,
+      "confidence": "high",
+      "note": "Mole form first appears in 184, 24 chapters after her debut."
+    },
+    {
+      "character": "Foxy",
+      "affiliationTimeline": [{"value": "Foxy Pirates", "chapter": 305}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Gol D. Roger",
+      "affiliationTimeline": [{"value": "Roger Pirates", "chapter": 1}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Hyogoro",
+      "affiliationTimeline": [{"value": "Wano Country", "chapter": 926}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His real headline is the Hyogoro Family yakuza, which has no vocabulary value."
+    },
+    {
+      "character": "Jaygarcia Saturn",
+      "affiliationTimeline": [{"value": "Five Elders", "chapter": 233}],
+      "devilFruitRevealChapter": 1085,
+      "confidence": "high",
+      "note": "The Five Elders first transform in 1085; Saturn's own form is re-confirmed on Egghead in 1094."
+    },
+    {
+      "character": "Kawamatsu",
+      "affiliationTimeline": [{"value": "Kozuki Family", "chapter": 920}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Kozuki Momonosuke",
+      "affiliationTimeline": [{"value": "Kozuki Family", "chapter": 684}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He debuts already in dragon form in 684, though the Kozuki name only lands in the Zou arc."
+    },
+    {
+      "character": "Kyros",
+      "affiliationTimeline": [{"value": "Riku Family", "chapter": 702}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as the Thunder Soldier; the Riku connection is a later reveal, not an allegiance change."
+    },
+    {
+      "character": "Monet",
+      "affiliationTimeline": [{"value": "Donquixote Pirates", "chapter": 657}],
+      "devilFruitRevealChapter": 681,
+      "confidence": "high",
+      "note": "She was always a Doflamingo plant, revealed in 672; her snow powers are first used in 681."
+    },
+    {
+      "character": "Napoleon",
+      "affiliationTimeline": [{"value": "Big Mom Pirates", "chapter": 651}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debut is only a silhouette on Big Mom's head; the Rocks Pirates entry is a flashback reveal, not a switch."
+    },
+    {
+      "character": "Page One",
+      "affiliationTimeline": [{"value": "Beasts Pirates", "chapter": 929}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Post-1148 cover story he follows Yamato, which has no vocabulary value."
+    },
+    {
+      "character": "Portgas D. Ace",
+      "affiliationTimeline": [{"value": "Whitebeard Pirates", "chapter": 154}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Fire powers shown in 158 and the Whitebeard link in 157, both effectively at debut."
+    },
+    {
+      "character": "Sakazuki",
+      "affiliationTimeline": [{"value": "Marines", "chapter": 397}],
+      "devilFruitRevealChapter": 554,
+      "confidence": "high",
+      "note": "Magma powers are first used at Marineford, well after the Ohara flashback debut."
+    },
+    {
+      "character": "Shepherd Ju Peter",
+      "affiliationTimeline": [{"value": "Five Elders", "chapter": 233}],
+      "devilFruitRevealChapter": 1085,
+      "confidence": "high",
+      "note": "Transforms with the other Elders in 1085."
+    },
+    {
+      "character": "Tashigi",
+      "affiliationTimeline": [{"value": "Marines", "chapter": 96}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Vander Decken IX",
+      "affiliationTimeline": [{"value": "Flying Pirates", "chapter": 606}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Powers first demonstrated in 613, still inside his debut arc."
+    },
+    {
+      "character": "Wapol",
+      "affiliationTimeline": [{"value": "Evil Black Drum Kingdom", "chapter": 131}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Continuous rulership of the same country, but at debut it is the Drum Kingdom and he captains the Bliking Pirates, neither of which is in the vocabulary."
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Caesar Clown",
+      "wanted": "MADS (or an 'independent scientist' value)",
+      "explanation": "At his 658 debut he belongs to no crew; only NEO MADS and Donquixote Pirates exist in the vocabulary, so the debut entry overstates the Doflamingo link."
+    },
+    {
+      "character": "Hyogoro",
+      "wanted": "Hyogoro Family",
+      "explanation": "His headline is his own yakuza family; 'Wano Country' is the closest available value."
+    },
+    {
+      "character": "Page One",
+      "wanted": "Yamato",
+      "explanation": "Since the chapter 1148 cover story his affiliation is Yamato rather than the Beasts Pirates, and there is no value for it."
+    },
+    {
+      "character": "Wapol",
+      "wanted": "Drum Kingdom / Bliking Pirates",
+      "explanation": "Only the post-timeskip 'Evil Black Drum Kingdom' name exists, so his chapter 131 state cannot be expressed without a mild spoiler."
+    }
+  ]
+}

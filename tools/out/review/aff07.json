@@ -1,0 +1,211 @@
+{
+  "results": [
+    {
+      "character": "Atlas",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 1062 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Black Maria",
+      "affiliationTimeline": [
+        { "value": "Beasts Pirates", "chapter": 977 }
+      ],
+      "devilFruitRevealChapter": 997,
+      "confidence": "high",
+      "note": "Spider transformation first used in ch 997, twenty chapters after her debut."
+    },
+    {
+      "character": "Caribou",
+      "affiliationTimeline": [
+        { "value": "Caribou Pirates", "chapter": 600 }
+      ],
+      "devilFruitRevealChapter": 603,
+      "confidence": "high",
+      "note": "Numa Numa no Mi first used in ch 603; the Straw Hats do not learn he is a Logia until ch 604."
+    },
+    {
+      "character": "Charlotte Lola",
+      "affiliationTimeline": [
+        { "value": "Rolling Pirates", "chapter": 476 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Charlotte Family ties revealed ch 835 but she remains a Rolling Pirates captain, not a change of allegiance."
+    },
+    {
+      "character": "Dalton",
+      "affiliationTimeline": [
+        { "value": "Sakura Kingdom", "chapter": 132 }
+      ],
+      "devilFruitRevealChapter": 135,
+      "confidence": "medium",
+      "note": "At debut the country is Drum Kingdom (renamed Sakura only in the ch 243 cover story); vocabulary has no Drum Kingdom."
+    },
+    {
+      "character": "Edward Weevil",
+      "affiliationTimeline": [
+        { "value": "Seven Warlords of the Sea", "chapter": 802 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Fukurou",
+      "affiliationTimeline": [
+        { "value": "CP0", "chapter": 1083 },
+        { "value": "World Government", "chapter": 375 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He is CP9 from ch 375 and confirmed CP0 only in ch 1083; CP9 is absent from the vocabulary so World Government stands in."
+    },
+    {
+      "character": "Hajrudin",
+      "affiliationTimeline": [
+        { "value": "New Giant Warrior Pirates", "chapter": 706 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "The wiki dates the New Giant Warrior Pirates to his ch 706 debut, so no earlier headline crew is needed."
+    },
+    {
+      "character": "Imu",
+      "affiliationTimeline": [
+        { "value": "World Government", "chapter": 906 }
+      ],
+      "devilFruitRevealChapter": 1085,
+      "confidence": "medium",
+      "note": "Silhouetted devil transformation first shown ch 1085; the Akuma no Mi is only named in ch 1179."
+    },
+    {
+      "character": "Jinbe",
+      "affiliationTimeline": [
+        { "value": "Straw Hat Pirates", "chapter": 976 },
+        { "value": "Sun Pirates", "chapter": 620 },
+        { "value": "Seven Warlords of the Sea", "chapter": 528 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Chapters are reader-learn times, so the Sun Pirates entry sits after the Warlord one rather than before it."
+    },
+    {
+      "character": "Killer",
+      "affiliationTimeline": [
+        { "value": "Kid Pirates", "chapter": 498 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Krieg",
+      "affiliationTimeline": [
+        { "value": "Krieg Pirates", "chapter": 45 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Lilith",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 1061 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Monkey D. Luffy",
+      "affiliationTimeline": [
+        { "value": "Straw Hat Pirates", "chapter": 1 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Gum-Gum power is shown in ch 1; the Nika reframing in ch 1044 is the same fruit, not a new reveal."
+    },
+    {
+      "character": "Nekomamushi",
+      "affiliationTimeline": [
+        { "value": "Mokomo Dukedom", "chapter": 809 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Paulie",
+      "affiliationTimeline": [
+        { "value": "Galley-La Company", "chapter": 323 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Raizo",
+      "affiliationTimeline": [
+        { "value": "Kozuki Family", "chapter": 817 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Maki Maki no Mi is used on his debut pages (ch 817), so the ch 992 hint is not the first reveal."
+    },
+    {
+      "character": "Sasaki",
+      "affiliationTimeline": [
+        { "value": "Beasts Pirates", "chapter": 977 }
+      ],
+      "devilFruitRevealChapter": 998,
+      "confidence": "high",
+      "note": "Triceratops transformation first shown in ch 998 against Franky."
+    },
+    {
+      "character": "Shirahoshi",
+      "affiliationTimeline": [
+        { "value": "Neptune Family", "chapter": 612 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Tony Tony Chopper",
+      "affiliationTimeline": [
+        { "value": "Straw Hat Pirates", "chapter": 134 }
+      ],
+      "devilFruitRevealChapter": 138,
+      "confidence": "high",
+      "note": "At ch 134 he reads as an ordinary reindeer; his human form is first seen in ch 138."
+    },
+    {
+      "character": "Vergo",
+      "affiliationTimeline": [
+        { "value": "Donquixote Pirates", "chapter": 673 },
+        { "value": "Marines", "chapter": 671 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Both reveals land in ch 673 (Marine rank on p.6, Donquixote allegiance on p.18-19); his debut in ch 671 is a silhouette."
+    },
+    {
+      "character": "Wyper",
+      "affiliationTimeline": [
+        { "value": "Shandia", "chapter": 237 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Dalton",
+      "wanted": "Drum Kingdom",
+      "used": "Sakura Kingdom",
+      "why": "From ch 132 to the ch 243 cover story the nation is Drum Kingdom; Sakura Kingdom is the post-timeskip name and mildly spoils Wapol's fall."
+    },
+    {
+      "character": "Fukurou",
+      "wanted": "CP9",
+      "used": "World Government",
+      "why": "CP9 is his headline affiliation for the whole Enies Lobby arc and for ~700 chapters afterwards, but it is not in the 86-value list."
+    }
+  ]
+}

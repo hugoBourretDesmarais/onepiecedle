@@ -76,12 +76,51 @@ export function bountyAt(c, maxChapter) {
   return null
 }
 
+// `history` lists are newest-first too, so the same top-down scan applies: the
+// first entry the reader has reached wins.
+function at(list, maxChapter) {
+  if (!list?.length) return null
+  for (const e of list) {
+    if (e.chapter != null && e.chapter <= maxChapter) return e
+  }
+  return null
+}
+
 // A character as they were known at `maxChapter`, so a spoiler-limited board
-// never shows a number from further ahead than the player has read.
+// never shows anything from further ahead than the player has read.
+//
+// Two kinds of unknown, both matching what the reader has: a value that has not
+// been revealed yet reads as none (no haki shown, no fruit, ฿0), while a value
+// we could not date at all falls back to the character's oldest known state
+// rather than their latest.
 export function atChapter(c, maxChapter) {
   if (maxChapter == null) return c
-  const bounty = bountyAt(c, maxChapter)
-  return bounty === c.bounty ? c : { ...c, bounty }
+  const h = c.history
+  const out = { ...c, bounty: bountyAt(c, maxChapter) }
+  if (!h) return out
+
+  const aff = at(h.affiliation, maxChapter)
+  if (aff) out.affiliation = aff.value
+
+  if (h.haki) {
+    out.haki = h.haki
+      .filter(e => e.chapter != null && e.chapter <= maxChapter)
+      .map(e => e.value)
+  }
+
+  if (h.devilFruit) {
+    const df = at(h.devilFruit, maxChapter)
+    out.dfTypes = df ? df.types : []
+    out.dfName = df ? df.name : null
+  }
+
+  const height = at(h.heightCm, maxChapter)
+  if (height) out.heightCm = height.value
+
+  const portrait = at(h.portrait, maxChapter)
+  if (portrait) out.portrait = portrait.value
+
+  return out
 }
 
 export function formatBounty(b) {

@@ -1,0 +1,522 @@
+[
+ {
+  "character": "Alvida",
+  "wikiPage": "Alvida",
+  "debutChapter": 2,
+  "currentAffiliation": "Cross Guild",
+  "previousAnswer": [
+   {
+    "value": "Cross Guild",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "character": "Ashura Doji",
+  "wikiPage": "Ashura Doji",
+  "debutChapter": 920,
+  "currentAffiliation": "Nine Red Scabbards",
+  "previousAnswer": [
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 920
+   }
+  ]
+ },
+ {
+  "character": "Bellamy",
+  "wikiPage": "Bellamy",
+  "debutChapter": 222,
+  "currentAffiliation": "Donquixote Pirates",
+  "previousAnswer": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 222
+   }
+  ]
+ },
+ {
+  "character": "Blueno",
+  "wikiPage": "Blueno",
+  "debutChapter": 325,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 325
+   }
+  ]
+ },
+ {
+  "character": "Brook",
+  "wikiPage": "Brook",
+  "debutChapter": 442,
+  "currentAffiliation": "Straw Hat Pirates",
+  "previousAnswer": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": 442
+   }
+  ]
+ },
+ {
+  "character": "Buggy",
+  "wikiPage": "Buggy",
+  "debutChapter": 9,
+  "currentAffiliation": "Cross Guild",
+  "previousAnswer": [
+   {
+    "value": "Cross Guild",
+    "chapter": 1058
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 700
+   },
+   {
+    "value": "Cross Guild",
+    "chapter": 9
+   }
+  ]
+ },
+ {
+  "character": "Caesar Clown",
+  "wikiPage": "Caesar Clown",
+  "debutChapter": 658,
+  "currentAffiliation": "NEO MADS",
+  "previousAnswer": [
+   {
+    "value": "NEO MADS",
+    "chapter": 1078
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 658
+   }
+  ]
+ },
+ {
+  "character": "Camie",
+  "wikiPage": "Camie",
+  "debutChapter": 195,
+  "currentAffiliation": "Takoyaki 8",
+  "previousAnswer": [
+   {
+    "value": "Takoyaki 8",
+    "chapter": 195
+   }
+  ]
+ },
+ {
+  "character": "Chadros Higelyges",
+  "wikiPage": "Chadros Higelyges",
+  "debutChapter": 581,
+  "currentAffiliation": "Brownbeard Pirates",
+  "previousAnswer": [
+   {
+    "value": "Brownbeard Pirates",
+    "chapter": 581
+   }
+  ]
+ },
+ {
+  "character": "Charlotte Smoothie",
+  "wikiPage": "Charlotte Smoothie",
+  "debutChapter": 846,
+  "currentAffiliation": "Big Mom Pirates",
+  "previousAnswer": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 846
+   }
+  ]
+ },
+ {
+  "character": "Crocus",
+  "wikiPage": "Crocus",
+  "debutChapter": 102,
+  "currentAffiliation": "Roger Pirates",
+  "previousAnswer": [
+   {
+    "value": "Roger Pirates",
+    "chapter": 506
+   }
+  ]
+ },
+ {
+  "character": "Dalton",
+  "wikiPage": "Dalton",
+  "debutChapter": 132,
+  "currentAffiliation": "Sakura Kingdom",
+  "previousAnswer": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": 132
+   }
+  ]
+ },
+ {
+  "character": "Denjiro",
+  "wikiPage": "Denjiro",
+  "debutChapter": 919,
+  "currentAffiliation": "Kozuki Family",
+  "previousAnswer": [
+   {
+    "value": "Kozuki Family",
+    "chapter": 973
+   },
+   {
+    "value": "Kurozumi Family",
+    "chapter": 919
+   }
+  ]
+ },
+ {
+  "character": "Fukurou",
+  "wikiPage": "Fukurou",
+  "debutChapter": 375,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 1083
+   },
+   {
+    "value": "World Government",
+    "chapter": 375
+   }
+  ]
+ },
+ {
+  "character": "Galdino",
+  "wikiPage": "Galdino",
+  "debutChapter": 117,
+  "currentAffiliation": "Cross Guild",
+  "previousAnswer": [
+   {
+    "value": "Cross Guild",
+    "chapter": 1058
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 117
+   }
+  ]
+ },
+ {
+  "character": "Gonbe",
+  "wikiPage": "Gonbe",
+  "debutChapter": 322,
+  "currentAffiliation": "Water 7",
+  "previousAnswer": [
+   {
+    "value": "Water 7",
+    "chapter": 322
+   }
+  ]
+ },
+ {
+  "character": "Harald",
+  "wikiPage": "Harald",
+  "debutChapter": 1136,
+  "currentAffiliation": "Elbaf Royal Family",
+  "previousAnswer": [
+   {
+    "value": "Elbaf Royal Family",
+    "chapter": 1136
+   }
+  ]
+ },
+ {
+  "character": "Hattori",
+  "wikiPage": "Hattori",
+  "debutChapter": 323,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 801
+   },
+   {
+    "value": "World Government",
+    "chapter": 345
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 323
+   }
+  ]
+ },
+ {
+  "character": "Helmeppo",
+  "wikiPage": "Helmeppo",
+  "debutChapter": 3,
+  "currentAffiliation": "Marines",
+  "previousAnswer": [
+   {
+    "value": "Marines",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "character": "Hiriluk",
+  "wikiPage": "Hiriluk",
+  "debutChapter": 141,
+  "currentAffiliation": "Sakura Kingdom",
+  "previousAnswer": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": 141
+   }
+  ]
+ },
+ {
+  "character": "Hyogoro",
+  "wikiPage": "Hyougoro",
+  "debutChapter": 926,
+  "currentAffiliation": "Wano Country",
+  "previousAnswer": [
+   {
+    "value": "Wano Country",
+    "chapter": 926
+   }
+  ]
+ },
+ {
+  "character": "Izou",
+  "wikiPage": "Izou",
+  "debutChapter": 553,
+  "currentAffiliation": "Kozuki Family",
+  "previousAnswer": [
+   {
+    "value": "Kozuki Family",
+    "chapter": 962
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 553
+   }
+  ]
+ },
+ {
+  "character": "Jabra",
+  "wikiPage": "Jabra",
+  "debutChapter": 375,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 375
+   }
+  ]
+ },
+ {
+  "character": "Kaku",
+  "wikiPage": "Kaku",
+  "debutChapter": 323,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 345
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 323
+   }
+  ]
+ },
+ {
+  "character": "Kalifa",
+  "wikiPage": "Kalifa",
+  "debutChapter": 323,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 1083
+   },
+   {
+    "value": "World Government",
+    "chapter": 345
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 323
+   }
+  ]
+ },
+ {
+  "character": "Koby",
+  "wikiPage": "Koby",
+  "debutChapter": 2,
+  "currentAffiliation": "Marines",
+  "previousAnswer": [
+   {
+    "value": "Marines",
+    "chapter": 7
+   }
+  ]
+ },
+ {
+  "character": "Koza",
+  "wikiPage": "Koza",
+  "debutChapter": 163,
+  "currentAffiliation": "Alabasta Kingdom",
+  "previousAnswer": [
+   {
+    "value": "Alabasta Kingdom",
+    "chapter": 163
+   }
+  ]
+ },
+ {
+  "character": "Kumadori",
+  "wikiPage": "Kumadori",
+  "debutChapter": 375,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 375
+   }
+  ]
+ },
+ {
+  "character": "Marguerite",
+  "wikiPage": "Marguerite",
+  "debutChapter": 514,
+  "currentAffiliation": "Kuja Pirates",
+  "previousAnswer": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": 514
+   }
+  ]
+ },
+ {
+  "character": "Nola",
+  "wikiPage": "Nola",
+  "debutChapter": 255,
+  "currentAffiliation": "Shandia",
+  "previousAnswer": [
+   {
+    "value": "Shandia",
+    "chapter": 255
+   }
+  ]
+ },
+ {
+  "character": "Page One",
+  "wikiPage": "Page One",
+  "debutChapter": 929,
+  "currentAffiliation": "Beasts Pirates",
+  "previousAnswer": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": 929
+   }
+  ]
+ },
+ {
+  "character": "Pierre",
+  "wikiPage": "Pierre",
+  "debutChapter": 237,
+  "currentAffiliation": "Skypiea",
+  "previousAnswer": [
+   {
+    "value": "Skypiea",
+    "chapter": 237
+   }
+  ]
+ },
+ {
+  "character": "Rob Lucci",
+  "wikiPage": "Rob Lucci",
+  "debutChapter": 323,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 801
+   },
+   {
+    "value": "World Government",
+    "chapter": 345
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 323
+   }
+  ]
+ },
+ {
+  "character": "Shaka",
+  "wikiPage": "Vegapunk/Shaka",
+  "debutChapter": 1062,
+  "currentAffiliation": "Marines",
+  "previousAnswer": [
+   {
+    "value": "Marines",
+    "chapter": 1062
+   }
+  ]
+ },
+ {
+  "character": "Spandam",
+  "wikiPage": "Spandam",
+  "debutChapter": 355,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 355
+   }
+  ]
+ },
+ {
+  "character": "Stussy",
+  "wikiPage": "Stussy",
+  "debutChapter": 860,
+  "currentAffiliation": "CP0",
+  "previousAnswer": [
+   {
+    "value": "CP0",
+    "chapter": 860
+   }
+  ]
+ },
+ {
+  "character": "Wapol",
+  "wikiPage": "Wapol",
+  "debutChapter": 131,
+  "currentAffiliation": "Evil Black Drum Kingdom",
+  "previousAnswer": [
+   {
+    "value": "Evil Black Drum Kingdom",
+    "chapter": 131
+   }
+  ]
+ },
+ {
+  "character": "X Drake",
+  "wikiPage": "X Drake",
+  "debutChapter": 498,
+  "currentAffiliation": "Marines",
+  "previousAnswer": [
+   {
+    "value": "Marines",
+    "chapter": 956
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 793
+   },
+   {
+    "value": "Marines",
+    "chapter": 498
+   }
+  ]
+ }
+]

@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "character": "Bellamy",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 708,
+          "confidence": "high",
+          "evidence": "In the Corrida Colosseum B Block he senses Elizabello II's King Punch coming with his back turned (ch. 708)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 770,
+          "confidence": "high",
+          "evidence": "He hardens his fist to break through Luffy's Haki-coated abs in the Dressrosa palace (ch. 770)."
+        }
+      ]
+    },
+    {
+      "character": "Charlotte Linlin",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 861,
+          "confidence": "high",
+          "evidence": "At the wedding tea party she knocks out a guest with Supreme King Haki for asking about Mother Carmel (ch. 861)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 871,
+          "confidence": "medium",
+          "evidence": "She blocks Luffy's Kong Gun with a hardened arm (ch. 871), the wiki's earliest cited use."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1002,
+          "confidence": "medium",
+          "evidence": "She gauges Enma's power and warns Kaidou to dodge Zoro's attack (ch. 1002)."
+        }
+      ],
+      "note": "The wiki also hangs a ch. 859 citation on her Supreme King Haki mastery, but ch. 859 only covers Bege's assassination briefing; the first on-page display is ch. 861."
+    },
+    {
+      "character": "Enel",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 278,
+          "confidence": "medium",
+          "evidence": "Enel explains his Mantra and how the Goro Goro no Mi extends it across Skypiea (ch. 278)."
+        }
+      ],
+      "note": "Scraped hint was null. Mantra is only retroactively named as Observation Haki (ch. 597). Earlier precognitive feats exist - predicting the Survival Game's five survivors (ch. 256) and spotting Nami hiding (ch. 273) - but Mantra is not attributed to him on-page until ch. 278, so that is the conservative pick."
+    },
+    {
+      "character": "Issho",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 752,
+          "confidence": "medium",
+          "evidence": "He clashes head-on with the Logia-powered Sabo using Haki (ch. 752); the black-coated blade is explicit by ch. 788."
+        },
+        {
+          "value": "Observation",
+          "chapter": 713,
+          "confidence": "medium",
+          "evidence": "Blind, he deflects a fragment of his own summoned meteor and fights Law without difficulty (ch. 713)."
+        }
+      ],
+      "note": "Corrected Observation from the scraped 799 to 713, the earliest chapter the wiki cites for his Observation feats. Weaker earlier hints exist at ch. 701-702 (the roulette scene), but there he is deceived, so it is not a clean display."
+    },
+    {
+      "character": "Kalifa",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "No on-page use or statement; the wiki's only source is a Vivre Card databook entry."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "No on-page use or statement; the wiki's only source is a Vivre Card databook entry."
+        }
+      ],
+      "note": "Her entire Haki section is a single sentence sourced to a Vivre Card, and no Haki is mentioned anywhere else on her page. There is no chapter at which a manga reader would learn either type, so both are null."
+    },
+    {
+      "character": "Kuzan",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 564,
+          "confidence": "medium",
+          "evidence": "He joins Akainu and Kizaru in the combined emitted-Haki shield that disperses Whitebeard's quake shockwave (ch. 564)."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only a Vivre Card entry; no on-page Observation display, even in the Garp fight (ch. 1081-1087)."
+        }
+      ]
+    },
+    {
+      "character": "Page One",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 983,
+          "confidence": "high",
+          "evidence": "He senses that Luffy is still conscious after the headbutt clash with Ulti (ch. 983)."
+        },
+        {
+          "value": "Armament",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only a Vivre Card entry; he is never shown hardening or stated to use Armament on-page."
+        }
+      ]
+    },
+    {
+      "character": "Sakazuki",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 564,
+          "confidence": "medium",
+          "evidence": "He forms part of the three-admiral emitted Armament Haki shield against Whitebeard's shockwave (ch. 564)."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only a Vivre Card entry; no on-page Observation use or statement."
+        }
+      ]
+    },
+    {
+      "character": "Silvers Rayleigh",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 503,
+          "confidence": "high",
+          "evidence": "He knocks out Saint Rosward, Shalria and the whole auction hall at Sabaody (ch. 503)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 504,
+          "confidence": "medium",
+          "evidence": "He destroys the inside of Camie's exploding collar at the auction house (ch. 504); the unmistakable display is kicking away Kizaru's attack at ch. 511."
+        },
+        {
+          "value": "Observation",
+          "chapter": 591,
+          "confidence": "medium",
+          "evidence": "Arriving on Amazon Lily he senses that Luffy is on the island (ch. 591)."
+        }
+      ],
+      "note": "Corrected Armament from 511 to 504 - the wiki cites ch. 504 for his high-grade 'destroy from the inside' application. Neither feat is named as Haki at the time; Rayleigh only formally explains the three types at ch. 597. If the game prefers a named-on-page threshold, 511 (or 597) is the fallback."
+    },
+    {
+      "character": "Who's-Who",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1018,
+          "confidence": "high",
+          "evidence": "He hardens his fangs and clawed fingers against Jinbe, who breaks them (ch. 1018)."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only a Vivre Card entry; no on-page Observation display during the Jinbe fight or elsewhere."
+        }
+      ]
+    }
+  ]
+}

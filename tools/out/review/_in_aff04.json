@@ -1,0 +1,582 @@
+[
+ {
+  "character": "Aramaki",
+  "wikiPage": "Aramaki",
+  "debutChapter": 905,
+  "debutArc": "Levely",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 713,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Woods-Woods Fruit",
+   "assumedRevealChapter": 905,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Benn Beckman",
+  "wikiPage": "Benn Beckman",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Red Hair Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Caesar Clown",
+  "wikiPage": "Caesar Clown",
+  "debutChapter": 658,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "NEO MADS",
+  "affiliationCandidates": [
+   {
+    "value": "NEO MADS",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 1077,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 713,
+    "former": true
+   },
+   {
+    "value": "MADS",
+    "chapter": 663,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Gas-Gas Fruit",
+   "assumedRevealChapter": 658,
+   "sectionHint": 662
+  }
+ },
+ {
+  "character": "Charlotte Daifuku",
+  "wikiPage": "Charlotte Daifuku",
+  "debutChapter": 861,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 930,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Puff-Puff Fruit",
+   "assumedRevealChapter": 861,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Crocodile",
+  "wikiPage": "Crocodile",
+  "debutChapter": 126,
+  "debutArc": "Little Garden",
+  "currentAffiliation": "Cross Guild",
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 113,
+    "former": true
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 111,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Sand-Sand Fruit",
+   "assumedRevealChapter": 126,
+   "sectionHint": 541
+  }
+ },
+ {
+  "character": "Drophy",
+  "wikiPage": "Drophy",
+  "debutChapter": 160,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Baroque Works",
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Mole-Mole Fruit",
+   "assumedRevealChapter": 160,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Foxy",
+  "wikiPage": "Foxy",
+  "debutChapter": 305,
+  "debutArc": "Long Ring Long Land",
+  "currentAffiliation": "Foxy Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Foxy Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Slow-Slow Fruit",
+   "assumedRevealChapter": 305,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Gol D. Roger",
+  "wikiPage": "Gol D. Roger",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Roger Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Hyogoro",
+  "wikiPage": "Hyougoro",
+  "debutChapter": 926,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Wano Country",
+  "affiliationCandidates": [
+   {
+    "value": "Hyougoro Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 960,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Jaygarcia Saturn",
+  "wikiPage": "Jaygarcia Saturn",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Five Elders",
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": null,
+   "assumedRevealChapter": 233,
+   "sectionHint": 1085
+  }
+ },
+ {
+  "character": "Kawamatsu",
+  "wikiPage": "Kawamatsu",
+  "debutChapter": 920,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kozuki Momonosuke",
+  "wikiPage": "Kouzuki Momonosuke",
+  "debutChapter": 684,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 817,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)",
+   "assumedRevealChapter": 684,
+   "sectionHint": 698
+  }
+ },
+ {
+  "character": "Kyros",
+  "wikiPage": "Kyros",
+  "debutChapter": 702,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Riku Family",
+  "affiliationCandidates": [
+   {
+    "value": "Corrida Colosseum",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Riku Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Monet",
+  "wikiPage": "Monet",
+  "debutChapter": 657,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Caesar Clown",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 672,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Snow-Snow Fruit",
+   "assumedRevealChapter": 657,
+   "sectionHint": 685
+  }
+ },
+ {
+  "character": "Napoleon",
+  "wikiPage": "Napoleon",
+  "debutChapter": 651,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": 827,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Page One",
+  "wikiPage": "Page One",
+  "debutChapter": 929,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Yamato",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 1148,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Dragon-Dragon Fruit, Model: Spinosaurus",
+   "assumedRevealChapter": 929,
+   "sectionHint": 931
+  }
+ },
+ {
+  "character": "Portgas D. Ace",
+  "wikiPage": "Portgas D. Ace",
+  "debutChapter": 154,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Whitebeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Spade Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Flame-Flame Fruit",
+   "assumedRevealChapter": 154,
+   "sectionHint": 159
+  }
+ },
+ {
+  "character": "Sakazuki",
+  "wikiPage": "Sakazuki",
+  "debutChapter": 397,
+  "debutArc": "Enies Lobby",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Mag-Mag Fruit (Magma-Magma Fruit)",
+   "assumedRevealChapter": 397,
+   "sectionHint": 554
+  }
+ },
+ {
+  "character": "Shepherd Ju Peter",
+  "wikiPage": "Shepherd Ju Peter",
+  "debutChapter": 233,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Five Elders",
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Mythical Zoan"
+   ],
+   "name": null,
+   "assumedRevealChapter": 233,
+   "sectionHint": 1085
+  }
+ },
+ {
+  "character": "Tashigi",
+  "wikiPage": "Tashigi",
+  "debutChapter": 96,
+  "debutArc": "Loguetown",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "G-5",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Loguetown Marine Base",
+    "chapter": 98,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Vander Decken IX",
+  "wikiPage": "Vander Decken IX",
+  "debutChapter": 606,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Flying Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Flying Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ally of the New Fish-Man Pirates",
+    "chapter": 610,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Mark-Mark Fruit",
+   "assumedRevealChapter": 606,
+   "sectionHint": 641
+  }
+ },
+ {
+  "character": "Wapol",
+  "wikiPage": "Wapol",
+  "debutChapter": 131,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Evil Black Drum Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Evil Black Drum Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wapol Konzern",
+    "chapter": 635,
+    "former": false
+   },
+   {
+    "value": "Drum Kingdom",
+    "chapter": 259,
+    "former": true
+   },
+   {
+    "value": "Bliking Pirates",
+    "chapter": 131,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Munch-Munch Fruit",
+   "assumedRevealChapter": 131,
+   "sectionHint": null
+  }
+ }
+]

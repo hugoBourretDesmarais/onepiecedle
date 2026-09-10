@@ -1,0 +1,226 @@
+{
+  "results": [
+    {
+      "character": "Basil Hawkins",
+      "affiliationTimeline": [
+        { "value": "Hawkins Pirates", "chapter": 498 }
+      ],
+      "devilFruitRevealChapter": 508,
+      "confidence": "high",
+      "note": "Became a Beasts Pirates Shinuchi at ch 911 but is still headlined as his own crew's captain; straw dolls first shown ch 508."
+    },
+    {
+      "character": "Borsalino",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 504 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Light powers first used ch 507, only three chapters after his debut silhouette."
+    },
+    {
+      "character": "Chaka",
+      "affiliationTimeline": [
+        { "value": "Alabasta Kingdom", "chapter": 155 }
+      ],
+      "devilFruitRevealChapter": 196,
+      "confidence": "high"
+    },
+    {
+      "character": "Charlotte Smoothie",
+      "affiliationTimeline": [
+        { "value": "Big Mom Pirates", "chapter": 846 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Donquixote Doflamingo",
+      "affiliationTimeline": [
+        { "value": "Donquixote Pirates", "chapter": 692 },
+        { "value": "Seven Warlords of the Sea", "chapter": 233 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Known purely as a Warlord until his crew was named in ch 692; string powers shown at ch 234."
+    },
+    {
+      "character": "Eustass Kid",
+      "affiliationTimeline": [
+        { "value": "Kid Pirates", "chapter": 498 }
+      ],
+      "devilFruitRevealChapter": 504,
+      "confidence": "high"
+    },
+    {
+      "character": "Gem",
+      "affiliationTimeline": [
+        { "value": "Baroque Works", "chapter": 110 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Bomb powers explained ch 111, same fight as his debut."
+    },
+    {
+      "character": "Hina",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 171 }
+      ],
+      "devilFruitRevealChapter": 217,
+      "confidence": "high"
+    },
+    {
+      "character": "Jabra",
+      "affiliationTimeline": [
+        { "value": "CP0", "chapter": 375 }
+      ],
+      "devilFruitRevealChapter": 401,
+      "confidence": "medium",
+      "note": "He is CP9 from ch 375 and only confirmed CP0 at ch 1083, but the vocabulary has no CP9 entry."
+    },
+    {
+      "character": "Kalgara",
+      "affiliationTimeline": [
+        { "value": "Shandia", "chapter": 286 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Koby",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 7 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He is Alvida's chore boy from ch 2 and joins the Marines in ch 7, but 'Alvida Pirates' is not in the vocabulary."
+    },
+    {
+      "character": "Kurozumi Kanjuro",
+      "affiliationTimeline": [
+        { "value": "Kurozumi Family", "chapter": 974 },
+        { "value": "Kozuki Family", "chapter": 817 },
+        { "value": "Wano Country", "chapter": 700 }
+      ],
+      "devilFruitRevealChapter": 755,
+      "confidence": "medium",
+      "note": "Known only as a Wano samurai until Zou reveals the Kozuki retainer role, then unmasked as a Kurozumi spy in ch 974."
+    },
+    {
+      "character": "Marcus Mars",
+      "affiliationTimeline": [
+        { "value": "Five Elders", "chapter": 233 }
+      ],
+      "devilFruitRevealChapter": 1085,
+      "confidence": "medium",
+      "note": "Elders first transform in ch 1085; his Itsumade fruit is named in ch 1110."
+    },
+    {
+      "character": "Morley",
+      "affiliationTimeline": [
+        { "value": "Revolutionary Army", "chapter": 904 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Nola",
+      "affiliationTimeline": [
+        { "value": "Shandia", "chapter": 255 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "A giant snake rather than a member of any crew; Shandia is the closest vocabulary fit."
+    },
+    {
+      "character": "Perona",
+      "affiliationTimeline": [
+        { "value": "Thriller Bark Pirates", "chapter": 443 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Rockstar",
+      "affiliationTimeline": [
+        { "value": "Red Hair Pirates", "chapter": 234 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Sentomaru",
+      "affiliationTimeline": [
+        { "value": "Marines", "chapter": 497 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Presented as Vegapunk's bodyguard at debut; his Marine officer rank is only stated in ch 601."
+    },
+    {
+      "character": "Spandam",
+      "affiliationTimeline": [
+        { "value": "CP0", "chapter": 355 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "CP5 chief at ch 355, CP9 chief at ch 358, CP0 at ch 801, but the vocabulary only offers CP0."
+    },
+    {
+      "character": "Ulti",
+      "affiliationTimeline": [
+        { "value": "Beasts Pirates", "chapter": 977 }
+      ],
+      "devilFruitRevealChapter": 983,
+      "confidence": "high"
+    },
+    {
+      "character": "Vinsmoke Yonji",
+      "affiliationTimeline": [
+        { "value": "Vinsmoke Family", "chapter": 825 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Yosaku",
+      "affiliationTimeline": [
+        { "value": "Bounty Hunters", "chapter": 42 }
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Koby",
+      "wanted": "Alvida Pirates",
+      "used": "Marines",
+      "explanation": "Koby is Alvida's chore boy from his ch 2 debut until he joins the Marines in ch 7. No vocabulary value covers the Alvida Pirates, so his timeline simply starts at ch 7 instead of his debut chapter."
+    },
+    {
+      "character": "Jabra",
+      "wanted": "CP9",
+      "used": "CP0",
+      "explanation": "Jabra is introduced as CP9 in ch 375 and only confirmed as CP0 in ch 1083. The vocabulary has CP0 but no CP9, so CP0 is shown from his debut, which is slightly ahead of the story."
+    },
+    {
+      "character": "Spandam",
+      "wanted": "CP5 and CP9",
+      "used": "CP0",
+      "explanation": "Spandam debuts in ch 355 as CP5 chief, becomes CP9 chief at ch 358, and joins CP0 by ch 801. Neither CP5 nor CP9 exists in the vocabulary."
+    },
+    {
+      "character": "Nola",
+      "wanted": "Wagomuland or a neutral 'no affiliation' value",
+      "used": "Shandia",
+      "explanation": "Nola is a giant snake worshipped by the Shandia rather than a member of the tribe; a non-organization value would fit better."
+    },
+    {
+      "character": "Charlotte Smoothie",
+      "wanted": "Charlotte Family",
+      "used": "Big Mom Pirates",
+      "explanation": "Her wiki infobox leads with Charlotte Family; Big Mom Pirates is the closest available value and is also the headline crew, so this is a minor loss only."
+    }
+  ]
+}

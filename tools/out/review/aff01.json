@@ -1,0 +1,181 @@
+{
+  "results": [
+    {
+      "character": "Absalom",
+      "affiliationTimeline": [{"value": "Thriller Bark Pirates", "chapter": 444}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Bell-mère",
+      "affiliationTimeline": [{"value": "Cocoyasi Village", "chapter": 77}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Her former Marine service is revealed in the same debut flashback, so no reader-visible switch."
+    },
+    {
+      "character": "Brogy",
+      "affiliationTimeline": [{"value": "Giant Warrior Pirates", "chapter": 115}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Charlotte Brûlée",
+      "affiliationTimeline": [{"value": "Big Mom Pirates", "chapter": 831}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Chimney",
+      "affiliationTimeline": [{"value": "Water 7", "chapter": 322}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Donquixote Rosinante",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 764},
+        {"value": "Donquixote Pirates", "chapter": 761}
+      ],
+      "devilFruitRevealChapter": 764,
+      "confidence": "high",
+      "note": "Debuts as Corazon of the Donquixote Pirates; his undercover Marine rank and the Nagi Nagi no Mi are both revealed in chapter 764."
+    },
+    {
+      "character": "Figarland Garling",
+      "affiliationTimeline": [
+        {"value": "Five Elders", "chapter": 1125},
+        {"value": "Knights of God", "chapter": 1086}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Introduced as supreme commander of the God's Knights; appointed to the Five Elders in chapter 1125."
+    },
+    {
+      "character": "Genzo",
+      "affiliationTimeline": [{"value": "Cocoyasi Village", "chapter": 71}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Hiriluk",
+      "affiliationTimeline": [{"value": "Sakura Kingdom", "chapter": 141}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "The country is called Drum Kingdom during his story; it is only renamed Sakura Kingdom in chapter 153."
+    },
+    {
+      "character": "Jack",
+      "affiliationTimeline": [{"value": "Beasts Pirates", "chapter": 801}],
+      "devilFruitRevealChapter": 807,
+      "confidence": "high",
+      "note": "His mammoth form is first seen in chapter 807, six chapters after his debut."
+    },
+    {
+      "character": "Kalifa",
+      "affiliationTimeline": [
+        {"value": "CP0", "chapter": 1083},
+        {"value": "World Government", "chapter": 345},
+        {"value": "Galley-La Company", "chapter": 323}
+      ],
+      "devilFruitRevealChapter": 408,
+      "confidence": "medium",
+      "note": "The middle entry is really CP9 (revealed chapter 345), which the vocabulary lacks; she reappears as CP0 in chapter 1083."
+    },
+    {
+      "character": "Kokoro",
+      "affiliationTimeline": [
+        {"value": "Tom's Workers", "chapter": 353},
+        {"value": "Water 7", "chapter": 322}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts as the sea train stationmaster; her past with Tom is only revealed in the chapter 353 flashback."
+    },
+    {
+      "character": "Kurozumi Orochi",
+      "affiliationTimeline": [{"value": "Kurozumi Family", "chapter": 927}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Named as Kurozumi Orochi in chapter 909, before his on-panel debut, and his serpent form appears on that debut page."
+    },
+    {
+      "character": "Marguerite",
+      "affiliationTimeline": [{"value": "Kuja Pirates", "chapter": 514}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "She is an Amazon Lily Kuja warrior at debut and only shown sailing with the Kuja Pirates in chapter 598."
+    },
+    {
+      "character": "Mozu and Kiwi",
+      "affiliationTimeline": [{"value": "Franky Family", "chapter": 329}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Oars",
+      "affiliationTimeline": [{"value": "Thriller Bark Pirates", "chapter": 456}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Pica",
+      "affiliationTimeline": [{"value": "Donquixote Pirates", "chapter": 700}],
+      "devilFruitRevealChapter": 736,
+      "confidence": "high",
+      "note": "The Ishi Ishi no Mi is first used when he emerges from the palace wall in chapter 736."
+    },
+    {
+      "character": "Roronoa Zoro",
+      "affiliationTimeline": [{"value": "Straw Hat Pirates", "chapter": 3}],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Shaka",
+      "affiliationTimeline": [{"value": "Marines", "chapter": 1062}],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He is a Vegapunk satellite on Egghead; Marines (SSG) is the wiki's affiliation but a poor headline."
+    },
+    {
+      "character": "Stussy",
+      "affiliationTimeline": [{"value": "CP0", "chapter": 860}],
+      "devilFruitRevealChapter": 1072,
+      "confidence": "medium",
+      "note": "Known only as an Underworld emperor until chapter 871; the vocabulary has no Underworld value so CP0 is used from her debut."
+    },
+    {
+      "character": "Urouge",
+      "affiliationTimeline": [{"value": "Fallen Monk Pirates", "chapter": 498}],
+      "devilFruitRevealChapter": 508,
+      "confidence": "medium",
+      "note": "His unnamed fruit is first displayed when he bulks up in chapter 508; it is only confirmed as a Devil Fruit in a databook."
+    },
+    {
+      "character": "Viola",
+      "affiliationTimeline": [
+        {"value": "Riku Family", "chapter": 728},
+        {"value": "Donquixote Pirates", "chapter": 712},
+        {"value": "Dressrosa", "chapter": 703}
+      ],
+      "devilFruitRevealChapter": 712,
+      "confidence": "medium",
+      "note": "Debuts as an anonymous Dressrosa dancer, revealed as a Donquixote assassin in 712, and tied to the Riku royal family in the 727-728 flashback."
+    },
+    {
+      "character": "Zala",
+      "affiliationTimeline": [{"value": "Baroque Works", "chapter": 155}],
+      "devilFruitRevealChapter": 190,
+      "confidence": "high",
+      "note": "Debut is a Baroque Works officer-agent silhouette; the Toge Toge no Mi is first used against Nami in chapter 190."
+    }
+  ],
+  "vocabularyProblems": [
+    {"character": "Kalifa", "wanted": "CP9", "reason": "Her headline affiliation from chapter 345 to the timeskip is CP9, not CP0; 'World Government' was used as the closest non-spoiler value."},
+    {"character": "Stussy", "wanted": "Underworld", "reason": "From her debut in 860 until 871 she is known purely as an Emperor of the Underworld; CP0 was used instead, which leaks the chapter 871 reveal."},
+    {"character": "Shaka", "wanted": "Vegapunk (SSG)", "reason": "He is a Vegapunk satellite; 'Marines' is the wiki infobox value but no reader would name him by it."},
+    {"character": "Hiriluk", "wanted": "Drum Kingdom", "reason": "The nation is Drum Kingdom throughout his lifetime and is only renamed Sakura Kingdom in chapter 153."},
+    {"character": "Marguerite", "wanted": "Kuja / Amazon Lily", "reason": "At debut she is an Amazon Lily Kuja warrior, not yet a member of the Kuja Pirates crew."}
+  ]
+}

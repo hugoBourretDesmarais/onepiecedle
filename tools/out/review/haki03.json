@@ -1,0 +1,187 @@
+{
+  "results": [
+    {
+      "character": "Ashura Doji",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 986,
+          "confidence": "medium",
+          "evidence": "He joins the Nine Red Scabbards' blade assault that draws blood from Kaidou, whose hide had been established as cuttable only with Ryuo; his individually shown Oden Two Sword Style strike on Kaidou's scar follows in 992."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1008,
+          "confidence": "low",
+          "evidence": "Never shown or stated in the manga; only sourced to his Vivre Card, so anchored to his last stand in the Onigashima raid."
+        }
+      ],
+      "note": "Observation is databook-only (Vivre Card); the 1008 date is a best guess, not an on-page reveal."
+    },
+    {
+      "character": "Charlotte Cracker",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 837,
+          "confidence": "high",
+          "evidence": "Luffy remarks on the extreme toughness of the Armament Haki Cracker imbues into his biscuit armor, which repels Luffy's own Haki-imbued Gear 2 and Gear 3 attacks."
+        },
+        {
+          "value": "Observation",
+          "chapter": 843,
+          "confidence": "low",
+          "evidence": "Only sourced to his Vivre Card; anchored to the end of his eleven-hour duel with Luffy, the last point a reader sees him fight."
+        }
+      ],
+      "note": "Scraped hint of 784 was a red herring: that citation is a Doflamingo/Gear 4 comparison predating Cracker's debut. Observation is databook-only."
+    },
+    {
+      "character": "Dracule Mihawk",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 779,
+          "confidence": "medium",
+          "evidence": "Zoro's timeskip flashback shows Mihawk teaching him to imbue swords with Haki so a blade takes no nicks."
+        },
+        {
+          "value": "Observation",
+          "chapter": 561,
+          "confidence": "medium",
+          "evidence": "At Marineford he tracks Luffy's high-speed Gear 2 movements through the chaos and strikes with precision, a feat the Boa sisters could not match."
+        }
+      ]
+    },
+    {
+      "character": "Hyogoro",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 939,
+          "confidence": "high",
+          "evidence": "In Udon he demonstrates and names Ryuo, striking down the Gifter Alpacaman without touching him."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1044,
+          "confidence": "medium",
+          "evidence": "He senses Luffy's presence atop the Skull Dome and realizes he is still alive."
+        }
+      ]
+    },
+    {
+      "character": "Kaidou",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 951,
+          "confidence": "medium",
+          "evidence": "His clash with fellow Emperor Big Mom produces the sky-splitting lightning burst that marks a Supreme King Haki collision; he explicitly names and infuses it in 1010."
+        },
+        {
+          "value": "Armament",
+          "chapter": 1009,
+          "confidence": "medium",
+          "evidence": "He overpowers Luffy's hardened arms with his own Armament Haki and projects it off his kanabo in the Hakai attack; Law also states Kaidou's Haki is too strong to move."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1009,
+          "confidence": "medium",
+          "evidence": "He senses the 'voices' of the downed Super Rookies after the Hakai attack and knows they are still alive."
+        }
+      ],
+      "note": "Conqueror corrected earlier than the scraped 923 hint, which cited a raw-strength knockout rather than a Haki display."
+    },
+    {
+      "character": "Kozuki Oden",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 924,
+          "confidence": "high",
+          "evidence": "After the unconscious Luffy knocks out Kaidou's men with Supreme King Haki, Ashura Doji states on-page that this was Oden's power."
+        },
+        {
+          "value": "Armament",
+          "chapter": 955,
+          "confidence": "high",
+          "evidence": "Tenguyama explains that Enma drains its wielder's Ryuo and that Oden alone could tame it, establishing him as a master Armament user."
+        },
+        {
+          "value": "Observation",
+          "chapter": 972,
+          "confidence": "low",
+          "evidence": "Only sourced to his Vivre Card; anchored to the end of his flashback at his execution, after which no further Oden feats are shown."
+        }
+      ],
+      "note": "Observation is databook-only, never shown or stated in the manga."
+    },
+    {
+      "character": "Morley",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1083,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; only sourced to her Vivre Card, so anchored to her fight with Admiral Ryokugyu at the Levely, which she leaves unharmed."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1083,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; only sourced to her Vivre Card, anchored to the same Ryokugyu clash."
+        }
+      ],
+      "note": "Both types are databook-only. Chapter 1083 is a plausibility anchor, not an on-page reveal; null would also be defensible."
+    },
+    {
+      "character": "Roronoa Zoro",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 650,
+          "confidence": "high",
+          "evidence": "Asked by Luffy in Ryugu Palace, he confirms he can sense the hidden Caribou."
+        },
+        {
+          "value": "Armament",
+          "chapter": 668,
+          "confidence": "high",
+          "evidence": "At Punk Hazard, Luffy explicitly confirms Zoro can use Armament Haki so he can fight Caesar."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1010,
+          "confidence": "high",
+          "evidence": "After Ashura Bakkei scars him, Kaidou notes on-page that Zoro's blade carried Supreme King Haki."
+        }
+      ],
+      "note": "Conqueror corrected earlier than the scraped 1033 hint; 1033 is the first infusion Zoro performs, but Kaidou names it in 1010."
+    },
+    {
+      "character": "Shimotsuki Ryuma",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 937,
+          "confidence": "medium",
+          "evidence": "Gyukimaru explains that Shusui became a permanent Black Blade in Ryuma's hands, a transformation the series attributes to Armament Haki."
+        }
+      ],
+      "note": "The Black Blade to Haki link is only fully spelled out later (Sukiyaki in 955, Zoro's Enma in 1033), so a stricter reading would date this to 955."
+    },
+    {
+      "character": "Usopp",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 758,
+          "confidence": "high",
+          "evidence": "He awakens Observation Haki at Dressrosa, seeing the auras of Luffy, Law and Sugar and sniping Sugar from the King's Plateau."
+        }
+      ]
+    }
+  ]
+}

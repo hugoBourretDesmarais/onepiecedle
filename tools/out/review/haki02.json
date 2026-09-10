@@ -1,0 +1,174 @@
+{
+  "results": [
+    {
+      "character": "Aramaki",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1053,
+          "confidence": "high",
+          "evidence": "Ryokugyu hardens the tips of the branches he creates in Wano (ch. 1053)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1055,
+          "confidence": "high",
+          "evidence": "He senses the Red Hair Pirates kilometers outside Wano after Shanks' Haki burst (ch. 1055)."
+        }
+      ]
+    },
+    {
+      "character": "Cavendish",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 918,
+          "confidence": "low",
+          "evidence": "Never shown on-page; only his Vivre Card entry lists Armament Haki."
+        },
+        {
+          "value": "Observation",
+          "chapter": 918,
+          "confidence": "low",
+          "evidence": "Never shown on-page; only his Vivre Card entry lists Observation Haki."
+        }
+      ],
+      "note": "Databook-only (Vivre Card card 0849). Chapter 918 is used as the publication anchor for the first Vivre Card release (Sept 2018); there is no in-story reveal."
+    },
+    {
+      "character": "Donquixote Doflamingo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 689,
+          "confidence": "high",
+          "evidence": "He cuts and seriously wounds the Logia user Smoker at Punk Hazard (ch. 689)."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 698,
+          "confidence": "high",
+          "evidence": "He knocks out most of the G-5 Marines with a Haki burst at Punk Hazard (ch. 698)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 918,
+          "confidence": "low",
+          "evidence": "Only the Vivre Card confirms Observation Haki; no clear on-page display."
+        }
+      ],
+      "note": "Observation is databook-only, anchored to the Sept 2018 Vivre Card release (~ch. 918). His Conqueror flashback origin (ch. 760/767) is later than the ch. 698 display."
+    },
+    {
+      "character": "Helmeppo",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1088,
+          "confidence": "low",
+          "evidence": "Armament is only confirmed by the updated Vivre Card covering the Hachinosu battle he fights in at ch. 1088."
+        }
+      ],
+      "note": "Databook-only (Vivre Card card 0034, 'Marines vs. Blackbeard' version). Anchored to ch. 1088, where he fights at Hachinosu at a level implying it; no on-page naming exists."
+    },
+    {
+      "character": "Jozu",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 560,
+          "confidence": "high",
+          "evidence": "He lands a surprise blow on Crocodile at Marineford, harming a Logia-class user (ch. 560)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 918,
+          "confidence": "low",
+          "evidence": "Never displayed; only his Vivre Card entry lists Observation Haki."
+        }
+      ],
+      "note": "Observation is databook-only (Vivre Card card 0447), anchored to the Sept 2018 release (~ch. 918)."
+    },
+    {
+      "character": "Kozuki Momonosuke",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1008,
+          "confidence": "medium",
+          "evidence": "He senses Luffy's condition against Kaidou and Big Mom in detail, surprising Shinobu and Yamato (ch. 1008)."
+        }
+      ]
+    },
+    {
+      "character": "Monkey D. Luffy",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 495,
+          "confidence": "high",
+          "evidence": "He unknowingly cows Motobaro the bison with a Haki burst at Sabaody (ch. 495), long before it is named."
+        },
+        {
+          "value": "Observation",
+          "chapter": 599,
+          "confidence": "medium",
+          "evidence": "Returning to Sabaody he effortlessly dodges a point-blank bullet from the fake Luffy (ch. 599)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 601,
+          "confidence": "high",
+          "evidence": "He destroys PX-5 with a Haki-infused Jet Pistol and is stated to have learned all three Haki types (ch. 601)."
+        }
+      ],
+      "note": "Wiki's Armament section cites ch. 670 (Caesar), but the black-fist Pacifista knockout and the explicit 'all three types' reveal are ch. 601."
+    },
+    {
+      "character": "Rocks D. Xebec",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1165,
+          "confidence": "high",
+          "evidence": "As a demon he blackens his sword Eclipse with Armament Haki against Roger and Garp (ch. 1165)."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1155,
+          "confidence": "high",
+          "evidence": "His first clash with Harald at Mary Geoise knocks out everyone within five kilometers (ch. 1155)."
+        }
+      ]
+    },
+    {
+      "character": "Shepherd Ju Peter",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 1118,
+          "confidence": "high",
+          "evidence": "He and Warcury sense Luffy's and Bonney's Nika transformations on Egghead (ch. 1118)."
+        }
+      ],
+      "note": "The Elders' generic Haki burst is felt by Zoro and Lucci at ch. 1110; Observation specifically is demonstrated at ch. 1118."
+    },
+    {
+      "character": "Ulti",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 983,
+          "confidence": "high",
+          "evidence": "She senses Luffy's Haki to confirm he survived her attack, and later senses Yamato approaching (ch. 983)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 983,
+          "confidence": "medium",
+          "evidence": "She hardens her forehead and overpowers Luffy's own hardened headbutt in their clash (ch. 983)."
+        }
+      ]
+    }
+  ]
+}

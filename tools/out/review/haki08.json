@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "character": "Benn Beckman",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 579,
+          "confidence": "medium",
+          "evidence": "In ch. 579 Beckman holds the Logia Kizaru at gunpoint, the panel the wiki cites as his Haki-imbued bullets; the 4 Billion guidebook (2022) later states it outright."
+        }
+      ],
+      "note": "Haki is never named on-page for Beckman; 579 is the first panel a reader could reasonably read as Armament, since Haki was already explained back in ch. 508."
+    },
+    {
+      "character": "Charlotte Perospero",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card (no. 1009), from the Big Mom Pirates booster released Aug 2019, around ch. 950."
+        },
+        {
+          "value": "Observation",
+          "chapter": 950,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; Perospero is never shown or stated to use either type in the manga."
+        }
+      ],
+      "note": "Purely databook-sourced; chapter is the manga chapter contemporaneous with the Vivre Card release."
+    },
+    {
+      "character": "Eustass Kid",
+      "haki": [
+        {
+          "value": "Conqueror",
+          "chapter": 924,
+          "confidence": "high",
+          "evidence": "Kaidou states on-page that Kid has Supreme King Haki (ch. 924, p. 6)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1043,
+          "confidence": "medium",
+          "evidence": "During the Onigashima raid Kid senses that Luffy's voice has gone silent after Kaidou beat him (ch. 1043)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "Never shown in the manga; the updated Vivre Card (no. 0513, 'Alliance Formed!' booster, Sep 2021) is what states he uses all three types."
+        }
+      ],
+      "note": "Kid's only Armament showings are non-canon (Stampede, anime ep. 1010), so the Armament date rests on the databook."
+    },
+    {
+      "character": "Jabra",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 944,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card (no. 0404) from the CP9 booster released Jun 2019, around ch. 944."
+        },
+        {
+          "value": "Observation",
+          "chapter": 944,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; Jabra predates the Haki concept and never uses either type on-page."
+        }
+      ],
+      "note": "Enies Lobby character with no in-manga Haki at all; both dates are databook-driven estimates."
+    },
+    {
+      "character": "Kawamatsu",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 948,
+          "confidence": "high",
+          "evidence": "Uses the advanced Ryuo technique Yagura Ryuo to repel charging Beasts Pirates at Udon (ch. 948, p. 10-11)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1018,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card (no. 1385) from the Nine Red Scabbards booster released Jul 2021, around ch. 1018."
+        }
+      ]
+    },
+    {
+      "character": "Lucky Roux",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1055,
+          "confidence": "low",
+          "evidence": "Never demonstrated in the manga; stated only in the One Piece Film: Red '4 Billion' guidebook (Aug 2022, around ch. 1055)."
+        }
+      ],
+      "note": "Guidebook-only. If the game prefers strictly on-page evidence, this one is a candidate for null."
+    },
+    {
+      "character": "Pekoms",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 652,
+          "confidence": "high",
+          "evidence": "Drops the Logia Caribou with a single Armament-empowered punch on Fish-Man Island (ch. 652)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 948,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card (no. 0764) from the Mink Tribe booster released Jul 2019, around ch. 948."
+        }
+      ]
+    },
+    {
+      "character": "Sasaki",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card (no. 1554) from the Beasts Pirates booster released Sep 2021, around ch. 1025."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1025,
+          "confidence": "low",
+          "evidence": "Same Vivre Card entry; the wiki notes he is never seen using either type in combat."
+        }
+      ],
+      "note": "Databook-only for both types."
+    },
+    {
+      "character": "Sommers",
+      "haki": [
+        {
+          "value": "Unknown",
+          "chapter": 1145,
+          "confidence": "high",
+          "evidence": "Scopper Gaban senses the abnormal, black-lightning Haki burst that accompanied Sommers' arrival on Elbaph (ch. 1145, p. 15)."
+        }
+      ],
+      "note": "The burst is only identified as Haki when Gaban comments on it in 1145; no specific type is ever named in the manga."
+    },
+    {
+      "character": "Yamato",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 996,
+          "confidence": "medium",
+          "evidence": "Yamato's hand is shown imbued with Haki before a long-range Takeru swing that knocks out Hatcha (ch. 996, p. 9)."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 1024,
+          "confidence": "high",
+          "evidence": "Flashback of Yamato's childhood awakening plus the advanced infusion clash with Kaidou (ch. 1024, p. 8-15)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 1059,
+          "confidence": "medium",
+          "evidence": "Yamato says he felt the burst of Shanks' Haki that drove Ryokugyu out of Wano (ch. 1059, p. 3)."
+        }
+      ],
+      "note": "The Ace clash showing Armament is chapter 999 but is a flashback, so 996 remains the reader's first sighting."
+    }
+  ]
+}

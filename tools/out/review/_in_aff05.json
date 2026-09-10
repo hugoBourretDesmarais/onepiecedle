@@ -1,0 +1,496 @@
+[
+ {
+  "character": "Arlong",
+  "wikiPage": "Arlong",
+  "debutChapter": 69,
+  "debutArc": "Arlong Park",
+  "currentAffiliation": "Arlong Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Arlong Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 620,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Bentham",
+  "wikiPage": "Bentham",
+  "debutChapter": 129,
+  "debutArc": "Little Garden",
+  "currentAffiliation": "Newkama Land",
+  "affiliationCandidates": [
+   {
+    "value": "Newkama Land",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 154,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Clone-Clone Fruit",
+   "assumedRevealChapter": 129,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Camie",
+  "wikiPage": "Camie",
+  "debutChapter": 195,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Takoyaki 8",
+  "affiliationCandidates": [
+   {
+    "value": "Takoyaki 8, Mermaid Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Criminal brand",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Charlotte Katakuri",
+  "wikiPage": "Charlotte Katakuri",
+  "debutChapter": 860,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Special Paramecia"
+   ],
+   "name": "Mochi-Mochi Fruit",
+   "assumedRevealChapter": 860,
+   "sectionHint": 879
+  }
+ },
+ {
+  "character": "Crocus",
+  "wikiPage": "Crocus",
+  "debutChapter": 102,
+  "debutArc": "Reverse Mountain",
+  "currentAffiliation": "Roger Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates , Laboon",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Edison",
+  "wikiPage": "Vegapunk/Edison",
+  "debutChapter": 1065,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Franky",
+  "wikiPage": "Franky",
+  "debutChapter": 329,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Franky Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Tom's Workers",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Gonbe",
+  "wikiPage": "Gonbe",
+  "debutChapter": 322,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Water 7",
+  "affiliationCandidates": [
+   {
+    "value": "Chimney",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Iceburg",
+  "wikiPage": "Iceburg",
+  "debutChapter": 323,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Galley-La Company",
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Water 7",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Tom's Workers",
+    "chapter": 325,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Jesus Burgess",
+  "wikiPage": "Jesus Burgess",
+  "debutChapter": 222,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Strong-Strong Fruit",
+   "assumedRevealChapter": 222,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Kaya",
+  "wikiPage": "Kaya",
+  "debutChapter": 23,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Syrup Village",
+  "affiliationCandidates": [],
+  "devilFruit": null
+ },
+ {
+  "character": "Kozuki Oden",
+  "wikiPage": "Kouzuki Oden",
+  "debutChapter": 920,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 817,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 818,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Laffitte",
+  "wikiPage": "Laffitte",
+  "debutChapter": 234,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Monkey D. Dragon",
+  "wikiPage": "Monkey D. Dragon",
+  "debutChapter": 100,
+  "debutArc": "Loguetown",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 432,
+    "former": false
+   },
+   {
+    "value": "Freedom Fighters",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 1066,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Nefertari Cobra",
+  "wikiPage": "Nefertari Cobra",
+  "debutChapter": 142,
+  "debutArc": "Drum Island",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 155,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pappag",
+  "wikiPage": "Pappag",
+  "debutChapter": 195,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Takoyaki 8",
+  "affiliationCandidates": [
+   {
+    "value": "Criminal brand",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Takoyaki 8",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pythagoras",
+  "wikiPage": "Vegapunk/Pythagoras",
+  "debutChapter": 1065,
+  "debutArc": "Egghead",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Sanji",
+  "wikiPage": "Sanji",
+  "debutChapter": 43,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Shimotsuki Ryuma",
+  "wikiPage": "Shimotsuki Ryuma",
+  "debutChapter": 1023,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Wano Country",
+  "affiliationCandidates": [
+   {
+    "value": "Wano Country",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Thatch",
+  "wikiPage": "Thatch",
+  "debutChapter": 440,
+  "debutArc": "Post-Enies Lobby",
+  "currentAffiliation": "Whitebeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Vasco Shot",
+  "wikiPage": "Vasco Shot",
+  "debutChapter": 575,
+  "debutArc": "Marineford",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 538,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Glug-Glug Fruit",
+   "assumedRevealChapter": 575,
+   "sectionHint": 1087
+  }
+ },
+ {
+  "character": "Who's-Who",
+  "wikiPage": "Who's-Who",
+  "debutChapter": 977,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Beasts Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Who's-Who Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "CP9",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Ancient Zoan"
+   ],
+   "name": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
+   "assumedRevealChapter": 977,
+   "sectionHint": 1017
+  }
+ }
+]

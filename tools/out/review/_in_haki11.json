@@ -1,0 +1,155 @@
+[
+ {
+  "character": "Boa Hancock",
+  "wikiPage": "Boa Hancock",
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 519,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 580,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Crocodile",
+  "wikiPage": "Crocodile",
+  "debutChapter": 126,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Fukurou",
+  "wikiPage": "Fukurou",
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jaygarcia Saturn",
+  "wikiPage": "Jaygarcia Saturn",
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1114,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1115,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Killingham",
+  "wikiPage": "Rimoshifu Killingham",
+  "debutChapter": 1140,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Marguerite",
+  "wikiPage": "Marguerite",
+  "debutChapter": 514,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Queen",
+  "wikiPage": "Queen",
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1023,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sengoku",
+  "wikiPage": "Sengoku",
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Topman Warcury",
+  "wikiPage": "Topman Warcury",
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1118,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

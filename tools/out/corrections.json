@@ -5303,5 +5303,25 @@
   "firstEpisode": 438,
   "aliases": [],
   "notes": "Gender set to Other (newkama, switches between male and female; draft had null), matching Ivankov and Morley. Affiliation taken from the Revolutionary Army rather than the infobox's first entry, Kamabakka Kingdom. dfName cleaned to the VIZ/Funimation name; the draft merged in the YouTube channel's Shear-Shear Fruit. Bounty is 'at least' 100,000,000 per Chapter 536."
+ },
+ {
+  "requested": "Lindbergh",
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 316000000,
+  "heightCm": 149,
+  "origin": "South Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "aliases": [
+   "Lind"
+  ],
+  "notes": "Origin set to South Blue; the infobox has no origin field, but the wiki files him under South Blue Residents and the South Blue Characters navibox, and it matches the other army commanders (Belo Betty East, Karasu North, Morley West, all from their infoboxes). Bounty is dated by its Vivre Card citation, so it lands at chapter 918 rather than his debut."
  }
 ]

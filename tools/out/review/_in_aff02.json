@@ -1,0 +1,584 @@
+[
+ {
+  "character": "Aisa",
+  "wikiPage": "Aisa",
+  "debutChapter": 249,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Shandia",
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wagomuland",
+    "chapter": 646,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Bellamy",
+  "wikiPage": "Bellamy",
+  "debutChapter": 222,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Bellamy Pirates",
+    "chapter": 222,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Boing-Boing Fruit",
+   "assumedRevealChapter": 222,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Brook",
+  "wikiPage": "Brook",
+  "debutChapter": 442,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rumbar Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Battle Convoy",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Revive-Revive Fruit",
+   "assumedRevealChapter": 442,
+   "sectionHint": 442
+  }
+ },
+ {
+  "character": "Charlotte Chiffon",
+  "wikiPage": "Charlotte Chiffon",
+  "debutChapter": 825,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Fire Tank Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Fire Tank Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": 834,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Chinjao",
+  "wikiPage": "Chinjao",
+  "debutChapter": 704,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Chinjao Family",
+  "affiliationCandidates": [
+   {
+    "value": "Chinjao Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Happo Navy",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Dorry",
+  "wikiPage": "Dorry",
+  "debutChapter": 116,
+  "debutArc": "Little Garden",
+  "currentAffiliation": "Giant Warrior Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Figarland Shamrock",
+  "wikiPage": "Figarland Shamrock",
+  "debutChapter": 907,
+  "debutArc": "Levely",
+  "currentAffiliation": "Knights of God",
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1137,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Gin",
+  "wikiPage": "Gin",
+  "debutChapter": 44,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Krieg Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Krieg Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Hody Jones",
+  "wikiPage": "Hody Jones",
+  "debutChapter": 608,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "New Fish-Man Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "New Fish-Man Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ally of the Flying Pirates",
+    "chapter": 609,
+    "former": true
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 616,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Jaguar D. Saul",
+  "wikiPage": "Jaguar D. Saul",
+  "debutChapter": 392,
+  "debutArc": "Enies Lobby",
+  "currentAffiliation": "Walrus School",
+  "affiliationCandidates": [
+   {
+    "value": "Walrus School",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 396,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Karasu",
+  "wikiPage": "Karasu",
+  "debutChapter": 593,
+  "debutArc": "Post-War",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": 904,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Soot-Soot Fruit",
+   "assumedRevealChapter": 593,
+   "sectionHint": 794
+  }
+ },
+ {
+  "character": "Koza",
+  "wikiPage": "Koza",
+  "debutChapter": 163,
+  "debutArc": "Alabasta",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sand-Sand Clan",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Rebel Army",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kurozumi Tama",
+  "wikiPage": "Kurozumi Tama",
+  "debutChapter": 911,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kurozumi Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kurozumi Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Millet-Millet Fruit",
+   "assumedRevealChapter": 911,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Marshall D. Teach",
+  "wikiPage": "Marshall D. Teach",
+  "debutChapter": 223,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 474,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates 2nd Division",
+    "chapter": 159,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia",
+    "Paramecia"
+   ],
+   "name": "Dark-Dark Fruit & Tremor-Tremor Fruit",
+   "assumedRevealChapter": 223,
+   "sectionHint": 577
+  }
+ },
+ {
+  "character": "Nami",
+  "wikiPage": "Nami",
+  "debutChapter": 8,
+  "debutArc": "Orange Town",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Arlong Pirates",
+    "chapter": 69,
+    "former": false
+   },
+   {
+    "value": "Ganzack Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Golden Lion Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Orlumbus",
+  "wikiPage": "Orlumbus",
+  "debutChapter": 704,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Yonta Maria Grand Fleet",
+  "affiliationCandidates": [
+   {
+    "value": "Yonta Maria Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 733,
+    "former": false
+   },
+   {
+    "value": "Standing Kingdom",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Pierre",
+  "wikiPage": "Pierre",
+  "debutChapter": 237,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Skypiea",
+  "affiliationCandidates": [
+   {
+    "value": "Gan Fall",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Zoan"
+   ],
+   "name": "Horse-Horse Fruit",
+   "assumedRevealChapter": 237,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Sabo",
+  "wikiPage": "Sabo",
+  "debutChapter": 583,
+  "debutArc": "Post-War",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Goa Kingdom",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Flame-Flame Fruit",
+   "assumedRevealChapter": 583,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Shakuyaku",
+  "wikiPage": "Shakuyaku",
+  "debutChapter": 498,
+  "debutArc": "Sabaody Archipelago",
+  "currentAffiliation": "Shakky's Rip-off Bar",
+  "affiliationCandidates": [
+   {
+    "value": "Shakky's Rip-off Bar",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kuja",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kuja Pirates",
+    "chapter": 1059,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Sugar",
+  "wikiPage": "Sugar",
+  "debutChapter": 682,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Hobby-Hobby Fruit",
+   "assumedRevealChapter": 682,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Usopp",
+  "wikiPage": "Usopp",
+  "debutChapter": 23,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Straw Hat Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Vista",
+  "wikiPage": "Vista",
+  "debutChapter": 552,
+  "debutArc": "Marineford",
+  "currentAffiliation": "Whitebeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Zambai",
+  "wikiPage": "Zambai",
+  "debutChapter": 324,
+  "debutArc": "Water 7",
+  "currentAffiliation": "Galley-La Company",
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Franky Family",
+    "chapter": 657,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ }
+]

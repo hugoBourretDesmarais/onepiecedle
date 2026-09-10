@@ -1,0 +1,235 @@
+{
+  "results": [
+    {
+      "character": "Aisa",
+      "affiliationTimeline": [
+        {"value": "Shandia", "chapter": 249}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Bellamy",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 222}
+      ],
+      "devilFruitRevealChapter": 231,
+      "confidence": "medium",
+      "note": "Captain of his own Bellamy Pirates (not in vocabulary) until Doflamingo cast him out in ch 233; Bane Bane no Mi first used in ch 231."
+    },
+    {
+      "character": "Brook",
+      "affiliationTimeline": [
+        {"value": "Straw Hat Pirates", "chapter": 442}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Only formally joined in ch 489; his prior crew (Rumbar Pirates) is not in the vocabulary."
+    },
+    {
+      "character": "Charlotte Chiffon",
+      "affiliationTimeline": [
+        {"value": "Fire Tank Pirates", "chapter": 825}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium"
+    },
+    {
+      "character": "Chinjao",
+      "affiliationTimeline": [
+        {"value": "Chinjao Family", "chapter": 704}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Dorry",
+      "affiliationTimeline": [
+        {"value": "Giant Warrior Pirates", "chapter": 116}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Figarland Shamrock",
+      "affiliationTimeline": [
+        {"value": "Knights of God", "chapter": 907}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Ch 907 is a silhouette cameo; he is properly introduced as the Knights' commander in ch 1137."
+    },
+    {
+      "character": "Gin",
+      "affiliationTimeline": [
+        {"value": "Krieg Pirates", "chapter": 44}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Hody Jones",
+      "affiliationTimeline": [
+        {"value": "New Fish-Man Pirates", "chapter": 608}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Jaguar D. Saul",
+      "affiliationTimeline": [
+        {"value": "Walrus School", "chapter": 1133},
+        {"value": "Marines", "chapter": 392}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Marine vice admiral status is spelled out in ch 396; he is shown teaching at the Walrus School from ch 1133."
+    },
+    {
+      "character": "Karasu",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 593}
+      ],
+      "devilFruitRevealChapter": 904,
+      "confidence": "medium",
+      "note": "His crows appear in ch 593 but are only tied to him when he turns into them in ch 904."
+    },
+    {
+      "character": "Koza",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 163}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "He leads the Rebel Army through the Alabasta arc, but that value is not in the vocabulary."
+    },
+    {
+      "character": "Kurozumi Tama",
+      "affiliationTimeline": [
+        {"value": "Kurozumi Family", "chapter": 1065},
+        {"value": "Wano Country", "chapter": 911}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "low",
+      "note": "Her Kurozumi lineage is only revealed in the SBS of Volume 105 (chapters 1056-1065), never in a chapter."
+    },
+    {
+      "character": "Marshall D. Teach",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 223}
+      ],
+      "devilFruitRevealChapter": 440,
+      "confidence": "high",
+      "note": "Yami Yami no Mi first used in ch 440; the Gura Gura no Mi follows in ch 577."
+    },
+    {
+      "character": "Nami",
+      "affiliationTimeline": [
+        {"value": "Straw Hat Pirates", "chapter": 95},
+        {"value": "Arlong Pirates", "chapter": 49},
+        {"value": "Straw Hat Pirates", "chapter": 8}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Johnny exposes her as an Arlong Pirates officer in ch 49; she rejoins for good in ch 95."
+    },
+    {
+      "character": "Orlumbus",
+      "affiliationTimeline": [
+        {"value": "Yonta Maria Grand Fleet", "chapter": 704}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His fleet is only named in ch 733; at his ch 704 debut he is just a colosseum entrant."
+    },
+    {
+      "character": "Pierre",
+      "affiliationTimeline": [
+        {"value": "Skypiea", "chapter": 237}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "The wiki files him under Gan Fall personally; Skypiea is the closest vocabulary value."
+    },
+    {
+      "character": "Sabo",
+      "affiliationTimeline": [
+        {"value": "Revolutionary Army", "chapter": 744},
+        {"value": "Dadan Family", "chapter": 583}
+      ],
+      "devilFruitRevealChapter": 744,
+      "confidence": "high",
+      "note": "Chapter 744 is titled 'Revolutionary Army Chief of Staff' and is also where he eats the Mera Mera no Mi."
+    },
+    {
+      "character": "Shakuyaku",
+      "affiliationTimeline": [
+        {"value": "Shakky's Rip-off Bar", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Sugar",
+      "affiliationTimeline": [
+        {"value": "Donquixote Pirates", "chapter": 682}
+      ],
+      "devilFruitRevealChapter": 731,
+      "confidence": "high",
+      "note": "Kyros identifies her as the toy-making Devil Fruit user in ch 731."
+    },
+    {
+      "character": "Usopp",
+      "affiliationTimeline": [
+        {"value": "Straw Hat Pirates", "chapter": 41},
+        {"value": "Usopp Pirates", "chapter": 23}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Vista",
+      "affiliationTimeline": [
+        {"value": "Whitebeard Pirates", "chapter": 552}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Zambai",
+      "affiliationTimeline": [
+        {"value": "Galley-La Company", "chapter": 657},
+        {"value": "Franky Family", "chapter": 324}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "The Franky Family's merge into Galley-La is shown in the ch 657 cover story."
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Bellamy",
+      "wanted": "Bellamy Pirates",
+      "used": "Donquixote Pirates",
+      "explanation": "From ch 222 to about ch 233 he is known as captain of his own Bellamy Pirates, a crew that has no vocabulary value."
+    },
+    {
+      "character": "Brook",
+      "wanted": "Rumbar Pirates",
+      "used": "Straw Hat Pirates",
+      "explanation": "Between his ch 442 debut and joining in ch 489 his only crew is the Rumbar Pirates, which is not in the vocabulary."
+    },
+    {
+      "character": "Koza",
+      "wanted": "Rebel Army",
+      "used": "Alabasta Kingdom",
+      "explanation": "For the whole Alabasta arc his headline is leader of the Rebel Army, not the kingdom he later serves."
+    },
+    {
+      "character": "Pierre",
+      "wanted": "Gan Fall / Skypiea Divine Forces",
+      "used": "Skypiea",
+      "explanation": "Pierre is personally Gan Fall's steed rather than a member of any listed organization."
+    }
+  ]
+}

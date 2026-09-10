@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "character": "Basil Hawkins",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 917,
+          "confidence": "medium",
+          "evidence": "Hawkins senses Law's strength through his disguise on their first Wano encounter (ch. 917 p.12); wiki's Observation Haki page lists this as his strength-sensing display."
+        },
+        {
+          "value": "Armament",
+          "chapter": 917,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card (0512); no on-panel hardening exists, so 917 is used as the first point a reader sees him use Haki at all."
+        }
+      ],
+      "note": "Armament is databook-only; readers never see him harden anything on-panel, including the Killer fight (ch. 1029)."
+    },
+    {
+      "character": "Charlotte Katakuri",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 860,
+          "confidence": "high",
+          "evidence": "At his debut he kills Jigra for an assassination he foresaw, and Bege notes his future-sight (ch. 860 p.12-14)."
+        },
+        {
+          "value": "Armament",
+          "chapter": 863,
+          "confidence": "medium",
+          "evidence": "Hardens his mochi leg to bludgeon and injure Luffy while thwarting the alliance's plan (ch. 863 p.12-15)."
+        },
+        {
+          "value": "Conqueror",
+          "chapter": 893,
+          "confidence": "high",
+          "evidence": "Releases a burst of Supreme King Haki alongside Luffy's to knock out Flampe and her subordinates (ch. 893 p.15-17)."
+        }
+      ],
+      "note": "Scraped hints (883/894) were both late; the section's earliest evidence sits in named refs the scraper could not resolve."
+    },
+    {
+      "character": "Edward Weevil",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card entry; every Weevil fight in the manga (A O Pirates, the Marines, Ryokugyu) happens off-panel."
+        },
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Only source is his Vivre Card entry; no on-panel sensing or combat of any kind."
+        }
+      ],
+      "note": "Both types are databook-only with literally no fight shown on-panel, so no chapter can be justified."
+    },
+    {
+      "character": "Inuarashi",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 992,
+          "confidence": "medium",
+          "evidence": "Cuts through Kaidou's skin with hardened swords using Oden's technique (ch. 992 p.16-19)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 992,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card; 992 used as the first chapter a reader sees him use Haki at all."
+        }
+      ]
+    },
+    {
+      "character": "Kalgara",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": null,
+          "confidence": "low",
+          "evidence": "Vivre Card only; his Jaya flashback (ch. 286-292) shows spear combat and no Mantra, and the Observation Haki page names Aisa as the only Shandia shown with it."
+        }
+      ],
+      "note": "Databook-only with no on-panel basis in the Noland flashback."
+    },
+    {
+      "character": "Kurozumi Kanjuro",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 788,
+          "confidence": "medium",
+          "evidence": "Imbues his brush with Haki alongside Zoro and Kin'emon to push back Doflamingo's Birdcage (ch. 788 p.12)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 788,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card (0917); 788 used as the first chapter a reader sees him use Haki at all."
+        }
+      ]
+    },
+    {
+      "character": "Otohime",
+      "haki": [
+        {
+          "value": "Observation",
+          "chapter": 621,
+          "confidence": "high",
+          "evidence": "Dodges a thief's bullet with her eyes closed and Neptune states she was born with Observation Haki, both in ch. 621."
+        }
+      ]
+    },
+    {
+      "character": "Sai",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 771,
+          "confidence": "high",
+          "evidence": "Coats his leg in Haki to bend Chinjao's head and defeat Lao G (ch. 771)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 771,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card; 771 used as the first chapter a reader sees him use Haki at all."
+        }
+      ]
+    },
+    {
+      "character": "Shiryu",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 1087,
+          "confidence": "high",
+          "evidence": "Impales Garp with a blackened blade (ch. 1087 p.8-9); his earlier appearances show no hardening."
+        }
+      ]
+    },
+    {
+      "character": "Vista",
+      "haki": [
+        {
+          "value": "Armament",
+          "chapter": 574,
+          "confidence": "high",
+          "evidence": "Akainu confirms on-page that Vista is a Haki user during their Marineford clash (ch. 574 p.7)."
+        },
+        {
+          "value": "Observation",
+          "chapter": 574,
+          "confidence": "low",
+          "evidence": "Sourced only to his Vivre Card; 574 used as the first chapter a reader learns he is a Haki user."
+        }
+      ]
+    }
+  ]
+}

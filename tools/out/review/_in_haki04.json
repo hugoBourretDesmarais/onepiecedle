@@ -1,0 +1,172 @@
+[
+ {
+  "character": "Bartholomew Kuma",
+  "wikiPage": "Bartholomew Kuma",
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1103,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Charlotte Daifuku",
+  "wikiPage": "Charlotte Daifuku",
+  "debutChapter": 861,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Edward Newgate",
+  "wikiPage": "Edward Newgate",
+  "debutChapter": 159,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 434,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 557,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 563,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Imu",
+  "wikiPage": "Nerona Imu",
+  "debutChapter": 906,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1151,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kaku",
+  "wikiPage": "Kaku",
+  "debutChapter": 323,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1072,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kumadori",
+  "wikiPage": "Kumadori",
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Nekomamushi",
+  "wikiPage": "Nekomamushi",
+  "debutChapter": 809,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sabo",
+  "wikiPage": "Sabo",
+  "debutChapter": 583,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 743,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Shirahoshi",
+  "wikiPage": "Shirahoshi",
+  "debutChapter": 612,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Vergo",
+  "wikiPage": "Vergo",
+  "debutChapter": 671,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 672,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ }
+]

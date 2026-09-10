@@ -1,0 +1,7638 @@
+{
+ "Absalom": {
+  "debutChapter": 444,
+  "devilFruit": {
+   "chapter": 444,
+   "source": "debut",
+   "sectionHint": 457,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Clear-Clear Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": 455,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Thriller Bark Pirates",
+  "needsResearch": true
+ },
+ "Aisa": {
+  "debutChapter": 249,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wagomuland",
+    "chapter": 646,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Shandia",
+  "needsResearch": true
+ },
+ "Alvida": {
+  "debutChapter": 2,
+  "devilFruit": {
+   "chapter": 2,
+   "source": "debut",
+   "sectionHint": 98,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Slip-Slip Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy Pirates",
+    "chapter": 1058,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": 803,
+    "former": true
+   },
+   {
+    "value": "Buggy and Alvida Alliance",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Alvida Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Aramaki": {
+  "debutChapter": 905,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 905,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Woods-Woods Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 713,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Arlong": {
+  "debutChapter": 69,
+  "affiliationCandidates": [
+   {
+    "value": "Arlong Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 620,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Arlong Pirates",
+  "needsResearch": true
+ },
+ "Ashura Doji": {
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Mt. Atama Thieves",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": 917,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 925,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Nine Red Scabbards",
+  "needsResearch": true
+ },
+ "Atlas": {
+  "debutChapter": 1062,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Avalo Pizarro": {
+  "debutChapter": 575,
+  "devilFruit": {
+   "chapter": 575,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Isle-Isle Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Baby 5": {
+  "debutChapter": 682,
+  "devilFruit": {
+   "chapter": 682,
+   "source": "debut",
+   "sectionHint": 693,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Arms-Arms Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Happo Navy",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Chinjao Family",
+    "chapter": 800,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 881,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Happo Navy",
+  "needsResearch": true
+ },
+ "Bartholomew Kuma": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1103,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 473,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Paw-Paw Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Freedom Fighters",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Pacifista",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Sorbet Kingdom",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Bartolomeo": {
+  "debutChapter": 705,
+  "devilFruit": {
+   "chapter": 705,
+   "source": "debut",
+   "sectionHint": 757,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Barrier-Barrier Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Barto Club",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "his own Mafia Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 720,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Barto Club",
+  "needsResearch": true
+ },
+ "Basil Hawkins": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 917,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Straw-Straw Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Hawkins Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 911,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Hawkins Pirates",
+  "needsResearch": true
+ },
+ "Bell-mère": {
+  "debutChapter": 77,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cocoyasi Village",
+  "needsResearch": true
+ },
+ "Bellamy": {
+  "debutChapter": 222,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 708,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 770,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 222,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Boing-Boing Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Bellamy Pirates",
+    "chapter": 222,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Belo Betty": {
+  "debutChapter": 904,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 904,
+   "source": "debut",
+   "sectionHint": 904,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Pump-Pump Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Benn Beckman": {
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Red Hair Pirates",
+  "needsResearch": true
+ },
+ "Bentham": {
+  "debutChapter": 129,
+  "devilFruit": {
+   "chapter": 129,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Clone-Clone Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Newkama Land",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 154,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Newkama Land",
+  "needsResearch": true
+ },
+ "Bepo": {
+  "debutChapter": 498,
+  "affiliationCandidates": [
+   {
+    "value": "Heart Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Heart Pirates",
+  "needsResearch": true
+ },
+ "Black Maria": {
+  "debutChapter": 977,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 977,
+   "source": "debut",
+   "sectionHint": 1005,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Spider-Spider Fruit, Rosamygale grauvogeli Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Blueno": {
+  "debutChapter": 325,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 325,
+   "source": "debut",
+   "sectionHint": 385,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Door-Door Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Boa Hancock": {
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 519,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 580,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 516,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Love-Love Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kuja Pirates",
+  "needsResearch": true
+ },
+ "Boa Marigold": {
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 520,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 516,
+   "source": "debut",
+   "sectionHint": 520,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Snake-Snake Fruit, Model: King Cobra"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kuja Pirates",
+  "needsResearch": true
+ },
+ "Boa Sandersonia": {
+  "debutChapter": 516,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 519,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 520,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 516,
+   "source": "debut",
+   "sectionHint": 518,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Snake-Snake Fruit, Model: Anaconda"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kuja Pirates",
+  "needsResearch": true
+ },
+ "Borsalino": {
+  "debutChapter": 504,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 564,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1094,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 504,
+   "source": "debut",
+   "sectionHint": 511,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Glint-Glint Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 319,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Brogy": {
+  "debutChapter": 115,
+  "affiliationCandidates": [
+   {
+    "value": "Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Giant Warrior Pirates",
+  "needsResearch": true
+ },
+ "Brook": {
+  "debutChapter": 442,
+  "heightCm": [
+   {
+    "value": 277.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 266.0,
+    "chapter": 442,
+    "note": "debut"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 442,
+   "source": "debut",
+   "sectionHint": 442,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Revive-Revive Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rumbar Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Battle Convoy",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Buggy": {
+  "debutChapter": 9,
+  "devilFruit": {
+   "chapter": 9,
+   "source": "debut",
+   "sectionHint": 18,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Chop-Chop Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": 803,
+    "former": true
+   },
+   {
+    "value": "Buggy and Alvida Alliance",
+    "chapter": 54,
+    "former": true
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 700,
+    "former": true
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 434,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 525,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Caesar Clown": {
+  "debutChapter": 658,
+  "devilFruit": {
+   "chapter": 658,
+   "source": "debut",
+   "sectionHint": 662,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Gas-Gas Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "NEO MADS",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 1077,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 713,
+    "former": true
+   },
+   {
+    "value": "MADS",
+    "chapter": 663,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "NEO MADS",
+  "needsResearch": true
+ },
+ "Camie": {
+  "debutChapter": 195,
+  "affiliationCandidates": [
+   {
+    "value": "Takoyaki 8, Mermaid Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Criminal brand",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Takoyaki 8",
+  "needsResearch": true
+ },
+ "Capone Bege": {
+  "debutChapter": 498,
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 507,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Castle-Castle Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Fire Tank Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 807,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Fire Tank Pirates",
+  "needsResearch": true
+ },
+ "Caribou": {
+  "debutChapter": 600,
+  "devilFruit": {
+   "chapter": 600,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Swamp-Swamp Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Caribou Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Fake Straw Hat Crew",
+    "chapter": 600,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 598,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Caribou Pirates",
+  "needsResearch": true
+ },
+ "Carrot": {
+  "debutChapter": 804,
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom, Inuarashi Musketeer Squad",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 809,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Mokomo Dukedom",
+  "needsResearch": true
+ },
+ "Catarina Devon": {
+  "debutChapter": 575,
+  "devilFruit": {
+   "chapter": 575,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Dog-Dog Fruit, Model: Nine Tailed Fox"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 576,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Cavendish": {
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Beautiful Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 704,
+    "former": false
+   },
+   {
+    "value": "Bourgeois Kingdom",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Beautiful Pirates",
+  "needsResearch": true
+ },
+ "Chadros Higelyges": {
+  "debutChapter": 581,
+  "affiliationCandidates": [
+   {
+    "value": "Caesar Clown , Centaur Patrol Unit",
+    "chapter": 661,
+    "former": false
+   },
+   {
+    "value": "Brownbeard Pirates",
+    "chapter": 664,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Brownbeard Pirates",
+  "needsResearch": true
+ },
+ "Chaka": {
+  "debutChapter": 155,
+  "devilFruit": {
+   "chapter": 155,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Dog-Dog Fruit, Model: Jackal"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Charlotte Brûlée": {
+  "debutChapter": 831,
+  "devilFruit": {
+   "chapter": 831,
+   "source": "debut",
+   "sectionHint": 832,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Mirror-Mirror Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Chiffon": {
+  "debutChapter": 825,
+  "affiliationCandidates": [
+   {
+    "value": "Fire Tank Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": 834,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Fire Tank Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Cracker": {
+  "debutChapter": 835,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 784,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 835,
+   "source": "debut",
+   "sectionHint": 837,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Bis-Bis Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 835,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Daifuku": {
+  "debutChapter": 861,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 861,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Puff-Puff Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 930,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Katakuri": {
+  "debutChapter": 860,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 883,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 894,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 860,
+   "source": "debut",
+   "sectionHint": 879,
+   "types": [
+    "Special Paramecia"
+   ],
+   "dfName": "Mochi-Mochi Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Linlin": {
+  "debutChapter": 651,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 861,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 871,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1002,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 651,
+   "source": "debut",
+   "sectionHint": 829,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Soul-Soul Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 957,
+    "former": true
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": 432,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Lola": {
+  "debutChapter": 476,
+  "affiliationCandidates": [
+   {
+    "value": "Rolling Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Thriller Bark Victim's Association",
+    "chapter": 835,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Rolling Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Mont-d'Or": {
+  "debutChapter": 829,
+  "devilFruit": {
+   "chapter": 829,
+   "source": "debut",
+   "sectionHint": 846,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Book-Book Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Oven": {
+  "debutChapter": 861,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 861,
+   "source": "debut",
+   "sectionHint": 901,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Heat-Heat Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 930,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Perospero": {
+  "debutChapter": 834,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 834,
+   "source": "debut",
+   "sectionHint": 860,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Lick-Lick Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 834,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Pudding": {
+  "debutChapter": 651,
+  "devilFruit": {
+   "chapter": 651,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Memo-Memo Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 812,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Charlotte Smoothie": {
+  "debutChapter": 846,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 846,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Wring-Wring Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 843,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Chimney": {
+  "debutChapter": 322,
+  "affiliationCandidates": [
+   {
+    "value": "Kokoro",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Water 7",
+  "needsResearch": true
+ },
+ "Chinjao": {
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Chinjao Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Happo Navy",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Chinjao Family",
+  "needsResearch": true
+ },
+ "Conis": {
+  "debutChapter": 239,
+  "affiliationCandidates": [
+   {
+    "value": "Pumpkin Cafe",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Skypiea",
+  "needsResearch": true
+ },
+ "Crocodile": {
+  "debutChapter": 126,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 126,
+   "source": "debut",
+   "sectionHint": 541,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Sand-Sand Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 113,
+    "former": true
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 111,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Crocus": {
+  "debutChapter": 102,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates , Laboon",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Roger Pirates",
+  "needsResearch": true
+ },
+ "Curly Dadan": {
+  "debutChapter": 440,
+  "affiliationCandidates": [
+   {
+    "value": "Dadan Family",
+    "chapter": 568,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Dadan Family",
+  "needsResearch": true
+ },
+ "Dalton": {
+  "debutChapter": 132,
+  "devilFruit": {
+   "chapter": 132,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Ox-Ox Fruit, Bison Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": 243,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Sakura Kingdom",
+  "needsResearch": true
+ },
+ "Daz Bonez": {
+  "debutChapter": 160,
+  "devilFruit": {
+   "chapter": 160,
+   "source": "debut",
+   "sectionHint": 190,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Dice-Dice Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 1058,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Denjiro": {
+  "debutChapter": 919,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kyoshiro Family",
+    "chapter": 973,
+    "former": false
+   },
+   {
+    "value": "Kurozumi Family",
+    "chapter": 927,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Diamante": {
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 700,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Ripple-Ripple Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Doc Q": {
+  "debutChapter": 223,
+  "devilFruit": {
+   "chapter": 223,
+   "source": "debut",
+   "sectionHint": 1063,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Sick-Sick Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": 234,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Donquixote Doflamingo": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 689,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 698,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 560,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "String-String Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Underworld",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Government",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Dressrosa",
+    "chapter": 682,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Donquixote Rosinante": {
+  "debutChapter": 761,
+  "devilFruit": {
+   "chapter": 761,
+   "source": "debut",
+   "sectionHint": 765,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Calm-Calm Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 749,
+    "former": false
+   },
+   {
+    "value": "World Government",
+    "chapter": 766,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Dorry": {
+  "debutChapter": 116,
+  "affiliationCandidates": [
+   {
+    "value": "Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Giant Warrior Pirates",
+  "needsResearch": true
+ },
+ "Dracule Mihawk": {
+  "debutChapter": 49,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 69,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Drophy": {
+  "debutChapter": 160,
+  "devilFruit": {
+   "chapter": 160,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Mole-Mole Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Baroque Works",
+  "needsResearch": true
+ },
+ "Edison": {
+  "debutChapter": 1065,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Edward Newgate": {
+  "debutChapter": 159,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 434,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 557,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 563,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 159,
+   "source": "debut",
+   "sectionHint": 552,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Tremor-Tremor Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 432,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Edward Weevil": {
+  "debutChapter": 802,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 802,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Seven Warlords of the Sea",
+  "needsResearch": true
+ },
+ "Emet": {
+  "debutChapter": 1065,
+  "affiliationCandidates": [],
+  "currentAffiliation": "Egghead",
+  "needsResearch": true
+ },
+ "Emporio Ivankov": {
+  "debutChapter": 537,
+  "devilFruit": {
+   "chapter": 537,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Horm-Horm Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Freedom Fighters",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Kamabakka Kingdom",
+    "chapter": 1066,
+    "former": false
+   },
+   {
+    "value": "Newkama Land",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Enel": {
+  "debutChapter": 254,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 254,
+   "source": "debut",
+   "sectionHint": 241,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Rumble-Rumble Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "God's Army",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Automata",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "God's Army",
+  "needsResearch": true
+ },
+ "Ethanbaron V. Nusjuro": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1117,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1117,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 1110,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Eustass Kid": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 924,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1043,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 504,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Magnet-Magnet Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kid Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kid Pirates",
+  "needsResearch": true
+ },
+ "Figarland Garling": {
+  "debutChapter": 1086,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Knights of God",
+    "chapter": 1125,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Figarland Shamrock": {
+  "debutChapter": 907,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1137,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Knights of God",
+  "needsResearch": true
+ },
+ "Fisher Tiger": {
+  "debutChapter": 521,
+  "affiliationCandidates": [
+   {
+    "value": "Sun Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Fish-Man District",
+    "chapter": 620,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Sun Pirates",
+  "needsResearch": true
+ },
+ "Foxy": {
+  "debutChapter": 305,
+  "devilFruit": {
+   "chapter": 305,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Slow-Slow Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Foxy Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Foxy Pirates",
+  "needsResearch": true
+ },
+ "Franky": {
+  "debutChapter": 329,
+  "heightCm": [
+   {
+    "value": 240.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 225.0,
+    "chapter": 329,
+    "note": "debut"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Franky Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Tom's Workers",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Fukaboshi": {
+  "debutChapter": 609,
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Neptune Family",
+  "needsResearch": true
+ },
+ "Fukurou": {
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 375,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Gaimon": {
+  "debutChapter": 22,
+  "affiliationCandidates": [],
+  "currentAffiliation": "Island of Rare Animals",
+  "needsResearch": true
+ },
+ "Galdino": {
+  "debutChapter": 117,
+  "devilFruit": {
+   "chapter": 117,
+   "source": "debut",
+   "sectionHint": 120,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Wax-Wax Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy Pirates",
+    "chapter": 1058,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": 803,
+    "former": true
+   },
+   {
+    "value": "Buggy and Alvida Alliance",
+    "chapter": 593,
+    "former": true
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 117,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Cross Guild",
+  "needsResearch": true
+ },
+ "Gan Fall": {
+  "debutChapter": 237,
+  "affiliationCandidates": [
+   {
+    "value": "Skypiea",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Skypiea",
+  "needsResearch": true
+ },
+ "Gecko Moria": {
+  "debutChapter": 449,
+  "devilFruit": {
+   "chapter": 449,
+   "source": "debut",
+   "sectionHint": 443,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Shadow-Shadow Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 448,
+    "former": true
+   },
+   {
+    "value": "Gecko Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Thriller Bark Pirates",
+  "needsResearch": true
+ },
+ "Gem": {
+  "debutChapter": 110,
+  "devilFruit": {
+   "chapter": 110,
+   "source": "debut",
+   "sectionHint": 111,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Bomb-Bomb Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 110,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Baroque Works",
+  "needsResearch": true
+ },
+ "Genzo": {
+  "debutChapter": 71,
+  "affiliationCandidates": [
+   {
+    "value": "Cocoyasi Village",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Cocoyasi Village",
+  "needsResearch": true
+ },
+ "Gin": {
+  "debutChapter": 44,
+  "affiliationCandidates": [
+   {
+    "value": "Krieg Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Krieg Pirates",
+  "needsResearch": true
+ },
+ "Gladius": {
+  "debutChapter": 682,
+  "devilFruit": {
+   "chapter": 682,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Pop-Pop Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Gol D. Roger": {
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1010,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Roger Pirates",
+  "needsResearch": true
+ },
+ "Gonbe": {
+  "debutChapter": 322,
+  "affiliationCandidates": [
+   {
+    "value": "Chimney",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Water 7",
+  "needsResearch": true
+ },
+ "Gunko": {
+  "debutChapter": 1134,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 1134,
+   "source": "debut",
+   "sectionHint": 1146,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Arrow-Arrow Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1136,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Knights of God",
+  "needsResearch": true
+ },
+ "Hajrudin": {
+  "debutChapter": 706,
+  "affiliationCandidates": [
+   {
+    "value": "New Giant Warrior Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 803,
+    "former": false
+   },
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "New Giant Warrior Pirates",
+  "needsResearch": true
+ },
+ "Harald": {
+  "debutChapter": 1136,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Knights of God",
+    "chapter": 1167,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Elbaf Royal Family",
+  "needsResearch": true
+ },
+ "Hatchan": {
+  "debutChapter": 69,
+  "affiliationCandidates": [
+   {
+    "value": "Takoyaki 8",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Arlong Pirates",
+    "chapter": 228,
+    "former": true
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": 620,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Takoyaki 8",
+  "needsResearch": true
+ },
+ "Hattori": {
+  "debutChapter": 323,
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Helmeppo": {
+  "debutChapter": 3,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Marines (Headquarters",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "SWORD)",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Hina": {
+  "debutChapter": 171,
+  "devilFruit": {
+   "chapter": 171,
+   "source": "debut",
+   "sectionHint": 217,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Bind-Bind Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 215,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Hiriluk": {
+  "debutChapter": 141,
+  "affiliationCandidates": [],
+  "currentAffiliation": "Sakura Kingdom",
+  "needsResearch": true
+ },
+ "Hody Jones": {
+  "debutChapter": 608,
+  "affiliationCandidates": [
+   {
+    "value": "New Fish-Man Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ally of the Flying Pirates",
+    "chapter": 609,
+    "former": true
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 616,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "New Fish-Man Pirates",
+  "needsResearch": true
+ },
+ "Hogback": {
+  "debutChapter": 446,
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": 455,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Thriller Bark Pirates",
+  "needsResearch": true
+ },
+ "Hyogoro": {
+  "debutChapter": 926,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 939,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1044,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Hyougoro Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 960,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Wano Country",
+  "needsResearch": true
+ },
+ "Iceburg": {
+  "debutChapter": 323,
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Water 7",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Tom's Workers",
+    "chapter": 325,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Galley-La Company",
+  "needsResearch": true
+ },
+ "Igaram": {
+  "debutChapter": 106,
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 107,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Imu": {
+  "debutChapter": 906,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1151,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 906,
+   "source": "debut",
+   "sectionHint": 1162,
+   "types": [
+    "Unknown"
+   ],
+   "dfName": "The Devil's Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "World Government",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "First Twenty",
+    "chapter": 1179,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "World Government",
+  "needsResearch": true
+ },
+ "Inazuma": {
+  "debutChapter": 536,
+  "devilFruit": {
+   "chapter": 536,
+   "source": "debut",
+   "sectionHint": 540,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Snip-Snip Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kamabakka Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Newkama Land",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Inuarashi": {
+  "debutChapter": 808,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Musketeers",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Inuarashi Musketeer Squad",
+    "chapter": 817,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 939,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 820,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Mokomo Dukedom",
+  "needsResearch": true
+ },
+ "Issho": {
+  "debutChapter": 701,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 752,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 799,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 701,
+   "source": "debut",
+   "sectionHint": 717,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Press-Press Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 700,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Izou": {
+  "debutChapter": 553,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Jabra": {
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 375,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Mutt-Mutt Fruit, Model: Wolf"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 375,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Jack": {
+  "debutChapter": 801,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 801,
+   "source": "debut",
+   "sectionHint": 990,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Elephant-Elephant Fruit, Model: Mammoth"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": 808,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Jaguar D. Saul": {
+  "debutChapter": 392,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Walrus School",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 396,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Walrus School",
+  "needsResearch": true
+ },
+ "Jango": {
+  "debutChapter": 25,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Black Cat Pirates",
+    "chapter": 28,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Jaygarcia Saturn": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1114,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1115,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 1085,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Jesus Burgess": {
+  "debutChapter": 222,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 222,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Strong-Strong Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Jewelry Bonney": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 507,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Age-Age Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Bonney Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Bonney Pirates",
+  "needsResearch": true
+ },
+ "Jinbe": {
+  "debutChapter": 528,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 864,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1055,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": 620,
+    "former": true
+   },
+   {
+    "value": "Ally of the Big Mom Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 69,
+    "former": true
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 621,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Johnny": {
+  "debutChapter": 42,
+  "affiliationCandidates": [
+   {
+    "value": "Yosaku",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roronoa Zoro's band",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Bounty Hunters",
+  "needsResearch": true
+ },
+ "Jozu": {
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 560,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 234,
+   "source": "debut",
+   "sectionHint": 553,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Twinkle-Twinkle Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 434,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Kaidou": {
+  "debutChapter": 795,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 923,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 1009,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1009,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 795,
+   "source": "debut",
+   "sectionHint": 921,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Fish-Fish Fruit, Azure Dragon Model)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": 808,
+    "former": true
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": 432,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Kaku": {
+  "debutChapter": 323,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1072,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 323,
+   "source": "debut",
+   "sectionHint": 385,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Ox-Ox Fruit Giraffe Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 907,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 323,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Kalgara": {
+  "debutChapter": 286,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Shandia",
+  "needsResearch": true
+ },
+ "Kalifa": {
+  "debutChapter": 323,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 323,
+   "source": "debut",
+   "sectionHint": 385,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Bubble-Bubble Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": 326,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Karasu": {
+  "debutChapter": 593,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 593,
+   "source": "debut",
+   "sectionHint": 794,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Soot-Soot Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": 904,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Karoo": {
+  "debutChapter": 109,
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom Guard Squad , Straw Hat Pirates , Baroque Works",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Kawamatsu": {
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 948,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Kaya": {
+  "debutChapter": 23,
+  "affiliationCandidates": [],
+  "currentAffiliation": "Syrup Village",
+  "needsResearch": true
+ },
+ "Kikunojo": {
+  "debutChapter": 913,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 987,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 919,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Killer": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kid Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kurozumi Orochi",
+    "chapter": 498,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 937,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kid Pirates",
+  "needsResearch": true
+ },
+ "Killingham": {
+  "debutChapter": 1140,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 1140,
+   "source": "debut",
+   "sectionHint": 1142,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Kirin"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Knights of God",
+  "needsResearch": true
+ },
+ "Kin'emon": {
+  "debutChapter": 656,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 788,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 656,
+   "source": "debut",
+   "sectionHint": 663,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Garb-Garb Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 816,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 819,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "King": {
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 920,
+   "source": "debut",
+   "sectionHint": 1027,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Pteranodon"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Koala": {
+  "debutChapter": 622,
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sun Pirates",
+    "chapter": 731,
+    "former": true
+   },
+   {
+    "value": "Slavery",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Koby": {
+  "debutChapter": 2,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 594,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Marines , Marine 153rd Branch",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Alvida Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Kokoro": {
+  "debutChapter": 322,
+  "affiliationCandidates": [
+   {
+    "value": "Tom's Workers",
+    "chapter": 353,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Tom's Workers",
+  "needsResearch": true
+ },
+ "Koza": {
+  "debutChapter": 163,
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sand-Sand Clan",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Rebel Army",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Kozuki Hiyori": {
+  "debutChapter": 909,
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Kozuki Momonosuke": {
+  "debutChapter": 684,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 684,
+   "source": "debut",
+   "sectionHint": 698,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 817,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Kozuki Oden": {
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 924,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 955,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 817,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 818,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Kozuki Toki": {
+  "debutChapter": 919,
+  "devilFruit": {
+   "chapter": 919,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Time-Time Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Amatsuki Family",
+    "chapter": 919,
+    "former": false
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 964,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Krieg": {
+  "debutChapter": 45,
+  "affiliationCandidates": [
+   {
+    "value": "Krieg Pirates",
+    "chapter": 44,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Krieg Pirates",
+  "needsResearch": true
+ },
+ "Kuina": {
+  "debutChapter": 5,
+  "affiliationCandidates": [
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Shimotsuki Family",
+  "needsResearch": true
+ },
+ "Kumadori": {
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 375,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Kureha": {
+  "debutChapter": 134,
+  "affiliationCandidates": [
+   {
+    "value": "Sakura Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Isshi-100",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Sakura Kingdom",
+  "needsResearch": true
+ },
+ "Kuro": {
+  "debutChapter": 23,
+  "affiliationCandidates": [
+   {
+    "value": "Black Cat Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Black Cat Pirates",
+  "needsResearch": true
+ },
+ "Kurozumi Kanjuro": {
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 788,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 700,
+   "source": "debut",
+   "sectionHint": 1014,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Brush-Brush Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kurozumi Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": 974,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 817,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 939,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kurozumi Family",
+  "needsResearch": true
+ },
+ "Kurozumi Orochi": {
+  "debutChapter": 927,
+  "devilFruit": {
+   "chapter": 927,
+   "source": "debut",
+   "sectionHint": 933,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Snake-Snake Fruit, Model: Eight Headed Serpent"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Wano Country",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kurozumi Family",
+  "needsResearch": true
+ },
+ "Kurozumi Tama": {
+  "debutChapter": 911,
+  "devilFruit": {
+   "chapter": 911,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Millet-Millet Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kurozumi Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kurozumi Family",
+  "needsResearch": true
+ },
+ "Kuzan": {
+  "debutChapter": 303,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 564,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 303,
+   "source": "debut",
+   "sectionHint": 319,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Ice-Ice Fruit (Chilly-Chilly Fruit)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 650,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Kyros": {
+  "debutChapter": 702,
+  "affiliationCandidates": [
+   {
+    "value": "Corrida Colosseum",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Riku Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Riku Family",
+  "needsResearch": true
+ },
+ "Laffitte": {
+  "debutChapter": 234,
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Leo": {
+  "debutChapter": 710,
+  "devilFruit": {
+   "chapter": 710,
+   "source": "debut",
+   "sectionHint": 711,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Sew-Sew Fruit (Stitch-Stitch Power)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Tontatta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 711,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Tontatta Pirates",
+  "needsResearch": true
+ },
+ "Lilith": {
+  "debutChapter": 1061,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Loki": {
+  "debutChapter": 1130,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1152,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1179,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 1130,
+   "source": "debut",
+   "sectionHint": 1170,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Nidhöggr"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Elbaph Royal Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Elbaf Royal Family",
+  "needsResearch": true
+ },
+ "Lucky Roux": {
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Red Hair Pirates",
+  "needsResearch": true
+ },
+ "Magellan": {
+  "debutChapter": 528,
+  "devilFruit": {
+   "chapter": 528,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Venom-Venom Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Impel Down",
+  "needsResearch": true
+ },
+ "Marco": {
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 574,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1044,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 234,
+   "source": "debut",
+   "sectionHint": 998,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Bird-Bird Fruit, Model: Phoenix"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 434,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Marcus Mars": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1112,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1115,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 1085,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Marguerite": {
+  "debutChapter": 514,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Kuja Pirates",
+    "chapter": 598,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kuja Pirates",
+  "needsResearch": true
+ },
+ "Marshall D. Teach": {
+  "debutChapter": 223,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 223,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 1059,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 223,
+   "source": "debut",
+   "sectionHint": 577,
+   "types": [
+    "Logia",
+    "Paramecia"
+   ],
+   "dfName": "Dark-Dark Fruit & Tremor-Tremor Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 474,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates 2nd Division",
+    "chapter": 159,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Mikita": {
+  "debutChapter": 110,
+  "devilFruit": {
+   "chapter": 110,
+   "source": "debut",
+   "sectionHint": 112,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Kilo-Kilo Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 110,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Baroque Works",
+  "needsResearch": true
+ },
+ "Monet": {
+  "debutChapter": 657,
+  "devilFruit": {
+   "chapter": 657,
+   "source": "debut",
+   "sectionHint": 685,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Snow-Snow Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Caesar Clown",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 672,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Monkey D. Dragon": {
+  "debutChapter": 100,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 432,
+    "former": false
+   },
+   {
+    "value": "Freedom Fighters",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 1066,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Monkey D. Garp": {
+  "debutChapter": 92,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 567,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1080,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 92,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 594,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Monkey D. Luffy": {
+  "debutChapter": 1,
+  "heightCm": [
+   {
+    "value": 174.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 172.0,
+    "chapter": 1,
+    "note": "debut"
+   }
+  ],
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 495,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 637,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 670,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 1,
+   "source": "debut",
+   "sectionHint": 1,
+   "types": [
+    "Mythical Zoan",
+    "Paramecia"
+   ],
+   "dfName": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Mont Blanc Cricket": {
+  "debutChapter": 227,
+  "affiliationCandidates": [
+   {
+    "value": "Saruyama Alliance",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Mont Blanc Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "His original crew",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Saruyama Alliance",
+  "needsResearch": true
+ },
+ "Mont Blanc Noland": {
+  "debutChapter": 286,
+  "affiliationCandidates": [
+   {
+    "value": "Lvneel Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Mont Blanc Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Lvneel Kingdom",
+  "needsResearch": true
+ },
+ "Morgan": {
+  "debutChapter": 4,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Morgans": {
+  "debutChapter": 860,
+  "devilFruit": {
+   "chapter": 860,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Bird-Bird Fruit, Model: Albatross"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "World Economy News Paper",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Underworld",
+    "chapter": 860,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "World Economy News Paper",
+  "needsResearch": true
+ },
+ "Morley": {
+  "debutChapter": 904,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 904,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Push-Push Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": 904,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Mozu and Kiwi": {
+  "debutChapter": 329,
+  "affiliationCandidates": [
+   {
+    "value": "Franky Family",
+    "chapter": 335,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Franky Family",
+  "needsResearch": true
+ },
+ "Nami": {
+  "debutChapter": 8,
+  "heightCm": [
+   {
+    "value": 170.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 169.0,
+    "chapter": 8,
+    "note": "debut"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Arlong Pirates",
+    "chapter": 69,
+    "former": false
+   },
+   {
+    "value": "Ganzack Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Golden Lion Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Namur": {
+  "debutChapter": 552,
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Napoleon": {
+  "debutChapter": 651,
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Rocks Pirates",
+    "chapter": 827,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Nefertari Cobra": {
+  "debutChapter": 142,
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 155,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Nefertari Vivi": {
+  "debutChapter": 103,
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": 110,
+    "former": false
+   },
+   {
+    "value": "Sand-Sand Clan",
+    "chapter": 163,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Nekomamushi": {
+  "debutChapter": 809,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Guardians",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 817,
+    "former": true
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 939,
+    "former": true
+   },
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": 820,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Mokomo Dukedom",
+  "needsResearch": true
+ },
+ "Neptune": {
+  "debutChapter": 611,
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 610,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Ryugu Kingdom",
+  "needsResearch": true
+ },
+ "Nico Robin": {
+  "debutChapter": 114,
+  "devilFruit": {
+   "chapter": 114,
+   "source": "debut",
+   "sectionHint": 629,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Flower-Flower Fruit (Hana Hana no Mi)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Foxy Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ohara Archaeologists",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Ninjin": {
+  "debutChapter": 23,
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Usopp Security Force",
+  "needsResearch": true
+ },
+ "Nojiko": {
+  "debutChapter": 70,
+  "affiliationCandidates": [
+   {
+    "value": "Bell-mère's mikan",
+    "chapter": 629,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Cocoyasi Village",
+  "needsResearch": true
+ },
+ "Nola": {
+  "debutChapter": 255,
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wagomuland",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Shandia",
+  "needsResearch": true
+ },
+ "Oars": {
+  "debutChapter": 456,
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Thriller Bark Pirates",
+  "needsResearch": true
+ },
+ "Orlumbus": {
+  "debutChapter": 704,
+  "affiliationCandidates": [
+   {
+    "value": "Yonta Maria Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 733,
+    "former": false
+   },
+   {
+    "value": "Standing Kingdom",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Yonta Maria Grand Fleet",
+  "needsResearch": true
+ },
+ "Otohime": {
+  "debutChapter": 621,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 621,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Neptune Family",
+  "needsResearch": true
+ },
+ "Page One": {
+  "debutChapter": 929,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 983,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 929,
+   "source": "debut",
+   "sectionHint": 931,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Spinosaurus"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Yamato",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 1148,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Pappag": {
+  "debutChapter": 195,
+  "affiliationCandidates": [
+   {
+    "value": "Criminal brand",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Takoyaki 8",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Takoyaki 8",
+  "needsResearch": true
+ },
+ "Patty": {
+  "debutChapter": 44,
+  "affiliationCandidates": [
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Baratie",
+  "needsResearch": true
+ },
+ "Paulie": {
+  "debutChapter": 323,
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": 323,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Galley-La Company",
+  "needsResearch": true
+ },
+ "Pedro": {
+  "debutChapter": 805,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Guardians",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nox Expedition Party\\Pirates",
+    "chapter": 849,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Mokomo Dukedom",
+  "needsResearch": true
+ },
+ "Peepley Lulu": {
+  "debutChapter": 323,
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Galley-La Company",
+  "needsResearch": true
+ },
+ "Pekoms": {
+  "debutChapter": 651,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 651,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Turtle-Turtle Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Big Mom Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nox Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Big Mom Pirates",
+  "needsResearch": true
+ },
+ "Pell": {
+  "debutChapter": 155,
+  "devilFruit": {
+   "chapter": 155,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Tweet-Tweet Fruit, Model: Falcon (Bird-Bird Fruit, Model: Falcon)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Alabasta Kingdom",
+  "needsResearch": true
+ },
+ "Perona": {
+  "debutChapter": 443,
+  "devilFruit": {
+   "chapter": 443,
+   "source": "debut",
+   "sectionHint": 443,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Hollow-Hollow Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dracule Mihawk",
+    "chapter": 455,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Thriller Bark Pirates",
+  "needsResearch": true
+ },
+ "Pica": {
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 778,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 700,
+   "source": "debut",
+   "sectionHint": 737,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Stone-Stone Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 722,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Pierre": {
+  "debutChapter": 237,
+  "devilFruit": {
+   "chapter": 237,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Horse-Horse Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Gan Fall",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Skypiea",
+  "needsResearch": true
+ },
+ "Piiman": {
+  "debutChapter": 23,
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Usopp Pirates",
+  "needsResearch": true
+ },
+ "Portgas D. Ace": {
+  "debutChapter": 154,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 587,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 154,
+   "source": "debut",
+   "sectionHint": 159,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Flame-Flame Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Spade Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Pythagoras": {
+  "debutChapter": 1065,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Queen": {
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1023,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 920,
+   "source": "debut",
+   "sectionHint": 947,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Brachiosaurus"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "MADS",
+    "chapter": 1017,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Raizo": {
+  "debutChapter": 817,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 987,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 817,
+   "source": "debut",
+   "sectionHint": 992,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Scroll-Scroll Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Nine Red Scabbards",
+    "chapter": 817,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 935,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Rebecca": {
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Dressrosa",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Corrida Colosseum",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Dressrosa",
+  "needsResearch": true
+ },
+ "Riku Doldo III": {
+  "debutChapter": 706,
+  "affiliationCandidates": [
+   {
+    "value": "Riku Family",
+    "chapter": 726,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Riku Family",
+  "needsResearch": true
+ },
+ "Rob Lucci": {
+  "debutChapter": 323,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1070,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1094,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 323,
+   "source": "debut",
+   "sectionHint": 349,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Cat-Cat Fruit, Model: Leopard"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 345,
+    "former": true
+   },
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Rocks D. Xebec": {
+  "debutChapter": 957,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1165,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1165,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Rocks Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Rocks Pirates",
+  "needsResearch": true
+ },
+ "Rockstar": {
+  "debutChapter": 234,
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Red Hair Pirates",
+  "needsResearch": true
+ },
+ "Roronoa Zoro": {
+  "debutChapter": 3,
+  "heightCm": [
+   {
+    "value": 181.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 178.0,
+    "chapter": 3,
+    "note": "debut"
+   }
+  ],
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 650,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 668,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1033,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Sabo": {
+  "debutChapter": 583,
+  "heightCm": [
+   {
+    "value": 187.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 100.0,
+    "chapter": 583,
+    "note": "child"
+   }
+  ],
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 743,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 583,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Flame-Flame Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Dadan Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Goa Kingdom",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Revolutionary Army",
+  "needsResearch": true
+ },
+ "Sai": {
+  "debutChapter": 704,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 771,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Happo Navy",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Chinjao Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Happo Navy",
+  "needsResearch": true
+ },
+ "Sakazuki": {
+  "debutChapter": 397,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 564,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 397,
+   "source": "debut",
+   "sectionHint": 554,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Mag-Mag Fruit (Magma-Magma Fruit)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Sanji": {
+  "debutChapter": 43,
+  "heightCm": [
+   {
+    "value": 180.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 177.0,
+    "chapter": 43,
+    "note": "debut"
+   }
+  ],
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 650,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 668,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Sanjuan Wolf": {
+  "debutChapter": 575,
+  "devilFruit": {
+   "chapter": 575,
+   "source": "debut",
+   "sectionHint": 595,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Huge-Huge Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Sasaki": {
+  "debutChapter": 977,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 977,
+   "source": "debut",
+   "sectionHint": 1004,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Triceratops Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Sasaki Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Scopper Gaban": {
+  "debutChapter": 19,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 519,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1139,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Roger Pirates",
+  "needsResearch": true
+ },
+ "Scratchmen Apoo": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1032,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 980,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Tone-Tone Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "On Air Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 821,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "On Air Pirates",
+  "needsResearch": true
+ },
+ "Sengoku": {
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 234,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Human-Human Fruit, Model: Buddha"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": 234,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Senor Pink": {
+  "debutChapter": 702,
+  "devilFruit": {
+   "chapter": 702,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Swim-Swim Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Sentomaru": {
+  "debutChapter": 497,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 511,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Shaka": {
+  "debutChapter": 1062,
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Shakuyaku": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Shakky's Rip-off Bar",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kuja",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Kuja Pirates",
+    "chapter": 1059,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Shakky's Rip-off Bar",
+  "needsResearch": true
+ },
+ "Shanks": {
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 1,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1054,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1138,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Red Hair Pirates",
+  "needsResearch": true
+ },
+ "Shepherd Ju Peter": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 1085,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Shimotsuki Ryuma": {
+  "debutChapter": 1023,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Wano Country",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Shimotsuki Family",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Wano Country",
+  "needsResearch": true
+ },
+ "Shinobu": {
+  "debutChapter": 921,
+  "devilFruit": {
+   "chapter": 921,
+   "source": "debut",
+   "sectionHint": 1021,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Ripe-Ripe Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Kozuki Family",
+  "needsResearch": true
+ },
+ "Shirahoshi": {
+  "debutChapter": 612,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 612,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Neptune Family",
+  "needsResearch": true
+ },
+ "Shiryu": {
+  "debutChapter": 538,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 538,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Clear-Clear Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 542,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Silvers Rayleigh": {
+  "debutChapter": 19,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 503,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 511,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 591,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Roger Pirates",
+    "chapter": 500,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Roger Pirates",
+  "needsResearch": true
+ },
+ "Smoker": {
+  "debutChapter": 97,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 661,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 684,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 97,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Logia"
+   ],
+   "dfName": "Smoke-Smoke Fruit (Plume-Plume Fruit)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "G-5",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Loguetown Marine Base",
+    "chapter": 98,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Sommers": {
+  "debutChapter": 1140,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 1140,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Thorn-Thorn Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Knights of God",
+  "needsResearch": true
+ },
+ "Spandam": {
+  "debutChapter": 355,
+  "affiliationCandidates": [
+   {
+    "value": "CP0",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP9",
+    "chapter": 358,
+    "former": true
+   },
+   {
+    "value": "CP5",
+    "chapter": 355,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Stussy": {
+  "debutChapter": 860,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 860,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Bat-Bat Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Vegapunk",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "CP0",
+    "chapter": 1073,
+    "former": true
+   },
+   {
+    "value": "Underworld",
+    "chapter": 871,
+    "former": false
+   },
+   {
+    "value": "MADS",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "CP0",
+  "needsResearch": true
+ },
+ "Sugar": {
+  "debutChapter": 682,
+  "devilFruit": {
+   "chapter": 682,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Hobby-Hobby Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Tamanegi": {
+  "debutChapter": 23,
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Usopp Pirates",
+  "needsResearch": true
+ },
+ "Tashigi": {
+  "debutChapter": 96,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 686,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "G-5",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Loguetown Marine Base",
+    "chapter": 98,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Thatch": {
+  "debutChapter": 440,
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Tom": {
+  "debutChapter": 352,
+  "affiliationCandidates": [
+   {
+    "value": "Tom's Workers",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Tom's Workers",
+  "needsResearch": true
+ },
+ "Tony Tony Chopper": {
+  "debutChapter": 134,
+  "devilFruit": {
+   "chapter": 134,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Zoan"
+   ],
+   "dfName": "Human-Human Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Foxy Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Topman Warcury": {
+  "debutChapter": 233,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 1118,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 233,
+   "source": "debut",
+   "sectionHint": 1000,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Five Elders",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 907,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Five Elders",
+  "needsResearch": true
+ },
+ "Trafalgar D. Water Law": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 668,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1043,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 504,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Op-Op Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Heart Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Clan of D.",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 659,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 673,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Heart Pirates",
+  "needsResearch": true
+ },
+ "Trebol": {
+  "debutChapter": 700,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 700,
+   "source": "debut",
+   "sectionHint": 726,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Stick-Stick Fruit (Sticky-Sticky Fruit)"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Tsuru": {
+  "debutChapter": 234,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 234,
+   "source": "debut",
+   "sectionHint": 556,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Wash-Wash Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Ulti": {
+  "debutChapter": 977,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 983,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 977,
+   "source": "debut",
+   "sectionHint": 983,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Pachycephalosaurus Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Yamato",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 1146,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Urouge": {
+  "debutChapter": 498,
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": 508,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": null
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Fallen Monk Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Fallen Monk Pirates",
+  "needsResearch": true
+ },
+ "Usopp": {
+  "debutChapter": 23,
+  "heightCm": [
+   {
+    "value": 176.0,
+    "chapter": 598,
+    "note": "after timeskip"
+   },
+   {
+    "value": 174.0,
+    "chapter": 23,
+    "note": "debut"
+   }
+  ],
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 758,
+    "source": "section"
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Straw Hat Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Straw Hat Pirates",
+  "needsResearch": true
+ },
+ "Van Augur": {
+  "debutChapter": 222,
+  "devilFruit": {
+   "chapter": 222,
+   "source": "debut",
+   "sectionHint": 1063,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Warp-Warp Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": 234,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Vander Decken IX": {
+  "debutChapter": 606,
+  "devilFruit": {
+   "chapter": 606,
+   "source": "debut",
+   "sectionHint": 641,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Mark-Mark Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Flying Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ally of the New Fish-Man Pirates",
+    "chapter": 610,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Flying Pirates",
+  "needsResearch": true
+ },
+ "Vasco Shot": {
+  "debutChapter": 575,
+  "devilFruit": {
+   "chapter": 575,
+   "source": "debut",
+   "sectionHint": 1087,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Glug-Glug Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 538,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Blackbeard Pirates",
+  "needsResearch": true
+ },
+ "Vegapunk": {
+  "debutChapter": 684,
+  "devilFruit": {
+   "chapter": 684,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Brain-Brain Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "MADS",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Marines",
+    "chapter": 840,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Vergo": {
+  "debutChapter": 671,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 672,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 673,
+    "former": false
+   },
+   {
+    "value": "Marine G-5",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Donquixote Pirates",
+  "needsResearch": true
+ },
+ "Vinsmoke Ichiji": {
+  "debutChapter": 828,
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Vinsmoke Family",
+  "needsResearch": true
+ },
+ "Vinsmoke Judge": {
+  "debutChapter": 832,
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "NEO MADS",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "MADS",
+    "chapter": 1077,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Vinsmoke Family",
+  "needsResearch": true
+ },
+ "Vinsmoke Niji": {
+  "debutChapter": 828,
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 832,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Vinsmoke Family",
+  "needsResearch": true
+ },
+ "Vinsmoke Reiju": {
+  "debutChapter": 826,
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Vinsmoke Family",
+  "needsResearch": true
+ },
+ "Vinsmoke Yonji": {
+  "debutChapter": 825,
+  "affiliationCandidates": [
+   {
+    "value": "Vinsmoke Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Germa 66",
+    "chapter": 826,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Vinsmoke Family",
+  "needsResearch": true
+ },
+ "Viola": {
+  "debutChapter": 703,
+  "devilFruit": {
+   "chapter": 703,
+   "source": "debut",
+   "sectionHint": 712,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Glare-Glare Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Riku Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Donquixote Pirates",
+    "chapter": 712,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Riku Family",
+  "needsResearch": true
+ },
+ "Vista": {
+  "debutChapter": 552,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 574,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Whitebeard Pirates",
+  "needsResearch": true
+ },
+ "Wanda": {
+  "debutChapter": 804,
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Inuarashi Musketeer Squad",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 809,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Mokomo Dukedom",
+  "needsResearch": true
+ },
+ "Wapol": {
+  "debutChapter": 131,
+  "devilFruit": {
+   "chapter": 131,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Munch-Munch Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Evil Black Drum Kingdom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Wapol Konzern",
+    "chapter": 635,
+    "former": false
+   },
+   {
+    "value": "Drum Kingdom",
+    "chapter": 259,
+    "former": true
+   },
+   {
+    "value": "Bliking Pirates",
+    "chapter": 131,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Evil Black Drum Kingdom",
+  "needsResearch": true
+ },
+ "Who's-Who": {
+  "debutChapter": 977,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 1018,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 977,
+   "source": "debut",
+   "sectionHint": 1017,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Cat-Cat Fruit, Saber-Toothed Tiger Model"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Who's-Who Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "CP9",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Beasts Pirates",
+  "needsResearch": true
+ },
+ "Woop Slap": {
+  "debutChapter": 1,
+  "affiliationCandidates": [
+   {
+    "value": "Foosha Village",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Foosha Village",
+  "needsResearch": true
+ },
+ "Wyper": {
+  "debutChapter": 237,
+  "affiliationCandidates": [
+   {
+    "value": "Shandia",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "God's Guards",
+    "chapter": 648,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Shandia",
+  "needsResearch": true
+ },
+ "X Drake": {
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 990,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "devilFruit": {
+   "chapter": 498,
+   "source": "debut",
+   "sectionHint": null,
+   "types": [
+    "Ancient Zoan"
+   ],
+   "dfName": "Dragon-Dragon Fruit, Model: Allosaurus"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Drake Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Barrels Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Marines",
+  "needsResearch": true
+ },
+ "Yamato": {
+  "debutChapter": 971,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 996,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1024,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1059,
+    "source": "section"
+   }
+  ],
+  "devilFruit": {
+   "chapter": 971,
+   "source": "debut",
+   "sectionHint": 1020,
+   "types": [
+    "Mythical Zoan"
+   ],
+   "dfName": "Dog-Dog Fruit, Model: Okuchi-no-Makami"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Beasts Pirates",
+    "chapter": 994,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Wano Country",
+  "needsResearch": true
+ },
+ "Yasopp": {
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ],
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "Red Hair Pirates",
+  "needsResearch": true
+ },
+ "York": {
+  "debutChapter": 1065,
+  "affiliationCandidates": [
+   {
+    "value": "World Government",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "currentAffiliation": "World Government",
+  "needsResearch": true
+ },
+ "Yosaku": {
+  "debutChapter": 42,
+  "affiliationCandidates": [
+   {
+    "value": "Johnny",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roronoa Zoro's band",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Bounty Hunters",
+  "needsResearch": true
+ },
+ "Zala": {
+  "debutChapter": 155,
+  "devilFruit": {
+   "chapter": 155,
+   "source": "debut",
+   "sectionHint": 190,
+   "types": [
+    "Paramecia"
+   ],
+   "dfName": "Spike-Spike Fruit"
+  },
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 160,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Baroque Works",
+  "needsResearch": true
+ },
+ "Zambai": {
+  "debutChapter": 324,
+  "affiliationCandidates": [
+   {
+    "value": "Galley-La Company",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Franky Family",
+    "chapter": 657,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Galley-La Company",
+  "needsResearch": true
+ },
+ "Zeff": {
+  "debutChapter": 43,
+  "affiliationCandidates": [
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Cook Pirates",
+    "chapter": 48,
+    "former": true
+   }
+  ],
+  "currentAffiliation": "Baratie",
+  "needsResearch": true
+ }
+}

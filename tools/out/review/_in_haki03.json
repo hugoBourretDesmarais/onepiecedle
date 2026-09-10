@@ -1,0 +1,177 @@
+[
+ {
+  "character": "Ashura Doji",
+  "wikiPage": "Ashura Doji",
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Charlotte Cracker",
+  "wikiPage": "Charlotte Cracker",
+  "debutChapter": 835,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 784,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Dracule Mihawk",
+  "wikiPage": "Dracule Mihawk",
+  "debutChapter": 49,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Hyogoro",
+  "wikiPage": "Hyougoro",
+  "debutChapter": 926,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 939,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1044,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Kaidou",
+  "wikiPage": "Kaidou",
+  "debutChapter": 795,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 923,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 1009,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1009,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Kozuki Oden",
+  "wikiPage": "Kouzuki Oden",
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 924,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 955,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Morley",
+  "wikiPage": "Morley",
+  "debutChapter": 904,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Roronoa Zoro",
+  "wikiPage": "Roronoa Zoro",
+  "debutChapter": 3,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 650,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": 668,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1033,
+    "source": "section"
+   }
+  ]
+ },
+ {
+  "character": "Shimotsuki Ryuma",
+  "wikiPage": "Shimotsuki Ryuma",
+  "debutChapter": 1023,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Usopp",
+  "wikiPage": "Usopp",
+  "debutChapter": 23,
+  "haki": [
+   {
+    "value": "Observation",
+    "chapter": 758,
+    "source": "section"
+   }
+  ]
+ }
+]

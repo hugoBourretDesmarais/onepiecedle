@@ -4102,6 +4102,35 @@
   "wikiPage": "Vegapunk/Lilith"
  },
  {
+  "name": "Lindbergh",
+  "codename": null,
+  "aliases": [
+   "Lind"
+  ],
+  "gender": "Male",
+  "affiliation": "Revolutionary Army",
+  "dfTypes": [],
+  "dfName": null,
+  "haki": [
+   "Armament",
+   "Observation"
+  ],
+  "bounty": 316000000,
+  "bounties": [
+   {
+    "amount": 316000000,
+    "chapter": 918
+   }
+  ],
+  "heightCm": 149,
+  "origin": "South Blue",
+  "firstChapter": 904,
+  "firstEpisode": 880,
+  "firstArc": "Levely",
+  "portrait": "lindbergh.png",
+  "wikiPage": "Lindbergh"
+ },
+ {
   "name": "Loki",
   "codename": null,
   "aliases": [

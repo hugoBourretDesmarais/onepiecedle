@@ -96,6 +96,7 @@ def main():
     portraits = json.loads((OUT / "portraits.json").read_text())
     bounties = json.loads((OUT / "bounties.json").read_text())
     bounty_dates = json.loads((OUT / "bounty_dates.json").read_text())
+    history = json.loads((OUT / "history.json").read_text())
 
     arc_names = [a["name"] for a in arcs]
 
@@ -155,7 +156,7 @@ def main():
         # Newest first, as the wiki lists them. A missing chapter means we could
         # not work out when the reader learned the figure, so a spoiler-limited
         # board has to leave it out rather than risk showing it too early.
-        history = []
+        bounty_history = []
         for e in bounties.get(req, []):
             ch = e["chapter"]
             if ch is None:
@@ -169,9 +170,19 @@ def main():
                 problems.append(
                     f"{req}: undated bounty ฿{e['amount']:,} ({e.get('source') or 'no source'})"
                     " — hidden under a spoiler limit")
-            history.append({"amount": e["amount"], "chapter": ch})
-        if history and history[0]["amount"] != bounty:
-            problems.append(f"{req}: latest bounty {bounty} != history head {history[0]['amount']}")
+            bounty_history.append({"amount": e["amount"], "chapter": ch})
+        if bounty_history and bounty_history[0]["amount"] != bounty:
+            problems.append(
+                f"{req}: latest bounty {bounty} != history head {bounty_history[0]['amount']}")
+
+        # Everything else that changes as the story goes: affiliation, haki,
+        # devil fruit, height, portrait. merge_history.py assembles it.
+        hist = history.get(req, {})
+        if not hist.get("affiliation"):
+            problems.append(f"{req}: no affiliation timeline — card cannot rewind")
+        undated = len(pick("haki") or []) - len(hist.get("haki", []))
+        if undated > 0:
+            problems.append(f"{req}: {undated} haki type(s) undated — hidden under a limit")
 
         aliases = c.get("aliases", [])
         if d["name"] != req and d["name"] not in aliases:
@@ -195,7 +206,8 @@ def main():
             "dfName": pick("dfName"),
             "haki": haki,
             "bounty": bounty if bounty is None else int(bounty),
-            "bounties": history,
+            "bounties": bounty_history,
+            "history": hist,
             "heightCm": height,
             "origin": origin,
             "firstChapter": chapter,
@@ -204,6 +216,26 @@ def main():
             "portrait": portraits[req],
             "wikiPage": d["name"],
         })
+
+    # Crews a character only ever belonged to earlier in the story, so they
+    # never appear as anyone's current affiliation but are what a reader at that
+    # point would name them by. Without these the timelines have to reach for
+    # something anachronistic — X Drake's debut reading "Marines" gives away the
+    # cover he keeps for another 300 chapters.
+    historical_only = {
+        "CP9", "CP5", "Buggy Pirates", "Alvida Pirates", "Drake Pirates",
+        "Bellamy Pirates", "Rumbar Pirates", "Drum Kingdom", "Rebel Army",
+        "Kyoshiro Family", "Hyogoro Family", "Mt. Atama Thieves", "Underworld",
+        "Centaur Patrol Unit", "Twin Capes", "Kuja Tribe", "MADS",
+        "Bliking Pirates", "Charlotte Family", "Four Emperors",
+        "Vegapunk's Satellites",
+    }
+    vocabulary = {r["affiliation"] for r in final} | historical_only
+    for r in final:
+        for entry in r["history"].get("affiliation", []):
+            if entry["value"] not in vocabulary:
+                problems.append(f"{r['name']}: historical affiliation "
+                                f"{entry['value']!r} is outside the vocabulary")
 
     final.sort(key=lambda r: r["name"])
     (DATA / "characters.json").write_text(json.dumps(final, indent=1, ensure_ascii=False))

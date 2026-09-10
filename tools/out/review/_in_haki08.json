@@ -1,0 +1,167 @@
+[
+ {
+  "character": "Benn Beckman",
+  "wikiPage": "Benn Beckman",
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Charlotte Perospero",
+  "wikiPage": "Charlotte Perospero",
+  "debutChapter": 834,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Eustass Kid",
+  "wikiPage": "Eustass Kid",
+  "debutChapter": 498,
+  "haki": [
+   {
+    "value": "Conqueror",
+    "chapter": 924,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1043,
+    "source": "section"
+   },
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Jabra",
+  "wikiPage": "Jabra",
+  "debutChapter": 375,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Kawamatsu",
+  "wikiPage": "Kawamatsu",
+  "debutChapter": 920,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 948,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Lucky Roux",
+  "wikiPage": "Lucky Roux",
+  "debutChapter": 1,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Pekoms",
+  "wikiPage": "Pekoms",
+  "debutChapter": 651,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sasaki",
+  "wikiPage": "Sasaki",
+  "debutChapter": 977,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": null,
+    "source": null
+   },
+   {
+    "value": "Observation",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Sommers",
+  "wikiPage": "Shepherd Sommers",
+  "debutChapter": 1140,
+  "haki": [
+   {
+    "value": "Unknown",
+    "chapter": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "character": "Yamato",
+  "wikiPage": "Yamato",
+  "debutChapter": 971,
+  "haki": [
+   {
+    "value": "Armament",
+    "chapter": 996,
+    "source": "section"
+   },
+   {
+    "value": "Conqueror",
+    "chapter": 1024,
+    "source": "section"
+   },
+   {
+    "value": "Observation",
+    "chapter": 1059,
+    "source": "section"
+   }
+  ]
+ }
+]

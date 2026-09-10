@@ -1,0 +1,553 @@
+[
+ {
+  "character": "Alvida",
+  "wikiPage": "Alvida",
+  "debutChapter": 2,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Cross Guild",
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy Pirates",
+    "chapter": 1058,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": 803,
+    "former": true
+   },
+   {
+    "value": "Buggy and Alvida Alliance",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Alvida Pirates",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Slip-Slip Fruit",
+   "assumedRevealChapter": 2,
+   "sectionHint": 98
+  }
+ },
+ {
+  "character": "Belo Betty",
+  "wikiPage": "Belo Betty",
+  "debutChapter": 904,
+  "debutArc": "Levely",
+  "currentAffiliation": "Revolutionary Army",
+  "affiliationCandidates": [
+   {
+    "value": "Revolutionary Army",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Pump-Pump Fruit",
+   "assumedRevealChapter": 904,
+   "sectionHint": 904
+  }
+ },
+ {
+  "character": "Buggy",
+  "wikiPage": "Buggy",
+  "debutChapter": 9,
+  "debutArc": "Orange Town",
+  "currentAffiliation": "Cross Guild",
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Buggy's Delivery",
+    "chapter": 803,
+    "former": true
+   },
+   {
+    "value": "Buggy and Alvida Alliance",
+    "chapter": 54,
+    "former": true
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 700,
+    "former": true
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": 434,
+    "former": true
+   },
+   {
+    "value": "Impel Down",
+    "chapter": 525,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Chop-Chop Fruit",
+   "assumedRevealChapter": 9,
+   "sectionHint": 18
+  }
+ },
+ {
+  "character": "Charlotte Cracker",
+  "wikiPage": "Charlotte Cracker",
+  "debutChapter": 835,
+  "debutArc": "Whole Cake Island",
+  "currentAffiliation": "Big Mom Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Charlotte Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Big Mom Pirates",
+    "chapter": 835,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Bis-Bis Fruit",
+   "assumedRevealChapter": 835,
+   "sectionHint": 837
+  }
+ },
+ {
+  "character": "Conis",
+  "wikiPage": "Conis",
+  "debutChapter": 239,
+  "debutArc": "Skypiea",
+  "currentAffiliation": "Skypiea",
+  "affiliationCandidates": [
+   {
+    "value": "Pumpkin Cafe",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Dracule Mihawk",
+  "wikiPage": "Dracule Mihawk",
+  "debutChapter": 49,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Cross Guild",
+  "affiliationCandidates": [
+   {
+    "value": "Cross Guild",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Seven Warlords of the Sea",
+    "chapter": 69,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Fisher Tiger",
+  "wikiPage": "Fisher Tiger",
+  "debutChapter": 521,
+  "debutArc": "Amazon Lily",
+  "currentAffiliation": "Sun Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Sun Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Fish-Man District",
+    "chapter": 620,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Gladius",
+  "wikiPage": "Gladius",
+  "debutChapter": 682,
+  "debutArc": "Punk Hazard",
+  "currentAffiliation": "Donquixote Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Donquixote Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Pop-Pop Fruit",
+   "assumedRevealChapter": 682,
+   "sectionHint": null
+  }
+ },
+ {
+  "character": "Hogback",
+  "wikiPage": "Hogback",
+  "debutChapter": 446,
+  "debutArc": "Thriller Bark",
+  "currentAffiliation": "Thriller Bark Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Thriller Bark Pirates",
+    "chapter": 455,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Jango",
+  "wikiPage": "Jango",
+  "debutChapter": 25,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Marines",
+  "affiliationCandidates": [
+   {
+    "value": "Marines",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Black Cat Pirates",
+    "chapter": 28,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Karoo",
+  "wikiPage": "Karoo",
+  "debutChapter": 109,
+  "debutArc": "Whisky Peak",
+  "currentAffiliation": "Alabasta Kingdom",
+  "affiliationCandidates": [
+   {
+    "value": "Arabasta Kingdom Guard Squad , Straw Hat Pirates , Baroque Works",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kozuki Hiyori",
+  "wikiPage": "Kouzuki Hiyori",
+  "debutChapter": 909,
+  "debutArc": "Wano Country",
+  "currentAffiliation": "Kozuki Family",
+  "affiliationCandidates": [
+   {
+    "value": "Kouzuki Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": null,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Kuzan",
+  "wikiPage": "Kuzan",
+  "debutChapter": 303,
+  "debutArc": "Long Ring Long Land",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Marines",
+    "chapter": 650,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Logia"
+   ],
+   "name": "Ice-Ice Fruit (Chilly-Chilly Fruit)",
+   "assumedRevealChapter": 303,
+   "sectionHint": 319
+  }
+ },
+ {
+  "character": "Mikita",
+  "wikiPage": "Mikita",
+  "debutChapter": 110,
+  "debutArc": "Whisky Peak",
+  "currentAffiliation": "Baroque Works",
+  "affiliationCandidates": [
+   {
+    "value": "New Spiders Cafe",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Baroque Works",
+    "chapter": 110,
+    "former": true
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Kilo-Kilo Fruit",
+   "assumedRevealChapter": 110,
+   "sectionHint": 112
+  }
+ },
+ {
+  "character": "Namur",
+  "wikiPage": "Namur",
+  "debutChapter": 552,
+  "debutArc": "Marineford",
+  "currentAffiliation": "Whitebeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Whitebeard Pirates",
+    "chapter": null,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Otohime",
+  "wikiPage": "Otohime",
+  "debutChapter": 621,
+  "debutArc": "Fish-Man Island",
+  "currentAffiliation": "Neptune Family",
+  "affiliationCandidates": [
+   {
+    "value": "Neptune Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ryugu Kingdom",
+    "chapter": 621,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Piiman",
+  "wikiPage": "Piiman",
+  "debutChapter": 23,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Usopp Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Sai",
+  "wikiPage": "Sai",
+  "debutChapter": 704,
+  "debutArc": "Dressrosa",
+  "currentAffiliation": "Happo Navy",
+  "affiliationCandidates": [
+   {
+    "value": "Happo Navy",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Chinjao Family",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Straw Hat Grand Fleet",
+    "chapter": 800,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Shanks",
+  "wikiPage": "Shanks",
+  "debutChapter": 1,
+  "debutArc": "Romance Dawn",
+  "currentAffiliation": "Red Hair Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Red Hair Pirates",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Four Emperors",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Roger Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Knights of God",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "World Nobles",
+    "chapter": 1138,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Tamanegi",
+  "wikiPage": "Tamanegi",
+  "debutChapter": 23,
+  "debutArc": "Syrup Village",
+  "currentAffiliation": "Usopp Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Usopp Pirates",
+    "chapter": null,
+    "former": true
+   },
+   {
+    "value": "Usopp Security Force",
+    "chapter": 130,
+    "former": false
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Van Augur",
+  "wikiPage": "Van Augur",
+  "debutChapter": 222,
+  "debutArc": "Jaya",
+  "currentAffiliation": "Blackbeard Pirates",
+  "affiliationCandidates": [
+   {
+    "value": "Blackbeard Pirates",
+    "chapter": 234,
+    "former": false
+   }
+  ],
+  "devilFruit": {
+   "types": [
+    "Paramecia"
+   ],
+   "name": "Warp-Warp Fruit",
+   "assumedRevealChapter": 222,
+   "sectionHint": 1063
+  }
+ },
+ {
+  "character": "Wanda",
+  "wikiPage": "Wanda",
+  "debutChapter": 804,
+  "debutArc": "Zou",
+  "currentAffiliation": "Mokomo Dukedom",
+  "affiliationCandidates": [
+   {
+    "value": "Mokomo Dukedom",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Inuarashi Musketeer Squad",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Ninja-Pirate-Mink-Samurai Alliance",
+    "chapter": 809,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ },
+ {
+  "character": "Zeff",
+  "wikiPage": "Zeff",
+  "debutChapter": 43,
+  "debutArc": "Baratie",
+  "currentAffiliation": "Baratie",
+  "affiliationCandidates": [
+   {
+    "value": "Baratie",
+    "chapter": null,
+    "former": false
+   },
+   {
+    "value": "Cook Pirates",
+    "chapter": 48,
+    "former": true
+   }
+  ],
+  "devilFruit": null
+ }
+]

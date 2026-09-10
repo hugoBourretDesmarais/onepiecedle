@@ -278,6 +278,15 @@
     "raw": "At least {{B}}42,200,000{{Qref|name=vivre card}}"
    }
   ],
+  "Lindbergh": [
+   {
+    "amount": 316000000,
+    "chapter": null,
+    "source": "data=vivre card",
+    "struck": false,
+    "raw": "{{B}}316,000,000{{Qref|name=vivre card}}"
+   }
+  ],
   "Marco": [
    {
     "amount": 1374000000,

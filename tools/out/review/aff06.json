@@ -1,0 +1,206 @@
+{
+  "results": [
+    {
+      "character": "Ashura Doji",
+      "affiliationTimeline": [
+        {"value": "Nine Red Scabbards", "chapter": 920}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts inside Oden's flashback as a retainer; that he is also the bandit Shutenmaru of the Mt. Atama Thieves comes out in ch. 924-925."
+    },
+    {
+      "character": "Bepo",
+      "affiliationTimeline": [
+        {"value": "Heart Pirates", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Capone Bege",
+      "affiliationTimeline": [
+        {"value": "Fire Tank Pirates", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": 507,
+      "confidence": "high",
+      "note": "Named as a Supernova captain in ch. 498; the castle-body power is first shown in ch. 507-508."
+    },
+    {
+      "character": "Charlotte Linlin",
+      "affiliationTimeline": [
+        {"value": "Big Mom Pirates", "chapter": 651}
+      ],
+      "devilFruitRevealChapter": 829,
+      "confidence": "high",
+      "note": "First on-panel use of the Soul-Soul Fruit is taking 40 years of Moscato's lifespan in ch. 829."
+    },
+    {
+      "character": "Curly Dadan",
+      "affiliationTimeline": [
+        {"value": "Dadan Family", "chapter": 440}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Only name-dropped in ch. 440; she is actually seen and shown leading the Dadan Family in ch. 568."
+    },
+    {
+      "character": "Edward Newgate",
+      "affiliationTimeline": [
+        {"value": "Whitebeard Pirates", "chapter": 159}
+      ],
+      "devilFruitRevealChapter": 552,
+      "confidence": "high",
+      "note": "Tremor-Tremor Fruit stays unseen until he cracks the air at Marineford in ch. 552."
+    },
+    {
+      "character": "Fukaboshi",
+      "affiliationTimeline": [
+        {"value": "Neptune Family", "chapter": 609}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Gunko",
+      "affiliationTimeline": [
+        {"value": "Knights of God", "chapter": 1134}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Arrow power is used one chapter after her debut (ch. 1135), close enough to treat as debut."
+    },
+    {
+      "character": "Igaram",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 110},
+        {"value": "Baroque Works", "chapter": 106}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Mr. 5 exposes him as Alabasta's royal guard captain in ch. 110."
+    },
+    {
+      "character": "Jewelry Bonney",
+      "affiliationTimeline": [
+        {"value": "Bonney Pirates", "chapter": 498}
+      ],
+      "devilFruitRevealChapter": 507,
+      "confidence": "high",
+      "note": "She ages a group of Marines in ch. 507, the first sign of the Age-Age Fruit."
+    },
+    {
+      "character": "Kikunojo",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 913}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "Debuts publicly as tea house girl 'Okiku'; her Kozuki retainer status is confirmed in ch. 919."
+    },
+    {
+      "character": "Kozuki Toki",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 919}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Kin'emon explains the Time-Time Fruit in ch. 920, one chapter after she is first referenced."
+    },
+    {
+      "character": "Leo",
+      "affiliationTimeline": [
+        {"value": "Tontatta Pirates", "chapter": 710}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Sew-Sew power shown in ch. 711, immediately after debut."
+    },
+    {
+      "character": "Monkey D. Garp",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 92}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Nefertari Vivi",
+      "affiliationTimeline": [
+        {"value": "Alabasta Kingdom", "chapter": 110},
+        {"value": "Baroque Works", "chapter": 103}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "Debuts as Miss Wednesday; unmasked as the Alabasta princess in ch. 110, then rides with the Straw Hats until ch. 216."
+    },
+    {
+      "character": "Patty",
+      "affiliationTimeline": [
+        {"value": "Baratie", "chapter": 44}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Queen",
+      "affiliationTimeline": [
+        {"value": "Beasts Pirates", "chapter": 920}
+      ],
+      "devilFruitRevealChapter": 945,
+      "confidence": "high",
+      "note": "First brachiosaurus transformation is in ch. 945, facing Big Mom at Udon."
+    },
+    {
+      "character": "Sanjuan Wolf",
+      "affiliationTimeline": [
+        {"value": "Blackbeard Pirates", "chapter": 575}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "medium",
+      "note": "His colossal size is visible at debut, but the Huge-Huge Fruit itself is only named in the Vivre Card databook, never in the manga."
+    },
+    {
+      "character": "Shinobu",
+      "affiliationTimeline": [
+        {"value": "Kozuki Family", "chapter": 921}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high",
+      "note": "First rot power use is ch. 924, three chapters after debut."
+    },
+    {
+      "character": "Tom",
+      "affiliationTimeline": [
+        {"value": "Tom's Workers", "chapter": 352}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    },
+    {
+      "character": "Vegapunk",
+      "affiliationTimeline": [
+        {"value": "Marines", "chapter": 684}
+      ],
+      "devilFruitRevealChapter": 1067,
+      "confidence": "high",
+      "note": "Brain-Brain Fruit is only revealed on Egghead in ch. 1067, hundreds of chapters after he is first discussed."
+    },
+    {
+      "character": "Woop Slap",
+      "affiliationTimeline": [
+        {"value": "Foosha Village", "chapter": 1}
+      ],
+      "devilFruitRevealChapter": null,
+      "confidence": "high"
+    }
+  ],
+  "vocabularyProblems": [
+    {
+      "character": "Ashura Doji",
+      "wanted": "Mt. Atama Thieves",
+      "used": "Nine Red Scabbards",
+      "reason": "Between ch. 916 and 925 he is publicly the bandit chief Shutenmaru of the Mt. Atama Thieves, which has no vocabulary value; collapsed into his Scabbard identity instead."
+    }
+  ]
+}
